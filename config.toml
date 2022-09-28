@@ -182,7 +182,7 @@ enableEmoji = true
   # footer
   relativeURLs = false
   websiteterms = "https://partigabor.github.io/spice/pages/terms"
-  privacypolicy = "/pages/privacy"
+  privacypolicy = "https://partigabor.github.io/spice/pages/privacy"
   author = "Gábor Parti"
   copystart = "2020" 
 
