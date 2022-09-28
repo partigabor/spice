@@ -3,7 +3,7 @@
 googleAnalytics = "G-KGQLK32HSG"
 
 # Setup
-baseURL = "https://partigabor.github.io/psst/"
+baseURL = "https://partigabor.github.io/spice/"
 title = "Spices & Spice Terminology Database"
 languageCode = "en-us"
 defaultContentLanguage = 'en'

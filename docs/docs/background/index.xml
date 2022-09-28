@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Background on Spices &amp; Spice Terminology Database</title>
-    <link>https://partigabor.github.io/psst/docs/background/</link>
+    <link>https://partigabor.github.io/spice/docs/background/</link>
     <description>Recent content in Background on Spices &amp; Spice Terminology Database</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright</copyright><atom:link href="https://partigabor.github.io/psst/docs/background/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright</copyright><atom:link href="https://partigabor.github.io/spice/docs/background/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
