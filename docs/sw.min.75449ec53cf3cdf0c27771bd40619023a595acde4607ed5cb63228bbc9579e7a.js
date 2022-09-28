@@ -1,1 +1,1 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/psst/sw.js",{scope:"/"})
+navigator.serviceWorker&&navigator.serviceWorker.register("/spice/sw.js",{scope:"/"})
