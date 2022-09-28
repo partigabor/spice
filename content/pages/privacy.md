@@ -10,4 +10,4 @@ weight: 9
 # series: [Spice]
 ---
 
-Privacy
+Privacy statement

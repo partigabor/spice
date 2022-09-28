@@ -180,7 +180,6 @@ enableEmoji = true
   # manually added
 [params.mysite]
   # footer
-  relativeURLs = false
   websiteterms = "https://partigabor.github.io/spice/pages/terms"
   privacypolicy = "https://partigabor.github.io/spice/pages/privacy"
   author = "Gábor Parti"
