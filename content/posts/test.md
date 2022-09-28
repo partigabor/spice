@@ -84,25 +84,7 @@ I have more [^1] to say.
 ![PolyU](/images/univ-transparent.png)
 
 
-===============
-
-+++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-
-aliases = ["migrate-from-jekyl"]
-+++
+***
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
@@ -249,6 +231,56 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
+# SHORTCODES
+
+# Buttons
+
+Buttons are styled links that can lead to local page or external link.
+
+## Example
+
+```tpl
+{{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}
+{{</* button href="https://github.com/alex-shpak/hugo-book" */>}}Contribute{{</* /button */>}}
+```
+
+{{< button relref="/" >}}Get Home{{< /button >}}
+{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+
+# Hints
+
+Hint shortcode can be used as hint/alerts/notification block.  
+There are 3 colors to choose: `info`, `warning` and `danger`.
+
+```tpl
+{{</* hint [info|warning|danger] */>}}
+**Markdown content**  
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+{{</* /hint */>}}
+```
+
+## Example
+
+{{< hint info >}}
+**Markdown content**  
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+{{< /hint >}}
+
+{{< hint warning >}}
+**Markdown content**  
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+{{< /hint >}}
+
+{{< hint danger >}}
+**Markdown content**  
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+{{< /hint >}}
+
+
 # KaTeX
 
 KaTeX shortcode let you render math typesetting in markdown document. See [KaTeX](https://katex.org/)
@@ -276,17 +308,119 @@ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
 Text continues here.
 
+# Details
 
-# Buttons
+Details shortcode is a helper for `details` html5 element. It is going to replace `expand` shortcode.
 
-Buttons are styled links that can lead to local page or external link.
+## Example
+```tpl
+{{</* details "Title" [open] */>}}
+## Markdown content
+Lorem markdownum insigne...
+{{</* /details */>}}
+```
+```tpl
+{{</* details title="Title" open=true */>}}
+## Markdown content
+Lorem markdownum insigne...
+{{</* /details */>}}
+```
+
+{{< details "Title" open >}}
+## Markdown content
+Lorem markdownum insigne...
+{{< /details >}}
+
+
+
+# Tabs
+
+Tabs let you organize content by context, for example installation instructions for each supported platform.
+
+```tpl
+{{</* tabs "uniqueid" */>}}
+{{</* tab "MacOS" */>}} # MacOS Content {{</* /tab */>}}
+{{</* tab "Linux" */>}} # Linux Content {{</* /tab */>}}
+{{</* tab "Windows" */>}} # Windows Content {{</* /tab */>}}
+{{</* /tabs */>}}
+```
 
 ## Example
 
+{{< tabs "uniqueid" >}}
+{{< tab "MacOS" >}}
+# MacOS
+
+This is tab **MacOS** content.
+
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
+Miseratus fonte Ditis conubia.
+{{< /tab >}}
+
+{{< tab "Linux" >}}
+
+# Linux
+
+This is tab **Linux** content.
+
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
+Miseratus fonte Ditis conubia.
+{{< /tab >}}
+
+{{< tab "Windows" >}}
+
+# Windows
+
+This is tab **Windows** content.
+
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
+Miseratus fonte Ditis conubia.
+{{< /tab >}}
+{{< /tabs >}}
+
+
+# Mermaid Chart
+
+[MermaidJS](https://mermaid-js.github.io/) is library for generating svg charts and diagrams from text.
+
+{{< hint info >}}
+**Override Mermaid Initialization Config**
+
+To override the [initialization config](https://mermaid-js.github.io/mermaid/#/Setup) for Mermaid,
+create a `mermaid.json` file in your `assets` folder!
+{{< /hint >}}
+
+## Example
+
+
 ```tpl
-{{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}
-{{</* button href="https://github.com/alex-shpak/hugo-book" */>}}Contribute{{</* /button */>}}
+{{</* mermaid [class="text-center"]*/>}}
+stateDiagram-v2
+    State1: The state with a note
+    note right of State1
+        Important information! You can write
+        notes.
+    end note
+    State1 --> State2
+    note left of State2 : This is the note to the left.
+{{</* /mermaid */>}}
 ```
 
-{{< button relref="/" >}}Get Home{{< /button >}}
-{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+
+{{< mermaid >}}
+stateDiagram-v2
+    State1: The state with a note
+    note right of State1
+        Important information! You can write
+        notes.
+    end note
+    State1 --> State2
+    note left of State2 : This is the note to the left.
+{{< /mermaid >}}
+

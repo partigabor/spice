@@ -98,23 +98,7 @@
 &lt;/h1&gt;
 &lt;p&gt;
   &lt;img src=&#34;https://partigabor.github.io/spice/images/univ-transparent.png&#34; alt=&#34;PolyU&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;===============&lt;/p&gt;
-&lt;p&gt;+++
-author = &amp;ldquo;Hugo Authors&amp;rdquo;
-title = &amp;ldquo;Markdown Syntax Guide&amp;rdquo;
-date = &amp;ldquo;2019-03-11&amp;rdquo;
-description = &amp;ldquo;Sample article showcasing basic Markdown syntax and formatting for HTML elements.&amp;rdquo;
-tags = [
-&amp;ldquo;markdown&amp;rdquo;,
-&amp;ldquo;css&amp;rdquo;,
-&amp;ldquo;html&amp;rdquo;,
-]
-categories = [
-&amp;ldquo;themes&amp;rdquo;,
-&amp;ldquo;syntax&amp;rdquo;,
-]&lt;/p&gt;
-&lt;p&gt;aliases = [&amp;ldquo;migrate-from-jekyl&amp;rdquo;]
-+++&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
