@@ -1,6 +1,6 @@
 ---
 title: Testing
-bookHidden: true
+bookHidden: false
 ---
 
 # Emphasis
