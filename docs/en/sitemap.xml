@@ -6,7 +6,7 @@
     <lastmod>2022-09-28T14:09:23+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/docs/spices/allspice/</loc>
-    <lastmod>2022-09-28T12:57:31+08:00</lastmod>
+    <lastmod>2022-09-28T14:59:59+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/docs/spices/anise/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
@@ -96,6 +96,10 @@
     <loc>https://partigabor.github.io/spice/docs/spices/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
   </url><url>
+    <loc>https://partigabor.github.io/spice/pages/privacy/</loc>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/pages/terms/</loc>
+  </url><url>
     <loc>https://partigabor.github.io/spice/posts/two/</loc>
     <lastmod>2022-09-28T13:57:12+08:00</lastmod>
   </url><url>
@@ -162,7 +166,7 @@
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/docs/</loc>
-    <lastmod>2022-09-28T12:57:31+08:00</lastmod>
+    <lastmod>2022-09-28T14:59:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -186,5 +190,7 @@
                 hreflang="en"
                 href="https://partigabor.github.io/spice/"
                 />
+  </url><url>
+    <loc>https://partigabor.github.io/spice/pages/</loc>
   </url>
 </urlset>

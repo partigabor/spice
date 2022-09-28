@@ -89,10 +89,10 @@ enableEmoji = true
 [menu]
 # [[menu.before]]
 
-# [[menu.after]]
-#   name = "Creator"
-#   url = "https://partigabor.github.io/"
-#   weight = 20
+[[menu.after]]
+  name = "Creator"
+  url = "https://partigabor.github.io/"
+  weight = 20
 
 # [[menu.after]]
 #   name = "GitHub"
@@ -176,6 +176,15 @@ enableEmoji = true
   # custom_css = ["css/custom_style.css"]  #under [params]
 
   favicon = "/images/favicon.ico"  
+
+  # manually added
+[params.mysite]
+  # footer
+  relativeURLs = false
+  websiteterms = "https://partigabor.github.io/spice/pages/terms"
+  privacypolicy = "/pages/privacy"
+  author = "Gábor Parti"
+  copystart = "2020" 
 
   # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
