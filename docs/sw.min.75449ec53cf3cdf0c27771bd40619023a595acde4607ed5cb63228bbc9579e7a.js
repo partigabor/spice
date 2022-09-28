@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/psst/sw.js",{scope:"/"})

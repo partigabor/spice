@@ -1,0 +1,26 @@
+Colab:
+
+bg1 = #272822
+bg2 = #383838
+t1 = #d4d4d4
+t2 = #9c9e9e
+lime = #a6e22e
+orange = #fd971f
+magenta = #f92672
+blue = #66d9ef
+yellow = #e6db74
+purple = #ae81ff
+
+
+
+Spotify:
+
+background = #121212
+menubar = #181818
+topgrad = #404040
+bottomgrad = #282828
+primarytext = #FFFFFF
+secondarytext = #818181
+PolyU = #8f1329
+PolyUcomp = #138f79
+MidnightBlue = #006795
