@@ -1,7 +1,18 @@
----
-title: Testing
-bookHidden: false
----
++++
+title = "Testing"
+date = "2022-09-27"
+author = "Gábor Parti"
+weight = 1
+description = ""
+tags = [
+    "markdown",
+    "syntax",
+]
+categories = [
+    "technical",
+]
+menu = "main"
++++
 
 # Emphasis
 

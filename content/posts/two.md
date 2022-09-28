@@ -2,7 +2,7 @@
 title = "Two"
 date = "2022-09-09"
 author = "Gabor Parti"
-weight = 12
+weight = 11
 description = ""
 tags = [
     "spice",

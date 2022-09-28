@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>technical</title>
+      <link>https://partigabor.github.io/spice/categories/technical/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/categories/technical/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>discussion</title>
       <link>https://partigabor.github.io/spice/categories/discussion/</link>

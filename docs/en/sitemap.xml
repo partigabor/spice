@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://partigabor.github.io/spice/posts/test/</loc>
+    <lastmod>2022-09-28T13:52:48+08:00</lastmod>
+  </url><url>
     <loc>https://partigabor.github.io/spice/docs/spices/allspice/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
   </url><url>
@@ -93,14 +96,14 @@
     <loc>https://partigabor.github.io/spice/docs/spices/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
   </url><url>
-    <loc>https://partigabor.github.io/spice/posts/one/</loc>
-    <lastmod>2022-09-28T12:57:31+08:00</lastmod>
-  </url><url>
     <loc>https://partigabor.github.io/spice/posts/two/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
   </url><url>
-    <loc>https://partigabor.github.io/spice/categories/</loc>
+    <loc>https://partigabor.github.io/spice/posts/one/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/categories/</loc>
+    <lastmod>2022-09-28T13:52:48+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -111,6 +114,28 @@
                 hreflang="en"
                 href="https://partigabor.github.io/spice/categories/"
                 />
+  </url><url>
+    <loc>https://partigabor.github.io/spice/tags/markdown/</loc>
+    <lastmod>2022-09-28T13:52:48+08:00</lastmod>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/tags/syntax/</loc>
+    <lastmod>2022-09-28T13:52:48+08:00</lastmod>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/tags/</loc>
+    <lastmod>2022-09-28T13:52:48+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://partigabor.github.io/spice/hu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://partigabor.github.io/spice/tags/"
+                />
+  </url><url>
+    <loc>https://partigabor.github.io/spice/categories/technical/</loc>
+    <lastmod>2022-09-28T13:52:48+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/categories/discussion/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
@@ -123,19 +148,6 @@
   </url><url>
     <loc>https://partigabor.github.io/spice/tags/spice/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
-  </url><url>
-    <loc>https://partigabor.github.io/spice/tags/</loc>
-    <lastmod>2022-09-28T12:57:31+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://partigabor.github.io/spice/hu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://partigabor.github.io/spice/tags/"
-                />
   </url><url>
     <loc>https://partigabor.github.io/spice/docs/section/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
@@ -174,7 +186,5 @@
                 hreflang="en"
                 href="https://partigabor.github.io/spice/"
                 />
-  </url><url>
-    <loc>https://partigabor.github.io/spice/posts/test/</loc>
   </url>
 </urlset>

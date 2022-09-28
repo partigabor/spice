@@ -8,27 +8,9 @@
     <language>en-us</language>
     <copyright>Copyright</copyright><atom:link href="https://partigabor.github.io/spice/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>One</title>
-      <link>https://partigabor.github.io/spice/posts/one/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/posts/one/</guid>
-      <description>Lorem ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Two</title>
-      <link>https://partigabor.github.io/spice/posts/two/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/posts/two/</guid>
-      <description>Lorem ipsum.</description>
-    </item>
-    
-    <item>
       <title>Testing</title>
       <link>https://partigabor.github.io/spice/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/posts/test/</guid>
       <description>&lt;h1 id=&#34;emphasis&#34;&gt;
@@ -134,6 +116,24 @@ categories = [
 &lt;p&gt;aliases = [&amp;ldquo;migrate-from-jekyl&amp;rdquo;]
 +++&lt;/p&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>https://partigabor.github.io/spice/posts/two/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/posts/two/</guid>
+      <description>Lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://partigabor.github.io/spice/posts/one/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/posts/one/</guid>
+      <description>Lorem ipsum.</description>
     </item>
     
   </channel>
