@@ -7,7 +7,7 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
-categories: ["spices"]
+# series: [Spice]
 ---
 
 # Allspice
