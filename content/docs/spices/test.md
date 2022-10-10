@@ -3,7 +3,7 @@ title: Allspice
 weight: 1
 # bookFlatSection: false
 # bookToc: true
-# bookHidden: false
+bookHidden: True
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false

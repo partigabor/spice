@@ -9,12 +9,27 @@
     <copyright>Copyright</copyright>
     <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
+      <title>Markdown Syntax Testing</title>
       <link>https://partigabor.github.io/spice/posts/test/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/posts/test/</guid>
-      <description>&lt;h1 id=&#34;emphasis&#34;&gt;
+      <description>&lt;!-- linktitle: One
+menu:
+  main:
+    parent: Posts
+next: /content/posts/two
+prev: /content/posts/zero
+bookComments: false
+bookSearchExclude: false --&gt;
+&lt;p&gt;Lorem ipsum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;img src=&#34;https://partigabor.github.io/spice/static/images/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;
+
+  &lt;img src=&#34;https://partigabor.github.io/spice/images/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;
+
+  &lt;img src=&#34;https://partigabor.github.io/spice/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;emphasis&#34;&gt;
   Emphasis
   &lt;a class=&#34;anchor&#34; href=&#34;#emphasis&#34;&gt;#&lt;/a&gt;
 &lt;/h1&gt;

@@ -1,5 +1,5 @@
 ---
-title: Discussions
+title: Posts
 menu:
   after:
     name: blog

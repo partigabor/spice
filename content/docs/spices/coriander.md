@@ -7,7 +7,7 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
-# series: [Spice; Herb]
+categories: ["spices", "herbs"]
 ---
 
 # Coriander

@@ -1,18 +1,33 @@
 +++
-title = "Testing"
+title = "Markdown Syntax Testing"
 date = "2022-09-27"
 author = "Gábor Parti"
-weight = 1
-description = ""
+weight = 11
+description = "Description."
+categories = [
+    "technical",
+]
 tags = [
     "markdown",
     "syntax",
 ]
-categories = [
-    "technical",
-]
 menu = "main"
 +++
+
+<!-- linktitle: One
+menu:
+  main:
+    parent: Posts
+next: /content/posts/two
+prev: /content/posts/zero
+bookComments: false
+bookSearchExclude: false -->
+
+Lorem ipsum.
+
+![Diogenes](/static/images/diogenes.jpg)
+![Diogenes](/images/diogenes.jpg)
+![Diogenes](/diogenes.jpg)
 
 # Emphasis
 
