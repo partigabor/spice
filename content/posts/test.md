@@ -112,7 +112,7 @@ Todo lists can be written by using the standard Markdown syntax:
 
 [Scroll down to a page section with heading *Figures*](test#figures)
 
-## Link to a file?
+## Link to a file???
 
 I have more [^9] to say.
 
@@ -207,9 +207,23 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
-
-
 # SHORTCODES
+
+
+
+## Columns
+{{< columns >}}
+## One
+
+This is one.
+
+<--->
+
+## Two
+
+This is two.
+
+{{< /columns >}}
 
 # Buttons
 
