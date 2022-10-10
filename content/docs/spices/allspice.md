@@ -11,6 +11,7 @@ weight: 1
 ---
 
 # Allspice
+
 ## Overview
 
 |   id  |          allspice         |
@@ -18,24 +19,4 @@ weight: 1
 |species|*Pimenta dioica* (L.) Merr.|
 | family|         Myrtaceae         |
 
-## Names
-
-{{< tabs "allspice" >}}
-{{< tab "English" >}}
-
-allspice
-
-{{< /tab >}}
-
-{{< tab "Arabic" >}}
-
-فلفل إفرنجي
-
-{{< /tab >}}
-
-{{< tab "Chinese" >}}
-
-多香果
-
-{{< /tab >}}
-{{< /tabs >}}
+ ## Names
