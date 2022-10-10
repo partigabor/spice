@@ -10,4 +10,6 @@ weight: 9
 # series: [Spice]
 ---
 
-Privacy statement
+# Privacy statement
+
+Traffic on this website is tracked by the creator using Google Analytics out of curiosity of what people click on. 
