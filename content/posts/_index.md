@@ -1,13 +1,14 @@
 ---
 title: Posts
 menu:
-  after:
+  # after:
     name: blog
-    weight: 10
-# bookFlatSection: true
+    weight: 50
+bookFlatSection: true
 # bookToc: true
 # bookHidden: true
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
 ---
+

@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://partigabor.github.io/spice/docs/spices/allspice/</loc>
-    <lastmod>2022-10-10T12:55:08+08:00</lastmod>
+    <lastmod>2022-10-10T20:11:19+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/docs/spices/test/</loc>
-    <lastmod>2022-10-10T12:55:08+08:00</lastmod>
+    <lastmod>2022-10-10T20:11:19+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/docs/spices/anise/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
@@ -96,9 +96,6 @@
     <loc>https://partigabor.github.io/spice/docs/spices/</loc>
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
   </url><url>
-    <loc>https://partigabor.github.io/spice/pages/cite/</loc>
-    <lastmod>2022-10-10T14:14:10+08:00</lastmod>
-  </url><url>
     <loc>https://partigabor.github.io/spice/pages/privacy/</loc>
     <lastmod>2022-10-10T14:10:38+08:00</lastmod>
   </url><url>
@@ -107,6 +104,8 @@
   </url><url>
     <loc>https://partigabor.github.io/spice/posts/test/</loc>
     <lastmod>2022-10-10T13:38:26+08:00</lastmod>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/docs/cite/</loc>
   </url><url>
     <loc>https://partigabor.github.io/spice/categories/</loc>
     <lastmod>2022-10-10T13:38:26+08:00</lastmod>
@@ -153,7 +152,7 @@
     <lastmod>2022-09-28T12:57:31+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/docs/</loc>
-    <lastmod>2022-10-10T12:55:08+08:00</lastmod>
+    <lastmod>2022-10-10T20:11:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -182,7 +181,7 @@
                 />
   </url><url>
     <loc>https://partigabor.github.io/spice/pages/</loc>
-    <lastmod>2022-10-10T14:14:10+08:00</lastmod>
+    <lastmod>2022-10-10T14:10:38+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/posts/</loc>
     <lastmod>2022-10-10T12:55:08+08:00</lastmod>

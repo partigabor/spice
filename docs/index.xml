@@ -244,15 +244,6 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
     </item>
     
     <item>
-      <title>Cite</title>
-      <link>https://partigabor.github.io/spice/pages/cite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/pages/cite/</guid>
-      <description>How to cite#</description>
-    </item>
-    
-    <item>
       <title>Privacy</title>
       <link>https://partigabor.github.io/spice/pages/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -323,6 +314,15 @@ bookSearchExclude: false --&gt;
 &lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Strikethrough with &lt;del&gt;two tildes&lt;/del&gt;.&lt;/p&gt;
 &lt;!-- Use this line below to create and expandable... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cite</title>
+      <link>https://partigabor.github.io/spice/docs/cite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/docs/cite/</guid>
+      <description>How to Cite?#</description>
     </item>
     
     <item>

@@ -94,11 +94,6 @@ enableEmoji = true
   url = "https://partigabor.github.io/"
   weight = 20
 
-[[menu.after]]
-  name = "Cite"
-  url = "https://partigabor.github.io/spice/pages/cite"
-  weight = 20
-
 # [[menu.after]]
 #   name = "GitHub"
 #   url = "https://github.com/partigabor"
