@@ -23,15 +23,9 @@ prev: /content/posts/zero
 bookComments: false
 bookSearchExclude: false -->
 
-Lorem ipsum.
-
-![Diogenes](/images/diogenes.jpg)
-
 # Emphasis
 
-## Bold, Italic, Strikethrough
-
-Italics with _underscores_.
+Italics with _underscores_. 
 
 Bold with **asterisks**.
 
@@ -39,17 +33,11 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough with ~~two tildes~~.
 
-Italics with underscores.
+> This is a blockquote with a >.
 
-Bold with asterisks.
+    This is a blockquote with a tab.
 
-Combined emphasis with asterisks and underscores.
-
-Strikethrough with two tildes.
-
-> This is a blockquote.
-
-    This is a blockquote.
+<!--more-->
 
 # Lists
 
@@ -58,7 +46,6 @@ Strikethrough with two tildes.
 1. First item
    1. A sub-item
 2. Another item
-
 
 ## Unordered
 
@@ -78,13 +65,11 @@ Todo lists can be written by using the standard Markdown syntax:
 
 ## Link to a page
 
-[I'm an external link](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html)
+[An external link](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html)
 
-<!-- [Intro]({{< relref "/docs/introduction" >}})  -->
 [A relative link from one post to another post]({{< relref "docs/introduction" >}})
-<!-- [Scroll down to a page section with heading *Hi*](#hi) -->
 
-You can also create a button link in the page header of any page except Widget Pages (the homepage).
+[Scroll down to a page section with heading *Figures*](test#figures)
 
 ## Link to a file
 
@@ -92,15 +77,14 @@ I have more [^1] to say.
 
 [^1]: Footnote example.
 
-# Figures
+# Figures 
 
 ![PolyU](/images/univ-transparent.png)
 
-
+Horizontal line using `***`
 ***
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
 
 ## Headings
 

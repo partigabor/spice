@@ -21,99 +21,19 @@ next: /content/posts/two
 prev: /content/posts/zero
 bookComments: false
 bookSearchExclude: false --&gt;
-&lt;p&gt;Lorem ipsum.&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&#34;https://partigabor.github.io/spice/images/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;emphasis&#34;&gt;
   Emphasis
   &lt;a class=&#34;anchor&#34; href=&#34;#emphasis&#34;&gt;#&lt;/a&gt;
 &lt;/h1&gt;
-&lt;h2 id=&#34;bold-italic-strikethrough&#34;&gt;
-  Bold, Italic, Strikethrough
-  &lt;a class=&#34;anchor&#34; href=&#34;#bold-italic-strikethrough&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
 &lt;p&gt;Italics with &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Bold with &lt;strong&gt;asterisks&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Strikethrough with &lt;del&gt;two tildes&lt;/del&gt;.&lt;/p&gt;
-&lt;p&gt;Italics with underscores.&lt;/p&gt;
-&lt;p&gt;Bold with asterisks.&lt;/p&gt;
-&lt;p&gt;Combined emphasis with asterisks and underscores.&lt;/p&gt;
-&lt;p&gt;Strikethrough with two tildes.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is a blockquote.&lt;/p&gt;
+&lt;p&gt;This is a blockquote with a &amp;gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;pre&gt;&lt;code&gt;This is a blockquote.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;lists&#34;&gt;
-  Lists
-  &lt;a class=&#34;anchor&#34; href=&#34;#lists&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;h2 id=&#34;ordered&#34;&gt;
-  Ordered
-  &lt;a class=&#34;anchor&#34; href=&#34;#ordered&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;First item
-&lt;ol&gt;
-&lt;li&gt;A sub-item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;unordered&#34;&gt;
-  Unordered
-  &lt;a class=&#34;anchor&#34; href=&#34;#unordered&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;First item
-&lt;ul&gt;
-&lt;li&gt;A sub-item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;todo&#34;&gt;
-  Todo
-  &lt;a class=&#34;anchor&#34; href=&#34;#todo&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;Todo lists can be written by using the standard Markdown syntax:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;links&#34;&gt;
-  Links
-  &lt;a class=&#34;anchor&#34; href=&#34;#links&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;h2 id=&#34;link-to-a-page&#34;&gt;
-  Link to a page
-  &lt;a class=&#34;anchor&#34; href=&#34;#link-to-a-page&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a href=&#34;https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html&#34;&gt;I&amp;rsquo;m an external link&lt;/a&gt;&lt;/p&gt;
-&lt;!-- [Intro](/spice/docs/introduction/)  --&gt;
-&lt;p&gt;
-  &lt;a href=&#34;https://partigabor.github.io/spice/spice/docs/introduction/&#34;&gt;A relative link from one post to another post&lt;/a&gt;&lt;/p&gt;
-&lt;!-- [Scroll down to a page section with heading *Hi*](#hi) --&gt;
-&lt;p&gt;You can also create a button link in the page header of any page except Widget Pages (the homepage).&lt;/p&gt;
-&lt;h2 id=&#34;link-to-a-file&#34;&gt;
-  Link to a file
-  &lt;a class=&#34;anchor&#34; href=&#34;#link-to-a-file&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;I have more &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to say.&lt;/p&gt;
-&lt;h1 id=&#34;figures&#34;&gt;
-  Figures
-  &lt;a class=&#34;anchor&#34; href=&#34;#figures&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;
-  &lt;img src=&#34;https://partigabor.github.io/spice/images/univ-transparent.png&#34; alt=&#34;PolyU&#34; /&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+&lt;pre&gt;&lt;code&gt;This is a blockquote with a tab.
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>

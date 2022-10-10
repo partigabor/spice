@@ -10,14 +10,14 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://partigabor.github.io/spice/posts/test/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-09-27T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-10-10T12:55:08+08:00" />
+<meta property="article:modified_time" content="2022-10-10T12:57:33+08:00" />
 
 <title>Markdown Syntax Testing | Spices &amp; Spice Terminology Database</title>
 <link rel="manifest" href="/spice/manifest.json">
 <link rel="icon" href="/spice/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/spice/book.min.6e28f7d7770f3f5222d556683c1bfd69b44c28c7520fbe36ba4cd3d65743fbf5.css" integrity="sha256-bij313cPP1Ii1VZoPBv9abRMKMdSD742ukzT1ldD&#43;/U=" crossorigin="anonymous">
   <script defer src="/spice/flexsearch.min.js"></script>
-  <script defer src="/spice/en.search.min.c58cd15625c851a3755f0805e6b1ad1ebad673e0ebbe5a0d47aaf3933615a1c0.js" integrity="sha256-xYzRViXIUaN1XwgF5rGtHrrWc&#43;DrvloNR6rzkzYVocA=" crossorigin="anonymous"></script>
+  <script defer src="/spice/en.search.min.c208413b9c86f3e91af5ef7001b210229b2055a76b9bbad2dad7b747d8a5e263.js" integrity="sha256-wghBO5yG8&#43;ka9e9wAbIQIpsgVadrm7rS2te3R9il4mM=" crossorigin="anonymous"></script>
 
   <script defer src="/spice/sw.min.b71ecd5d3fe13baf6a836c0c2d2f56972a17d6e7eb27601e6da6014403bee6e1.js" integrity="sha256-tx7NXT/hO69qg2wMLS9WlyoX1ufrJ2AebaYBRAO&#43;5uE=" crossorigin="anonymous"></script>
 
@@ -545,11 +545,7 @@ https://github.com/alex-shpak/hugo-book
   
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#emphasis">Emphasis</a>
-      <ul>
-        <li><a href="#bold-italic-strikethrough">Bold, Italic, Strikethrough</a></li>
-      </ul>
-    </li>
+    <li><a href="#emphasis">Emphasis</a></li>
     <li><a href="#lists">Lists</a>
       <ul>
         <li><a href="#ordered">Ordered</a></li>
@@ -677,29 +673,18 @@ next: /content/posts/two
 prev: /content/posts/zero
 bookComments: false
 bookSearchExclude: false -->
-<p>Lorem ipsum.</p>
-<p>
-  <img src="/images/diogenes.jpg" alt="Diogenes" /></p>
 <h1 id="emphasis">
   Emphasis
   <a class="anchor" href="#emphasis">#</a>
 </h1>
-<h2 id="bold-italic-strikethrough">
-  Bold, Italic, Strikethrough
-  <a class="anchor" href="#bold-italic-strikethrough">#</a>
-</h2>
 <p>Italics with <em>underscores</em>.</p>
 <p>Bold with <strong>asterisks</strong>.</p>
 <p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
 <p>Strikethrough with <del>two tildes</del>.</p>
-<p>Italics with underscores.</p>
-<p>Bold with asterisks.</p>
-<p>Combined emphasis with asterisks and underscores.</p>
-<p>Strikethrough with two tildes.</p>
 <blockquote>
-<p>This is a blockquote.</p>
+<p>This is a blockquote with a &gt;.</p>
 </blockquote>
-<pre><code>This is a blockquote.
+<pre><code>This is a blockquote with a tab.
 </code></pre>
 <h1 id="lists">
   Lists
@@ -751,12 +736,11 @@ bookSearchExclude: false -->
   <a class="anchor" href="#link-to-a-page">#</a>
 </h2>
 <p>
-  <a href="https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html">I&rsquo;m an external link</a></p>
-<!-- [Intro](/spice/docs/introduction/)  -->
+  <a href="https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html">An external link</a></p>
 <p>
   <a href="/spice/docs/introduction/">A relative link from one post to another post</a></p>
-<!-- [Scroll down to a page section with heading *Hi*](#hi) -->
-<p>You can also create a button link in the page header of any page except Widget Pages (the homepage).</p>
+<p>
+  <a href="/spice/posts/test/#figures">Scroll down to a page section with heading <em>Figures</em></a></p>
 <h2 id="link-to-a-file">
   Link to a file
   <a class="anchor" href="#link-to-a-file">#</a>
@@ -768,6 +752,7 @@ bookSearchExclude: false -->
 </h1>
 <p>
   <img src="/images/univ-transparent.png" alt="PolyU" /></p>
+<p>Horizontal line using <code>***</code></p>
 <hr>
 <p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">
@@ -1260,7 +1245,7 @@ stateDiagram-v2
   <div class="flex flex-wrap justify-between">
 
 
-  <div><a class="flex align-center" href="https://github.com/partigabor/spice/commit/2a51ef15f455b2353f8671f3b9d869161fef6829" title='Last modified by partigabor | October 10, 2022' target="_blank" rel="noopener">
+  <div><a class="flex align-center" href="https://github.com/partigabor/spice/commit/3b0ca728b535f55b8e1af54094fa37a1fbe1c66f" title='Last modified by partigabor | October 10, 2022' target="_blank" rel="noopener">
       <img src="/spice/svg/calendar.svg" class="book-icon" alt="Calendar" />
       <span>October 10, 2022</span>
     </a>
@@ -1304,11 +1289,7 @@ stateDiagram-v2
   
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#emphasis">Emphasis</a>
-      <ul>
-        <li><a href="#bold-italic-strikethrough">Bold, Italic, Strikethrough</a></li>
-      </ul>
-    </li>
+    <li><a href="#emphasis">Emphasis</a></li>
     <li><a href="#lists">Lists</a>
       <ul>
         <li><a href="#ordered">Ordered</a></li>
