@@ -13,7 +13,7 @@
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/posts/test/</guid>
-      <description>&lt;!-- linktitle: One
+      <description>&lt;!-- linktitle: One # These don&#39;t work
 menu:
   main:
     parent: Posts
@@ -23,16 +23,15 @@ bookComments: false
 bookSearchExclude: false --&gt;
 &lt;p&gt;Lorem ipsum.&lt;/p&gt;
 &lt;p&gt;
-  &lt;img src=&#34;https://partigabor.github.io/spice/static/images/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;
-
-  &lt;img src=&#34;https://partigabor.github.io/spice/images/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;
-
-  &lt;img src=&#34;https://partigabor.github.io/spice/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;&lt;/p&gt;
+  &lt;img src=&#34;https://partigabor.github.io/spice/images/diogenes.jpg&#34; alt=&#34;Diogenes&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;emphasis&#34;&gt;
   Emphasis
   &lt;a class=&#34;anchor&#34; href=&#34;#emphasis&#34;&gt;#&lt;/a&gt;
 &lt;/h1&gt;
-&lt;p&gt;Bold, Italic, Strikethrough&lt;/p&gt;
+&lt;h2 id=&#34;bold-italic-strikethrough&#34;&gt;
+  Bold, Italic, Strikethrough
+  &lt;a class=&#34;anchor&#34; href=&#34;#bold-italic-strikethrough&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
 &lt;p&gt;Italics with &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Bold with &lt;strong&gt;asterisks&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;

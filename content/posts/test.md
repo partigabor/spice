@@ -14,7 +14,7 @@ tags = [
 menu = "main"
 +++
 
-<!-- linktitle: One
+<!-- linktitle: One # These don't work
 menu:
   main:
     parent: Posts
@@ -25,13 +25,11 @@ bookSearchExclude: false -->
 
 Lorem ipsum.
 
-![Diogenes](/static/images/diogenes.jpg)
 ![Diogenes](/images/diogenes.jpg)
-![Diogenes](/diogenes.jpg)
 
 # Emphasis
 
-Bold, Italic, Strikethrough
+## Bold, Italic, Strikethrough
 
 Italics with _underscores_.
 
