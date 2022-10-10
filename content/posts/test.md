@@ -1,5 +1,5 @@
 +++
-title = "Markdown Syntax Testing"
+title = "Markdown Syntax Guide"
 date = "2022-09-27"
 author = "Gábor Parti"
 weight = 11
@@ -401,4 +401,3 @@ stateDiagram-v2
     State1 --> State2
     note left of State2 : This is the note to the left.
 {{< /mermaid >}}
-
