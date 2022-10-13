@@ -1,7 +1,7 @@
 ---
 title: Posts
 menu:
-  # after:
+  after:
     name: blog
     weight: 50
 bookFlatSection: true

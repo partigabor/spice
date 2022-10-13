@@ -234,16 +234,6 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://partigabor.github.io/spice/docs/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/docs/introduction/</guid>
-      <description>⚓ Website Under Construction ⚓
-&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
       <title>Privacy</title>
       <link>https://partigabor.github.io/spice/pages/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -259,6 +249,16 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
       
       <guid>https://partigabor.github.io/spice/pages/terms/</guid>
       <description>Terms &amp;amp; conditions</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://partigabor.github.io/spice/docs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/docs/introduction/</guid>
+      <description>⚓ Website Under Construction ⚓
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
