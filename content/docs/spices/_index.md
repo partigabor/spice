@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 20
 # bookFlatSection: true
 title: "The Spices"
 # bookHidden: true
