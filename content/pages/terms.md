@@ -10,4 +10,6 @@ weight: 9
 # series: [Spice]
 ---
 
-Terms & conditions
+# Terms & conditions
+
+Right now the website and the database are still under development, use with caution.
