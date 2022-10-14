@@ -15,13 +15,6 @@ tags = [
 menu = "main"
 +++
 
-# Plotly
-
-Plotly Graph:
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/test.json" height="400px" >}}
-
 <!-- linktitle: One # These don't work
 menu:
   main:
@@ -30,6 +23,13 @@ next: /content/posts/two
 prev: /content/posts/zero
 bookComments: false
 bookSearchExclude: false -->
+
+# Plotly
+
+Plotly Graph:
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/test.json" height="400px" >}}
 
 ## Headings
 

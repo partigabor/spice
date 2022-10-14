@@ -6,10 +6,6 @@
 <!-- {{ template "_internal/google_analytics.html" . }}
 {{ template "_internal/google_analytics_async.html" . }} -->
 
-{{ if .Params.plotly }}
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-{{ end }}
-
 <style>
     body {
         font-family: '{{ replace .Site.Params.fontbody "+" " "}}';

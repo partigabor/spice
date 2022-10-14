@@ -267,10 +267,19 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/posts/test/</guid>
-      <description>&lt;h1 id=&#34;plotly&#34;&gt;
+      <description>&lt;!-- linktitle: One # These don&#39;t work
+menu:
+  main:
+    parent: Posts
+next: /content/posts/two
+prev: /content/posts/zero
+bookComments: false
+bookSearchExclude: false --&gt;
+&lt;h1 id=&#34;plotly&#34;&gt;
   Plotly
   &lt;a class=&#34;anchor&#34; href=&#34;#plotly&#34;&gt;#&lt;/a&gt;
 &lt;/h1&gt;
+&lt;p&gt;Plotly Graph:&lt;/p&gt;
 &lt;p&gt;
   
   &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
@@ -283,14 +292,6 @@ Plotly.d3.json(&#34;/plotly/test.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/plotly\/test.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
-&lt;!-- linktitle: One # These don&#39;t work
-menu:
-  main:
-    parent: Posts
-next: /content/posts/two
-prev: /content/posts/zero
-bookComments: false
-bookSearchExclude: false --&gt;
 &lt;h2 id=&#34;headings&#34;&gt;
   Headings
   &lt;a class=&#34;anchor&#34; href=&#34;#headings&#34;&gt;#&lt;/a&gt;
