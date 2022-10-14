@@ -12,6 +12,7 @@ tags = [
     "syntax",
 ]
 menu = "main"
+plotly = "true"
 +++
 
 <!-- linktitle: One # These don't work
@@ -417,3 +418,9 @@ stateDiagram-v2
     State1 --> State2
     note left of State2 : This is the note to the left.
 {{< /mermaid >}}
+
+# Plotly
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/test.json" height="400px" >}}
+

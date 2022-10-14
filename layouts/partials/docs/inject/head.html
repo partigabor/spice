@@ -19,7 +19,12 @@
     </style>
 
 
+{{ if .Params.plotly }}
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{{ end }}
+
 <!-- <head>
   {{ template "_internal/google_analytics.html" . }}
   {{ template "_internal/google_analytics_async.html" . }}
 </head> -->
+
