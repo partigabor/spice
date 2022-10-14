@@ -49,8 +49,10 @@ enableEmoji = true
   contentDir = 'content'
   weight = 1
   [languages.en.params]
-    fontheading = "Raleway"
-    fontbody = "Raleway"
+    # fontheading = "Raleway"
+    # fontbody = "Raleway"
+    fontheading = "Brill"
+    fontbody = "Brill"
 
 [languages.hu]
   languageName = "🇭🇺 Hungarian"
@@ -58,8 +60,10 @@ enableEmoji = true
   weight = 2
   title = 'Fűszer és fűszernév adatbázis'
   [languages.hu.params]
-    fontheading = "Raleway"
-    fontbody = "Raleway"
+    # fontheading = "Raleway"
+    # fontbody = "Raleway"
+    fontheading = "Brill"
+    fontbody = "Brill"
 
 # [languages.ar]
 #   languageName = "🇵🇸 Arabic"
