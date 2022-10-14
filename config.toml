@@ -177,6 +177,8 @@ enableEmoji = true
 
   favicon = "/images/favicon.ico"  
 
+  plotly = "true"
+
   # manually added
 [params.mysite]
   # footer
