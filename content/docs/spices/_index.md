@@ -4,7 +4,7 @@ weight: 20
 title: "The Spices"
 # bookHidden: true
 bookCollapseSection: true
-bookFlatSection: true
+bookFlatSection: false
 # bookToc: false
 ---
 

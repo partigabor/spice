@@ -11,6 +11,26 @@ blue = #66d9ef
 yellow = #e6db74
 purple = #ae81ff
 
+# Own website
+
+// Colors
+$bg-color: #eeeeee !default; //background
+$fg-color: #424242 !default; //main text,menu,icon,footer
+$alt-bg-color: #dddddd !default; // button highlight
+$alt-fg-color: #424242 !default; // title & header text color
+$darker-alt-bg-color: #cccccc !default; //no clue
+$link-color: #8f1329 !default;
+
+// Dark colors
+$bg-color-dark: #242424 !default; //background
+$fg-color-dark: #dedede !default; //main text,menu,icon,footer
+$alt-bg-color-dark: #121212 !default; //button highlight
+$alt-fg-color-dark: #dedede !default; // title & header text color
+$lighter-alt-bg-color-dark: #484848 !default; //noe clue
+$link-color-dark: #138f79 !default;
+
+//lime is #a6e22e
+
 
 
 Spotify:
@@ -24,3 +44,5 @@ secondarytext = #818181
 PolyU = #8f1329
 PolyUcomp = #138f79
 MidnightBlue = #006795
+
+
