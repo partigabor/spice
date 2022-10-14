@@ -4,6 +4,7 @@ date = "2022-09-27"
 author = "Gábor Parti"
 weight = 11
 description = "Description."
+plotly = "true"
 categories = [
     "technical",
 ]
@@ -12,10 +13,11 @@ tags = [
     "syntax",
 ]
 menu = "main"
-plotly = "true"
 +++
 
 # Plotly
+
+Plotly Graph:
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/test.json" height="400px" >}}

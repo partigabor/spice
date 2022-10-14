@@ -3,15 +3,12 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest"> -->
 
-
-
-{{ if .Params.plotly }}
-  <script src="https://cdn.plot.ly/plotly-2.15.1.min.js"></script>
-{{ end }}
-
-
 <!-- {{ template "_internal/google_analytics.html" . }}
 {{ template "_internal/google_analytics_async.html" . }} -->
+
+{{ if .Params.plotly }}
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{{ end }}
 
 <style>
     body {
@@ -26,7 +23,7 @@
     .emoji {
   font-family: NotoColorEmoji;
 }
-    </style>
+</style>
 
 
 
