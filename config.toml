@@ -101,7 +101,7 @@ enableEmoji = true
 #   url = "https://themes.gohugo.io/hugo-book/"
 #   weight = 20
 
-googlefonts = "//fonts.googleapis.com/css?family=Merriweather|Raleway"
+googlefonts = "//fonts.googleapis.com/css?family=Courier|Raleway"
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
