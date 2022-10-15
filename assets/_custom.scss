@@ -1,16 +1,11 @@
-// // Custom fonts. Will only show if they are installed on someone's machine
+/* You can add custom styles here. */
 
-// h1, h2, h3,
-// h4, h5, h6 {
-//   font-family: "Raleway", serif;
-// }
-// p {
-//   font-family: "Raleway", serif;
-// }
-// body {
-//   font-family: "Raleway", serif;
-// }
-// code {
-//   font-family: monospace;
-// }
+// @import "plugins/numbered";
 
+h1, h2, h3, h4, h5, h6 {
+      font-family: '{{ replace .Site.Params.fontheading "+" " "}}';
+  }
+
+body {
+      font-family: '{{ replace .Site.Params.fontbody "+" " "}}';
+  }
