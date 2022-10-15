@@ -31,7 +31,7 @@ enableEmoji = true
 # You can remove related files with config below
 # disableKinds = ['taxonomy', 'taxonomyTerm']
 
-googlefonts = "//fonts.googleapis.com/css?family=Raleway|Roboto"
+
 
 # Needed for mermaid/katex shortcodes
 [markup]
@@ -171,6 +171,9 @@ googlefonts = "//fonts.googleapis.com/css?family=Raleway|Roboto"
   # custom_css = ["css/custom_style.css"]  #under [params]
 
   favicon = "/images/favicon.ico"  
+
+  fontbody = "Brill"
+  fontheading = "Brill"
 
   # manually added
 [params.mysite]
