@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Default"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = "Raleway"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Overpass Mono"
