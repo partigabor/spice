@@ -49,10 +49,8 @@ enableEmoji = true
   contentDir = 'content'
   weight = 1
   [languages.en.params]
-    fontheading = "Raleway"
-    fontbody = "Raleway"
-    # fontheading = "Brill"
-    # fontbody = "Brill"
+    # fontheading = "Raleway"
+    # fontbody = "Raleway"
 
 [languages.hu]
   languageName = "🇭🇺 Hungarian"
@@ -60,10 +58,8 @@ enableEmoji = true
   weight = 2
   title = 'Fűszer és fűszernév adatbázis'
   [languages.hu.params]
-    fontheading = "Raleway"
-    fontbody = "Raleway"
-    # fontheading = "Brill"
-    # fontbody = "Brill"
+    # fontheading = "Raleway"
+    # fontbody = "Raleway"
 
 # [languages.ar]
 #   languageName = "🇵🇸 Arabic"
@@ -104,6 +100,8 @@ enableEmoji = true
 #   name = "Hugo Themes"
 #   url = "https://themes.gohugo.io/hugo-book/"
 #   weight = 20
+
+googlefonts = "//fonts.googleapis.com/css?family=Merriweather|Raleway"
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
