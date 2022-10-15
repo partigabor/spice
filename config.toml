@@ -49,10 +49,10 @@ enableEmoji = true
   contentDir = 'content'
   weight = 1
   [languages.en.params]
-    # fontheading = "Raleway"
-    # fontbody = "Raleway"
-    fontheading = "Brill"
-    fontbody = "Brill"
+    fontheading = "Raleway"
+    fontbody = "Raleway"
+    # fontheading = "Brill"
+    # fontbody = "Brill"
 
 [languages.hu]
   languageName = "🇭🇺 Hungarian"
@@ -60,10 +60,10 @@ enableEmoji = true
   weight = 2
   title = 'Fűszer és fűszernév adatbázis'
   [languages.hu.params]
-    # fontheading = "Raleway"
-    # fontbody = "Raleway"
-    fontheading = "Brill"
-    fontbody = "Brill"
+    fontheading = "Raleway"
+    fontbody = "Raleway"
+    # fontheading = "Brill"
+    # fontbody = "Brill"
 
 # [languages.ar]
 #   languageName = "🇵🇸 Arabic"
@@ -108,7 +108,7 @@ enableEmoji = true
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'auto'
+  BookTheme = 'dark'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
