@@ -1,6 +1,7 @@
 ---
-title: Landing Page
+title: Home
 type: docs
+weight: 1
 ---
 
 # Spices & Spice Terminology Database
