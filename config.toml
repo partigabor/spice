@@ -173,6 +173,7 @@ enableEmoji = true
   favicon = "/images/favicon.ico"  
 
   fontbody = "Brill"
+  #and
   fontheading = "Brill"
 
   # manually added
