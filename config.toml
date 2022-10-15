@@ -172,9 +172,8 @@ enableEmoji = true
 
   favicon = "/images/favicon.ico"  
 
-  fontbody = "Brill"
-  #and
-  fontheading = "Brill"
+  fontbody = "Raleway"
+  fontheading = "Raleway"
 
   # manually added
 [params.mysite]
