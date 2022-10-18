@@ -24,13 +24,6 @@ prev: /content/posts/zero
 bookComments: false
 bookSearchExclude: false -->
 
-# Plotly
-
-Plotly Graph:
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/test.json" height="400px" >}}
-
 ## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
@@ -427,5 +420,12 @@ stateDiagram-v2
 {{< /mermaid >}}
 
 
+# Plotly
 
+Plotly Graph:
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/test.json" height="400px" >}}
+
+***
 

@@ -22,23 +22,6 @@ next: /content/posts/two
 prev: /content/posts/zero
 bookComments: false
 bookSearchExclude: false --&gt;
-&lt;h1 id=&#34;plotly&#34;&gt;
-  Plotly
-  &lt;a class=&#34;anchor&#34; href=&#34;#plotly&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;Plotly Graph:&lt;/p&gt;
-&lt;p&gt;
-  
-  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
-
-
-
-&lt;div id=&#34;/plotly/test.json&#34; class=&#34;plotly&#34; style=&#34;height:400px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/plotly/test.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/plotly\/test.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;
   Headings
   &lt;a class=&#34;anchor&#34; href=&#34;#headings&#34;&gt;#&lt;/a&gt;

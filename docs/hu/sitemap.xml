@@ -15,6 +15,18 @@
                 href="https://partigabor.github.io/spice/hu/docs/introduction/"
                 />
   </url><url>
+    <loc>https://partigabor.github.io/spice/hu/docs/cite/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://partigabor.github.io/spice/docs/cite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://partigabor.github.io/spice/hu/docs/cite/"
+                />
+  </url><url>
     <loc>https://partigabor.github.io/spice/hu/categories/</loc>
     <xhtml:link
                 rel="alternate"

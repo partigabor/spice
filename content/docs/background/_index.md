@@ -8,5 +8,4 @@ bookHidden: true
 # bookToc: false
 ---
 
-
-Here are the background.
+Background.

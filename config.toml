@@ -86,18 +86,13 @@ enableEmoji = true
 #   url = "https://github.com/partigabor"
 #   weight = 20
 
-# [[menu.after]]
-#   name = "Hugo Themes"
-#   url = "https://themes.gohugo.io/hugo-book/"
-#   weight = 20
-
 [params]
-  fontbody = "Raleway"
-  fontheading = "Raleway"
+  fontbody = "Brill"
+  fontheading = "Brill"
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'dark'
+  BookTheme = 'auto'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.

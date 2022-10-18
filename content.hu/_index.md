@@ -5,14 +5,16 @@ type: docs
 
 # Fűszer és fűszernév adatbázis
 
+⚓ Weboldal szerkesztés alatt ⚓
+
 {{< columns >}}
-## The Spices
+## A fűszerek
 
 A
 
 <--->
 
-## The Nomenclature
+## A fűszernevek
 
 B
 
