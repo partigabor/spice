@@ -39,20 +39,20 @@ enableEmoji = true
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
 [languages.en]
-  languageName = "🇬🇧 English"
+  languageName = "English 🇬🇧"
   contentDir = 'content'
   weight = 1
   [languages.en.params]
 
 [languages.hu]
-  languageName = "🇭🇺 Hungarian"
+  languageName = "Hungarian 🇭🇺"
   contentDir = 'content.hu'
   weight = 2
   title = 'Fűszer és fűszernév adatbázis'
   [languages.hu.params]
 
 # [languages.ar]
-#   languageName = "🇵🇸 Arabic"
+#   languageName = "Arabic 🇵🇸"
 #   contentDir = 'content.ar'
 #   weight = 3
 #   title = 'قاعدة بيانات مصطلحات التوابل والبهارات'
@@ -62,7 +62,7 @@ enableEmoji = true
 #     fontbody = "Noto+Naskh+Arabic"
 
 # [languages.zh]
-#   languageName = "🇭🇰 Chinese"
+#   languageName = "Chinese 🇭🇰"
 #   contentDir = 'content.zh'
 #   weight = 4
 #   title = '香料和香料術語數據庫'
