@@ -6,6 +6,11 @@ title: "The Spices"
 bookCollapseSection: true
 bookFlatSection: false
 # bookToc: false
+resources: 
+- src: "gallery/*.jpg"
+  name: gallery-:counter
+  title: gallery-title-:counter
 ---
 
 The spices are here.
+
