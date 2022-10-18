@@ -7,7 +7,8 @@ baseURL = "https://partigabor.github.io/spice/"
 title = "Spices & Spice Terminology Database"
 languageCode = "en-us"
 defaultContentLanguage = 'en'
-theme = "hugo-book"
+theme = ["hugo-book"]
+assetDir = "assets"
 copyright = 'Copyright' #?
 
 # The folder where Hugo builds the website and Github reads it from

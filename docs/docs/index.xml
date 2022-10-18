@@ -8,22 +8,28 @@
     <language>en-us</language>
     <copyright>Copyright</copyright><atom:link href="https://partigabor.github.io/spice/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Background</title>
+      <link>https://partigabor.github.io/spice/docs/background/background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/docs/background/background/</guid>
+      <description>Background.
+Cardamom 1
+Cardamom 2
+Cardamom 3
+Cardamom black 1
+Cardamom black 2
+Cardamom chinese 1
+Cardamom white 1</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://partigabor.github.io/spice/docs/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/docs/introduction/</guid>
       <description>⚓ Website Under Construction ⚓</description>
-    </item>
-    
-    <item>
-      <title>One (Galery)</title>
-      <link>https://partigabor.github.io/spice/docs/one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/docs/one/</guid>
-      <description>Caption 1
-Caption 2</description>
     </item>
     
     <item>

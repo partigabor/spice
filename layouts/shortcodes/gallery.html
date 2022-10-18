@@ -1,11 +1,202 @@
-<ul id="gallery" class="posts aside" style="list-style: none;">
-    {{/* content of the gallery is specified by figures */}}
-    {{ .Inner }}
-  </ul>
-  
-  <script src="/js/lightgallery.js"></script>
-  <script>
-      lightGallery(document.getElementById('gallery'), {
-          /* options: https://sachinchoolur.github.io/lightgallery.js/docs/api.html#options */
-      });
-  </script>
+<!--
+Put this file in /layouts/shortcodes/gallery.html
+Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
+-->
+<!-- count how many times we've called this shortcode; load the css if it's the first time -->
+{{- if not ($.Page.Scratch.Get "figurecount") }}<link rel="stylesheet" href={{ "css/hugo-easy-gallery.css" | relURL }} />{{ end }}
+{{- $.Page.Scratch.Add "figurecount" 1 }}
+{{ $baseURL := .Site.BaseURL }}
+<div class="gallery caption-position-{{ with .Get "caption-position" | default "bottom" }}{{.}}{{end}} caption-effect-{{ with .Get "caption-effect" | default "slide" }}{{.}}{{end}} hover-effect-{{ with .Get "hover-effect" | default "zoom" }}{{.}}{{end}} {{ if ne (.Get "hover-transition") "none" }}hover-transition{{end}}" itemscope itemtype="http://schema.org/ImageGallery">
+	{{- with (.Get "dir") -}}
+		<!-- If a directory was specified, generate figures for all of the images in the directory -->
+		{{- $files := readDir (print "/static/" .) }}
+		{{- range $files -}}
+			<!-- skip files that aren't images, or that include the thumb suffix in their name -->
+			{{- $thumbext := $.Get "thumb" | default "-thumb" }}
+			{{- $isthumb := .Name | findRE ($thumbext | printf "%s\\.") }}<!-- is the current file a thumbnail image? -->
+			{{- $isimg := lower .Name | findRE "\\.(gif|jpg|jpeg|tiff|png|bmp|webp|avif|jxl)" }}<!-- is the current file an image? -->
+			{{- if and $isimg (not $isthumb) }}
+				{{- $caption :=  .Name | replaceRE "\\..*" "" | humanize }}<!-- humanized filename without extension -->
+				{{- $linkURL := print $baseURL ($.Get "dir") "/" .Name | absURL }}<!-- absolute URL to hi-res image -->
+				{{- $thumb := .Name | replaceRE "(\\.)" ($thumbext | printf "%s.") }}<!-- filename of thumbnail image -->
+				{{- $thumbexists := where $files "Name" $thumb }}<!-- does a thumbnail image exist? --> 
+				{{- $thumbURL := print $baseURL ($.Get "dir") "/" $thumb | absURL }}<!-- absolute URL to thumbnail image -->
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('{{ if $thumbexists }}{{ $thumbURL }}{{ else }}{{ $linkURL }}{{ end }}');" >
+				      <img itemprop="thumbnail" src="{{ if $thumbexists }}{{ $thumbURL }}{{ else }}{{ $linkURL }}{{ end }}" alt="{{ $caption }}" /><!-- <img> hidden if in .gallery -->
+				    </div>
+			      <figcaption>
+		          <p>{{ $caption }}</p>
+			      </figcaption>
+				    <a href="{{ $linkURL }}" itemprop="contentUrl"></a><!-- put <a> last so it is stacked on top -->
+				  </figure>
+				</div>
+			{{- end }}
+		{{- end }}
+	{{- else -}}
+		<!-- If no directory was specified, include any figure shortcodes called within the gallery -->
+	  {{ .Inner }}
+	{{- end }}
+</div>
+
+<style>
+	/*
+	Put this file in /static/css/hugo-easy-gallery.css
+	Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
+	*/
+
+	/*
+	Grid Layout Styles
+	*/
+	.gallery {
+	overflow: hidden;
+	margin: 10px;
+	max-width: 768px;
+	}
+	.gallery .box {
+	float: left;
+	position: relative;
+	/* Default: 1 tile wide */
+	width: 100%;
+	padding-bottom: 100%; 
+	}
+	@media only screen and (min-width : 365px) {
+	/* Tablet view: 2 tiles */
+	.gallery .box {
+		width: 50%;
+		padding-bottom: 50%;
+	}
+	}
+	@media only screen and (min-width : 480px) {
+	/* Small desktop / ipad view: 3 tiles */
+	.gallery .box {
+		width: 33.3%;
+		padding-bottom: 38%; /* ori is 33.3 */
+	}
+	}
+	@media only screen and (min-width : 9999px) {
+	/* Medium desktop: 4 tiles */
+	.box {
+		width: 25%;
+		padding-bottom: 25%;
+	}
+	}
+
+	/*
+	Transition styles
+	*/
+	.gallery.hover-transition figure,
+	.gallery.hover-effect-zoom .img, 
+	.gallery:not(.caption-effect-appear) figcaption,
+	.fancy-figure:not(.caption-effect-appear) figcaption {
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	}
+	/*
+	figure styles
+	*/
+	figure {
+	position:relative; /* purely to allow absolution positioning of figcaption */
+	overflow: hidden;
+	}
+	.gallery figure {
+	position: absolute;
+	left: 5px;
+	right: 5px;
+	top: 5px;
+	bottom: 5px;
+	}
+	.gallery.hover-effect-grow figure:hover {
+	transform: scale(1.05);
+	}
+	.gallery.hover-effect-shrink figure:hover {
+	transform: scale(0.95);
+	}
+	.gallery.hover-effect-slidedown figure:hover {
+	transform: translateY(5px);
+	}
+	.gallery.hover-effect-slideup figure:hover {
+	transform: translateY(-5px);
+	}
+
+	/*
+	img / a styles
+	*/
+
+	.gallery .img {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	}
+	.gallery.hover-effect-zoom figure:hover .img {
+	transform: scale(1.05);
+	}
+	.gallery img {
+	display: none; /* only show the img if not inside a gallery */
+	}
+	figure a {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	}
+
+	/*
+	figcaption styles
+	*/
+	.gallery figcaption,
+	.fancy-figure figcaption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	color: #FFF;
+	text-align: center;
+	font-size: 90%; /* change this if you want bigger text */
+	background: rgba(0, 0, 0, 0.5);
+	opacity: 1;
+	cursor: pointer;
+	}
+	.gallery.caption-position-none figcaption,
+	.fancy-figure.caption-position-none figcaption  {
+	display: none;
+	}
+	.gallery.caption-position-center figcaption,
+	.fancy-figure.caption-position-center figcaption {
+	top: 0;
+	padding: 40% 5px;
+	}
+	.gallery.caption-position-bottom figcaption,
+	.fancy-figure.caption-position-bottom figcaption {
+	padding: 5px;
+	}
+	.gallery.caption-effect-fade figure:not(:hover) figcaption,
+	.gallery.caption-effect-appear figure:not(:hover) figcaption,
+	.fancy-figure.caption-effect-fade figure:not(:hover) figcaption,
+	.fancy-figure.caption-effect-appear figure:not(:hover) figcaption {
+	background: rgba(0, 0, 0, 0);
+	opacity: 0;
+	}
+	.gallery.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption,
+	.fancy-figure.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption {
+	margin-bottom: -100%;
+	}
+	.gallery.caption-effect-slide.caption-position-center figure:not(:hover) figcaption,
+	.fancy-figure.caption-effect-slide.caption-position-center figure:not(:hover) figcaption  {
+	top: 100%;
+	}
+	figcaption p {
+	margin: auto; /* override style in theme */
+	}
+
+</style>
