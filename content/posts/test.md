@@ -429,3 +429,8 @@ Plotly Graph:
 
 ***
 
+# Gallery
+
+https://github.com/liwenyip/hugo-easy-gallery
+
+<!-- https://discourse.gohugo.io/t/solved-adding-image-to-every-post/14421 -->

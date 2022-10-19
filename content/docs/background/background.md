@@ -15,3 +15,4 @@ Background.
 {{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
 
 <!-- https://github.com/liwenyip/hugo-easy-gallery -->
+
