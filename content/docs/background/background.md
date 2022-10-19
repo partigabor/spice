@@ -10,9 +10,8 @@ title: "Background"
 
 Background.
 
-{{< load-photoswipe >}}
-
 {{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
 
-<!-- https://github.com/liwenyip/hugo-easy-gallery -->
+{{< load-photoswipe >}}
 
+<!-- https://github.com/liwenyip/hugo-easy-gallery -->
