@@ -24,6 +24,12 @@ prev: /content/posts/zero
 bookComments: false
 bookSearchExclude: false -->
 
+The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.
+
+<!-- Use this line below to create and expandable... -->
+
+<!--more-->
+
 ## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
@@ -47,9 +53,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough with ~~two tildes~~.
 
-<!-- Use this line below to create and expandable... -->
 
-<!--more-->
 
 ## Blockquotes
 
