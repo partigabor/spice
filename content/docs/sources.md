@@ -22,7 +22,7 @@ bookToc: false
 
 1
 
-![cover](/images/stewart.jpg)
+![cover](/images/stewart.png)
 
 2
 
