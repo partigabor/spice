@@ -435,6 +435,10 @@ Plotly Graph:
 
 # Gallery
 
+{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
+
+{{< load-photoswipe >}}
+
 https://github.com/liwenyip/hugo-easy-gallery
 
 <!-- https://discourse.gohugo.io/t/solved-adding-image-to-every-post/14421 -->

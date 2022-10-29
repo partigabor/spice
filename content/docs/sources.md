@@ -22,13 +22,13 @@ bookToc: false
 
 1
 
-![cover](/images/stewart.png)
+![univ](/images/univ-transparent.png)
 
 2
 
-![cover](/images/books/diogenes.jpg)
+![dioinbooks](/images/books/diogenes.jpg)
 
-![cover](/images/diogenes.jpg)
+![dio](/images/diogenes.jpg)
 
 3
 

@@ -8,10 +8,3 @@ bookHidden: true
 # bookToc: false
 ---
 
-Background.
-
-{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
-
-{{< load-photoswipe >}}
-
-<!-- https://github.com/liwenyip/hugo-easy-gallery -->
