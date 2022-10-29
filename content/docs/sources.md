@@ -22,6 +22,8 @@ bookToc: false
 
 ![cover](/images/covers/stewart.jpg)
 
+![PolyU](/images/univ-transparent.png)
+
 next
 
 ### Articles
