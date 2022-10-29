@@ -26,7 +26,7 @@ bookToc: false
 
 2
 
-![cover](/images/diogenes.jpg)
+![cover](/images/books/diogenes.jpg)
 
 3
 
