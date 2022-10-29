@@ -18,10 +18,7 @@ bookToc: false
 
 ### Books
 
-* Gordon, Stewart (2009) *When Asia Was the World: Traveling Merchants, Scholars, Warriors, and Monks Who Created the "Riches of the East".* Da Capo Press. [<i class="fa fa-1x fa-rebel"></i>](https://www.worldcat.org/title/148913992)
-
-
-<i class="fa fa-1x fa-rebel"></i>
+* Gordon, Stewart (2009) *When Asia Was the World: Traveling Merchants, Scholars, Warriors, and Monks Who Created the "Riches of the East".* Da Capo Press. [<i class="fa fa-1x fa-external-link-square"></i>](https://www.worldcat.org/title/148913992)
 
 
 ### Articles
