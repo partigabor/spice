@@ -278,10 +278,10 @@ Cardamom white 1</description>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://partigabor.github.io/spice/posts/test/</link>
+      <link>https://partigabor.github.io/spice/posts/markdown-syntax-guide/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://partigabor.github.io/spice/posts/test/</guid>
+      <guid>https://partigabor.github.io/spice/posts/markdown-syntax-guide/</guid>
       <description>&lt;!-- linktitle: One # These don&#39;t work
 menu:
   main:
@@ -292,6 +292,24 @@ bookComments: false
 bookSearchExclude: false --&gt;
 &lt;p&gt;The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.&lt;/p&gt;
 &lt;!-- Use this line below to create and expandable... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://partigabor.github.io/spice/posts/template/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/posts/template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sources</title>
+      <link>https://partigabor.github.io/spice/docs/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/docs/sources/</guid>
+      <description>Sources#Primary Literature#Secondary Literature#Books#Gordon, Stewart (2009) When Asia Was the World: Traveling Merchants, Scholars, Warriors, and Monks Who Created the &amp;ldquo;Riches of the East&amp;rdquo; Articles#</description>
     </item>
     
     <item>
