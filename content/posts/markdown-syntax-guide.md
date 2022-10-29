@@ -442,3 +442,7 @@ Plotly Graph:
 https://github.com/liwenyip/hugo-easy-gallery -->
 
 <!-- https://discourse.gohugo.io/t/solved-adding-image-to-every-post/14421 -->
+
+
+
+https://www.innoq.com/en/blog/markdown-with-zotero-workflow/
