@@ -22,4 +22,6 @@ bookToc: false
 
 ![cover](/images/covers/stewart.jpg)
 
+next
+
 ### Articles
