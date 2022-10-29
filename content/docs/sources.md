@@ -28,6 +28,8 @@ bookToc: false
 
 ![cover](/images/books/diogenes.jpg)
 
+![cover](/images/diogenes.jpg)
+
 3
 
 ![PolyU](/images/univ-transparent.png)
