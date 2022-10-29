@@ -19,6 +19,6 @@ bookToc: false
 ### Books
 
 * Gordon, Stewart (2009) When Asia Was the World: Traveling Merchants, Scholars, Warriors, and Monks Who Created the "Riches of the East"
-![cover](/images/covers/stewart.jpg)
+![cover](/static/images/covers/stewart.jpg)
 
 ### Articles
