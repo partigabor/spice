@@ -22,11 +22,11 @@ bookToc: false
 
 1
 
-![cover](/images/books/stewart.jpg)
+![cover](/images/stewart.jpg)
 
 2
 
-![cover](/images/stewart.png)
+![cover](/images/diogenes.jpg)
 
 3
 
