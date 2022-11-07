@@ -442,6 +442,8 @@ Fork-Awesome Icons, use them with html inputs like this, direcly in a md file:
 <i class="fa fa-1x fa-rebel"></i>
 ```
 
+<i class="fa fa-1x fa-rebel"></i>
+
 https://forkaweso.me/Fork-Awesome/icons/
 
 # Gallery
