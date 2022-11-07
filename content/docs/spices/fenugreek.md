@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Fenugreek
+
 ## Overview
 
-|   id  |           fenugreek          |
-|-------|------------------------------|
-|species|*Trigonella foenum-graecum* L.|
-| family|     Fabaceae/Leguminosae     |
+|       id       |                     fenugreek                     |
+|----------------|---------------------------------------------------|
+|     species    |           *Trigonella foenum-graecum* L.          |
+|     family     |                Fabaceae/Leguminosae               |
+| plant part used|                     seed; leaf                    |
+|region of origin|                      W. Asia                      |
+|    macroarea   |                        Asia                       |
+|   cultivation  |                       India                       |
+|      color     |                mustard yellow seeds               |
+|      link      |[POWO](https://powo.science.kew.org/taxon/523957-1)|
+
+ ## Names
+| English |Arabic|Chinese| Hungarian|
+|---------|------|-------|----------|
+|fenugreek| حلبة |  胡蘆巴  |görögszéna|

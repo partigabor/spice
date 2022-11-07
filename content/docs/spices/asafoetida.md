@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Asafoetida
+
 ## Overview
 
-|   id  |          asafoetida          |
-|-------|------------------------------|
-|species|*Ferula foetida* (Bunge) Regel|
-| family|     Apiaceae/Umbelliferae    |
+|       id       |                     asafoetida                    |
+|----------------|---------------------------------------------------|
+|     species    |           *Ferula foetida* (Bunge) Regel          |
+|     family     |               Apiaceae/Umbelliferae               |
+| plant part used|                 gum-resin (latex)                 |
+|region of origin|                Iran; W. and C. Asia               |
+|    macroarea   |                        Asia                       |
+|   cultivation  |                 Iran; Afghanistan                 |
+|      color     |             from pale yellow to brown             |
+|      link      |[POWO](https://powo.science.kew.org/taxon/842277-1)|
+
+ ## Names
+|  English |Arabic|Chinese| Hungarian |
+|----------|------|-------|-----------|
+|asafoetida| حلتیت|   阿魏  |ördöggyökér|

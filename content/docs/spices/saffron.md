@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Saffron
+
 ## Overview
 
-|   id  |      saffron      |
-|-------|-------------------|
-|species|*Crocus sativus* L.|
-| family|     Iridaceae     |
+|       id       |                      saffron                      |
+|----------------|---------------------------------------------------|
+|     species    |                *Crocus sativus* L.                |
+|     family     |                     Iridaceae                     |
+| plant part used|                   stigma (style)                  |
+|region of origin|                       Greece                      |
+|    macroarea   |                   Med.; W. Asia                   |
+|   cultivation  |             Iran; Spain; Kashmir; etc.            |
+|      color     |              deep red; dyes in orange             |
+|      link      |[POWO](https://powo.science.kew.org/taxon/436688-1)|
+
+ ## Names
+|English|Arabic|Chinese|Hungarian|
+|-------|------|-------|---------|
+|saffron|زعفران|  藏紅花  | sáfrány |

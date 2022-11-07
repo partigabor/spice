@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Cumin
+
 ## Overview
 
-|   id  |        cumin        |
-|-------|---------------------|
-|species| *Cuminum cyminum* L.|
-| family|Apiaceae/Umbelliferae|
+|       id       |                       cumin                       |
+|----------------|---------------------------------------------------|
+|     species    |                *Cuminum cyminum* L.               |
+|     family     |               Apiaceae/Umbelliferae               |
+| plant part used|                       fruit                       |
+|region of origin|               W. \& C. Asia; India                |
+|    macroarea   |                        Asia                       |
+|   cultivation  |                India, Iran, Lebanon               |
+|      color     |                    light brown                    |
+|      link      |[POWO](https://powo.science.kew.org/taxon/840882-1)|
+
+ ## Names
+|English|Arabic|Chinese|  Hungarian |
+|-------|------|-------|------------|
+| cumin | كمون |   孜然  |római kömény|

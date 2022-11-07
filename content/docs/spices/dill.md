@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice; Herb]
 ---
 
 # Dill
+
 ## Overview
 
-|   id  |          dill         |
-|-------|-----------------------|
-|species|*Anethum graveolens* L.|
-| family| Apiaceae/Umbelliferae |
+|       id       |                        dill                       |
+|----------------|---------------------------------------------------|
+|     species    |              *Anethum graveolens* L.              |
+|     family     |               Apiaceae/Umbelliferae               |
+| plant part used|                    fruit; leaf                    |
+|region of origin|               Nort Africa; West Asia              |
+|    macroarea   |                   Med.; W. Asia                   |
+|   cultivation  |                       India                       |
+|      color     |                   greyish brown                   |
+|      link      |[POWO](https://powo.science.kew.org/taxon/837530-1)|
+
+ ## Names
+|English|Arabic|Chinese|Hungarian|
+|-------|------|-------|---------|
+|  dill |  شبت |   蒔蘿  |  kapor  |

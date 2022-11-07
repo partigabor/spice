@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Caraway
+
 ## Overview
 
-|   id  |       caraway       |
-|-------|---------------------|
-|species|   *Carum carvi* L.  |
-| family|Apiaceae/Umbelliferae|
+|       id       |                      caraway                      |
+|----------------|---------------------------------------------------|
+|     species    |                  *Carum carvi* L.                 |
+|     family     |               Apiaceae/Umbelliferae               |
+| plant part used|                       fruit                       |
+|region of origin|               Mediterranean; Eurasia              |
+|    macroarea   |                      Eurasia                      |
+|   cultivation  |     Denmark, Lebanon, The Netherlands, Poland     |
+|      color     |                     dark brown                    |
+|      link      |[POWO](https://powo.science.kew.org/taxon/839677-1)|
+
+ ## Names
+|English|Arabic|Chinese|  Hungarian  |
+|-------|------|-------|-------------|
+|caraway|كراويا|  葛縷子  |fűszerkömény |

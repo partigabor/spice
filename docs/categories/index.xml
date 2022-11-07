@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spice</title>
+      <link>https://partigabor.github.io/spice/categories/Spice/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/categories/Spice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spice; Flavoring</title>
+      <link>https://partigabor.github.io/spice/categories/Spice-Flavoring/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/categories/Spice-Flavoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spice; Herb</title>
+      <link>https://partigabor.github.io/spice/categories/Spice-Herb/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/categories/Spice-Herb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spice; Herb; Vegetable</title>
+      <link>https://partigabor.github.io/spice/categories/Spice-Herb-Vegetable/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/categories/Spice-Herb-Vegetable/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>technical</title>
       <link>https://partigabor.github.io/spice/categories/technical/</link>
@@ -23,24 +59,6 @@
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>herbs</title>
-      <link>https://partigabor.github.io/spice/categories/herbs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/categories/herbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spices</title>
-      <link>https://partigabor.github.io/spice/categories/spices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/categories/spices/</guid>
       <description></description>
     </item>
     

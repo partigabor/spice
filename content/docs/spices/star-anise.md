@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Star Anise
+
 ## Overview
 
-|   id  |       star anise       |
-|-------|------------------------|
-|species|*Illicium verum* Hook.f.|
-| family|     Schisandraceae     |
+|       id       |                              star anise                              |
+|----------------|----------------------------------------------------------------------|
+|     species    |                       *Illicium verum* Hook.f.                       |
+|     family     |                            Schisandraceae                            |
+| plant part used|                               pericarp                               |
+|region of origin|                          SE. China; Vietnam                          |
+|    macroarea   |                                 Asia                                 |
+|   cultivation  |China, Laos, Vietnam, Korea, Japan, Taiwan, Hainan, Philippines (POWO)|
+|      color     |                             orange brown                             |
+|      link      |          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
+
+ ## Names
+|  English |   Arabic  |Chinese|  Hungarian |
+|----------|-----------|-------|------------|
+|star anise|يانسون نجمي|   八角  |csillagánizs|

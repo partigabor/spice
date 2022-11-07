@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Cardamom
+
 ## Overview
 
-|   id  |             cardamom            |
-|-------|---------------------------------|
-|species|*Elettaria cardamomum* (L.) Maton|
-| family|          Zingiberaceae          |
+|       id       |                        cardamom                       |
+|----------------|-------------------------------------------------------|
+|     species    |           *Elettaria cardamomum* (L.) Maton           |
+|     family     |                     Zingiberaceae                     |
+| plant part used|              fruit (seed pods, capsules)              |
+|region of origin|                         India                         |
+|    macroarea   |                          Asia                         |
+|   cultivation  |Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea|
+|      color     |              green seed pods, brown seeds             |
+|      link      |  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
+
+ ## Names
+| English|Arabic|Chinese|Hungarian|
+|--------|------|-------|---------|
+|cardamom|  هال | 荳蔻/豆蔻 | kardamom|

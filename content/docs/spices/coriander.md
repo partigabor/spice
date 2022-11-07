@@ -7,13 +7,29 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
-categories: ["spices", "herbs"]
+# series: [Spice; Herb]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice; Herb]
 ---
 
 # Coriander
+
 ## Overview
 
-|   id  |       coriander       |
-|-------|-----------------------|
-|species|*Coriandrum sativum* L.|
-| family| Apiaceae/Umbelliferae |
+|       id       |                      coriander                      |
+|----------------|-----------------------------------------------------|
+|     species    |               *Coriandrum sativum* L.               |
+|     family     |                Apiaceae/Umbelliferae                |
+| plant part used|                     fruit; leaf                     |
+|region of origin|            Mediterranean; W. Asia; India            |
+|    macroarea   |                         Asia                        |
+|   cultivation  |Argentina, India, Morocco, Romania, Spain, Yugoslavia|
+|      color     |                     light yellow                    |
+|      link      | [POWO](https://powo.science.kew.org/taxon/840760-1) |
+
+ ## Names
+| English |Arabic|Chinese|Hungarian|
+|---------|------|-------|---------|
+|coriander| كزبرة|   芫荽  |koriander|

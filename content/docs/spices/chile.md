@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Chile
+
 ## Overview
 
-|   id  |        chile       |
-|-------|--------------------|
-|species|*Capsicum annuum* L.|
-| family|     Solanaceae     |
+|       id       |                              chile                              |
+|----------------|-----------------------------------------------------------------|
+|     species    |                       *Capsicum annuum* L.                      |
+|     family     |                            Solanaceae                           |
+| plant part used|                              fruit                              |
+|region of origin|                         Central America                         |
+|    macroarea   |                             Americas                            |
+|   cultivation  |Ethiopia, India, Kenya, Mexico, Nigeria, Pakistan, Tanzania, etc.|
+|      color     |                   red and green in many shades                  |
+|      link      |       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
+
+ ## Names
+|English| Arabic |Chinese|Hungarian|
+|-------|--------|-------|---------|
+| chile |فلفل حار|   辣椒  | paprika |

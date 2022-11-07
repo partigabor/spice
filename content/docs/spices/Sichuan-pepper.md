@@ -8,12 +8,28 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
+date: 2022-11-07
+author: Gábor Parti
+plotly: true
+categories: [Spice]
 ---
 
 # Sichuan Pepper
+
 ## Overview
 
-|   id  |        Sichuan pepper        |
-|-------|------------------------------|
-|species|*Zanthoxylum bungeanum* Maxim.|
-| family|           Rutaceae           |
+|       id       |                   Sichuan pepper                  |
+|----------------|---------------------------------------------------|
+|     species    |           *Zanthoxylum bungeanum* Maxim.          |
+|     family     |                      Rutaceae                     |
+| plant part used|                      pericarp                     |
+|region of origin|                       China                       |
+|    macroarea   |                        Asia                       |
+|   cultivation  |                       China                       |
+|      color     |                     red; green                    |
+|      link      |[POWO](https://powo.science.kew.org/taxon/775625-1)|
+
+ ## Names
+|    English   |   Arabic   |Chinese|   Hungarian  |
+|--------------|------------|-------|--------------|
+|Sichuan pepper|فلفل سيتشوان|   花椒  |szecsuáni bors|
