@@ -32,11 +32,8 @@ The following markdown file showcases all the features one can achieve within ma
 
 # Plotly
 
-Plotly Graph:
-
 {{< load-plotly >}}
-<!-- {{< plotly json="/plotly/test.json" height="400px" >}} -->
-{{< plotly json="/plotly/diffusion_en.json" height="400px" >}}
+{{< plotly json="/plotly/test.json" height="400px" >}}
 
 ***
 
