@@ -429,11 +429,8 @@ stateDiagram-v2
 Plotly Graph:
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/test.json" height="400px" >}}
-
-***
-
-{{< plotly json="/plotly/diffusion_en.json" height="600px" >}}
+<!-- {{< plotly json="/plotly/test.json" height="400px" >}} -->
+{{< plotly json="/plotly/diffusion_en.json" >}}
 
 ***
 
