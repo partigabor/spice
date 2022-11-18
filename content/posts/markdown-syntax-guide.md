@@ -433,6 +433,11 @@ Plotly Graph:
 
 ***
 
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_en.json" height="600px" >}}
+
+***
+
 
 # Icons
 
