@@ -8,4 +8,5 @@ plotly: true
 
 ⚓ Website Under Construction ⚓
 
-{{< plotly json="/plotly/test.json" height="400px">}}
+{{< load-plotly >}}
+{{< plotly json="/plotly/test.json" height="400px" >}}
