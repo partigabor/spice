@@ -36,7 +36,7 @@ Plotly Graph:
 
 {{< load-plotly >}}
 <!-- {{< plotly json="/plotly/test.json" height="400px" >}} -->
-{{< plotly json="/plotly/diffusion_en.json" >}}
+{{< plotly json="/plotly/diffusion_en.json" height="400px" >}}
 
 ***
 
