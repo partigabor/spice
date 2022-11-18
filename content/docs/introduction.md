@@ -9,4 +9,4 @@ plotly: true
 ⚓ Website Under Construction ⚓
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_en.json" height="600px" >}}
+{{< plotly json="/plotly/diffusion_en.json" height="400px">}}

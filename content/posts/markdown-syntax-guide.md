@@ -30,6 +30,16 @@ The following markdown file showcases all the features one can achieve within ma
 
 <!--more-->
 
+# Plotly
+
+Plotly Graph:
+
+{{< load-plotly >}}
+<!-- {{< plotly json="/plotly/test.json" height="400px" >}} -->
+{{< plotly json="/plotly/diffusion_en.json" >}}
+
+***
+
 ## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
@@ -423,16 +433,6 @@ stateDiagram-v2
     note left of State2 : This is the note to the left.
 {{< /mermaid >}}
 
-
-# Plotly
-
-Plotly Graph:
-
-{{< load-plotly >}}
-<!-- {{< plotly json="/plotly/test.json" height="400px" >}} -->
-{{< plotly json="/plotly/diffusion_en.json" >}}
-
-***
 
 
 # Icons
