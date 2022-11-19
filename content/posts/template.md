@@ -12,4 +12,5 @@ tags = [
     "tag",
 ]
 menu = "main"
+bookHidden = "true"
 +++

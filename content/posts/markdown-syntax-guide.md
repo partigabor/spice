@@ -13,6 +13,7 @@ tags = [
     "syntax",
 ]
 menu = "main"
+bookHidden = "true"
 +++
 
 <!-- linktitle: One # These don't work
