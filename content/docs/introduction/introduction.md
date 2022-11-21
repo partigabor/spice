@@ -13,6 +13,10 @@ plotly: true
 
 <!-- {{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
 
-<!-- {{< embed-pdf url="./images/plots/distribution.pdf" >}} -->
-
 ![Distribution](/images/distribution.png)
+
+[Distribution](../distribution.html) 
+
+<!-- works but warning -->
+
+[Distribution](./introduction/distribution.html)
