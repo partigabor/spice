@@ -16,6 +16,6 @@ plotly: true
 
 ![Dio 2](/images/diogenes2.jpg)
 
-
+![Dio 1](/images/diogenes.jpg)
 
 [Distribution HTML](./distribution.html)
