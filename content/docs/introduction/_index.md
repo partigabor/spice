@@ -16,4 +16,6 @@ plotly: true
 
 ![Some](images/dist.png)
 
+![Some](images/diogenes.jpg)
+
 <!-- [Distribution HTML](./distribution.html) -->
