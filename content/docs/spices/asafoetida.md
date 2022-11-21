@@ -33,3 +33,6 @@ categories: [Spice]
 |              English             |Arabic|Chinese|           Hungarian          |
 |----------------------------------|------|-------|------------------------------|
 |**asafoetida;** hing; devil's dung|  nan |  nan  |**ördöggyökér** [devil's root]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/asafoetida.json" height="400px" >}}

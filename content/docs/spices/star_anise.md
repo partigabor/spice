@@ -33,3 +33,6 @@ categories: [Spice]
 |English|                   Arabic                  |         Chinese         |          Hungarian          |
 |-------|-------------------------------------------|-------------------------|-----------------------------|
 |  nan  |**يانسون نجمي** *yānsūn najmī* [star anise]|**八角** *bājiǎo* [octagon]|**csillagánizs** [star-anise]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/star_anise.json" height="400px" >}}

@@ -33,3 +33,6 @@ categories: [Spice]
 |English|                       Arabic                       |             Chinese             |             Hungarian             |
 |-------|----------------------------------------------------|---------------------------------|-----------------------------------|
 |  nan  |**فلفل سيتشوان** *fulful sītshuwān* [Sichuan pepper]|**花椒** *huā​jiāo* [flower-pepper]|**szecsuáni bors** [Sichuan pepper]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/Sichuan_pepper.json" height="400px" >}}

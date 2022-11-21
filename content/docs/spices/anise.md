@@ -33,3 +33,6 @@ categories: [Spice]
 |      English     |Arabic|            Chinese           |Hungarian|
 |------------------|------|------------------------------|---------|
 |**anise;** aniseed|  nan |**茴芹** *huíqín* [anise-celery]|   nan   |
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/anise.json" height="400px" >}}

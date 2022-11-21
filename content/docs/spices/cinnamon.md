@@ -33,3 +33,6 @@ categories: [Spice]
 |English|            Arabic           |                    Chinese                   |      Hungarian      |
 |-------|-----------------------------|----------------------------------------------|---------------------|
 |  nan  |**قرفة** *qirfa* [rind; bark]|**錫蘭肉桂** *xīlánròuguì* [Ceylon-flesh-cinnamon]|**fahéj** [tree-bark]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/cinnamon.json" height="400px" >}}

@@ -33,3 +33,6 @@ categories: [Spice]
 |English|                 Arabic                |             Chinese            |Hungarian|
 |-------|---------------------------------------|--------------------------------|---------|
 |  nan  |**فلفل حار** *fulful hārr* [hot pepper]|**辣椒** *làjiāo* [pungent-pepper]|   nan   |
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/chile.json" height="400px" >}}

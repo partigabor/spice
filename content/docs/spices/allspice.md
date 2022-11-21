@@ -33,3 +33,6 @@ categories: [Spice]
 |               English               |                      Arabic                      |                 Chinese                |          Hungarian          |
 |-------------------------------------|--------------------------------------------------|----------------------------------------|-----------------------------|
 |**allspice;** pimento; Jamaica pepper|**فلفل إفرنجي** *fulful ifranjī* [European pepper]|**多香果** *duōxiāngguǒ* [many-spice-fruit]|**szegfűbors** [clove-pepper]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/allspice.json" height="400px" >}}

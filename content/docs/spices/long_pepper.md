@@ -33,3 +33,6 @@ categories: [Spice]
 |English|Arabic|Chinese|          Hungarian          |
 |-------|------|-------|-----------------------------|
 |  nan  |  nan |  nan  |**hosszú bors** [long-pepper]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/long_pepper.json" height="400px" >}}

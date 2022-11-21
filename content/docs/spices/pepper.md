@@ -33,3 +33,6 @@ categories: [Spice]
 |         English        |Arabic|              Chinese             |    Hungarian    |
 |------------------------|------|----------------------------------|-----------------|
 |**pepper;** black pepper|  nan |**胡椒** *hújiāo* [barbarian-pepper]|**bors** [pepper]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/pepper.json" height="400px" >}}

@@ -33,3 +33,6 @@ categories: [Spice; Herb; Vegetable]
 |English|Arabic|           Chinese           |          Hungarian         |
 |-------|------|-----------------------------|----------------------------|
 |  nan  |  nan |**茴香** *huíxiāng* [hui-spice]|**édeskömény** [sweet-cumin]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/fennel.json" height="400px" >}}

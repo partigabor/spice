@@ -33,3 +33,6 @@ categories: [Spice; Herb]
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 |  nan  |  nan |  nan  |   nan   |
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/dill.json" height="400px" >}}

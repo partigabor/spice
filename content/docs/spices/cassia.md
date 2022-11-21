@@ -33,3 +33,6 @@ categories: [Spice]
 |English|             Arabic             |             Chinese            |               Hungarian               |
 |-------|--------------------------------|--------------------------------|---------------------------------------|
 |  nan  |**سليخة** *salīkha* [peel; bark]|**肉桂** *ròuguì* [flesh-cinnamon]|**kasszia(fahéj)** [cassia (tree-bark)]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/cassia.json" height="400px" >}}

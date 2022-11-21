@@ -33,3 +33,6 @@ categories: [Spice]
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 |  nan  |  nan |  nan  |   nan   |
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/ginger.json" height="400px" >}}

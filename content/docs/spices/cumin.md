@@ -33,3 +33,6 @@ categories: [Spice]
 |English|Arabic|Chinese|           Hungarian          |
 |-------|------|-------|------------------------------|
 |  nan  |  nan |  nan  |**római kömény** [Roman cumin]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/cumin.json" height="400px" >}}

@@ -33,3 +33,6 @@ categories: [Spice]
 |English|Arabic|              Chinese              |Hungarian|
 |-------|------|-----------------------------------|---------|
 |  nan  |  nan |**薑黃** *jiānghuáng* [ginger-yellow]|   nan   |
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/turmeric.json" height="400px" >}}

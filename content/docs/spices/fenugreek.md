@@ -33,3 +33,6 @@ categories: [Spice]
 |English|Arabic|Chinese|         Hungarian        |
 |-------|------|-------|--------------------------|
 |  nan  |  nan |  nan  |**görögszéna** [greek-hay]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/fenugreek.json" height="400px" >}}

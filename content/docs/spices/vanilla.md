@@ -33,3 +33,6 @@ categories: [Spice; Flavoring]
 |English|Arabic|             Chinese             |Hungarian|
 |-------|------|---------------------------------|---------|
 |  nan  |  nan |**香草** *xiāngcǎo* [fragrant-herb]|   nan   |
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/vanilla.json" height="400px" >}}

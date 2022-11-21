@@ -33,3 +33,6 @@ categories: [Spice]
 |English|Arabic|Chinese|           Hungarian           |
 |-------|------|-------|-------------------------------|
 |  nan  |  nan |  nan  |**fűszerkömény ** [spice-cumin]|
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/caraway.json" height="400px" >}}
