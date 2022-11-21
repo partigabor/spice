@@ -37,5 +37,3 @@ categories: [Spice]
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/allspice.json" height="400px" >}}
-
-{{< plotly json="/plotly/test.json" height="400px" >}}
