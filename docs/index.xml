@@ -261,17 +261,6 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://partigabor.github.io/spice/docs/introduction/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/docs/introduction/introduction/</guid>
-      <description>⚓ Website Under Construction ⚓
-Distribution
-Distribution</description>
-    </item>
-    
-    <item>
       <title>Markdown Syntax Guide</title>
       <link>https://partigabor.github.io/spice/posts/test/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>

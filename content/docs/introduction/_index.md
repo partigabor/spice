@@ -1,6 +1,6 @@
 ---
 weight: 10
-bookFlatSection: true
+bookFlatSection: false
 title: "Introduction"
 # bookHidden: true
 plotly: true
@@ -13,10 +13,8 @@ plotly: true
 
 <!-- {{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
 
-![Distribution](/images/distribution.png)
+![Distribution PNG](/images/distribution.png)
 
-[Distribution](../distribution.html) 
+[Distribution HTML](./distribution.html) 
 
 <!-- works but warning -->
-
-[Distribution](./introduction/distribution.html)
