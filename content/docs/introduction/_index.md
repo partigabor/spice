@@ -13,6 +13,10 @@ plotly: true
 
 <!-- {{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
 
-![Distribution PNG](/images/d.png)
+![Distribution PNG](/images/diogenes.jpg)
+
+![Distribution PNG](/images/d2.jpg)
+
+![Distribution PNG](/images/univ-transparent.png)
 
 [Distribution HTML](./distribution.html)
