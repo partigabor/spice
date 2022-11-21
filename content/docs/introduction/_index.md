@@ -15,7 +15,9 @@ plotly: true
 
 ![Distribution PNG](/images/diogenes.jpg)
 
-![Distribution PNG](/images/d2.jpg)
+![D2 PNG](/images/d2.jpg)
+
+![Water](/images/w.jpg)
 
 ![Distribution PNG](/images/univ-transparent.png)
 
