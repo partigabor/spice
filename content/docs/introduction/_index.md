@@ -18,4 +18,4 @@ plotly: true
 
 ![Dio 1](/images/diogenes.jpg)
 
-[Distribution HTML](./distribution.html)
+<!-- [Distribution HTML](./distribution.html) -->
