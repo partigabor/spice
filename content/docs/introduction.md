@@ -13,5 +13,7 @@ plotly: true
 
 {{< plotly json="/plotly/diffusion_en.json" height="400px" >}}
 
-[Approximate origin of spices](distribution.html)
+{{< embed-pdf url="./static/images/plots/distribution.pdf" >}}
+
+[Approximate origin of spices](../files/distribution.html)
 
