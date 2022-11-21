@@ -9,9 +9,9 @@ plotly: true
 ⚓ Website Under Construction ⚓
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/test.json" height="400px" >}}
+<!-- {{< plotly json="/plotly/test.json" height="400px" >}} -->
 
-{{< plotly json="/plotly/distribution.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_en.json" height="400px" >}}
 
-[Approximate origin of spices](../files/distribution.html)
+[Approximate origin of spices](distribution.html)
 
