@@ -13,9 +13,9 @@ plotly: true
 
 <!-- {{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
 
-![Distribution PNG](/images/diogenes.jpg)
+<!-- ![Distribution PNG](/images/diogenes.jpg)
 
-![D2 PNG](/images/d2.jpg)
+![D2 PNG](/images/d2.jpg) -->
 
 ![Water](/images/w.jpg)
 
