@@ -121,7 +121,7 @@ Todo lists can be written by using the standard Markdown syntax:
 
 [An external link](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html)
 
-<!-- [A relative link from one post to another post]({{< relref "docs/introduction" >}}) -->
+<!-- [A relative link from one post to another post]({{< relref "docs/test" >}}) -->
 
 <!-- above line works but giver warning -->
 
