@@ -14,6 +14,8 @@ plotly: true
 <!-- {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
 
-![Some](images/diogenes.jpg)
+![Dio 1](/images/diogenes.jpg)
+
+![Dio 2](/images/diogenes2.jpg)
 
 <!-- [Distribution HTML](./distribution.html) -->
