@@ -14,6 +14,6 @@ plotly: true
 <!-- {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
 
-![Dio 2](/images/univ-transparent.png)
+![Some](images/dist.png)
 
 <!-- [Distribution HTML](./distribution.html) -->
