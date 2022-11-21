@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -32,4 +32,4 @@ categories: [Spice]
  ## Names
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
-| ginger|زنجبيل|   薑   | gyömbér |
+|  nan  |  nan |  nan  |   nan   |

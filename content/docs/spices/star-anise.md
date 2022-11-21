@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -30,6 +30,6 @@ categories: [Spice]
 |      link      |          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
 
  ## Names
-|  English |   Arabic  |Chinese|  Hungarian |
-|----------|-----------|-------|------------|
-|star anise|يانسون نجمي|   八角  |csillagánizs|
+|English|                   Arabic                  |         Chinese         |          Hungarian          |
+|-------|-------------------------------------------|-------------------------|-----------------------------|
+|  nan  |**يانسون نجمي** *yānsūn najmī* [star anise]|**八角** *bājiǎo* [octagon]|**csillagánizs** [star-anise]|

@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice; Herb]
@@ -32,4 +32,4 @@ categories: [Spice; Herb]
  ## Names
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
-|  dill |  شبت |   蒔蘿  |  kapor  |
+|  nan  |  nan |  nan  |   nan   |

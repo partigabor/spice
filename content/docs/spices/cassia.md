@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -30,6 +30,6 @@ categories: [Spice]
 |      link      |[POWO](https://powo.science.kew.org/taxon/463288-1)|
 
  ## Names
-|English|Arabic|Chinese|   Hungarian  |
-|-------|------|-------|--------------|
-| cassia| سليخة|   肉桂  |kasszia(fahéj)|
+|English|             Arabic             |             Chinese            |               Hungarian               |
+|-------|--------------------------------|--------------------------------|---------------------------------------|
+|  nan  |**سليخة** *salīkha* [peel; bark]|**肉桂** *ròuguì* [flesh-cinnamon]|**kasszia(fahéj)** [cassia (tree-bark)]|

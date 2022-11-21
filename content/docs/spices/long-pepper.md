@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -30,6 +30,6 @@ categories: [Spice]
 |      link      |[POWO](https://powo.science.kew.org/taxon/682031-1)|
 
  ## Names
-|  English  | Arabic|Chinese| Hungarian |
-|-----------|-------|-------|-----------|
-|long pepper|دارفلفل|   蓽撥  |hosszú bors|
+|English|Arabic|Chinese|          Hungarian          |
+|-------|------|-------|-----------------------------|
+|  nan  |  nan |  nan  |**hosszú bors** [long-pepper]|

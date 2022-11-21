@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -30,6 +30,6 @@ categories: [Spice]
 |      link      |[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
  ## Names
-|  English |Arabic|Chinese| Hungarian |
-|----------|------|-------|-----------|
-|asafoetida| حلتیت|   阿魏  |ördöggyökér|
+|              English             |Arabic|Chinese|           Hungarian          |
+|----------------------------------|------|-------|------------------------------|
+|**asafoetida;** hing; devil's dung|  nan |  nan  |**ördöggyökér** [devil's root]|

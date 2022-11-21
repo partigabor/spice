@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb; Vegetable]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice; Herb; Vegetable]
@@ -30,6 +30,6 @@ categories: [Spice; Herb; Vegetable]
 |      link      | [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
  ## Names
-|English|Arabic|Chinese| Hungarian|
-|-------|------|-------|----------|
-| fennel|  شمر |   茴香  |édeskömény|
+|English|Arabic|           Chinese           |          Hungarian         |
+|-------|------|-----------------------------|----------------------------|
+|  nan  |  nan |**茴香** *huíxiāng* [hui-spice]|**édeskömény** [sweet-cumin]|

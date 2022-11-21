@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -30,6 +30,6 @@ categories: [Spice]
 |      link      |       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
 
  ## Names
-|English| Arabic |Chinese|Hungarian|
-|-------|--------|-------|---------|
-| chile |فلفل حار|   辣椒  | paprika |
+|English|                 Arabic                |             Chinese            |Hungarian|
+|-------|---------------------------------------|--------------------------------|---------|
+|  nan  |**فلفل حار** *fulful hārr* [hot pepper]|**辣椒** *làjiāo* [pungent-pepper]|   nan   |

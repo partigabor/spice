@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice; Herb]
@@ -30,6 +30,6 @@ categories: [Spice; Herb]
 |      link      | [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
  ## Names
-| English |Arabic|Chinese|Hungarian|
-|---------|------|-------|---------|
-|coriander| كزبرة|   芫荽  |koriander|
+|                 English                |Arabic|              Chinese             |Hungarian|
+|----------------------------------------|------|----------------------------------|---------|
+|**coriander;** cilantro; Chinese parsley|  nan |**芫荽** *yán​sui* [lilac-coriander]|   nan   |

@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -30,6 +30,6 @@ categories: [Spice]
 |      link      |[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
  ## Names
-|English|  Arabic |Chinese|  Hungarian |
-|-------|---------|-------|------------|
-| nutmeg|جوز الطيب|  肉豆蔻  |szerecsendió|
+|English|                  Arabic                  |                 Chinese                 |           Hungarian          |
+|-------|------------------------------------------|-----------------------------------------|------------------------------|
+|  nan  |**جوز الطيب** *jawz al-ṭīb* [fragrant nut]|**肉豆蔻** *ròudòukòu* [flesh-bean-cardamom]|**szerecsendió** [Saracen nut]|

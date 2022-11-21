@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Flavoring]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice; Flavoring]
@@ -30,6 +30,6 @@ categories: [Spice; Flavoring]
 |      link      |  [POWO](https://powo.science.kew.org/taxon/262578-2) |
 
  ## Names
-|English| Arabic|Chinese|Hungarian|
-|-------|-------|-------|---------|
-|vanilla|فانيليا|   香草  | vanília |
+|English|Arabic|             Chinese             |Hungarian|
+|-------|------|---------------------------------|---------|
+|  nan  |  nan |**香草** *xiāngcǎo* [fragrant-herb]|   nan   |

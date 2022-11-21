@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-07
+date: 2022-11-21
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -30,6 +30,6 @@ categories: [Spice]
 |      link      |  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
 
  ## Names
-| English|Arabic|Chinese|Hungarian|
-|--------|------|-------|---------|
-|cardamom|  هال | 荳蔻/豆蔻 | kardamom|
+|English|Arabic|              Chinese             |Hungarian|
+|-------|------|----------------------------------|---------|
+|  nan  |  nan |**荳蔻/豆蔻** *dòukòu* [bean-cardamom]|   nan   |
