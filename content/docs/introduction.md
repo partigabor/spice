@@ -13,7 +13,7 @@ plotly: true
 
 {{< plotly json="/plotly/distribution.json" height="400px" >}}
 
-{{< plotly json="/distribution.json" height="400px" >}}
+{{< plotly json="/distribution.json" height="500" >}}
 
 [Approximate origin of spices](../files/distribution.html)
 
