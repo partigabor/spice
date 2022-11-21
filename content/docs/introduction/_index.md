@@ -15,6 +15,6 @@ plotly: true
 
 ![Distribution PNG](/images/univ-transparent.png)
 
-![Distribution PNG](/images/distribution.png)
+![Distribution PNG](/images/diogenes.jpg)
 
 [Distribution HTML](./distribution.html)
