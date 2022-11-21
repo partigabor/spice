@@ -1,6 +1,6 @@
 +++
 title = "Markdown Syntax Guide"
-date = "2022-09-27"
+date = "2022-09-01"
 author = "Gábor Parti"
 weight = 11
 description = "Description."
@@ -121,11 +121,11 @@ Todo lists can be written by using the standard Markdown syntax:
 
 [An external link](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html)
 
-<!-- [A relative link from one post to another post]({{< relref "docs/test" >}}) -->
+<!-- [A relative link from one post to another post]({{< relref "docs/introduction" >}}) -->
 
 <!-- above line works but giver warning -->
 
-[Scroll down to a page section with heading *Figures*](test#figures)
+[Scroll down to a page section with heading *Figures*](markdown-guide#figures)
 
 ## Link to a file???
 

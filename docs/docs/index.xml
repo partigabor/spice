@@ -9,12 +9,12 @@
     <copyright>Copyright</copyright>
     <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Background</title>
-      <link>https://partigabor.github.io/spice/docs/background/background/</link>
+      <title>A Test Page</title>
+      <link>https://partigabor.github.io/spice/docs/testpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://partigabor.github.io/spice/docs/background/background/</guid>
-      <description></description>
+      <guid>https://partigabor.github.io/spice/docs/testpage/</guid>
+      <description>⚓ Website Under Construction ⚓</description>
     </item>
     
     <item>
@@ -34,15 +34,6 @@ Sources#Primary Literature#Secondary Literature#Books#Articles#</descr
       
       <guid>https://partigabor.github.io/spice/docs/cite/</guid>
       <description>How to Cite?#⚓ Website Under Construction ⚓</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://partigabor.github.io/spice/docs/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/docs/test/</guid>
-      <description></description>
     </item>
     
   </channel>

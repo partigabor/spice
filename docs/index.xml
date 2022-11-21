@@ -234,15 +234,6 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
     </item>
     
     <item>
-      <title>Background</title>
-      <link>https://partigabor.github.io/spice/docs/background/background/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/docs/background/background/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Privacy</title>
       <link>https://partigabor.github.io/spice/pages/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -261,11 +252,20 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://partigabor.github.io/spice/posts/test/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <title>A Test Page</title>
+      <link>https://partigabor.github.io/spice/docs/testpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://partigabor.github.io/spice/posts/test/</guid>
+      <guid>https://partigabor.github.io/spice/docs/testpage/</guid>
+      <description>⚓ Website Under Construction ⚓</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://partigabor.github.io/spice/posts/markdown-guide/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/posts/markdown-guide/</guid>
       <description>&lt;!-- linktitle: One # These don&#39;t work
 menu:
   main:
@@ -324,15 +324,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       <guid>https://partigabor.github.io/spice/docs/section/second-page/</guid>
       <description>Second Page#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://partigabor.github.io/spice/docs/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/docs/test/</guid>
-      <description></description>
     </item>
     
   </channel>
