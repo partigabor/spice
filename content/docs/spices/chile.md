@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                   red and green in many shades                  |
 |      link      |       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
 
- ## Names
+## Names
+
 |English|                 Arabic                |             Chinese            |Hungarian|
 |-------|---------------------------------------|--------------------------------|---------|
 |  nan  |**فلفل حار** *fulful hārr* [hot pepper]|**辣椒** *làjiāo* [pungent-pepper]|   nan   |

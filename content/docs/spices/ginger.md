@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |    light yellow when fresh, beige when powdered   |
 |      link      |[POWO](https://powo.science.kew.org/taxon/798372-1)|
 
- ## Names
+## Names
+
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 |  nan  |  nan |  nan  |   nan   |

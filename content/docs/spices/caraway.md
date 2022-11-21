@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                     dark brown                    |
 |      link      |[POWO](https://powo.science.kew.org/taxon/839677-1)|
 
- ## Names
+## Names
+
 |English|Arabic|Chinese|           Hungarian           |
 |-------|------|-------|-------------------------------|
 |  nan  |  nan |  nan  |**fűszerkömény ** [spice-cumin]|

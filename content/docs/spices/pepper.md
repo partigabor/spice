@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                black; white; green                |
 |      link      |[POWO](https://powo.science.kew.org/taxon/682369-1)|
 
- ## Names
+## Names
+
 |         English        |Arabic|              Chinese             |    Hungarian    |
 |------------------------|------|----------------------------------|-----------------|
 |**pepper;** black pepper|  nan |**胡椒** *hújiāo* [barbarian-pepper]|**bors** [pepper]|

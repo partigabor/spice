@@ -29,7 +29,8 @@ categories: [Spice; Herb; Vegetable]
 |      color     |             light green to light brown             |
 |      link      | [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
- ## Names
+## Names
+
 |English|Arabic|           Chinese           |          Hungarian         |
 |-------|------|-----------------------------|----------------------------|
 |  nan  |  nan |**茴香** *huíxiāng* [hui-spice]|**édeskömény** [sweet-cumin]|

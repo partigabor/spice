@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |  warm yellowish-brown, cinnamon \sample{cinnamon} |
 |      link      |[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
- ## Names
+## Names
+
 |English|            Arabic           |                    Chinese                   |      Hungarian      |
 |-------|-----------------------------|----------------------------------------------|---------------------|
 |  nan  |**قرفة** *qirfa* [rind; bark]|**錫蘭肉桂** *xīlánròuguì* [Ceylon-flesh-cinnamon]|**fahéj** [tree-bark]|

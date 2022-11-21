@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |   dreen to red when ripe, dark brown when dried   |
 |      link      |[POWO](https://powo.science.kew.org/taxon/682031-1)|
 
- ## Names
+## Names
+
 |English|Arabic|Chinese|          Hungarian          |
 |-------|------|-------|-----------------------------|
 |  nan  |  nan |  nan  |**hosszú bors** [long-pepper]|

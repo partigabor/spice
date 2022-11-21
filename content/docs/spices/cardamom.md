@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |              green seed pods, brown seeds             |
 |      link      |  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
 
- ## Names
+## Names
+
 |English|Arabic|              Chinese             |Hungarian|
 |-------|------|----------------------------------|---------|
 |  nan  |  nan |**荳蔻/豆蔻** *dòukòu* [bean-cardamom]|   nan   |

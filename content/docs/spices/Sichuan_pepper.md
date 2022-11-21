@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                     red; green                    |
 |      link      |[POWO](https://powo.science.kew.org/taxon/775625-1)|
 
- ## Names
+## Names
+
 |English|                       Arabic                       |             Chinese             |             Hungarian             |
 |-------|----------------------------------------------------|---------------------------------|-----------------------------------|
 |  nan  |**فلفل سيتشوان** *fulful sītshuwān* [Sichuan pepper]|**花椒** *huā​jiāo* [flower-pepper]|**szecsuáni bors** [Sichuan pepper]|

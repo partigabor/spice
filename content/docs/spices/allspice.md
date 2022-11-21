@@ -29,10 +29,13 @@ categories: [Spice]
 |      color     |                     dark brown                    |
 |      link      |[POWO](https://powo.science.kew.org/taxon/196799-2)|
 
- ## Names
+## Names
+
 |               English               |                      Arabic                      |                 Chinese                |          Hungarian          |
 |-------------------------------------|--------------------------------------------------|----------------------------------------|-----------------------------|
 |**allspice;** pimento; Jamaica pepper|**فلفل إفرنجي** *fulful ifranjī* [European pepper]|**多香果** *duōxiāngguǒ* [many-spice-fruit]|**szegfűbors** [clove-pepper]|
 
 {{< load-plotly >}}
+{{< plotly json="/plotly/allspice.json" height="400px" >}}
+
 {{< plotly json="/plotly/test.json" height="400px" >}}

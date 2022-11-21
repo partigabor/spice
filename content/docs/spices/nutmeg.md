@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |         pale brown nut, dark when powdered        |
 |      link      |[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
- ## Names
+## Names
+
 |English|                  Arabic                  |                 Chinese                 |           Hungarian          |
 |-------|------------------------------------------|-----------------------------------------|------------------------------|
 |  nan  |**جوز الطيب** *jawz al-ṭīb* [fragrant nut]|**肉豆蔻** *ròudòukòu* [flesh-bean-cardamom]|**szerecsendió** [Saracen nut]|

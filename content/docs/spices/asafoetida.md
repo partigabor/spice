@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |             from pale yellow to brown             |
 |      link      |[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
- ## Names
+## Names
+
 |              English             |Arabic|Chinese|           Hungarian          |
 |----------------------------------|------|-------|------------------------------|
 |**asafoetida;** hing; devil's dung|  nan |  nan  |**ördöggyökér** [devil's root]|

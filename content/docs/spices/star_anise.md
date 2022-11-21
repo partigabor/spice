@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                             orange brown                             |
 |      link      |          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
 
- ## Names
+## Names
+
 |English|                   Arabic                  |         Chinese         |          Hungarian          |
 |-------|-------------------------------------------|-------------------------|-----------------------------|
 |  nan  |**يانسون نجمي** *yānsūn najmī* [star anise]|**八角** *bājiǎo* [octagon]|**csillagánizs** [star-anise]|

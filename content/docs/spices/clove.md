@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                rich, reddish brown                |
 |      link      |[POWO](https://powo.science.kew.org/taxon/601421-1)|
 
- ## Names
+## Names
+
 |English|Arabic|            Chinese            |            Hungarian           |
 |-------|------|-------------------------------|--------------------------------|
 |  nan  |  nan |**丁香** *dīngxiāng* [nail-spice]|**szegfűszeg** [nail-grass-nail]|

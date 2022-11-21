@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                   reddish brown                   |
 |      link      |[POWO](https://powo.science.kew.org/taxon/463288-1)|
 
- ## Names
+## Names
+
 |English|             Arabic             |             Chinese            |               Hungarian               |
 |-------|--------------------------------|--------------------------------|---------------------------------------|
 |  nan  |**سليخة** *salīkha* [peel; bark]|**肉桂** *ròuguì* [flesh-cinnamon]|**kasszia(fahéj)** [cassia (tree-bark)]|

@@ -29,7 +29,8 @@ categories: [Spice]
 |      color     |                   orange-yellow                   |
 |      link      |[POWO](https://powo.science.kew.org/taxon/796451-1)|
 
- ## Names
+## Names
+
 |English|Arabic|              Chinese              |Hungarian|
 |-------|------|-----------------------------------|---------|
 |  nan  |  nan |**薑黃** *jiānghuáng* [ginger-yellow]|   nan   |
