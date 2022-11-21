@@ -1,1 +1,0 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/spice/sw.js",{scope:"/"})

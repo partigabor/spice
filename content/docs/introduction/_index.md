@@ -14,10 +14,6 @@ plotly: true
 <!-- {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
 
-![Some](images/dist.png)
-
-![Some](dist2.png)
-
 ![Some](images/diogenes.jpg)
 
 <!-- [Distribution HTML](./distribution.html) -->
