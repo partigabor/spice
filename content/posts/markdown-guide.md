@@ -135,7 +135,7 @@ I have more [^9] to say.
 
 # Figures 
 
-![PolyU](/images/univ-transparent.png)
+![PolyU](/images/polyu-logo.png)
 
 Horizontal line using `***`
 ***
