@@ -22,6 +22,13 @@ The following markdown file showcases all the features one can achieve within ma
 
 <!-- Use this line above to create and expandable... -->
 
+# Images
+
+The only correct way to insert images from static/images:
+```
+![1](/images/polyu-logo.png)
+```
+
 ![1](/images/sigil.png)
 
 ![2](images/sigil.png)
