@@ -722,10 +722,11 @@ https://github.com/alex-shpak/hugo-book
   Plotly
   <a class="anchor" href="#plotly">#</a>
 </h1>
-<p>
+
   
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
+<p>1</p>
 
 
 <div id="diffusion_ar.json" class="plotly" style="height:400px"></div>
@@ -736,6 +737,7 @@ Plotly.d3.json("diffusion_ar.json", function(err, fig) {
 });
 </script>
 
+<p>2</p>
 
 
 <div id="/plotly/diffusion_ar.json" class="plotly" style="height:400px"></div>
@@ -746,6 +748,7 @@ Plotly.d3.json("/plotly/diffusion_ar.json", function(err, fig) {
 });
 </script>
 
+<p>3</p>
 
 
 <div id="/static/plotly/diffusion_ar.json" class="plotly" style="height:400px"></div>
@@ -755,7 +758,7 @@ Plotly.d3.json("/static/plotly/diffusion_ar.json", function(err, fig) {
     Plotly.plot('\/static\/plotly\/diffusion_ar.json', fig.data, fig.layout, {responsive: true});
 });
 </script>
-</p>
+
 <!-- works if you put it in main website, but try here after canonify -->
 <hr>
 <h2 id="headings">
