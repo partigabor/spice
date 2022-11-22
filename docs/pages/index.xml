@@ -1,29 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Spices &amp; Spice Terminology Database</title>
-    <link>https://partigabor.github.io/spice/pages/</link>
-    <description>Recent content in Pages on Spices &amp; Spice Terminology Database</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright</copyright><atom:link href="https://partigabor.github.io/spice/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Privacy</title>
-      <link>https://partigabor.github.io/spice/pages/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/pages/privacy/</guid>
-      <description>Privacy statement#Traffic on this website is tracked by the creator using Google Analytics out of curiosity of what people click on.</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://partigabor.github.io/spice/pages/terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/pages/terms/</guid>
-      <description>Terms &amp;amp; conditions#Right now the website and the database are still under development, use with caution.</description>
-    </item>
-    
-  </channel>
-</rss>
