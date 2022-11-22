@@ -28,15 +28,13 @@ The following markdown file showcases all the features one can achieve within ma
 
 1
 
-{{< plotly json="diffusion_ar.json" height="400px" >}}
+{{< plotly json="test.json" height="400px" >}}
 
 2
 
-{{< plotly json="/plotly/diffusion_ar.json" height="400px" >}}
+{{< plotly json="/plotly/test.json" height="400px" >}}
 
 3
-
-{{< plotly json="/static/plotly/diffusion_ar.json" height="400px" >}}
 
 <!-- works if you put it in main website, but try here after canonify -->
 
