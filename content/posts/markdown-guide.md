@@ -29,30 +29,14 @@ The only correct way to insert images from static/images:
 ![1](/images/polyu-logo.png)
 ```
 
-![1](/images/sigil.png)
-
-![2](images/sigil.png)
-
-![3](/static/images/sigil.png)
-
-![4](static/images/sigil.png)
-
-![5](/spice/sigil.png)
-
-![6](spice/sigil.png)
-
-![1](./images/sigil.png)
-
-![3](./static/images/sigil.png)
-
-![5](./spice/sigil.png)
+![1](/images/polyu-logo.png)
 
 # Plotly
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/test.json" height="400px" >}}
 
-<!-- works if you put it in main website -->
+<!-- works if you put it in main website, but try here after canonify -->
 
 ***
 
