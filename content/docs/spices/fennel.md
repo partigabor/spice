@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb; Vegetable]
-date: 2022-11-21
+date: 2022-11-22
 author: Gábor Parti
 plotly: true
 categories: [Spice; Herb; Vegetable]
