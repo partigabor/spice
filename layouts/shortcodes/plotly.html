@@ -1,4 +1,4 @@
-{{ $json := .Get "json" | default "/static/plotly/images/" }}
+{{ $json := .Get "json" | default "/static/plotly/" }}
 
 {{ $height := .Get "height" | default "200px" }}
 <div id="{{$json}}" class="plotly" style="height:{{$height}}"></div>
