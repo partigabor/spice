@@ -6,11 +6,10 @@ weight = 11
 description = "Description."
 plotly = "true"
 categories = [
-    "technical",
+    "technical","guide","operative"
 ]
 tags = [
-    "markdown",
-    "syntax",
+    "markdown","syntax",
 ]
 menu = "main"
 bookHidden = "true"
@@ -35,6 +34,8 @@ The following markdown file showcases all the features one can achieve within ma
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/test.json" height="400px" >}}
+
+<!-- works if you put it in main website -->
 
 ***
 
@@ -447,12 +448,13 @@ https://forkaweso.me/Fork-Awesome/icons/
 
 # Gallery
 
-<!-- {{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
+{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
 
 {{< load-photoswipe >}}
 
-https://github.com/liwenyip/hugo-easy-gallery -->
+<!-- https://github.com/liwenyip/hugo-easy-gallery -->
 
+<!-- For later -->
 <!-- https://discourse.gohugo.io/t/solved-adding-image-to-every-post/14421 -->
 
 

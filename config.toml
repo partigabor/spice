@@ -14,6 +14,11 @@ copyright = 'Copyright' #?
 # The folder where Hugo builds the website and Github reads it from
 publishDir = "docs"
 
+# Warning: Images are read from the static/images folder 
+# of the main website: https://partigabor.github.io/
+
+canonifyurls=true
+
 # # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # # all pages.
 # disqusShortname = "my-site"

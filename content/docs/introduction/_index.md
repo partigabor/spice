@@ -8,13 +8,15 @@ plotly: true
 
 ⚓ Website Under Construction ⚓
 
-<!-- {{< load-plotly >}}
-{{< plotly json="/plotly/test.json" height="400px" >}} -->
+![1](/images/sigil.png)
+![2](images/sigil.png)
 
-<!-- {{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_en.json" height="400px" >}} -->
+![3](/static/images/sigil.png)
+![4](static/images/sigil.png)
 
-![Dio 2](/images/hariri.jpg)
+![5](/spice/sigil.png)
+![6](spice/sigil.png)
+
 
 <!-- ![Dio 1](/images/diogenes.jpg) -->
 

@@ -1,7 +1,7 @@
 ---
 weight: 10
 bookFlatSection: false
-title: "A Test Page"
+title: "Testpage"
 # bookHidden: true
 plotly: true
 ---

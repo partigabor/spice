@@ -252,7 +252,7 @@ pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species 
     </item>
     
     <item>
-      <title>A Test Page</title>
+      <title>Testpage</title>
       <link>https://partigabor.github.io/spice/docs/testpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
