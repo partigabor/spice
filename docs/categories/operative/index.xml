@@ -14,16 +14,7 @@
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/posts/markdown-guide/</guid>
-      <description>&lt;!-- linktitle: One # These don&#39;t work
-menu:
-  main:
-    parent: Posts
-next: /content/posts/two
-prev: /content/posts/zero
-bookComments: false
-bookSearchExclude: false --&gt;
-&lt;p&gt;The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.&lt;/p&gt;
-&lt;!-- Use this line below to create and expandable... --&gt;</description>
+      <description>&lt;p&gt;The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.&lt;/p&gt;</description>
     </item>
     
   </channel>

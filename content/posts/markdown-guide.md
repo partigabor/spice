@@ -13,22 +13,27 @@ tags = [
 ]
 menu = "main"
 bookHidden = "true"
+bookSearchExclude = "true"
 +++
-
-<!-- linktitle: One # These don't work
-menu:
-  main:
-    parent: Posts
-next: /content/posts/two
-prev: /content/posts/zero
-bookComments: false
-bookSearchExclude: false -->
 
 The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.
 
-<!-- Use this line below to create and expandable... -->
-
 <!--more-->
+
+<!-- Use this line above to create and expandable... -->
+
+![1](/images/sigil.png)
+![2](images/sigil.png)
+
+![3](/static/images/sigil.png)
+![4](static/images/sigil.png)
+
+![5](/spice/sigil.png)
+![6](spice/sigil.png)
+
+![1](./images/sigil.png)
+![3](./static/images/sigil.png)
+![5](./spice/sigil.png)
 
 # Plotly
 
