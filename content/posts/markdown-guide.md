@@ -25,7 +25,7 @@ The following markdown file showcases all the features one can achieve within ma
 # Plotly
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_en.json" height="400px" >}}
+{{< plotly json="/static/plotly/diffusion_en.json" height="400px" >}}
 
 <!-- works if you put it in main website, but try here after canonify -->
 
