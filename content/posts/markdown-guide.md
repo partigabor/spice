@@ -25,6 +25,7 @@ The following markdown file showcases all the features one can achieve within ma
 # Plotly
 
 {{< load-plotly >}}
+{{< plotly json="diffusion_ar.json" height="400px" >}}
 {{< plotly json="/plotly/diffusion_ar.json" height="400px" >}}
 {{< plotly json="/static/plotly/diffusion_ar.json" height="400px" >}}
 
