@@ -23,16 +23,21 @@ The following markdown file showcases all the features one can achieve within ma
 <!-- Use this line above to create and expandable... -->
 
 ![1](/images/sigil.png)
+
 ![2](images/sigil.png)
 
 ![3](/static/images/sigil.png)
+
 ![4](static/images/sigil.png)
 
 ![5](/spice/sigil.png)
+
 ![6](spice/sigil.png)
 
 ![1](./images/sigil.png)
+
 ![3](./static/images/sigil.png)
+
 ![5](./spice/sigil.png)
 
 # Plotly
