@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |  nan  |**fűszerkömény ** [spice-cumin]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/caraway.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_caraway.json" height="400px" >}}

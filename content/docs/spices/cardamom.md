@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |**荳蔻/豆蔻** *dòukòu* [bean-cardamom]|   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/cardamom.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_cardamom.json" height="400px" >}}

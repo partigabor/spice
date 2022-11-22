@@ -36,4 +36,4 @@ categories: [Spice; Herb]
 |  nan  |  nan |  nan  |   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/dill.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_dill.json" height="400px" >}}

@@ -36,4 +36,4 @@ categories: [Spice; Flavoring]
 |  nan  |  nan |**香草** *xiāngcǎo* [fragrant-herb]|   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/vanilla.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_vanilla.json" height="400px" >}}

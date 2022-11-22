@@ -36,4 +36,4 @@ categories: [Spice]
 |**pepper;** black pepper|  nan |**胡椒** *hújiāo* [barbarian-pepper]|**bors** [pepper]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/pepper.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_pepper.json" height="400px" >}}

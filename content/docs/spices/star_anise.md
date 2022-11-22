@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |**يانسون نجمي** *yānsūn najmī* [star anise]|**八角** *bājiǎo* [octagon]|**csillagánizs** [star-anise]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/star_anise.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_star_anise.json" height="400px" >}}

@@ -36,4 +36,4 @@ categories: [Spice]
 |**anise;** aniseed|  nan |**茴芹** *huíqín* [anise-celery]|   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/anise.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_anise.json" height="400px" >}}

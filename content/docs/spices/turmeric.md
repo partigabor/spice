@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |**薑黃** *jiānghuáng* [ginger-yellow]|   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/turmeric.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_turmeric.json" height="400px" >}}

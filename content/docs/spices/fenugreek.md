@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |  nan  |**görögszéna** [greek-hay]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/fenugreek.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_fenugreek.json" height="400px" >}}

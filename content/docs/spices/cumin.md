@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |  nan  |**római kömény** [Roman cumin]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/cumin.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_cumin.json" height="400px" >}}

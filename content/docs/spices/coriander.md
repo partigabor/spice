@@ -36,4 +36,4 @@ categories: [Spice; Herb]
 |**coriander;** cilantro; Chinese parsley|  nan |**芫荽** *yán​sui* [lilac-coriander]|   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/coriander.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_coriander.json" height="400px" >}}

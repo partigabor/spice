@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |**肉豆蔻皮** *ròudòukòupí* [flesh-bean-cardamom-skin]|**szerecsendió-virág** [Saracen nut flower]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/mace.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_mace.json" height="400px" >}}

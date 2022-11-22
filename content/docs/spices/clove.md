@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |**丁香** *dīngxiāng* [nail-spice]|**szegfűszeg** [nail-grass-nail]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/clove.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_clove.json" height="400px" >}}

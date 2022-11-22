@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |**藏紅花** *zànghónghuā* [Tibetan-red-flower]|   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/saffron.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_saffron.json" height="400px" >}}

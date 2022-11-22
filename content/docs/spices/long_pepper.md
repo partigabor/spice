@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |  nan  |**hosszú bors** [long-pepper]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/long_pepper.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_long_pepper.json" height="400px" >}}

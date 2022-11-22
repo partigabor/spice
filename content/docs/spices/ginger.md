@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |  nan |  nan  |   nan   |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/ginger.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_ginger.json" height="400px" >}}

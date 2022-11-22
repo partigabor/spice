@@ -36,4 +36,4 @@ categories: [Spice]
 |  nan  |**جوز الطيب** *jawz al-ṭīb* [fragrant nut]|**肉豆蔻** *ròudòukòu* [flesh-bean-cardamom]|**szerecsendió** [Saracen nut]|
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/nutmeg.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_nutmeg.json" height="400px" >}}
