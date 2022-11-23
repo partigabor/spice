@@ -17,10 +17,12 @@ publishDir = "docs"
 # Assets folder
 assetDir = "assets"
 
-# Warning: Images are read from the static/images folder 
-# of the main website: https://partigabor.github.io/
+# Warning: Images are read from the static/images folder of the main website: https://partigabor.github.io/
 
-# canonifyurls=true #kills Search function if true
+# Fix urls so Hugo can find images on this website.
+# WARNING! Kills Search function if true
+# canonifyurls=true 
+
 
 # # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # # all pages.
