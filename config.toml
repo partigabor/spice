@@ -17,7 +17,7 @@ publishDir = "docs"
 # Warning: Images are read from the static/images folder 
 # of the main website: https://partigabor.github.io/
 
-canonifyurls=true
+# canonifyurls=true #kills Search function if true
 
 # # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # # all pages.
@@ -158,7 +158,7 @@ enableEmoji = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
-  BookServiceWorker = true
+  BookServiceWorker = false
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
