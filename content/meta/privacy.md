@@ -1,12 +1,12 @@
 ---
 title: Privacy
 weight: 9
+# bookCollapseSection: true
+# bookComments: true
+# bookFlatSection: true
+# bookHidden: true
+bookSearchExclude: true
 bookToc: false
-# bookFlatSection: false
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
 ---
 
 # Privacy statement

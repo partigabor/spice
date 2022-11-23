@@ -1,10 +1,12 @@
 ---
 title: "Introduction"
 weight: 10
-bookFlatSection: false
-bookCollapseSection: false
-plotly: true
+# bookCollapseSection: true
+# bookComments: true
+# bookFlatSection: true
 # bookHidden: true
+# bookSearchExclude: true
+# bookToc: false
 ---
 
 ⚓ Website Under Construction ⚓

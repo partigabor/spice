@@ -1,9 +1,12 @@
 ---
 title: "Sections"
 weight: 10
-bookFlatSection: false
-bookCollapseSection: true
+# bookCollapseSection: true
+# bookComments: true
+# bookFlatSection: true
 bookHidden: true
+bookSearchExclude: true
+# bookToc: false
 ---
 
 ⚓ Website Under Construction ⚓
