@@ -134,9 +134,9 @@ The only correct way to insert images from static/images:
 
 ![Image](/images/polyu-logo.png)
 
-![Image](/images/diogenes.png)
+![Image](/images/diogenes.jpg)
 
-![Image](/images/hariri.png)
+![Image](/images/hariri.jpg)
 
 ## Tables
 
