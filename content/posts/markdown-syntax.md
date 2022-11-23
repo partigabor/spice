@@ -134,6 +134,10 @@ The only correct way to insert images from static/images:
 
 ![Image](/images/polyu-logo.png)
 
+![Image](/images/diogenes.png)
+
+![Image](/images/hariri.png)
+
 ## Tables
 
 Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-box.
