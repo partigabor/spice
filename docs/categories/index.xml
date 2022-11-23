@@ -45,15 +45,6 @@
     </item>
     
     <item>
-      <title>category</title>
-      <link>https://partigabor.github.io/spice/categories/category/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>guide</title>
       <link>https://partigabor.github.io/spice/categories/guide/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
@@ -63,11 +54,11 @@
     </item>
     
     <item>
-      <title>operative</title>
-      <link>https://partigabor.github.io/spice/categories/operative/</link>
+      <title>meta</title>
+      <link>https://partigabor.github.io/spice/categories/meta/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://partigabor.github.io/spice/categories/operative/</guid>
+      <guid>https://partigabor.github.io/spice/categories/meta/</guid>
       <description></description>
     </item>
     

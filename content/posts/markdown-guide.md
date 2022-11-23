@@ -1,19 +1,15 @@
 +++
 title = "Markdown Syntax Guide"
-date = "2022-09-01"
 author = "Gábor Parti"
+date = "2022-09-01"
 weight = 11
 description = "Description."
-plotly = "true"
-categories = [
-    "technical","guide","operative"
-]
-tags = [
-    "markdown","syntax",
-]
+categories = ["technical","guide","meta"]
+tags = ["markdown","syntax"]
 menu = "main"
-bookHidden = "true"
 bookSearchExclude = "true"
+bookHidden = "true"
+plotly = "true"
 +++
 
 The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.
@@ -28,7 +24,7 @@ The following markdown file showcases all the features one can achieve within ma
 
 1
 
-{{< plotly json="/plotly/diffusion_en.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_en.json" height="300" >}}
 
 <!-- works if you put it in main website, but try here after canonify -->
 
@@ -117,7 +113,7 @@ Todo lists can be written by using the standard Markdown syntax:
 
 [An external link](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html)
 
-<!-- [A relative link from one post to another post]({{< relref "docs/introduction" >}}) -->
+[A relative link from one post to another post](docs/introduction)
 
 <!-- above line works but giver warning -->
 

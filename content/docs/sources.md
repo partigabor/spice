@@ -1,13 +1,12 @@
 ---
 title: "Sources"
 weight: 80
-# bookHidden: true
-bookFlatSection: true
-bookToc: false
+# bookToc: false
+# bookFlatSection: false
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
-# series: [Spice]
+# bookHidden: false
 ---
 
 ⚓ Website Under Construction ⚓

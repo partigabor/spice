@@ -7,11 +7,10 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
-# series: [Spice]
 date: 2022-11-22
 author: Gábor Parti
 plotly: true
-categories: [Spice]
+categories: ["Spice"]
 ---
 
 # Allspice

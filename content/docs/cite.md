@@ -1,8 +1,12 @@
 ---
-weight: 90
-# bookFlatSection: true
 title: "Cite"
-# bookHidden: true
+weight: 90
+bookToc: false
+# bookFlatSection: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHidden: false
 ---
 
 # How to Cite?
