@@ -222,15 +222,5 @@
       <description>Vanilla#Overview#id vanilla species Vanilla planifolia Jacks. ex Andrews family Orchidaceae plant part used fruit region of origin Tropical America macroarea Americas cultivation Madagascar; Indonesia; Mexico; Papua New Guinea; China color dark brown pod; creamy white extract link POWO Names#English Arabic Chinese Hungarian nan nan 香草 xiāngcǎo [fragrant-herb] nan </description>
     </item>
     
-    <item>
-      <title>Allspice</title>
-      <link>https://partigabor.github.io/spice/book/spices/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/spices/test/</guid>
-      <description>HOW TO:
-pandoc -s example4.tex -o example5.mdAllspice#Overview#id allspice species Pimenta dioica (L.) Merr. family Myrtaceae Names#EnglishallspiceArabicفلفل إفرنجيChinese多香果Allspice#::: note Introducing the Spice profile box. As it can be seen above in Spice profile [spice:allspice]{reference-type=&amp;ldquo;ref&amp;rdquo; reference=&amp;ldquo;spice:allspice&amp;rdquo;} presenting allspice, this business-card-like environment gives a quick reference of the spice under scrutiny in a concise way. This is intended to be a convenience for the reader to return and glance back at brief, factual information about a particular item whenever necessary.</description>
-    </item>
-    
   </channel>
 </rss>
