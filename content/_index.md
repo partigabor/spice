@@ -1,13 +1,13 @@
 ---
 title: Home
-type: docs
+type: book
 weight: 1
 ---
 
+⚓ Website Under Construction ⚓
+
 # Spices & Spice Terminology Database
 
-⚓ Website Under Construction ⚓
-<!-- 
 {{< columns >}}
 ## The Spices
 
@@ -19,6 +19,6 @@ A
 
 B
 
-{{< /columns >}} -->
+{{< /columns >}}
 
 ***

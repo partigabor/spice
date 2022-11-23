@@ -10,6 +10,7 @@ menu = "main"
 bookSearchExclude = "true"
 bookHidden = "true"
 plotly = "true"
+# draft: true
 +++
 
 The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.

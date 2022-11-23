@@ -82,10 +82,10 @@ enableEmoji = true
 [menu]
 # [[menu.before]]
 
-[[menu.after]]
-  name = "Creator"
-  url = "https://partigabor.github.io/"
-  weight = 20
+# [[menu.after]]
+#   name = "Creator"
+#   url = "https://partigabor.github.io/"
+#   weight = 20
 
 # [[menu.after]]
 #   name = "GitHub"
@@ -116,7 +116,7 @@ enableEmoji = true
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection = 'docs'
+  BookSection = 'book'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
@@ -171,13 +171,12 @@ enableEmoji = true
   # manually added
 [params.mysite]
   # footer
-  websiteterms = "https://partigabor.github.io/spice/pages/terms"
-  privacypolicy = "https://partigabor.github.io/spice/pages/privacy"
+  websiteterms = "https://partigabor.github.io/spice/meta/terms"
+  privacypolicy = "https://partigabor.github.io/spice/meta/privacy"
   author = "Gábor Parti"
   copystart = "2020" 
 
   # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
-
 
 # Needed for mermaid/katex shortcodes
 [markup]
