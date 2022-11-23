@@ -1,0 +1,9 @@
+<!-- for usage details visit https://bit.ly/31PSv6d -->
+{{ $font := .Get "font" }} 
+{{ $size := .Get "size" }}
+{{ $style := .Get "style" | default "normal" }}
+{{ $weight := .Get "weight" | default "normal" }}
+<link href="https://fonts.googleapis.com/css?family={{ $font }}" rel="stylesheet" type="text/css">
+<div style="font-family:'{{ $font }}'; font-size:{{ $size }}; font-style:{{ $style}}; font-weight:{{ $weight }}">
+    {{- .Inner -}}
+</div>

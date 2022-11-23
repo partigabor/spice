@@ -1,0 +1,8 @@
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    {{ with .Get "src" }}<source src="{{ .  | relURL }}" type="audio/mpeg">{{ end }}
+    {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+    </audio>
+</figure>
+
+<!-- Add 'autoplay' after the word 'controls' to make it start automatically. Remove the word 'autoplay' from above if not wanted. -->

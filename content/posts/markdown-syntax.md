@@ -1,14 +1,12 @@
 +++
-title = "Markdown Syntax Guide"
+title = "Markdown Syntax Guide and Hugo Shortcodes"
 author = "Gábor Parti"
 date = "2022-09-01"
 weight = 11
 description = "Description."
-categories = ["technical","guide","meta"]
+categories = ["technical","guide"]
 tags = ["markdown","syntax"]
-menu = "main"
-bookSearchExclude = "true"
-bookHidden = "true"
+menu = "main:posts"
 plotly = "true"
 # draft: true
 +++
@@ -19,17 +17,17 @@ The following markdown file showcases all the features one can achieve within ma
 
 <!-- Use this line above to create and expandable... -->
 
-# Plotly
+# MARKDOWN FORMAT
+
+## Plotly
 
 {{< load-plotly >}}
 
 1
 
-{{< plotly json="/plotly/diffusion_en.json" height="300" >}}
+{{< plotly json="/plotly/distribution.json" height="300" >}}
 
-<!-- works if you put it in main website, but try here after canonify -->
-
-***
+<!-- works if I put files on main website -->
 
 ## Headings
 
@@ -44,7 +42,7 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 Paragraphs are separated by enters.
 
-# Emphasis
+## Emphasis
 
 Italics with _underscores_. 
 
@@ -54,10 +52,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough with ~~two tildes~~.
 
-
-
-## Blockquotes
-
+Blockquotes: 
 The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
 
 > This is a blockquote with a >.
@@ -76,7 +71,17 @@ The blockquote element represents content that is quoted from another source, op
 
 [^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
-## List Types
+Horizontal line using `***`
+
+***
+
+#### Footnote
+
+I have more [^9] to say.
+
+[^9]: Footnote example.
+
+## Lists
 
 #### Ordered List
 
@@ -100,7 +105,7 @@ The blockquote element represents content that is quoted from another source, op
   * Milk
   * Cheese
 
-# Todo
+## Todo
 
 Todo lists can be written by using the standard Markdown syntax:
 
@@ -108,35 +113,26 @@ Todo lists can be written by using the standard Markdown syntax:
   - [x] Write diagram example
 - [ ] Do something else
 
-# Links
+## Links
 
-## Link to a page
+#### Link to a page
 
 [An external link](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html)
 
-[A relative link from one post to another post](docs/introduction)
+[A relative link from one post to another post](book/cite)
 
-<!-- above line works but giver warning -->
+[A link to a file](/plotly/distribution.html)
 
-[Scroll down to a page section with heading *Figures*](markdown-guide#figures)
+[A link to heading on this page](markdown-syntax#figures)
 
-## Link to a file???
-
-I have more [^9] to say.
-
-[^9]: Footnote example.
-
-Horizontal line using `***`
-***
-
-# Figures 
+## Figures 
 
 The only correct way to insert images from static/images:
 ```
 ![1](/images/polyu-logo.png)
 ```
 
-![1](/images/polyu-logo.png)
+![Image](/images/polyu-logo.png)
 
 ## Tables
 
@@ -203,7 +199,9 @@ def roman(num: int) -> str:
 </html>
 {{< /highlight >}}
 
-## Other Elements — abbr, sub, sup, kbd, mark
+## Other Elements
+
+#### — abbr, sub, sup, kbd, mark
 
 <abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
 
@@ -215,13 +213,13 @@ Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the ses
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
 
-
-:heart:
+Emoji: :heart:
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
-# SHORTCODES
+***
 
+# SHORTCODES
 
 
 ## Columns
@@ -238,21 +236,21 @@ This is two.
 
 {{< /columns >}}
 
-# Buttons
+## Buttons
 
 Buttons are styled links that can lead to local page or external link.
-
-## Example
 
 ```tpl
 {{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}
 {{</* button href="https://github.com/alex-shpak/hugo-book" */>}}Contribute{{</* /button */>}}
 ```
 
+#### Example
+
 {{< button relref="/" >}}Get Home{{< /button >}}
 {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
 
-# Hints
+## Hints
 
 Hint shortcode can be used as hint/alerts/notification block.  
 There are 3 colors to choose: `info`, `warning` and `danger`.
@@ -265,7 +263,7 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{</* /hint */>}}
 ```
 
-## Example
+#### Example
 
 {{< hint info >}}
 **Markdown content**  
@@ -286,11 +284,11 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< /hint >}}
 
 
-# KaTeX
+## KaTeX
 
 KaTeX shortcode let you render math typesetting in markdown document. See [KaTeX](https://katex.org/)
 
-## Example
+#### Example
 
 ```latex
 {{</* katex [display] [class="text-center"]  */>}}
@@ -298,14 +296,11 @@ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{</* /katex */>}}
 ```
 
-
 {{< katex display >}}
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
 
-
-
-## Display Mode Example
+#### Display Mode Example
 
 Here is some inline example: {{< katex >}}\pi(x){{< /katex >}}, rendered in the same line. And below is `display` example, having `display: block`
 {{< katex display >}}
@@ -313,11 +308,11 @@ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
 Text continues here.
 
-# Details
+## Details
 
 Details shortcode is a helper for `details` html5 element. It is going to replace `expand` shortcode.
 
-## Example
+#### Example
 ```tpl
 {{</* details "Title" [open] */>}}
 ## Markdown content
@@ -332,13 +327,11 @@ Lorem markdownum insigne...
 ```
 
 {{< details "Title" open >}}
-## Markdown content
+#### Markdown content
 Lorem markdownum insigne...
 {{< /details >}}
 
-
-
-# Tabs
+## Tabs
 
 Tabs let you organize content by context, for example installation instructions for each supported platform.
 
@@ -350,11 +343,11 @@ Tabs let you organize content by context, for example installation instructions 
 {{</* /tabs */>}}
 ```
 
-## Example
+#### Example
 
 {{< tabs "uniqueid" >}}
 {{< tab "MacOS" >}}
-# MacOS
+## MacOS
 
 This is tab **MacOS** content.
 
@@ -366,7 +359,7 @@ Miseratus fonte Ditis conubia.
 
 {{< tab "Linux" >}}
 
-# Linux
+## Linux
 
 This is tab **Linux** content.
 
@@ -378,7 +371,7 @@ Miseratus fonte Ditis conubia.
 
 {{< tab "Windows" >}}
 
-# Windows
+## Windows
 
 This is tab **Windows** content.
 
@@ -390,7 +383,7 @@ Miseratus fonte Ditis conubia.
 {{< /tabs >}}
 
 
-# Mermaid Chart
+## Mermaid Chart
 
 [MermaidJS](https://mermaid-js.github.io/) is library for generating svg charts and diagrams from text.
 
@@ -401,7 +394,7 @@ To override the [initialization config](https://mermaid-js.github.io/mermaid/#/S
 create a `mermaid.json` file in your `assets` folder!
 {{< /hint >}}
 
-## Example
+#### Example
 
 
 ```tpl
@@ -431,7 +424,7 @@ stateDiagram-v2
 
 
 
-# Icons
+## Icons
 
 Fork-Awesome Icons, use them with html inputs like this, direcly in a md file:
 
@@ -443,7 +436,13 @@ Fork-Awesome Icons, use them with html inputs like this, direcly in a md file:
 
 https://forkaweso.me/Fork-Awesome/icons/
 
-# Gallery
+<a href="https://github.com/johndoe/" aria-label="Github"   >
+    <i class="fa fa-2x fa-github" aria-hidden="true"></i>
+</a>
+
+<i class="fa fa-2x fa-tex" aria-hidden="true"></i>
+
+## Gallery
 
 {{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
 
@@ -466,3 +465,25 @@ Use CNTRL + ALT + Z to cite from Zotero
 [^dalby_dangerous_2000]
 
 [^dalby_dangerous_2000]: Dalby, A. (2000). Dangerous Tastes: The Story of Spices. University of California Press. https://www.worldhistory.org/books/0520236742/
+
+## Typography
+
+{{< typography font="Raleway" size="32px" >}}
+Raleway.
+{{< /typography >}}
+
+## Centering
+
+{{% center %}}
+Centered text
+{{% /center %}}
+
+
+
+
+***
+
+> “What I like to drink most is wine that belongs to others.”<br>
+> — Diogenes, 4th century BC
+
+![Diogenes](/images/diogenes.jpg)
