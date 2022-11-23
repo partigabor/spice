@@ -25,7 +25,7 @@ The following markdown file showcases all the features one can achieve within ma
 
 1
 
-{{< plotly json="/plotly/distribution.json" height="300" >}}
+{{< plotly json="/plotly/distribution.json" height="200" >}}
 
 <!-- works if I put files on main website -->
 
