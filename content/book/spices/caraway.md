@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -21,7 +21,7 @@ categories: [Spice]
 |       id       |                      caraway                      |
 |----------------|---------------------------------------------------|
 |     species    |                  *Carum carvi* L.                 |
-|     family     |               Apiaceae/Umbelliferae               |
+|     family     |                      Apiaceae                     |
 | plant part used|                       fruit                       |
 |region of origin|               Mediterranean; Eurasia              |
 |    macroarea   |                      Eurasia                      |

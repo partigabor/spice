@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice; Herb]
@@ -21,7 +21,7 @@ categories: [Spice; Herb]
 |       id       |                        dill                       |
 |----------------|---------------------------------------------------|
 |     species    |              *Anethum graveolens* L.              |
-|     family     |               Apiaceae/Umbelliferae               |
+|     family     |                      Apiaceae                     |
 | plant part used|                    fruit; leaf                    |
 |region of origin|               Nort Africa; West Asia              |
 |    macroarea   |                   Med.; W. Asia                   |

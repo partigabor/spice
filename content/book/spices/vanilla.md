@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Flavoring]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice; Flavoring]

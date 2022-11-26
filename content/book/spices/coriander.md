@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice; Herb]
@@ -21,9 +21,9 @@ categories: [Spice; Herb]
 |       id       |                      coriander                      |
 |----------------|-----------------------------------------------------|
 |     species    |               *Coriandrum sativum* L.               |
-|     family     |                Apiaceae/Umbelliferae                |
+|     family     |                       Apiaceae                      |
 | plant part used|                     fruit; leaf                     |
-|region of origin|            Mediterranean; W. Asia; India            |
+|region of origin|         Mediterranean; W. Asia; India; SW As        |
 |    macroarea   |                         Asia                        |
 |   cultivation  |Argentina, India, Morocco, Romania, Spain, Yugoslavia|
 |      color     |                     light yellow                    |

@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -21,8 +21,8 @@ categories: [Spice]
 |       id       |                     asafoetida                    |
 |----------------|---------------------------------------------------|
 |     species    |           *Ferula foetida* (Bunge) Regel          |
-|     family     |               Apiaceae/Umbelliferae               |
-| plant part used|                 gum-resin (latex)                 |
+|     family     |                      Apiaceae                     |
+| plant part used|                       resin                       |
 |region of origin|                Iran; W. and C. Asia               |
 |    macroarea   |                        Asia                       |
 |   cultivation  |                 Iran; Afghanistan                 |

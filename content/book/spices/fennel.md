@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice; Herb; Vegetable]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice; Herb; Vegetable]
@@ -21,10 +21,10 @@ categories: [Spice; Herb; Vegetable]
 |       id       |                       fennel                       |
 |----------------|----------------------------------------------------|
 |     species    |             *Foeniculum vulgare* Mill.             |
-|     family     |                Apiaceae/Umbelliferae               |
+|     family     |                      Apiaceae                      |
 | plant part used|                     fruit; leaf                    |
-|region of origin|            Mediterranean; W. Asia; India           |
-|    macroarea   |                    Med.; W. Asia                   |
+|region of origin|                         Med                        |
+|    macroarea   |                         Med                        |
 |   cultivation  |Argentina, Bulgaria, Germany, Greece, India, Lebanon|
 |      color     |             light green to light brown             |
 |      link      | [POWO](https://powo.science.kew.org/taxon/842680-1)|

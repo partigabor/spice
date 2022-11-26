@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -21,9 +21,9 @@ categories: [Spice]
 |       id       |                     fenugreek                     |
 |----------------|---------------------------------------------------|
 |     species    |           *Trigonella foenum-graecum* L.          |
-|     family     |                Fabaceae/Leguminosae               |
+|     family     |                      Fabaceae                     |
 | plant part used|                     seed; leaf                    |
-|region of origin|                      W. Asia                      |
+|region of origin|                    S Eur; W As                    |
 |    macroarea   |                        Asia                       |
 |   cultivation  |                       India                       |
 |      color     |                mustard yellow seeds               |

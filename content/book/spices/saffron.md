@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 # series: [Spice]
-date: 2022-11-23
+date: 2022-11-26
 author: Gábor Parti
 plotly: true
 categories: [Spice]
@@ -24,7 +24,7 @@ categories: [Spice]
 |     family     |                     Iridaceae                     |
 | plant part used|                   stigma (style)                  |
 |region of origin|                       Greece                      |
-|    macroarea   |                   Med.; W. Asia                   |
+|    macroarea   |                        Med                        |
 |   cultivation  |             Iran; Spain; Kashmir; etc.            |
 |      color     |              deep red; dyes in orange             |
 |      link      |[POWO](https://powo.science.kew.org/taxon/436688-1)|
