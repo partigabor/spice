@@ -4,7 +4,7 @@ weight: 80
 # bookCollapseSection: true
 # bookComments: true
 # bookFlatSection: true
-# bookHidden: true
+bookHidden: true
 # bookSearchExclude: true
 # bookToc: false
 ---
