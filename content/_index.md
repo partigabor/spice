@@ -17,7 +17,7 @@ plotly: true
 
 ⚓ Website Under Construction ⚓
 
-# Spices & Spice Terminology Database ⸙
+# Spices & Spice Terminology Database
 
 {{< columns >}}
 ## The Spices
