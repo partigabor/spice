@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Saffron
 
-Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for bouillabaise, rice; fevers. Its aroma is described as pungent, bitter.[^ucla_medicinal_2002]
+|English|Arabic|Chinese|Hungarian|
+|-------|------|-------|---------|
+|saffron|زعفران|  藏紅花  | sáfrány |
+
+Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for bouillabaise, rice; fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,35 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |       color      |              deep red; dyes in orange             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
 
+***
+
 ## Names
 
-|English|Arabic|Chinese|Hungarian|
-|-------|------|-------|---------|
-|saffron|زعفران|  藏紅花  | sáfrány |
+### English
+
+|  term |source|
+|-------|------|
+|saffron|  OED |
+
+### Arabic
+
+|script|  term  |literal|    source    |
+|------|--------|-------|--------------|
+|  حص  |  ḥuṣṣ  |       |  Wehr, 1976  |
+| جادي |  jādī  |       |Baalbaki, 1995|
+|زعفران|zaʿfarān|       |  Wehr, 1976  |
+
+### Chinese
+
+|script|    term   |      literal     |         source         |
+|------|-----------|------------------|------------------------|
+|  番紅花 | fānhónghuā|foreign-red-flower|     Defrancis, 2003    |
+|  紅花  |  hónghuā  |    red-flower    |laufer_sino-iranica_1919|
+|  西紅花 | xīhónghuā |western-red-flower|          CHMD          |
+|  鬱金香 | yùjīnxiāng| yü-gold-aromatic |      Schafer, 1985     |
+|  藏紅花 |zànghónghuā|Tibetan-red-flower|      Kleeman, 2010     |
+|  撒法郎 |  sǎfǎláng |                  |laufer_sino-iranica_1919|
+|  咱夫藍 |  záfūlán  |                  |laufer_sino-iranica_1919|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_saffron.json" height="300px" >}}

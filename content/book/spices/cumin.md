@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Cumin
 
-Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of W. \& C. Asia; India .[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic.[^ucla_medicinal_2002]
+|English|Arabic|Chinese|  Hungarian |
+|-------|------|-------|------------|
+| cumin | كمون |   孜然  |római kömény|
+
+Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of W. \& C. Asia; India .[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -27,15 +31,43 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |     part used    |                       fruit                       |
 |     macroarea    |                        Asia                       |
 | region of origin |               W. \& C. Asia; India                |
-|    cultivation   |                India, Iran, Lebanon               |
+|    cultivation   |                India; Iran; Lebanon               |
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 
+***
+
 ## Names
 
-|English|Arabic|Chinese|  Hungarian |
-|-------|------|-------|------------|
-| cumin | كمون |   孜然  |római kömény|
+### English
+
+|   term   |source|
+|----------|------|
+|cumin seed|  OED |
+|   cumin  |  OED |
+
+### Arabic
+
+|script| term |literal|         source         |
+|------|------|-------|------------------------|
+| سنوت |sannūt|       |lane_arabic-english_1863|
+| كمون |kammūn|       |       Wehr, 1976       |
+
+### Chinese
+
+|script|     term     |       literal      |         source         |
+|------|--------------|--------------------|------------------------|
+| 阿拉伯茴香|ālābó huíxiāng|   Arabian fennel   |          MDBG          |
+| 安息茴香 | ānxī huíxiāng|   Parthian fennel  |          MDBG          |
+|  茴香籽 |  huíxiāngzǐ  |   hui-spice-seed   |          MDBG          |
+|  歐蒔蘿 |  ōu​ shí​luó |    European dill   |          MDBG          |
+|  小茴香 | xiǎohuíxiāng |small-hui-spice-seed|laufer_sino-iranica_1919|
+|  孜然芹 |   zī​ránqín  |    cumin-celery    |          MDBG          |
+| 羅馬葛縷子|luómǎ gě​lǚ​zi|    Roman-caraway   |                        |
+|  馬芹子 |    mǎqínzi   |  horse-celery-seed |                        |
+|  枯茗  |    kūmíng    |    withered-tea    |          MDBG          |
+|  蒔蘿  |    shíluó    |     dill-turnip    |      Kleeman, 2010     |
+|  孜然  |     zīrán    |                    |          MDBG          |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}

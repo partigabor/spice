@@ -16,7 +16,11 @@ tags: ['culinary', 'medicinal']
 
 # Pepper
 
-Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds. Its aroma is described as pungent, hot.[^ucla_medicinal_2002]
+|English|Arabic|Chinese|Hungarian|
+|-------|------|-------|---------|
+| pepper| فلفل |   胡椒  |   bors  |
+
+Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,38 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 |       color      |                black; white; green                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682369-1)|
 
+***
+
 ## Names
 
-|English|Arabic|Chinese|Hungarian|
-|-------|------|-------|---------|
-| pepper| فلفل |   胡椒  |   bors  |
+### English
+
+|    term    |source|
+|------------|------|
+|black pepper|  OED |
+|white pepper|  OED |
+|green pepper|  OED |
+| peppercorn |  OED |
+|   pepper   |  OED |
+
+### Arabic
+
+|  script |    term    |   literal  |    source    |
+|---------|------------|------------|--------------|
+|فلفل أبيض|fulful abyaḍ|white pepper|Baalbaki, 1995|
+|فلفل أسود|fulful aswad|black pepper|Baalbaki, 1995|
+|  فلفلة  |   fulfula  |            |  Wehr, 1976  |
+|   فلفل  |   fulful   |            |  Wehr, 1976  |
+
+### Chinese
+
+|script|   term   |        literal       |       source       |
+|------|----------|----------------------|--------------------|
+|  白胡椒 | báihújiāo|white-barbarian-pepper|        MDBG        |
+|  黑胡椒 | hēihújiāo|black-barbarian-pepper|        MDBG        |
+|  胡椒  |  hújiāo  |   barbarian-pepper   |   Defrancis, 2003  |
+|  綠胡椒 | lǜhújiāo |green-barbarian-pepper|Regency Spices, 2022|
+|  青胡椒 |qīnghújiāo|green-barbarian-pepper|Regency Spices, 2022|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_pepper.json" height="300px" >}}

@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Caraway
 
-Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; Eurasia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like.[^ucla_medicinal_2002]
+|English|Arabic|Chinese|  Hungarian  |
+|-------|------|-------|-------------|
+|caraway|كراويا|  葛縷子  |fűszerkömény |
+
+Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; Eurasia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -27,15 +31,39 @@ Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo
 |     part used    |                       fruit                       |
 |     macroarea    |                      Eurasia                      |
 | region of origin |               Mediterranean; Eurasia              |
-|    cultivation   |     Denmark, Lebanon, The Netherlands, Poland     |
+|    cultivation   |     Denmark; Lebanon; The Netherlands; Poland     |
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/839677-1)|
 
+***
+
 ## Names
 
-|English|Arabic|Chinese|  Hungarian  |
-|-------|------|-------|-------------|
-|caraway|كراويا|  葛縷子  |fűszerkömény |
+### English
+
+|      term     |  source |
+|---------------|---------|
+| Armenian cumin|   OED   |
+|  caraway-seed |   OED   |
+|meridian fennel|Wikipedia|
+| mountain cumin|   OED   |
+| Persian cumin |Wikipedia|
+|  royal cumin  |   OED   |
+|    caraway    |   OED   |
+
+### Arabic
+
+|script|  term  |literal|  source  |
+|------|--------|-------|----------|
+|كراويا|karāwiyā|       |Wehr, 1976|
+
+### Chinese
+
+|script|    term    |     literal     |    source   |
+|------|------------|-----------------|-------------|
+|  藏茴香 |zànghuíxiāng|Tibetan-hui-spice|     MDBG    |
+|  頁蒿  |    yèhāo   |  leaf-wormwood  |     MDBG    |
+|  葛縷子 |   gělǚzi   |                 |Kleeman, 2010|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_caraway.json" height="300px" >}}

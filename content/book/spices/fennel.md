@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Fennel
 
-Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable from the *Apiaceae* family,[^powo] originating in the region(s) of Med.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm.[^ucla_medicinal_2002]
+|English|Arabic|Chinese| Hungarian|
+|-------|------|-------|----------|
+| fennel|  شمر |   茴香  |édeskömény|
+
+Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable from the *Apiaceae* family,[^powo] originating in the region(s) of Med.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -27,15 +31,42 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 |     part used    |                     fruit; leaf                    |
 |     macroarea    |                         Med                        |
 | region of origin |                         Med                        |
-|    cultivation   |Argentina, Bulgaria, Germany, Greece, India, Lebanon|
+|    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
+***
+
 ## Names
 
-|English|Arabic|Chinese| Hungarian|
-|-------|------|-------|----------|
-| fennel|  شمر |   茴香  |édeskömény|
+### English
+
+|     term    |source|
+|-------------|------|
+| fennel-seed |  OED |
+|Indian fennel|  OED |
+| sweet fennel|  OED |
+|    fennel   |  OED |
+
+### Arabic
+
+| script|     term     |literal|  source  |
+|-------|--------------|-------|----------|
+|  شمرة |shamra, shumra|       |Wehr, 1976|
+| بسباس |    basbās    |       |Wehr, 1976|
+|رازيانج|    rāzyānj   |       |          |
+|   شمر |    shamar    |       |Wehr, 1976|
+|  شمار |    shamār    |       |Wehr, 1976|
+|  سنوت |     sunūt    |       |          |
+
+### Chinese
+
+|script|    term    |   literal  |    source   |
+|------|------------|------------|-------------|
+|  蘹香  |  huáixiāng | huai-spice |             |
+|  茴香  |  huíxiāng  |  hui-spice |Kleeman, 2010|
+|  甜茴香 |tiánhuíxiāng|sweet-fennel|             |
+|  小茴香 |xiǎohuíxiāng| small-anise|             |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_fennel.json" height="300px" >}}

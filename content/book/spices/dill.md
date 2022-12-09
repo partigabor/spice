@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Dill
 
-Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool.[^ucla_medicinal_2002]
+|English|Arabic|Chinese|Hungarian|
+|-------|------|-------|---------|
+|  dill |  شبت |   蒔蘿  |  kapor  |
+
+Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,30 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 |       color      |                   greyish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
 
+***
+
 ## Names
 
-|English|Arabic|Chinese|Hungarian|
-|-------|------|-------|---------|
-|  dill |  شبت |   蒔蘿  |  kapor  |
+### English
+
+|    term   |    source   |
+|-----------|-------------|
+| dill-seed |     OED     |
+|Indian dill|Van Wyk, 2014|
+|    dill   |     OED     |
+
+### Arabic
+
+|script|   term  |literal|         source         |
+|------|---------|-------|------------------------|
+|  شبث |shibithth|       |lane_arabic-english_1863|
+
+### Chinese
+
+|script|   term   |   literal  |source|
+|------|----------|------------|------|
+|  土茴香 |tǔhuíxiāng|earth-fennel|      |
+|  蒔蘿  |  shíluó  | dill-turnip|      |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_dill.json" height="300px" >}}

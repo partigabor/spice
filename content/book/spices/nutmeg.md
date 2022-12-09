@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Nutmeg
 
-Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty.[^ucla_medicinal_2002]
+|English|  Arabic |Chinese|  Hungarian |
+|-------|---------|-------|------------|
+| nutmeg|جوز الطيب|  肉豆蔻  |szerecsendió|
+
+Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -27,15 +31,34 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 |     part used    |                        seed                       |
 |     macroarea    |                        Asia                       |
 | region of origin |                Moluccas (Indonesia)               |
-|    cultivation   |                 Grenada, Indonesia                |
+|    cultivation   |                 Grenada; Indonesia                |
 |       color      |         pale brown nut, dark when powdered        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
+***
+
 ## Names
 
-|English|  Arabic |Chinese|  Hungarian |
-|-------|---------|-------|------------|
-| nutmeg|جوز الطيب|  肉豆蔻  |szerecsendió|
+### English
+
+| term |source|
+|------|------|
+|nutmeg|  OED |
+
+### Arabic
+
+|  script |    term   |   literal  |    source    |
+|---------|-----------|------------|--------------|
+|جوز الطيب|jawz al-ṭīb|fragrant nut|  Wehr, 1976  |
+| جوز بوى | jawz bawwā|fragrant nut|Baalbaki, 1995|
+| داركيسة |  dārkīsa  |            |  Amar, 2017  |
+
+### Chinese
+
+|script|     term     |            literal            |     source    |
+|------|--------------|-------------------------------|---------------|
+|  肉豆蔻 |   ròudòukòu  |      flesh-bean-cardamom      |Defrancis, 2003|
+| 肉荳蔻籽粉|ròudòukòuzǐfěn|flesh-bean-cardamom-seed-powder| Kleeman, 2010 |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_nutmeg.json" height="300px" >}}

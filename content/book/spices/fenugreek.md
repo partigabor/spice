@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Fenugreek
 
-Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S Eur; W As.[^van_wyk_culinary_2014] It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter.[^ucla_medicinal_2002]
+| English |Arabic|Chinese| Hungarian|
+|---------|------|-------|----------|
+|fenugreek| حلبة |  胡蘆巴  |görögszéna|
+
+Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S Eur; W As.[^van_wyk_culinary_2014] It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,28 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
+***
+
 ## Names
 
-| English |Arabic|Chinese| Hungarian|
-|---------|------|-------|----------|
-|fenugreek| حلبة |  胡蘆巴  |görögszéna|
+### English
+
+|     term     |source|
+|--------------|------|
+|fenugreek-seed|  OED |
+|   fenugreek  |  OED |
+
+### Arabic
+
+|script| term|literal|         source         |
+|------|-----|-------|------------------------|
+| حلبة |ḥulba|       |lane_arabic-english_1863|
+
+### Chinese
+
+|script| term |      literal     |    source   |
+|------|------|------------------|-------------|
+|  胡蘆巴 |húlúbā|barbarian-reeds-ba|Kleeman, 2010|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_fenugreek.json" height="300px" >}}

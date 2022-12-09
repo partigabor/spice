@@ -16,7 +16,11 @@ tags: ['culinary', 'medicinal']
 
 # Ginger
 
-Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary).[^van_wyk_culinary_2014] It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent.[^ucla_medicinal_2002]
+|English|Arabic|Chinese|Hungarian|
+|-------|------|-------|---------|
+| ginger|زنجبيل|   薑   | gyömbér |
+
+Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary).[^van_wyk_culinary_2014] It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -27,15 +31,39 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 |     part used    |                      rhizome                      |
 |     macroarea    |                        Asia                       |
 | region of origin |         South East Asia; India (secondary)        |
-|    cultivation   |       India, Jamaica, Nigeria, Sierra Leone       |
+|    cultivation   |       India; Jamaica; Nigeria; Sierra Leone       |
 |       color      |    light yellow when fresh, beige when powdered   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 
+***
+
 ## Names
 
-|English|Arabic|Chinese|Hungarian|
-|-------|------|-------|---------|
-| ginger|زنجبيل|   薑   | gyömbér |
+### English
+
+|    term    |source|
+|------------|------|
+|black ginger|  OED |
+| ginger root|  OED |
+|ginger spice|  OED |
+|green ginger|  OED |
+|white ginger|  OED |
+|   ginger   |  OED |
+
+### Arabic
+
+|script|  term  |literal|  source  |
+|------|--------|-------|----------|
+|جنزبيل|janzabīl|       |Wehr, 1976|
+|زنجبيل|zanjabīl|       |Wehr, 1976|
+
+### Chinese
+
+|script|   term  |   literal  |     source    |
+|------|---------|------------|---------------|
+|  幹薑  | gānjiāng| dry-ginger |Defrancis, 2003|
+|  鮮薑  |xiānjiāng|fresh-ginger|Defrancis, 2003|
+|   薑  |  jiāng  |   ginger   | Kleeman, 2010 |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_ginger.json" height="300px" >}}

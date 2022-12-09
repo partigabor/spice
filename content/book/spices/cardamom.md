@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Cardamom
 
-Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its fruit (seed pods, capsules), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like.[^ucla_medicinal_2002]
+| English|Arabic|Chinese|Hungarian|
+|--------|------|-------|---------|
+|cardamom|  هال |   豆蔻  | kardamom|
+
+Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its fruit (seed pods, capsules), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,36 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingi
 |       color      |              green seed pods, brown seeds             |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/796556-1)  |
 
+***
+
 ## Names
 
-| English|Arabic|Chinese|Hungarian|
-|--------|------|-------|---------|
-|cardamom|  هال |   豆蔻  | kardamom|
+### English
+
+|     term     |     source    |
+|--------------|---------------|
+|green cardamom|Ravindran, 2002|
+| true cardamom|Ravindran, 2002|
+|   cardamom   |      OED      |
+
+### Arabic
+
+|   script  |      term     |    literal   |         source         |
+|-----------|---------------|--------------|------------------------|
+|  حب الهال |  ḥabb al-hāl  | cardamom-seed|     Baalbaki, 1995     |
+|   حبهان   |     ḥabhān    | cardamom-seed|       Wehr, 1976       |
+|قاقلة صغيرة|qāqulla ṣaghīra|small cardamom|       Amar, 2017       |
+|  خير بواء |  khayr buwwā' |  good-scent  |lane_arabic-english_1863|
+|    هال    |      hāl      |              |       Wehr, 1976       |
+
+### Chinese
+
+|script|    term   |      literal      |     source    |
+|------|-----------|-------------------|---------------|
+|  豆蔻  |   dòukòu  |   bean-cardamom   |Defrancis, 2003|
+|  綠豆蔻 |  lǜdòukòu |   green-cardamom  |   Wikipedia   |
+|  青砂仁 |qīngshā​rén|green-gravel-kernel|   Wikipedia   |
+|  小豆蔻 | xiǎodòukòu|  little-cardamom  |Defrancis, 2003|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cardamom.json" height="300px" >}}

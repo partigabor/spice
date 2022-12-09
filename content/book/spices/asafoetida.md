@@ -16,7 +16,11 @@ tags: ['culinary', 'medicinal']
 
 # Asafoetida
 
-Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia.[^van_wyk_culinary_2014] It is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten.[^ucla_medicinal_2002]
+|  English |Arabic|Chinese| Hungarian |
+|----------|------|-------|-----------|
+|asafoetida| حلتیت|   阿魏  |ördöggyökér|
+
+Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia.[^van_wyk_culinary_2014] It is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,39 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 |       color      |             from pale yellow to brown             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
+***
+
 ## Names
 
-|  English |Arabic|Chinese| Hungarian |
-|----------|------|-------|-----------|
-|asafoetida| حلتیت|   阿魏  |ördöggyökér|
+### English
+
+|    term    |   source  |
+|------------|-----------|
+|stinking gum|Peter, 2012|
+|devil's dung|    OED    |
+| asafoetida |    OED    |
+|    hing    |    OED    |
+
+### Arabic
+
+|   script   |      term      |    literal   |    source    |
+|------------|----------------|--------------|--------------|
+|  أبو كبير  |    abū kabīr   |  big father  |  Wehr, 1976  |
+| صمغ الأجذان|samgh al-anjudān|gum of anjudan|Baalbaki, 1995|
+|صمغ راتيناجي| samgh rātīnājī | rātīnājī gum |Baalbaki, 1995|
+|   أنجدان   |     anjudān    |              |Baalbaki, 1995|
+|    حلتیت   |     ḥiltīt     |              |  Wehr, 1976  |
+
+### Chinese
+
+| script |   term   |literal|    source   |
+|--------|----------|-------|-------------|
+|   阿魏   |   āwèi   |       |     MDBG    |
+|   阿虞   |    ayü   |       | Leung, 2019 |
+|   哈昔尼  |  hāxīní  |       | Leung, 2019 |
+|  黑黎提提  |hēilítí​tí|       |Rossabi, 2013|
+|興蕖/興渠/興瞿|  xīngqú  |       | Leung, 2019 |
+|   形虞   |  xíngyú  |       | Leung, 2019 |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_asafoetida.json" height="300px" >}}

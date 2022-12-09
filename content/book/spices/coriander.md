@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Coriander
 
-Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia; India; SW As.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet.[^ucla_medicinal_2002]
+| English |Arabic|Chinese|Hungarian|
+|---------|------|-------|---------|
+|coriander| كزبرة|   芫荽  |koriander|
+
+Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia; India; SW As.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -27,15 +31,40 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 |     part used    |                     fruit; leaf                     |
 |     macroarea    |                         Asia                        |
 | region of origin |         Mediterranean; W. Asia; India; SW As        |
-|    cultivation   |Argentina, India, Morocco, Romania, Spain, Yugoslavia|
+|    cultivation   |Argentina; India; Morocco; Romania; Spain; Yugoslavia|
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
+***
+
 ## Names
 
-| English |Arabic|Chinese|Hungarian|
-|---------|------|-------|---------|
-|coriander| كزبرة|   芫荽  |koriander|
+### English
+
+|      term     |source|
+|---------------|------|
+|Chinese parsley|  OED |
+| coriander-seed|  OED |
+|    cilantro   |  OED |
+|   coliander   |  OED |
+|   coriander   |  OED |
+|     dhania    |  OED |
+
+### Arabic
+
+|script|  term |literal|  source  |
+|------|-------|-------|----------|
+| كزبرة|kuzbara|       |Wehr, 1976|
+
+### Chinese
+
+|script|   term  |      literal      |     source    |
+|------|---------|-------------------|---------------|
+|  芫茜  | yánqiàn |    lilac-madder   |   Wikipedia   |
+|  芫荽  |  yánsuī |  lilac-coriander  |      MDBG     |
+|  香菜  | xiāngcài| fragrant-vegetable|      MDBG     |
+|  香茜  |xiāngqiàn|  fragrant-madder  |   Wikipedia   |
+|  胡荽  |  húsuī  |barbarian-coriander|Defrancis, 2003|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_coriander.json" height="300px" >}}

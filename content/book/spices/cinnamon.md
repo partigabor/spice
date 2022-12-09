@@ -16,7 +16,11 @@ tags: ['culinary', 'medicinal']
 
 # Cinnamon
 
-Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India.[^van_wyk_culinary_2014] It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent.[^ucla_medicinal_2002]
+| English|Arabic|Chinese|Hungarian|
+|--------|------|-------|---------|
+|cinnamon| قرفة |  錫蘭肉桂 |  fahéj  |
+
+Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India.[^van_wyk_culinary_2014] It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,35 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 |       color      |  warm yellowish-brown, cinnamon \sample{cinnamon} |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463752-1)|
 
+***
+
 ## Names
 
-| English|Arabic|Chinese|Hungarian|
-|--------|------|-------|---------|
-|cinnamon| قرفة |  錫蘭肉桂 |  fahéj  |
+### English
+
+|      term     |    source   |
+|---------------|-------------|
+|Ceylon cinnamon|Van Wyk, 2014|
+| true cinnamon |Van Wyk, 2014|
+|    cinnamon   |     OED     |
+
+### Arabic
+
+|        script       |          term          |     literal     |    source    |
+|---------------------|------------------------|-----------------|--------------|
+|الدارصيني على الحقيقة|al-dārṣīnī ʿalā l-ḥaqīqa| the real darsini|Dietrich, 2004|
+|  القرفة على الحقيقة | al-qirfa ʿalā l-ḥaqīqa |  the real bark  |Dietrich, 2004|
+|    القرفة الأصلية   |  al-qirfat al-aṣliyya  |the original bark|   Wikipedia  |
+|  القرفة السهيلانية  | al-qirfat al-sihīlānīya|  Sinhalese bark |  Alam, 2011  |
+|     قرفة القرنفل    |   qirfat al-qurunful   |the bark of clove|Dietrich, 2004|
+|         قرفة        |          qirfa         |    bark, rind   |  Wehr, 1976  |
+|       دارصيني       |         dārṣīnī        |   Chinese wood  |  Wehr, 1976  |
+
+### Chinese
+
+|script|    term   |       literal       |  source |
+|------|-----------|---------------------|---------|
+| 錫蘭肉桂 |xīlánròuguì|Ceylon-flesh-cinnamon|Wikipedia|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cinnamon.json" height="300px" >}}

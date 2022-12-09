@@ -16,7 +16,11 @@ tags: ['culinary', 'medicinal', 'ritualistic']
 
 # Turmeric
 
-Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter.[^ucla_medicinal_2002]
+| English|Arabic|Chinese|Hungarian|
+|--------|------|-------|---------|
+|turmeric| كركم |   薑黃  | kurkuma |
+
+Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -27,15 +31,41 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 |     part used    |                      rhizome                      |
 |     macroarea    |                        Asia                       |
 | region of origin |                       India                       |
-|    cultivation   |     China, Honduras, India, Indonesia, Jamaica    |
+|    cultivation   |     China; Honduras; India; Indonesia; Jamaica    |
 |       color      |                   orange-yellow                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/796451-1)|
 
+***
+
 ## Names
 
-| English|Arabic|Chinese|Hungarian|
-|--------|------|-------|---------|
-|turmeric| كركم |   薑黃  | kurkuma |
+### English
+
+|     term     |source|
+|--------------|------|
+|Indian saffron|  OED |
+|    curcuma   |  OED |
+|   turmeric   |  OED |
+
+### Arabic
+
+|    script   |        term        |    literal   |         source         |
+|-------------|--------------------|--------------|------------------------|
+|  أصابع صفر  |     aṣābiʿ ṣufr    |yellow fingers|        Wikipedia       |
+|  عقدة صفراء |    ʿuqda ṣafrā'    |  yellow knob |     Baalbaki, 1995     |
+|   عروق صفر  |     ʿurūq ṣufr     | yellow roots |       Amar, 2017       |
+| زعفران هندي |   zaʿfarān hindī   |Indian saffron|       Amar, 2017       |
+|شجرة الخطاطيف|shajarat al-khaṭāṭīf| tree of hooks|       Amar, 2017       |
+|     هرد     |        hurd        |              |lane_arabic-english_1863|
+|     كركم    |       kurkum       |              |       Wehr, 1976       |
+
+### Chinese
+
+|script|   term   |   literal   |     source    |
+|------|----------|-------------|---------------|
+|  黃薑  |huángjiāng|yellow-ginger|Defrancis, 2003|
+|  薑黃  |jiānghuáng|ginger-yellow| Kleeman, 2010 |
+|  鬱金  |   yùjīn  |   yü-gold   | Schafer, 1985 |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_turmeric.json" height="300px" >}}

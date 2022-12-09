@@ -16,7 +16,11 @@ tags: ['culinary']
 
 # Vanilla
 
-Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious.[^ucla_medicinal_2002]
+|English| Arabic|Chinese|Hungarian|
+|-------|-------|-------|---------|
+|vanilla|فانيليا|   香草  | vanília |
+
+Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -31,11 +35,31 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 |       color      |         dark brown pod; creamy white extract         |
 |botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
 
+***
+
 ## Names
 
-|English| Arabic|Chinese|Hungarian|
-|-------|-------|-------|---------|
-|vanilla|فانيليا|   香草  | vanília |
+### English
+
+|      term      |  source |
+|----------------|---------|
+| Bourbon vanilla|Wikipedia|
+| French vanilla |Wikipedia|
+|Tahitian vanilla|Wikipedia|
+|     vanilla    |   OED   |
+
+### Arabic
+
+| script|   term  |literal|    source    |
+|-------|---------|-------|--------------|
+|فانيليا| fānīliyā|       |Baalbaki, 1995|
+| ونيلية|wanīliyya|       |Baalbaki, 1995|
+
+### Chinese
+
+|script|  term  |      literal      |     source    |
+|------|--------|-------------------|---------------|
+|  香草  |xiāngcǎo|fragrant-grass/herb|Defrancis, 2003|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_vanilla.json" height="300px" >}}
