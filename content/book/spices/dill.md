@@ -49,9 +49,9 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 
 ### Arabic
 
-|script|   term  |literal|         source         |
-|------|---------|-------|------------------------|
-|  شبث |shibithth|       |lane_arabic-english_1863|
+|script|   term  |literal|  source  |
+|------|---------|-------|----------|
+|  شبث |shibithth|       |Lane, 1863|
 
 ### Chinese
 

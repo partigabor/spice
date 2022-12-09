@@ -63,10 +63,10 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 
 ### Arabic
 
-|   script   |      term      |    literal   |         source         |
-|------------|----------------|--------------|------------------------|
-|فلفل سيتشوان|fulful sītshuwān|Sichuan pepper|        Wikipedia       |
-|    فاغرة   |    fāghira     |     open     |lane_arabic-english_1863|
+|   script   |      term      |    literal   |  source  |
+|------------|----------------|--------------|----------|
+|فلفل سيتشوان|fulful sītshuwān|Sichuan pepper| Wikipedia|
+|    فاغرة   |    fāghira     |     open     |Lane, 1863|
 
 ### Chinese
 

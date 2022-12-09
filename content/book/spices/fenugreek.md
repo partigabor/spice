@@ -48,9 +48,9 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 
 ### Arabic
 
-|script| term|literal|         source         |
-|------|-----|-------|------------------------|
-| حلبة |ḥulba|       |lane_arabic-english_1863|
+|script| term|literal|  source  |
+|------|-----|-------|----------|
+| حلبة |ḥulba|       |Lane, 1863|
 
 ### Chinese
 

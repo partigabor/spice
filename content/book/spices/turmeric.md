@@ -49,15 +49,15 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 
 ### Arabic
 
-|    script   |        term        |    literal   |         source         |
-|-------------|--------------------|--------------|------------------------|
-|  أصابع صفر  |     aṣābiʿ ṣufr    |yellow fingers|        Wikipedia       |
-|  عقدة صفراء |    ʿuqda ṣafrā'    |  yellow knob |     Baalbaki, 1995     |
-|   عروق صفر  |     ʿurūq ṣufr     | yellow roots |       Amar, 2017       |
-| زعفران هندي |   zaʿfarān hindī   |Indian saffron|       Amar, 2017       |
-|شجرة الخطاطيف|shajarat al-khaṭāṭīf| tree of hooks|       Amar, 2017       |
-|     هرد     |        hurd        |              |lane_arabic-english_1863|
-|     كركم    |       kurkum       |              |       Wehr, 1976       |
+|    script   |        term        |    literal   |    source    |
+|-------------|--------------------|--------------|--------------|
+|  أصابع صفر  |     aṣābiʿ ṣufr    |yellow fingers|   Wikipedia  |
+|  عقدة صفراء |    ʿuqda ṣafrā'    |  yellow knob |Baalbaki, 1995|
+|   عروق صفر  |     ʿurūq ṣufr     | yellow roots |  Amar, 2017  |
+| زعفران هندي |   zaʿfarān hindī   |Indian saffron|  Amar, 2017  |
+|شجرة الخطاطيف|shajarat al-khaṭāṭīf| tree of hooks|  Amar, 2017  |
+|     هرد     |        hurd        |              |  Lane, 1863  |
+|     كركم    |       kurkum       |              |  Wehr, 1976  |
 
 ### Chinese
 

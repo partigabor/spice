@@ -48,26 +48,26 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 
 ### Arabic
 
-|script| term |literal|         source         |
-|------|------|-------|------------------------|
-| سنوت |sannūt|       |lane_arabic-english_1863|
-| كمون |kammūn|       |       Wehr, 1976       |
+|script| term |literal|  source  |
+|------|------|-------|----------|
+| سنوت |sannūt|       |Lane, 1863|
+| كمون |kammūn|       |Wehr, 1976|
 
 ### Chinese
 
-|script|     term     |       literal      |         source         |
-|------|--------------|--------------------|------------------------|
-| 阿拉伯茴香|ālābó huíxiāng|   Arabian fennel   |          MDBG          |
-| 安息茴香 | ānxī huíxiāng|   Parthian fennel  |          MDBG          |
-|  茴香籽 |  huíxiāngzǐ  |   hui-spice-seed   |          MDBG          |
-|  歐蒔蘿 |  ōu​ shí​luó |    European dill   |          MDBG          |
-|  小茴香 | xiǎohuíxiāng |small-hui-spice-seed|laufer_sino-iranica_1919|
-|  孜然芹 |   zī​ránqín  |    cumin-celery    |          MDBG          |
-| 羅馬葛縷子|luómǎ gě​lǚ​zi|    Roman-caraway   |                        |
-|  馬芹子 |    mǎqínzi   |  horse-celery-seed |                        |
-|  枯茗  |    kūmíng    |    withered-tea    |          MDBG          |
-|  蒔蘿  |    shíluó    |     dill-turnip    |      Kleeman, 2010     |
-|  孜然  |     zīrán    |                    |          MDBG          |
+|script|     term     |       literal      |    source   |
+|------|--------------|--------------------|-------------|
+| 阿拉伯茴香|ālābó huíxiāng|   Arabian fennel   |     MDBG    |
+| 安息茴香 | ānxī huíxiāng|   Parthian fennel  |     MDBG    |
+|  茴香籽 |  huíxiāngzǐ  |   hui-spice-seed   |     MDBG    |
+|  歐蒔蘿 |  ōu​ shí​luó |    European dill   |     MDBG    |
+|  小茴香 | xiǎohuíxiāng |small-hui-spice-seed| Laufer, 1919|
+|  孜然芹 |   zī​ránqín  |    cumin-celery    |     MDBG    |
+| 羅馬葛縷子|luómǎ gě​lǚ​zi|    Roman-caraway   |             |
+|  馬芹子 |    mǎqínzi   |  horse-celery-seed |             |
+|  枯茗  |    kūmíng    |    withered-tea    |     MDBG    |
+|  蒔蘿  |    shíluó    |     dill-turnip    |Kleeman, 2010|
+|  孜然  |     zīrán    |                    |     MDBG    |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}

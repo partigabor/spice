@@ -55,15 +55,15 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 
 ### Chinese
 
-|script|    term   |      literal     |         source         |
-|------|-----------|------------------|------------------------|
-|  番紅花 | fānhónghuā|foreign-red-flower|     Defrancis, 2003    |
-|  紅花  |  hónghuā  |    red-flower    |laufer_sino-iranica_1919|
-|  西紅花 | xīhónghuā |western-red-flower|          CHMD          |
-|  鬱金香 | yùjīnxiāng| yü-gold-aromatic |      Schafer, 1985     |
-|  藏紅花 |zànghónghuā|Tibetan-red-flower|      Kleeman, 2010     |
-|  撒法郎 |  sǎfǎláng |                  |laufer_sino-iranica_1919|
-|  咱夫藍 |  záfūlán  |                  |laufer_sino-iranica_1919|
+|script|    term   |      literal     |     source    |
+|------|-----------|------------------|---------------|
+|  番紅花 | fānhónghuā|foreign-red-flower|Defrancis, 2003|
+|  紅花  |  hónghuā  |    red-flower    |  Laufer, 1919 |
+|  西紅花 | xīhónghuā |western-red-flower|      CHMD     |
+|  鬱金香 | yùjīnxiāng| yü-gold-aromatic | Schafer, 1985 |
+|  藏紅花 |zànghónghuā|Tibetan-red-flower| Kleeman, 2010 |
+|  撒法郎 |  sǎfǎláng |                  |  Laufer, 1919 |
+|  咱夫藍 |  záfūlán  |                  |  Laufer, 1919 |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_saffron.json" height="300px" >}}
