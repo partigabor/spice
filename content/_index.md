@@ -2,14 +2,14 @@
 title: Home
 author: Gábor Parti
 date: 2022-09-01
-type: book
 weight: 1
-bookToc: false
-# bookFlatSection: true
+type: book
 # bookCollapseSection: true
-# bookComments: false
-# bookSearchExclude: true
+# bookComments: true
+# bookFlatSection: true
 # bookHidden: true
+# bookSearchExclude: true
+bookToc: false
 plotly: true
 ---
 

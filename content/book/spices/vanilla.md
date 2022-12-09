@@ -1,39 +1,46 @@
 ---
 title: Vanilla
-weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
-# series: [Spice; Flavoring]
-date: 2022-11-26
 author: Gábor Parti
+date: 2022-12-09
+weight: 1
+# bookCollapseSection: true
+# bookComments: true
+# bookFlatSection: true
+# bookHidden: true
+# bookSearchExclude: true
+# bookToc: false
 plotly: true
-categories: [Spice; Flavoring]
+categories: ['spice']
+tags: ['culinary']
 ---
 
 # Vanilla
 
+Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious.[^ucla_medicinal_2002]
+
 ## Overview
 
-|       id       |                        vanilla                       |
-|----------------|------------------------------------------------------|
-|     species    |        *Vanilla planifolia* Jacks. ex Andrews        |
-|     family     |                      Orchidaceae                     |
-| plant part used|                         fruit                        |
-|region of origin|                   Tropical America                   |
-|    macroarea   |                       Americas                       |
-|   cultivation  |Madagascar; Indonesia; Mexico; Papua New Guinea; China|
-|      color     |         dark brown pod; creamy white extract         |
-|      link      |  [POWO](https://powo.science.kew.org/taxon/262578-2) |
+|        id        |                        vanilla                       |
+|------------------|------------------------------------------------------|
+|   species name   |        *Vanilla planifolia* Jacks. ex Andrews        |
+|      family      |                      Orchidaceae                     |
+|     part used    |                         fruit                        |
+|     macroarea    |                       Americas                       |
+| region of origin |                   Tropical America                   |
+|    cultivation   |Madagascar; Indonesia; Mexico; Papua New Guinea; China|
+|       color      |         dark brown pod; creamy white extract         |
+|botanical database|  [POWO](https://powo.science.kew.org/taxon/262578-2) |
 
 ## Names
 
-|English|Arabic|             Chinese             |Hungarian|
-|-------|------|---------------------------------|---------|
-|  nan  |  nan |**香草** *xiāngcǎo* [fragrant-herb]|   nan   |
+|English| Arabic|Chinese|Hungarian|
+|-------|-------|-------|---------|
+|vanilla|فانيليا|   香草  | vanília |
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_vanilla.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_name_vanilla.json" height="300px" >}}
+
+[^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
+[^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
+[^ucla_medicinal_2002]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
