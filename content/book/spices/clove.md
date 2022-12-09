@@ -49,8 +49,8 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 
 |  script |     term     |    literal   |    source    |
 |---------|--------------|--------------|--------------|
-|كيش قرنفل|kabsh qaranful|ram of cloves?|Baalbaki, 1995|
 |  قرنفل  |   qaranful   |              |  Wehr, 1976  |
+|كيش قرنفل|kabsh qaranful|ram of cloves?|Baalbaki, 1995|
 
 ### Chinese
 

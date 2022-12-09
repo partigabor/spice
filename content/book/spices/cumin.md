@@ -43,20 +43,21 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 
 |   term   |source|
 |----------|------|
-|cumin seed|  OED |
 |   cumin  |  OED |
+|cumin seed|  OED |
 
 ### Arabic
 
 |script| term |literal|  source  |
 |------|------|-------|----------|
-| سنوت |sannūt|       |Lane, 1863|
 | كمون |kammūn|       |Wehr, 1976|
+| سنوت |sannūt|       |Lane, 1863|
 
 ### Chinese
 
 |script|     term     |       literal      |    source   |
 |------|--------------|--------------------|-------------|
+|  孜然  |     zīrán    |                    |     MDBG    |
 | 阿拉伯茴香|ālābó huíxiāng|   Arabian fennel   |     MDBG    |
 | 安息茴香 | ānxī huíxiāng|   Parthian fennel  |     MDBG    |
 |  茴香籽 |  huíxiāngzǐ  |   hui-spice-seed   |     MDBG    |
@@ -67,7 +68,6 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |  馬芹子 |    mǎqínzi   |  horse-celery-seed |             |
 |  枯茗  |    kūmíng    |    withered-tea    |     MDBG    |
 |  蒔蘿  |    shíluó    |     dill-turnip    |Kleeman, 2010|
-|  孜然  |     zīrán    |                    |     MDBG    |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}

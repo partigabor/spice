@@ -43,10 +43,10 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 
 |        term        |    source   |
 |--------------------|-------------|
+|     long pepper    |     OED     |
 |Balinese long pepper|Van Wyk, 2014|
 | Indian long pepper |Van Wyk, 2014|
 |Javanese long pepper|Van Wyk, 2014|
-|     long pepper    |     OED     |
 |       pippali      |Van Wyk, 2014|
 |      thippali      |             |
 
@@ -60,9 +60,9 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 
 |script|term|literal|     source    |
 |------|----|-------|---------------|
+|  蓽撥  |bìbō|       |    Hu, 2005   |
 |  蓽茇  |bìbá|       |Defrancis, 2003|
 |  畢勃  |bìbó|       |               |
-|  蓽撥  |bìbō|       |    Hu, 2005   |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_long_pepper.json" height="300px" >}}

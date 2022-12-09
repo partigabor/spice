@@ -49,8 +49,8 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 
 |     script    |        term       |           literal          |  source  |
 |---------------|-------------------|----------------------------|----------|
-|قشرة جوز الطيب |qishrat jawz al-ṭīb|peel of the nut of fragrance| Wikipedia|
 |     بسباس     |       basbās      |                            |Wehr, 1976|
+|قشرة جوز الطيب |qishrat jawz al-ṭīb|peel of the nut of fragrance| Wikipedia|
 
 ### Chinese
 

@@ -43,10 +43,10 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 
 |      term      |  source |
 |----------------|---------|
-| Bourbon vanilla|Wikipedia|
-| French vanilla |Wikipedia|
-|Tahitian vanilla|Wikipedia|
 |     vanilla    |   OED   |
+| Bourbon vanilla|Wikipedia|
+|Tahitian vanilla|Wikipedia|
+| French vanilla |Wikipedia|
 
 ### Arabic
 

@@ -43,27 +43,27 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 
 |       term       |    source   |
 |------------------|-------------|
+|    star anise    |     OED     |
 |   Chinese anise  |     OED     |
 |  Chinese fennel  |             |
 |Chinese star anise|Van Wyk, 2014|
 |  Siberian anise  |             |
-|    star anise    |     OED     |
 |      badian      |     OED     |
 
 ### Arabic
 
 |        script       |            term           |      literal     |  source |
 |---------------------|---------------------------|------------------|---------|
-|نجمة اليانسون الصينية|najmat al-yānsūn al-ṣīniyya|Chinese star anise|         |
 |     يانسون نجمي     |        yānsūn najmī       |    star anise    |         |
+|نجمة اليانسون الصينية|najmat al-yānsūn al-ṣīniyya|Chinese star anise|         |
 |     ليسوم حقيقي     |       laysūm ḥaqīqī       |   true illicium  |Wikipedia|
 
 ### Chinese
 
 |script|     term     |        literal       |     source    |
 |------|--------------|----------------------|---------------|
-|  八角  |    bājiǎo    |  eight-horns/octagon |Defrancis, 2003|
 | 八角茴香 |bājiǎohuíxiāng|eight-horned-hui-spice| Kleeman, 2010 |
+|  八角  |    bājiǎo    |  eight-horns/octagon |Defrancis, 2003|
 |  舶茴香 |  bóhuíxiāng  |    ship-hui-spice    |               |
 |  大茴香 |  dà​huíxiāng |     big-hui-spice    |      MDBG     |
 |  大料  |    dàliào    |    big-ingredient    |Defrancis, 2003|

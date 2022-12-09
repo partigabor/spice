@@ -43,9 +43,9 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 
 |    term   |    source   |
 |-----------|-------------|
+|    dill   |     OED     |
 | dill-seed |     OED     |
 |Indian dill|Van Wyk, 2014|
-|    dill   |     OED     |
 
 ### Arabic
 
@@ -57,8 +57,8 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 
 |script|   term   |   literal  |source|
 |------|----------|------------|------|
-|  土茴香 |tǔhuíxiāng|earth-fennel|      |
 |  蒔蘿  |  shíluó  | dill-turnip|      |
+|  土茴香 |tǔhuíxiāng|earth-fennel|      |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_dill.json" height="300px" >}}

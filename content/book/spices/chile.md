@@ -43,60 +43,60 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 
 |     term     |    source   |
 |--------------|-------------|
-|  bell-pepper |     OED     |
+|     chili    |     OED     |
 |  bird chili  |Van Wyk, 2014|
 |  bird pepper |     OED     |
 |Cayenne pepper|     OED     |
 | cherry-pepper|     OED     |
 | chili pepper |     OED     |
 | green pepper |     OED     |
-| Guinea pepper|     OED     |
 |  hot pepper  |Van Wyk, 2014|
-| Indian pepper|     OED     |
 |paprika pepper|     OED     |
-|  pod pepper  |     OED     |
 |  red pepper  |     OED     |
-| sweet pepper |     OED     |
 |Tabasco pepper|Van Wyk, 2014|
 |   piri piri  |Van Wyk, 2014|
-|   capsicum   |     OED     |
-|     chili    |     OED     |
 |    paprika   |     OED     |
 |    pepper    |     OED     |
+| Guinea pepper|     OED     |
+| Indian pepper|     OED     |
+|  bell-pepper |     OED     |
+|  pod pepper  |     OED     |
+| sweet pepper |     OED     |
+|   capsicum   |     OED     |
 
 ### Arabic
 
 |  script  |      term     |        literal       |    source    |
 |----------|---------------|----------------------|--------------|
+| فلفل حار |  fulful ḥārr  |      hot pepper      |Baalbaki, 1995|
 | فلفل أحمر|  fulful aḥmar |      red pepper      |Baalbaki, 1995|
 | فلفل أخضر| fulful akhḍar |     green pepper     |  Wehr, 1976  |
-| فلفل حار |  fulful ḥārr  |      hot pepper      |Baalbaki, 1995|
-| فلفل حلو |  fulful ḥulw  |     sweet pepper     |Baalbaki, 1995|
-|  فليفلة  |   fulayfila   |     little pepper    |  Wehr, 1976  |
 |    حار   |      ḥārr     |         heat         |Baalbaki, 1995|
 |   حريف   |     ḥirrīf    |pungent; acrid (taste)|Baalbaki, 1995|
 |شطة، شطيطة|shaṭṭa, shaṭīṭa|                      |  Wehr, 1976  |
 |   فلفل   | fulful, filfil|                      |  Wehr, 1976  |
 |  بابريكا |    bābrīkā    |        paprika       |   Wikipedia  |
+| فلفل حلو |  fulful ḥulw  |     sweet pepper     |Baalbaki, 1995|
+|  فليفلة  |   fulayfila   |     little pepper    |  Wehr, 1976  |
 
 ### Chinese
 
 |script|      term     |         literal        |     source    |
 |------|---------------|------------------------|---------------|
+|  辣椒  |     làjiāo    |     pungent-pepper     |Defrancis, 2003|
 |  番薑  |    fānjiāng   |     foreign-ginger     |   Dott, 2020  |
-|  番椒  |    fānjiāo    |     foreign-pepper     |   Dott, 2020  |
 |  海椒  |    hǎijiāo    |       sea-pepper       |               |
 |  紅椒  |    hóngjiāo   |       red-pepper       |Defrancis, 2003|
 |  紅辣椒 |   hónglàjiāo  |   red-pungent-pepper   |               |
 | 紅甜椒粉 |hóngtiánjiāofěn| red-sweet-pepper-powder|               |
 |  辣胡椒 |    làhújiāo   |pungent-barbarian-pepper|      MDBG     |
-|  辣椒  |     làjiāo    |     pungent-pepper     |Defrancis, 2003|
 |  辣茄  |     làqié     |     spicy-eggplant     |   Dott, 2020  |
 |  秦椒  |    qín​jiāo   |       Qin-pepper       |      MDBG     |
 |  青椒  |   qīng​jiāo   |      green-pepper      |Defrancis, 2003|
-|  柿子椒 |   shìzijiāo   |   persimmon-ZI-pepper  |      MDBG     |
 |  甜辣椒 |   tiánlàjiāo  |  sweet-pungent-pepper  |Defrancis, 2003|
 |  辣子  |      làzi     |        spiciness       |Defrancis, 2003|
+|  番椒  |    fānjiāo    |     foreign-pepper     |   Dott, 2020  |
+|  柿子椒 |   shìzijiāo   |   persimmon-ZI-pepper  |      MDBG     |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_chile.json" height="300px" >}}

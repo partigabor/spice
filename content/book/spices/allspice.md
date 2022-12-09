@@ -43,8 +43,8 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* 
 
 |     term     |   source  |
 |--------------|-----------|
-|   newspice   |Peter, 2012|
 |   allspice   |    OED    |
+|   newspice   |Peter, 2012|
 | clove pepper | Duke, 2002|
 |Jamaica pepper|    OED    |
 | myrtle pepper|Peter, 2012|
@@ -57,18 +57,18 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* 
 
 |    script   |       term      |       literal       |    source    |
 |-------------|-----------------|---------------------|--------------|
+| فلفل إفرنجي |  fulful ifranjī |   European pepper   |Baalbaki, 1995|
 |   بهار حلو  |    bahār ḥulw   |     sweet spice     |  Wiktionary  |
 |فلفل البساتين|fulful al-basātīn|pepper of the gardens|    Almaany   |
 |   فلفل حلو  |   fulful ḥulw   |     sweet pepper    |Baalbaki, 1995|
-| فلفل إفرنجي |  fulful ifranjī |   European pepper   |Baalbaki, 1995|
 |  فلفل تابل  |   fulful tābil  |     spice pepper    |    Almaany   |
 
 ### Chinese
 
 |script|      term     |         literal        |       source       |
 |------|---------------|------------------------|--------------------|
-|  甜胡椒 |   tiánhújiāo  | sweet-barbarian-pepper |    YellowBridge    |
 |  多香果 |  duōxiāngguǒ  |    many-spice-fruit    |    Kleeman, 2010   |
+|  甜胡椒 |   tiánhújiāo  | sweet-barbarian-pepper |    YellowBridge    |
 |  全香子 |  quánxiāngzǐ  |     all-spice-seed     |Spices Journey, 2022|
 | 牙買加胡椒|yámǎijiā hújiāo|Jamaica-barbarian-pepper|        MDBG        |
 |  眾香子 |  zhòngxiāngzǐ |     many-spice-seed    |        MDBG        |

@@ -43,21 +43,21 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 
 |        term        |    source   |
 |--------------------|-------------|
+|   Sichuan pepper   |Van Wyk, 2014|
 |    anise pepper    | Austin, 2008|
 |    brown pepper    | Austin, 2008|
 |   Chinese pepper   |     OED     |
 | Chinese prickly ash|             |
+| winged prickly ash |             |
+|     chuan jiao     |Van Wyk, 2014|
+|     zhu ye jiao    |Van Wyk, 2014|
+|       fagara       | Austin, 2008|
+|       sancho       |Van Wyk, 2014|
 |   Japanese pepper  |     OED     |
 |Japanese prickly-ash|             |
 |    Nepal pepper    | Austin, 2008|
 |     prickly ash    |     OED     |
-| winged prickly ash |             |
-|   Sichuan pepper   |Van Wyk, 2014|
-|     chuan jiao     |Van Wyk, 2014|
 |      yue jiao      |Van Wyk, 2014|
-|     zhu ye jiao    |Van Wyk, 2014|
-|       fagara       | Austin, 2008|
-|       sancho       |Van Wyk, 2014|
 |       sansho       |Van Wyk, 2014|
 |        timut       |Van Wyk, 2014|
 
@@ -72,8 +72,8 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 
 |script|     term    |        literal       |     source    |
 |------|-------------|----------------------|---------------|
-|  川椒  |  chuānjiāo  |river(=Sichuan)-pepper|    Hu, 2005   |
 |  花椒  |   huā​jiāo  |     flower-pepper    |Defrancis, 2003|
+|  川椒  |  chuānjiāo  |river(=Sichuan)-pepper|    Hu, 2005   |
 |  麻椒  |   má​jiāo   |    numbing-pepper    |               |
 |  青花椒 | qīnghuājiāo |  green-flower-pepper |    Hu, 2005   |
 | 日本花椒 |rìběn huājiāo|Japanese-flower-pepper|               |

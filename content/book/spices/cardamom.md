@@ -43,19 +43,19 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingi
 
 |     term     |     source    |
 |--------------|---------------|
+|   cardamom   |      OED      |
 |green cardamom|Ravindran, 2002|
 | true cardamom|Ravindran, 2002|
-|   cardamom   |      OED      |
 
 ### Arabic
 
 |   script  |      term     |    literal   |    source    |
 |-----------|---------------|--------------|--------------|
+|    هال    |      hāl      |              |  Wehr, 1976  |
 |  حب الهال |  ḥabb al-hāl  | cardamom-seed|Baalbaki, 1995|
 |   حبهان   |     ḥabhān    | cardamom-seed|  Wehr, 1976  |
 |قاقلة صغيرة|qāqulla ṣaghīra|small cardamom|  Amar, 2017  |
 |  خير بواء |  khayr buwwā' |  good-scent  |  Lane, 1863  |
-|    هال    |      hāl      |              |  Wehr, 1976  |
 
 ### Chinese
 

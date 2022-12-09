@@ -43,19 +43,19 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 
 |     term    |source|
 |-------------|------|
+|    fennel   |  OED |
 | fennel-seed |  OED |
 |Indian fennel|  OED |
 | sweet fennel|  OED |
-|    fennel   |  OED |
 
 ### Arabic
 
 | script|     term     |literal|  source  |
 |-------|--------------|-------|----------|
+|   شمر |    shamar    |       |Wehr, 1976|
 |  شمرة |shamra, shumra|       |Wehr, 1976|
 | بسباس |    basbās    |       |Wehr, 1976|
 |رازيانج|    rāzyānj   |       |          |
-|   شمر |    shamar    |       |Wehr, 1976|
 |  شمار |    shamār    |       |Wehr, 1976|
 |  سنوت |     sunūt    |       |          |
 
@@ -63,8 +63,8 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 
 |script|    term    |   literal  |    source   |
 |------|------------|------------|-------------|
-|  蘹香  |  huáixiāng | huai-spice |             |
 |  茴香  |  huíxiāng  |  hui-spice |Kleeman, 2010|
+|  蘹香  |  huáixiāng | huai-spice |             |
 |  甜茴香 |tiánhuíxiāng|sweet-fennel|             |
 |  小茴香 |xiǎohuíxiāng| small-anise|             |
 

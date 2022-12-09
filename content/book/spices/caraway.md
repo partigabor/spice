@@ -43,13 +43,13 @@ Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo
 
 |      term     |  source |
 |---------------|---------|
+|    caraway    |   OED   |
 | Armenian cumin|   OED   |
 |  caraway-seed |   OED   |
 |meridian fennel|Wikipedia|
 | mountain cumin|   OED   |
 | Persian cumin |Wikipedia|
 |  royal cumin  |   OED   |
-|    caraway    |   OED   |
 
 ### Arabic
 
@@ -61,9 +61,9 @@ Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo
 
 |script|    term    |     literal     |    source   |
 |------|------------|-----------------|-------------|
+|  葛縷子 |   gělǚzi   |                 |Kleeman, 2010|
 |  藏茴香 |zànghuíxiāng|Tibetan-hui-spice|     MDBG    |
 |  頁蒿  |    yèhāo   |  leaf-wormwood  |     MDBG    |
-|  葛縷子 |   gělǚzi   |                 |Kleeman, 2010|
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_caraway.json" height="300px" >}}

@@ -43,20 +43,20 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 
 |    term    |   source  |
 |------------|-----------|
+| asafoetida |    OED    |
 |stinking gum|Peter, 2012|
 |devil's dung|    OED    |
-| asafoetida |    OED    |
 |    hing    |    OED    |
 
 ### Arabic
 
 |   script   |      term      |    literal   |    source    |
 |------------|----------------|--------------|--------------|
+|    حلتیت   |     ḥiltīt     |              |  Wehr, 1976  |
 |  أبو كبير  |    abū kabīr   |  big father  |  Wehr, 1976  |
 | صمغ الأجذان|samgh al-anjudān|gum of anjudan|Baalbaki, 1995|
 |صمغ راتيناجي| samgh rātīnājī | rātīnājī gum |Baalbaki, 1995|
 |   أنجدان   |     anjudān    |              |Baalbaki, 1995|
-|    حلتیت   |     ḥiltīt     |              |  Wehr, 1976  |
 
 ### Chinese
 
@@ -66,8 +66,8 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 |   阿虞   |    ayü   |       | Leung, 2019 |
 |   哈昔尼  |  hāxīní  |       | Leung, 2019 |
 |  黑黎提提  |hēilítí​tí|       |Rossabi, 2013|
-|興蕖/興渠/興瞿|  xīngqú  |       | Leung, 2019 |
 |   形虞   |  xíngyú  |       | Leung, 2019 |
+|興蕖/興渠/興瞿|  xīngqú  |       | Leung, 2019 |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_asafoetida.json" height="300px" >}}

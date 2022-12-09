@@ -43,17 +43,17 @@ Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^
 
 |    term   |source|
 |-----------|------|
+|   anise   |  OED |
 |  aniseed  |  OED |
 |sweet cumin|  OED |
-|   anise   |  OED |
 
 ### Arabic
 
 | script |    term   |     literal     |  source  |
 |--------|-----------|-----------------|----------|
+| أنيسون |   anīsūn  |                 |Wehr, 1976|
 |حبة حلوة|ḥabba ḥulwa|sweet grain, seed|Wehr, 1976|
 |كمون حلو|kammūn ḥulw|   sweet cumin   |Wehr, 1976|
-| أنيسون |   anīsūn  |                 |Wehr, 1976|
 | يانسون |  yānisūn  |                 |Wehr, 1976|
 
 ### Chinese

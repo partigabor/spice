@@ -43,28 +43,28 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 
 |    term    |source|
 |------------|------|
+|   pepper   |  OED |
 |black pepper|  OED |
 |white pepper|  OED |
 |green pepper|  OED |
 | peppercorn |  OED |
-|   pepper   |  OED |
 
 ### Arabic
 
 |  script |    term    |   literal  |    source    |
 |---------|------------|------------|--------------|
+|   فلفل  |   fulful   |            |  Wehr, 1976  |
 |فلفل أبيض|fulful abyaḍ|white pepper|Baalbaki, 1995|
 |فلفل أسود|fulful aswad|black pepper|Baalbaki, 1995|
 |  فلفلة  |   fulfula  |            |  Wehr, 1976  |
-|   فلفل  |   fulful   |            |  Wehr, 1976  |
 
 ### Chinese
 
 |script|   term   |        literal       |       source       |
 |------|----------|----------------------|--------------------|
+|  胡椒  |  hújiāo  |   barbarian-pepper   |   Defrancis, 2003  |
 |  白胡椒 | báihújiāo|white-barbarian-pepper|        MDBG        |
 |  黑胡椒 | hēihújiāo|black-barbarian-pepper|        MDBG        |
-|  胡椒  |  hújiāo  |   barbarian-pepper   |   Defrancis, 2003  |
 |  綠胡椒 | lǜhújiāo |green-barbarian-pepper|Regency Spices, 2022|
 |  青胡椒 |qīnghújiāo|green-barbarian-pepper|Regency Spices, 2022|
 

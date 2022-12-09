@@ -43,12 +43,12 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 
 |      term     |source|
 |---------------|------|
+|   coriander   |  OED |
 |Chinese parsley|  OED |
 | coriander-seed|  OED |
 |    cilantro   |  OED |
-|   coliander   |  OED |
-|   coriander   |  OED |
 |     dhania    |  OED |
+|   coliander   |  OED |
 
 ### Arabic
 
@@ -60,10 +60,10 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 
 |script|   term  |      literal      |     source    |
 |------|---------|-------------------|---------------|
-|  芫茜  | yánqiàn |    lilac-madder   |   Wikipedia   |
 |  芫荽  |  yánsuī |  lilac-coriander  |      MDBG     |
-|  香菜  | xiāngcài| fragrant-vegetable|      MDBG     |
+|  芫茜  | yánqiàn |    lilac-madder   |   Wikipedia   |
 |  香茜  |xiāngqiàn|  fragrant-madder  |   Wikipedia   |
+|  香菜  | xiāngcài| fragrant-vegetable|      MDBG     |
 |  胡荽  |  húsuī  |barbarian-coriander|Defrancis, 2003|
 
 {{< load-plotly >}}

@@ -43,27 +43,27 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 
 |    term    |source|
 |------------|------|
+|   ginger   |  OED |
 |black ginger|  OED |
 | ginger root|  OED |
 |ginger spice|  OED |
 |green ginger|  OED |
 |white ginger|  OED |
-|   ginger   |  OED |
 
 ### Arabic
 
 |script|  term  |literal|  source  |
 |------|--------|-------|----------|
-|جنزبيل|janzabīl|       |Wehr, 1976|
 |زنجبيل|zanjabīl|       |Wehr, 1976|
+|جنزبيل|janzabīl|       |Wehr, 1976|
 
 ### Chinese
 
 |script|   term  |   literal  |     source    |
 |------|---------|------------|---------------|
+|   薑  |  jiāng  |   ginger   | Kleeman, 2010 |
 |  幹薑  | gānjiāng| dry-ginger |Defrancis, 2003|
 |  鮮薑  |xiānjiāng|fresh-ginger|Defrancis, 2003|
-|   薑  |  jiāng  |   ginger   | Kleeman, 2010 |
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_ginger.json" height="300px" >}}
