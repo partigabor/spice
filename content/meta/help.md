@@ -17,8 +17,6 @@ bookSearchExclude: true
 # bookToc: false
 ---
 
-⚓ Website Under Development ⚓
-
 The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes, which are featured on this website.
 
 <!--more-->

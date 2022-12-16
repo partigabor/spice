@@ -10,5 +10,5 @@ bookToc: false
 ---
 
 {{% center %}}
-⸙ Website Under Development ⸙
+WEBSITE UNDER DEVELOPMENT
 {{% /center %}}

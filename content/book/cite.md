@@ -10,7 +10,7 @@ bookToc: false
 ---
 
 {{% center %}}
-⸙ WEBSITE UNDER DEVELOPMENT ⸙
+WEBSITE UNDER DEVELOPMENT
 {{% /center %}}
 
 # How to Cite

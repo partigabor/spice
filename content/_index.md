@@ -14,8 +14,10 @@ plotly: true
 ---
 
 {{% center %}}
-⸙ Website Under Development ⸙
+WEBSITE UNDER DEVELOPMENT
 {{% /center %}}
+
+# Spices & Spice Terminology Database ⸙
 
 Welcome!
 
@@ -23,9 +25,8 @@ This website contains information on spices and spice names. It is based on a Ph
 
 Currently this database is still in its developmental state, I plan an initial release in 2023, after the thesis has been defended, and a revised version has been published.
 
-# Spices & Spice Terminology Database
-
 {{< columns >}}
+
 ## The Spices
 
 A

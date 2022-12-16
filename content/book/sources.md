@@ -9,7 +9,9 @@ bookHidden: true
 # bookToc: false
 ---
 
-⚓ Website Under Development ⚓
+{{% center %}}
+WEBSITE UNDER DEVELOPMENT
+{{% /center %}}
 
 # Sources
 

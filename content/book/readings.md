@@ -9,7 +9,9 @@ weight: 80
 # bookToc: false
 ---
 
-⚓ Website Under Development ⚓
+{{% center %}}
+WEBSITE UNDER DEVELOPMENT
+{{% /center %}}
 
 # Sources
 

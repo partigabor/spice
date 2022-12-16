@@ -12,4 +12,6 @@ resources:
   title: gallery-title-:counter
 ---
 
-⚓ Website Under Development ⚓
+{{% center %}}
+WEBSITE UNDER DEVELOPMENT
+{{% /center %}}
