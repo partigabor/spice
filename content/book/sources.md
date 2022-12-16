@@ -9,10 +9,6 @@ bookHidden: true
 # bookToc: false
 ---
 
-{{% center %}}
-WEBSITE UNDER DEVELOPMENT
-{{% /center %}}
-
 # Sources
 
 ## Primary Literature

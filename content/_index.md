@@ -14,7 +14,7 @@ plotly: true
 ---
 
 {{% center %}}
-WEBSITE UNDER DEVELOPMENT
+WEBSITE UNDER CONSTRUCTION
 {{% /center %}}
 
 # Spices & Spice Terminology Database ⸙

@@ -10,14 +10,14 @@ bookToc: false
 ---
 
 {{% center %}}
-WEBSITE UNDER DEVELOPMENT
+WEBSITE UNDER CONSTRUCTION
 {{% /center %}}
 
 # How to Cite
 
-As the Ph.D. dissertation is still under review and revision, and related papers are still in manuscript form, please only cite the website if you really must. However, as the website is currently still under development, I urge you to update your citation after the planned release in mid-2023.
+As the Ph.D. dissertation is under review and revision, and related papers are still in manuscript form, please only cite the website if you really must. However, as the website is currently still under development, with planned release in mid-2023.
 
-To cite a website with no date according to APA 7th style:
+To cite a website with no date in APA 7th style:
 
 #### Format
 

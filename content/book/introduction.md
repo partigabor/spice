@@ -8,7 +8,3 @@ weight: 10
 # bookSearchExclude: true
 bookToc: false
 ---
-
-{{% center %}}
-WEBSITE UNDER DEVELOPMENT
-{{% /center %}}

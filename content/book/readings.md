@@ -9,10 +9,6 @@ bookHidden: true
 # bookToc: false
 ---
 
-{{% center %}}
-WEBSITE UNDER DEVELOPMENT
-{{% /center %}}
-
 <!-- Use CNTRL + ALT + Z to cite from Zotero (Zotero has to run) -->
 
 # Sources
