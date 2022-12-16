@@ -88,6 +88,12 @@
                 />
   </url><url>
     <loc>https://partigabor.github.io/spice/posts/intro/</loc>
+    <lastmod>2022-12-16T15:46:30+08:00</lastmod>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/meta/help/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/meta/contact/</loc>
   </url><url>
     <loc>https://partigabor.github.io/spice/meta/privacy/</loc>
     <lastmod>2022-12-16T14:35:34+08:00</lastmod>
@@ -111,14 +117,11 @@
     <loc>https://partigabor.github.io/spice/book/sections/</loc>
     <lastmod>2022-11-23T14:08:44+08:00</lastmod>
   </url><url>
-    <loc>https://partigabor.github.io/spice/posts/help/</loc>
-    <lastmod>2022-12-16T14:30:35+08:00</lastmod>
-  </url><url>
     <loc>https://partigabor.github.io/spice/book/spices/</loc>
     <lastmod>2022-12-16T14:35:34+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/book/readings/</loc>
-    <lastmod>2022-12-16T14:43:25+08:00</lastmod>
+    <lastmod>2022-12-16T15:46:41+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/book/sources/</loc>
     <lastmod>2022-12-16T14:35:34+08:00</lastmod>
@@ -127,7 +130,7 @@
     <lastmod>2022-12-16T14:35:34+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/book/</loc>
-    <lastmod>2022-12-16T14:43:25+08:00</lastmod>
+    <lastmod>2022-12-16T15:46:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -140,7 +143,7 @@
                 />
   </url><url>
     <loc>https://partigabor.github.io/spice/categories/</loc>
-    <lastmod>2022-12-16T14:30:35+08:00</lastmod>
+    <lastmod>2022-12-09T19:42:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -171,7 +174,7 @@
     <lastmod>2022-12-09T19:42:47+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/tags/</loc>
-    <lastmod>2022-12-16T14:30:35+08:00</lastmod>
+    <lastmod>2022-12-09T19:42:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -187,16 +190,19 @@
     <lastmod>2022-12-09T19:42:47+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/categories/guide/</loc>
-    <lastmod>2022-12-16T14:30:35+08:00</lastmod>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/tags/markdown/</loc>
-    <lastmod>2022-12-16T14:30:35+08:00</lastmod>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://partigabor.github.io/spice/meta/</loc>
+    <lastmod>2022-12-16T14:35:34+08:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/tags/syntax/</loc>
-    <lastmod>2022-12-16T14:30:35+08:00</lastmod>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/categories/technical/</loc>
-    <lastmod>2022-12-16T14:30:35+08:00</lastmod>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://partigabor.github.io/spice/book/sections/first-page/</loc>
     <lastmod>2022-11-23T11:18:57+08:00</lastmod>
@@ -204,10 +210,7 @@
     <loc>https://partigabor.github.io/spice/book/sections/second-page/</loc>
     <lastmod>2022-11-23T11:18:57+08:00</lastmod>
   </url><url>
-    <loc>https://partigabor.github.io/spice/meta/</loc>
-    <lastmod>2022-12-16T14:35:34+08:00</lastmod>
-  </url><url>
     <loc>https://partigabor.github.io/spice/posts/</loc>
-    <lastmod>2022-10-13T15:31:00+08:00</lastmod>
+    <lastmod>2022-12-16T15:46:41+08:00</lastmod>
   </url>
 </urlset>

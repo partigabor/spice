@@ -1,15 +1,14 @@
 ---
-title: "Cite"
-weight: 90
+title: Contact
+weight: 9
 # bookCollapseSection: true
 # bookComments: true
 # bookFlatSection: true
 # bookHidden: true
-# bookSearchExclude: true
+bookSearchExclude: true
 bookToc: false
 ---
 
-⚓ Website Under Development ⚓
+# Contact
 
-# How to Cite?
-
+gabor.parti@polyu.connect.hk

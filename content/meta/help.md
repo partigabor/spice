@@ -1,18 +1,25 @@
-+++
-title = "Help with Markdown Syntax Guide and Hugo Shortcodes"
-author = "Gábor Parti"
-date = "2022-09-01"
-weight = 11
-description = "Description."
-categories = ["technical","guide"]
-tags = ["markdown","syntax"]
-menu = "main:posts"
-plotly = "true"
-draft = "false"
-bookHidden = "true"
-+++
+---
+title: Markdown Syntax Guide and Hugo Shortcodes
+author: Gábor Parti
+date: "2022-09-01"
+weight: 9
+description: "Description."
+categories: ["technical","guide"]
+tags: ["markdown","syntax"]
+# menu: main:posts
+plotly: true
+# draft: false
+# bookCollapseSection: true
+# bookComments: true
+# bookFlatSection: true
+# bookHidden: true
+bookSearchExclude: true
+# bookToc: false
+---
 
-The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.
+⚓ Website Under Development ⚓
+
+The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes, which are featured on this website.
 
 <!--more-->
 

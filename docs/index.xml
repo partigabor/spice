@@ -258,6 +258,25 @@ Overview#id vanilla species name Vanilla planifolia Jacks. ex Andrews family O
     </item>
     
     <item>
+      <title>Markdown Syntax Guide and Hugo Shortcodes</title>
+      <link>https://partigabor.github.io/spice/meta/help/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/meta/help/</guid>
+      <description>&lt;p&gt;⚓ Website Under Development ⚓&lt;/p&gt;
+&lt;p&gt;The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes, which are featured on this website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://partigabor.github.io/spice/meta/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/meta/contact/</guid>
+      <description>Contact#gabor.parti@polyu.connect.hk</description>
+    </item>
+    
+    <item>
       <title>Privacy</title>
       <link>https://partigabor.github.io/spice/meta/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -283,16 +302,9 @@ Terms &amp;amp; conditions#Right now the website and the database are still un
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/book/introduction/</guid>
-      <description>⚓ Website Under Development ⚓</description>
-    </item>
-    
-    <item>
-      <title>Help with Markdown Syntax Guide and Hugo Shortcodes</title>
-      <link>https://partigabor.github.io/spice/posts/help/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/posts/help/</guid>
-      <description>&lt;p&gt;The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.&lt;/p&gt;</description>
+      <description>⚓ Website Under Development ⚓Welcome!
+This website contains information on spices and spice names. It is based on a Ph.D. dissertation currently under review and revision, titled Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain.
+Currently this database is still in its developmental state, I plan an initial release in 2023, after the thesis has been defended, and a revised version has been published.</description>
     </item>
     
     <item>
