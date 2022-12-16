@@ -12,4 +12,4 @@ resources:
   title: gallery-title-:counter
 ---
 
-⚓ Website Under Construction ⚓
+⚓ Website Under Development ⚓
