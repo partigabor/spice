@@ -43,23 +43,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>guide</title>
-      <link>https://partigabor.github.io/spice/categories/guide/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/categories/guide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technical</title>
-      <link>https://partigabor.github.io/spice/categories/technical/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/categories/technical/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

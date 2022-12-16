@@ -1,5 +1,5 @@
 +++
-title = "Markdown Syntax Guide and Hugo Shortcodes"
+title = "Help with Markdown Syntax Guide and Hugo Shortcodes"
 author = "Gábor Parti"
 date = "2022-09-01"
 weight = 11
@@ -8,7 +8,7 @@ categories = ["technical","guide"]
 tags = ["markdown","syntax"]
 menu = "main:posts"
 plotly = "true"
-# draft: true
+draft = "true"
 +++
 
 The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.
