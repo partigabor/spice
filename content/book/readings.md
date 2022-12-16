@@ -23,6 +23,12 @@ WEBSITE UNDER DEVELOPMENT
 
 ![Image](/images/covers/frankopan.jpg)[^frankopan_silk_2012]
 
+{{< load-photoswipe >}}
+
+{{< gallery dir="/images/covers/" hover-effect="slideup" />}}
+
+{{< figure src="/images/covers/hansen_2016.jpg" caption="A short caption" alt="This is a much longer, verbose, comprehensive caption that will be used in PhotoSwipe">}}
+
 ### Articles
 
 <!-- Use CNTRL + ALT + Z to cite from Zotero (Zotero has to run) --> 
