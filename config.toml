@@ -57,12 +57,12 @@ enableEmoji = true
       fontheading = "Brill"
       fontbody = "Brill"
 
-# [languages.hu]
-#   languageName = "Hungarian 🇭🇺"
-#   contentDir = 'content.hu'
-#   weight = 2
-#   title = 'Fűszer és fűszernév adatbázis'
-#   [languages.hu.params]
+[languages.hu]
+  languageName = "Hungarian 🇭🇺"
+  contentDir = 'content.hu'
+  weight = 2
+  title = 'Fűszer és fűszernév adatbázis'
+  [languages.hu.params]
 
 # [languages.ar]
 #   languageName = "Arabic 🇵🇸"
