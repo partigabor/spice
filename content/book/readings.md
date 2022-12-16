@@ -27,7 +27,6 @@ WEBSITE UNDER DEVELOPMENT
 
 {{< gallery dir="/images/covers/" hover-effect="slideup" />}}
 
-{{< figure src="/images/covers/hansen_2016.jpg" caption="A short caption" alt="This is a much longer, verbose, comprehensive caption that will be used in PhotoSwipe">}}
 
 ### Articles
 
