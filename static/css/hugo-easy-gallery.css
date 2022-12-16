@@ -32,7 +32,7 @@ Grid Layout Styles
         padding-bottom: 33.3%; /*  */
     }
 }
-@media only screen and (min-width : 500px) {
+@media only screen and (min-width : 600px) {
    /* Medium desktop: 4 tiles */
    .box {
       width: 25%;
@@ -67,16 +67,16 @@ figure {
     bottom: 5px;
 }
 .gallery.hover-effect-grow figure:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 .gallery.hover-effect-shrink figure:hover {
-    transform: scale(0.9);
+    transform: scale(0.95);
 }
 .gallery.hover-effect-slidedown figure:hover {
-    transform: translateY(10px);
+    transform: translateY(5px);
 }
 .gallery.hover-effect-slideup figure:hover {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
 }
 
 /*
