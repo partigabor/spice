@@ -54,13 +54,15 @@ enableEmoji = true
   contentDir = 'content'
   weight = 1
   [languages.en.params]
+      fontheading = "Brill"
+      fontbody = "Brill"
 
-[languages.hu]
-  languageName = "Hungarian 🇭🇺"
-  contentDir = 'content.hu'
-  weight = 2
-  title = 'Fűszer és fűszernév adatbázis'
-  [languages.hu.params]
+# [languages.hu]
+#   languageName = "Hungarian 🇭🇺"
+#   contentDir = 'content.hu'
+#   weight = 2
+#   title = 'Fűszer és fűszernév adatbázis'
+#   [languages.hu.params]
 
 # [languages.ar]
 #   languageName = "Arabic 🇵🇸"
@@ -98,8 +100,9 @@ enableEmoji = true
 #   weight = 20
 
 [params]
-  fontbody = "Brill"
   fontheading = "Brill"
+  fontbody = "Brill"
+
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
@@ -112,7 +115,7 @@ enableEmoji = true
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be 'logo.png'
-  BookLogo = 'images/logo.png'
+  BookLogo = 'images/polyu-logo.png'
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
