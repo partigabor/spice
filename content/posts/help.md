@@ -8,7 +8,8 @@ categories = ["technical","guide"]
 tags = ["markdown","syntax"]
 menu = "main:posts"
 plotly = "true"
-draft = "true"
+draft = "false"
+bookHidden = "true"
 +++
 
 The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.
@@ -123,7 +124,7 @@ Todo lists can be written by using the standard Markdown syntax:
 
 [A link to a file](/plotly/distribution.html)
 
-[A link to heading on this page](markdown-syntax#figures)
+[A link to heading on this page](help#figures)
 
 ## Figures 
 

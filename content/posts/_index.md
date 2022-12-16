@@ -2,7 +2,7 @@
 title: Posts
 menu:
   after:
-    name: blog
+    name: posts
     weight: 40
 bookFlatSection: true
 # bookToc: true
