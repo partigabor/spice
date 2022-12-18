@@ -1,7 +1,8 @@
 ---
 title: Star Anise
 author: Gábor Parti
-date: 2022-12-09
+date: 2022-12-18
+description: The star shaped pericarps of a tree from Vietnam and South China.
 weight: 1
 # bookCollapseSection: true
 # bookComments: true

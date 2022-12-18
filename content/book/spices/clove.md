@@ -1,7 +1,8 @@
 ---
 title: Clove
 author: Gábor Parti
-date: 2022-12-09
+date: 2022-12-18
+description: The dried flower-buds of a tropical tree from the Moluccas, Indonesia.
 weight: 1
 # bookCollapseSection: true
 # bookComments: true

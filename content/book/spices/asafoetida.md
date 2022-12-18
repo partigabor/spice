@@ -1,7 +1,8 @@
 ---
 title: Asafoetida
 author: Gábor Parti
-date: 2022-12-09
+date: 2022-12-18
+description: The dried gum-resin of several species of Ferula plants, also known as hing; devil's dung.
 weight: 1
 # bookCollapseSection: true
 # bookComments: true

@@ -1,7 +1,8 @@
 ---
 title: Sichuan Pepper
 author: Gábor Parti
-date: 2022-12-09
+date: 2022-12-18
+description: The numbing, red or green fruits of East Asian prickly ash trees, related to sansho..
 weight: 1
 # bookCollapseSection: true
 # bookComments: true

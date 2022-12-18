@@ -12,6 +12,4 @@ resources:
   title: gallery-title-:counter
 ---
 
-{{% center %}}
-WEBSITE UNDER DEVELOPMENT
-{{% /center %}}
+{{<section>}}

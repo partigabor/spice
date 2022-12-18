@@ -1,7 +1,8 @@
 ---
 title: Ginger
 author: Gábor Parti
-date: 2022-12-09
+date: 2022-12-18
+description: The rhizomes of the ginger plant, fresh or dried.
 weight: 1
 # bookCollapseSection: true
 # bookComments: true

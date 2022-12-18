@@ -1,7 +1,8 @@
 ---
 title: Cinnamon
 author: Gábor Parti
-date: 2022-12-09
+date: 2022-12-18
+description: The inner bark of the cinnamon tree from Sri Lanka, related to cassia..
 weight: 1
 # bookCollapseSection: true
 # bookComments: true
