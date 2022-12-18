@@ -18,6 +18,7 @@ publishDir = "docs"
 assetDir = "assets"
 
 # Warning: Images are read from the static/images folder of the main website: https://partigabor.github.io/
+# Exception is for figures used by gallery shortcode.
 
 # Fix urls so Hugo can find images on this website.
 # WARNING! Kills Search function if true
