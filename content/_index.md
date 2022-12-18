@@ -14,17 +14,18 @@ plotly: true
 ---
 
 {{% center %}}
-WEBSITE UNDER CONSTRUCTION
+— WEBSITE UNDER CONSTRUCTION —
 {{% /center %}}
 
-# Spices & Spice Terminology Database ⸙
+# Spices & Spice Terminology Database 1.0 (beta)
 
 Welcome!
 
-This website contains information on spices and spice names. It is based on a Ph.D. dissertation currently under review and revision, titled *Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*. 
+This website contains information on spices and spice names. It is based on a Ph.D. dissertation currently under review and revision, titled *Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*.
 
-Currently this database is still in its developmental state, I plan an initial release in 2023, after the thesis has been defended, and a revised version has been published.
+The database is currently under developmental state, I plan an initial release in 2023, after the thesis has been defended, and a revised version has been published.
 
+<!-- 
 {{< columns >}}
 
 ## The Spices
@@ -37,6 +38,6 @@ A
 
 B
 
-{{< /columns >}}
+{{< /columns >}} -->
 
 ***

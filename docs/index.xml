@@ -308,7 +308,8 @@ Overview#id vanilla species name Vanilla planifolia Jacks. ex Andrews family O
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/book/readings/</guid>
-      <description>Sources#Primary Literature#Secondary Literature#Books#Dalby, 2000
+      <description>Sources#Primary Literature#Secondary Literature#Books#Bergreen, 2007
+Dalby, 2000
 Frankopan, 2012
 Hansen, 2012
 Krondl, 2007
@@ -337,26 +338,6 @@ Krondl, M. (2007). The Taste of Conquest: The Rise and Fall of the Three Great C
       <description>WEBSITE UNDER CONSTRUCTIONHow to Cite#As the Ph.D. dissertation is under review and revision, and related papers are still in manuscript form, please only cite the website if you really must. However, as the website is currently still under development, with planned release in mid-2023.
 To cite a website with no date in APA 7th style:
 Format#Last name, Initials. (n.d.). Page title. Site Name. Retrieved Month Day, Year, from URL</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://partigabor.github.io/spice/book/sections/first-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/sections/first-page/</guid>
-      <description>First page#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://partigabor.github.io/spice/book/sections/second-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/sections/second-page/</guid>
-      <description>Second Page#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>
