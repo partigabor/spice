@@ -5,7 +5,7 @@ title: "The Spices"
 # bookHidden: true
 bookCollapseSection: true
 bookFlatSection: false
-# bookToc: false
+bookToc: false
 resources: 
 - src: "gallery/*.jpg"
   name: gallery-:counter

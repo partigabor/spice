@@ -41,3 +41,14 @@ B
 {{< /columns >}} -->
 
 ***
+
+## How to Cite
+
+As the Ph.D. dissertation is under review and revision, and related papers are still in manuscript form, please only cite the website if you really must.
+
+#### In APA 7<sup>th</sup> style:
+
+{{< hint info >}}  
+Parti, G. (n.d.). *Home*. Spices and Spice Terminology Database. Retrieved December 12, 2022, https://partigabor.github.io/spice/
+{{< /hint >}}
+

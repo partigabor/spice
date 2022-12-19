@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-weight: 10
+title: "The Language of Spices"
+weight: 40
 # bookCollapseSection: true
 # bookComments: true
 # bookFlatSection: true

@@ -253,7 +253,7 @@ Overview#id vanilla species name Vanilla planifolia Jacks. ex Andrews family O
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/posts/intro/</guid>
-      <description>&lt;p&gt;You can search the website using the &lt;code&gt;search bar&lt;/code&gt; on the left side panel. Alternatively you can also navigate to various spice pages by selecting related &lt;strong&gt;categories&lt;/strong&gt; and &lt;strong&gt;tags&lt;/strong&gt; visible on the right panel. This panel also includes blog posts on the current page.&lt;/p&gt;
+      <description>&lt;p&gt;You can search the website using the &lt;code&gt;search bar&lt;/code&gt; on the left side panel. Alternatively you can also navigate to various spice pages by selecting related &lt;strong&gt;categories&lt;/strong&gt; and &lt;strong&gt;tags&lt;/strong&gt; visible on the right side panel.&lt;/p&gt;
 &lt;hr&gt;</description>
     </item>
     
@@ -303,6 +303,24 @@ Overview#id vanilla species name Vanilla planifolia Jacks. ex Andrews family O
     </item>
     
     <item>
+      <title>The Diffusion of Spices</title>
+      <link>https://partigabor.github.io/spice/book/diffusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/book/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Language of Spices</title>
+      <link>https://partigabor.github.io/spice/book/language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/book/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Readings</title>
       <link>https://partigabor.github.io/spice/book/readings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -335,9 +353,7 @@ Krondl, M. (2007). The Taste of Conquest: The Rise and Fall of the Three Great C
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://partigabor.github.io/spice/book/cite/</guid>
-      <description>WEBSITE UNDER CONSTRUCTIONHow to Cite#As the Ph.D. dissertation is under review and revision, and related papers are still in manuscript form, please only cite the website if you really must. However, as the website is currently still under development, with planned release in mid-2023.
-To cite a website with no date in APA 7th style:
-Format#Last name, Initials. (n.d.). Page title. Site Name. Retrieved Month Day, Year, from URL</description>
+      <description></description>
     </item>
     
   </channel>
