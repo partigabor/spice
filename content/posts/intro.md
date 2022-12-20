@@ -9,7 +9,7 @@ description = "How to search the website?"
 #draft = "false"
 +++
 
-You can search the website using the `search bar` on the left side panel. Alternatively you can also navigate to various spice pages by selecting related **categories** and **tags** visible on the right side panel.
+You can search the website using the `search bar` on the left side panel. Alternatively, you can also navigate to various spice pages by selecting related *categories* and *tags* visible on the right side panel.
 
 ***
 
