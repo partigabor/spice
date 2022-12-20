@@ -127,7 +127,7 @@ Todo lists can be written by using the standard Markdown syntax:
 
 [A relative link from one post to another post](book/cite)
 
-[A link to a file](distribution.html)
+[A link to a file](/spice/plotly/distribution.html)
 
 [A link to heading on this page](help#figures)
 
