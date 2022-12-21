@@ -27,6 +27,7 @@ $hint-colors: (
   warning: #5f4690,
   danger: #cc503e,
   etym: #3C8031,
+  cite: #3C8031,
 ) !default;
 
 // Themes
@@ -47,6 +48,7 @@ $hint-colors: (
   --hint-color-warning: #5f4690; //#fd6;
   --hint-color-danger: #cc503e; //#f66;
   --hint-color-etym: #3C8031;
+  --hint-color-cite: #3C8031;
 }
 
 @mixin theme-dark {
@@ -72,4 +74,5 @@ $hint-colors: (
   --hint-color-warning: #5f4690; //#fd6;
   --hint-color-danger: #cc503e; //#f66;
   --hint-color-etym: #73af48;
+  --hint-color-cite: #73af48;
 }
