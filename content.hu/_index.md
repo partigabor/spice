@@ -3,6 +3,8 @@ title: Nyitólap
 type: docs
 ---
 
-⚓ Weboldal szerkesztés alatt ⚓
+{{% center %}}
+— Weboldal szerkesztés alatt —
+{{% /center %}}
 
 # Fűszer és fűszernév adatbázis

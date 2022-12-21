@@ -1,7 +1,7 @@
 ---
 weight: 20
 # bookFlatSection: true
-title: "The Spices"
+title: "Spices"
 # bookHidden: true
 bookCollapseSection: true
 bookFlatSection: false
@@ -15,5 +15,7 @@ resources:
 {{% center %}}
 — WEBSITE UNDER CONSTRUCTION —
 {{% /center %}}
+
+# The Spices
 
 {{<section>}}
