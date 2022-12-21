@@ -19,13 +19,9 @@ plotly: true
 
 # Welcome to the *Spices & Spice Terminology Database* 1.0 (beta)
 
-
-
-This website contains information on spices and spice names, it aims to list, categorize, and introduce spices from a philological point of view, focusing on their origins, history, spread, cultural significance, and linguistic analysis.
+This website contains information on spices and spice names. It aims to list, categorize, and introduce spices from a [philological](https://en.wikipedia.org/wiki/Philology) point of view, focusing on their origins, history, spread, cultural significance, and linguistic analysis.
 
 The website is based on a Ph.D. dissertation currently under review and revision, titled *Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*.
-
-
 
 >The database is currently under developmental state (beta version), I plan an initial release in 2023, after the thesis has been defended, and a revised version has been published.
 
@@ -46,11 +42,11 @@ B
 
 ## How to Cite
 
-As the Ph.D. dissertation is under review and revision, and related papers are still in manuscript form, please only cite the website if you really must.
+As the thesis is under revision, and related papers are still in manuscript form, you can cite the website.
 
 #### In APA 7<sup>th</sup> style:
 
 {{< hint info >}}  
-Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database. Retrieved December 12, 2022, https://partigabor.github.io/spice/
+Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.0 (beta). Retrieved December 12, 2022, https://partigabor.github.io/spice/
 {{< /hint >}}
 
