@@ -23,9 +23,10 @@ $toc-width: 16rem !default;
 $mobile-breakpoint: $menu-width + $body-min-width * 1.2 + $toc-width !default;
 
 $hint-colors: (
-  info: #73af48,
-  warning: #e17c05,
+  info: #1d6996,
+  warning: #5f4690,
   danger: #cc503e,
+  etym: #3C8031,
 ) !default;
 
 // Themes
@@ -42,9 +43,10 @@ $hint-colors: (
 
   --icon-filter: none;
 
-  --hint-color-info: #73af48; //#6bf;
-  --hint-color-warning: #e17c05; //#fd6;
+  --hint-color-info: #1d6996; //#6bf;
+  --hint-color-warning: #5f4690; //#fd6;
   --hint-color-danger: #cc503e; //#f66;
+  --hint-color-etym: #3C8031;
 }
 
 @mixin theme-dark {
@@ -53,7 +55,7 @@ $hint-colors: (
   --gray-500: rgba(255, 255, 255, 0.5);
 
   --color-link: #a6e22e;
-  --color-visited-link: #8ac21b;
+  --color-visited-link: #84B424;
 
   // --color-link: #1cd3b2;
   // --color-visited-link: #16a68c;
@@ -66,7 +68,8 @@ $hint-colors: (
 
   --icon-filter: brightness(0) invert(1);
 
-  --hint-color-info: #73af48; //#6bf;
-  --hint-color-warning: #e17c05; //#fd6;
+  --hint-color-info: #1d6996; //#6bf;
+  --hint-color-warning: #5f4690; //#fd6;
   --hint-color-danger: #cc503e; //#f66;
+  --hint-color-etym: #73af48;
 }

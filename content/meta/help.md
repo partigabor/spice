@@ -143,7 +143,7 @@ The only correct way to insert images from static/images, but for this you need 
 However, using hugo shortcode, you won't have this problem.
 
 ```
-{{< image src="images/cardamom.png" alt="Cardamom." >}}
+{{\< image src="images/cardamom.png" alt="Cardamom." \>}}
 ```
 
 {{< image src="images/cardamom.png" alt="Cardamom." >}}
