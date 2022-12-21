@@ -15,7 +15,7 @@
 <title>Markdown Syntax Guide and Hugo Shortcodes | Spices &amp; Spice Terminology Database 1.0 (beta)</title>
 <link rel="manifest" href="/spice/manifest.json">
 <link rel="icon" href="/spice/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/spice/book.min.412c69682e41e4d74f4c65254b4ee2211dbe3611a192bc7324806ebfd9d56bca.css" integrity="sha256-QSxpaC5B5NdPTGUlS07iIR2&#43;NhGhkrxzJIBuv9nVa8o=" crossorigin="anonymous">
+<link rel="stylesheet" href="/spice/book.min.7bf49864049cb3ef2587d94d0cd432b3bfef2c8c32009916e24bc2b2e66ec5f1.css" integrity="sha256-e/SYZAScs&#43;8lh9lNDNQys7/vLIwyAJkW4kvCsuZuxfE=" crossorigin="anonymous">
   <script defer src="/spice/flexsearch.min.js"></script>
   <script defer src="/spice/en.search.min.e1b3b1b609ca4bf620e7f80a4fe563241e066c984f480d9bc0541f9e3723e7e9.js" integrity="sha256-4bOxtgnKS/Yg5/gKT&#43;VjJB4GbJhPSA2bwFQfnjcj5&#43;k=" crossorigin="anonymous"></script>
 
@@ -808,14 +808,22 @@ The blockquote element represents content that is quoted from another source, op
   Figures
   <a class="anchor" href="#figures">#</a>
 </h2>
-<p>The only correct way to insert images from static/images:</p>
-<pre tabindex="0"><code>![1](/images/polyu-logo.png)
+<p>The only correct way to insert images from static/images, but for this you need the images in the base website static folder:</p>
+<pre tabindex="0"><code>![1](/images/diogenes.png)
 </code></pre><p>
-  <img src="/images/polyu-logo.png" alt="Image" /></p>
-<p>
   <img src="/images/diogenes.jpg" alt="Image" /></p>
-<p>
-  <img src="/images/hariri.jpg" alt="Image" /></p>
+<p>However, using hugo shortcode, you won&rsquo;t have this problem.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#a6e22e"></span>
+</span></span></code></pre></div>
+
+
+<div class="center">
+  <img
+    src="images/cardamom.png"
+    alt="Cardamom."
+    decoding="async"
+  />
+</div>
 <h2 id="tables">
   Tables
   <a class="anchor" href="#tables">#</a>
