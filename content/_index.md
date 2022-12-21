@@ -17,7 +17,7 @@ plotly: true
 — WEBSITE UNDER CONSTRUCTION —
 {{% /center %}}
 
-{{< image src="images/chile.png" alt="Illustration." >}}
+{{< image src="images/cardamom-300.png" alt="Illustration." >}}
 
 # Welcome to the *Spices & Spice Terminology Database* 1.0 (beta)
 
