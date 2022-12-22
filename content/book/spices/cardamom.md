@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Cardamom
 
-![Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/cardamom.png)
+![Illustration of Elettaria cardamomum](/images/kohler/cardamom.png)
+
+{{< center >}}
+Illustration of Elettaria cardamomum (L.) Maton from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its fruit (seed pods, capsules), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 

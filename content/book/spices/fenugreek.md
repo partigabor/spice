@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Fenugreek
 
-![Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/fenugreek.png)
+![Illustration of Trigonella foenum-graecum](/images/kohler/fenugreek.png)
+
+{{< center >}}
+Illustration of Trigonella foenum-graecum L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S Eur; W As.[^van_wyk_culinary_2014] It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 

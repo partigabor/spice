@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Anise
 
-![Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/anise.png)
+![Illustration of Pimpinella anisum](/images/kohler/anise.png)
+
+{{< center >}}
+Illustration of Pimpinella anisum L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia.[^van_wyk_culinary_2014] It is used for its fruit and oil, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 

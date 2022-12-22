@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Long Pepper
 
-![Illustration of *Piper longum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/long pepper.png)
+![Illustration of Piper longum](/images/kohler/long pepper.png)
+
+{{< center >}}
+Illustration of Piper longum L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
 

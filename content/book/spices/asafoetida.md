@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Asafoetida
 
-![Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/asafoetida.png)
+![Illustration of Ferula foetida](/images/kohler/asafoetida.png)
+
+{{< center >}}
+Illustration of Ferula foetida (Bunge) Regel from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia.[^van_wyk_culinary_2014] It is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
 

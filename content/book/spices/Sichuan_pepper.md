@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Sichuan Pepper
 
-![Illustration of *Zanthoxylum bungeanum* Maxim. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/Sichuan pepper.png)
+![Illustration of Zanthoxylum bungeanum](/images/kohler/Sichuan pepper.png)
+
+{{< center >}}
+Illustration of Zanthoxylum bungeanum Maxim. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats; colic. Its aroma is described as woodsy, peppery, with a heat index of 3.[^ucla_medicinal_2002]
 

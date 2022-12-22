@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Dill
 
-![Illustration of *Anethum graveolens* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/dill.png)
+![Illustration of Anethum graveolens](/images/kohler/dill.png)
+
+{{< center >}}
+Illustration of Anethum graveolens L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
 

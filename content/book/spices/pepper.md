@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Pepper
 
-![Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/pepper.png)
+![Illustration of Piper nigrum](/images/kohler/pepper.png)
+
+{{< center >}}
+Illustration of Piper nigrum L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 

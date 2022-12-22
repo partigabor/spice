@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Vanilla
 
-![Illustration of *Vanilla planifolia* Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/vanilla.png)
+![Illustration of Vanilla planifolia](/images/kohler/vanilla.png)
+
+{{< center >}}
+Illustration of Vanilla planifolia Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 

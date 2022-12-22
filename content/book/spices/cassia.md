@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Cassia
 
-![Illustration of *Cinnamomum cassia* (L.) J.Presl. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/cassia.png)
+![Illustration of Cinnamomum cassia](/images/kohler/cassia.png)
+
+{{< center >}}
+Illustration of Cinnamomum cassia (L.) J.Presl. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Southeast China.[^van_wyk_culinary_2014] It is used for its bark and fruit, primarily for flavor; diarrhea. Its aroma is described as pungent, cinnamon-like, with a heat index of 3.[^ucla_medicinal_2002]
 

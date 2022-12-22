@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal', 'ritualistic']
 
 # Turmeric
 
-![Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/turmeric.png)
+![Illustration of Curcuma longa](/images/kohler/turmeric.png)
+
+{{< center >}}
+Illustration of Curcuma longa L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 

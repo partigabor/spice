@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Saffron
 
-![Illustration of *Crocus sativus* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/saffron.png)
+![Illustration of Crocus sativus](/images/kohler/saffron.png)
+
+{{< center >}}
+Illustration of Crocus sativus L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for bouillabaise, rice; fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 

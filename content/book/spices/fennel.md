@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Fennel
 
-![Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/fennel.png)
+![Illustration of Foeniculum vulgare](/images/kohler/fennel.png)
+
+{{< center >}}
+Illustration of Foeniculum vulgare Mill. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable from the *Apiaceae* family,[^powo] originating in the region(s) of Med.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 

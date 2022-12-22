@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Clove
 
-![Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/clove.png)
+![Illustration of Syzygium aromaticum](/images/kohler/clove.png)
+
+{{< center >}}
+Illustration of Syzygium aromaticum (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 

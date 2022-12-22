@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Chile
 
-![Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/chile.png)
+![Illustration of Capsicum annuum](/images/kohler/chile.png)
+
+{{< center >}}
+Illustration of Capsicum annuum L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 

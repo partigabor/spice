@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Cumin
 
-![Illustration of *Cuminum cyminum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/cumin.png)
+![Illustration of Cuminum cyminum](/images/kohler/cumin.png)
+
+{{< center >}}
+Illustration of Cuminum cyminum L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of W. \& C. Asia; India .[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 

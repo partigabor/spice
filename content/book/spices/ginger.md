@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Ginger
 
-![Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/ginger.png)
+![Illustration of Zingiber officinale](/images/kohler/ginger.png)
+
+{{< center >}}
+Illustration of Zingiber officinale Roscoe from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary).[^van_wyk_culinary_2014] It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 

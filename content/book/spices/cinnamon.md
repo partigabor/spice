@@ -17,7 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Cinnamon
 
-![Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/cinnamon.png)
+![Illustration of Cinnamomum verum](/images/kohler/cinnamon.png)
+
+{{< center >}}
+Illustration of Cinnamomum verum J.Presl. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India.[^van_wyk_culinary_2014] It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 

@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Mace
 
-![Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/mace.png)
+![Illustration of Myristica fragrans](/images/kohler/mace.png)
+
+{{< center >}}
+Illustration of Myristica fragrans Houtt. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its aril, primarily for confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_medicinal_2002]
 

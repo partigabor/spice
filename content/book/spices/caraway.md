@@ -17,7 +17,11 @@ tags: ['culinary']
 
 # Caraway
 
-![Illustration of *Carum carvi* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/caraway.png)
+![Illustration of Carum carvi](/images/kohler/caraway.png)
+
+{{< center >}}
+Illustration of Carum carvi L. from Köhler's Medizinal-Pflanzen (1887).
+{{< /center >}}
 
 Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; Eurasia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
 
