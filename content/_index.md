@@ -50,6 +50,6 @@ As the thesis is under revision, and related papers are still in manuscript form
 
 #### In APA 7<sup>th</sup> style:
 
-{{< hint info >}}  
+{{< hint cite >}}  
 Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.0 (beta). Retrieved December 12, 2022, https://partigabor.github.io/spice/
 {{< /hint >}}
