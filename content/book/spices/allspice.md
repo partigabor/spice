@@ -17,6 +17,8 @@ tags: ['culinary']
 
 # Allspice
 
+{{< image src="/images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
+
 | English|   Arabic  |Chinese| Hungarian|
 |--------|-----------|-------|----------|
 |allspice|فلفل إفرنجي|  多香果  |szegfűbors|

@@ -4,7 +4,7 @@ googleAnalytics = "G-Z5VF0FL7ED"
 
 # Setup
 baseURL = "https://partigabor.github.io/spice/"
-title = "Spices & Spice Terminology Database 1.0 (beta)"
+title = "Spices & Spice Terminology Database 1.0 (Beta)"
 languageCode = "en-us"
 defaultContentLanguage = 'en'
 theme = ["hugo-book"]
