@@ -1,0 +1,1101 @@
+{
+  "data": [
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0623\u0646\u064a\u0633\u0648\u0646<br>an\u012bs\u016bn<br>Arabic<br>Afro-Asiatic",
+        " \u1f04\u03bd\u03b9\u03c3\u03bf\u03bd<br>\u00e1nison<br>Ancient Greek<br>Indo-European",
+        "? <br>jnst<br>Egyptian (Ancient)<br>Afro-Asiatic"
+      ],
+      "lat": [
+        27.96,
+        39.8155,
+        28.381735
+      ],
+      "line": {
+        "color": "rgb(95, 70, 144)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        21.9129,
+        30.834959
+      ],
+      "marker": {
+        "color": "rgb(95, 70, 144)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "anisun",
+      "opacity": 0.75,
+      "text": [
+        " \u0623\u0646\u064a\u0633\u0648\u0646<br>an\u012bs\u016bn<br>Arabic<br>Afro-Asiatic",
+        " \u1f04\u03bd\u03b9\u03c3\u03bf\u03bd<br>\u00e1nison<br>Ancient Greek<br>Indo-European",
+        "? <br>jnst<br>Egyptian (Ancient)<br>Afro-Asiatic"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u062d\u0644\u062a\u064a\u062a<br>\u1e25ilt\u012bt<br>Arabic<br>Afro-Asiatic",
+        " \u05d7\u05dc\u05ea\u05d9\u05ea\u05d0/\u071a\u0720\u072c\u071d\u072c\u0710<br>\u1e25elt\u012b\u1e6f\u0101<br>Aramaic<br>Afro-Asiatic"
+      ],
+      "lat": [
+        27.96,
+        33.91
+      ],
+      "line": {
+        "color": "rgb(29, 105, 150)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.19
+      ],
+      "marker": {
+        "color": "rgb(29, 105, 150)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "hiltit",
+      "opacity": 0.75,
+      "text": [
+        " \u062d\u0644\u062a\u064a\u062a<br>\u1e25ilt\u012bt<br>Arabic<br>Afro-Asiatic",
+        " \u05d7\u05dc\u05ea\u05d9\u05ea\u05d0/\u071a\u0720\u072c\u071d\u072c\u0710<br>\u1e25elt\u012b\u1e6f\u0101<br>Aramaic<br>Afro-Asiatic"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0623\u0646\u062c\u062f\u0627\u0646<br>anjud\u0101n<br>Arabic<br>Afro-Asiatic",
+        " \u0627\u0646\u06af\u062f\u0627\u0646\u200e<br>angud\u0101n<br>Persian<br>Indo-European",
+        "*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        32.0,
+        45.0
+      ],
+      "line": {
+        "color": "rgb(56, 166, 165)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        54.0,
+        65.0
+      ],
+      "marker": {
+        "color": "rgb(56, 166, 165)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "anjudan",
+      "opacity": 0.75,
+      "text": [
+        " \u0623\u0646\u062c\u062f\u0627\u0646<br>anjud\u0101n<br>Arabic<br>Afro-Asiatic",
+        " \u0627\u0646\u06af\u062f\u0627\u0646\u200e<br>angud\u0101n<br>Persian<br>Indo-European",
+        "*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "karawiy\u0101<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05b7\u05e8\u05b0\u05d5\u05b8\u05d9\u05b8\u05d0\u200e/\u071f\u0732\u072a\u0718\u0735\u071d\u0735\u0710<br>karw\u0101y\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \u03ba\u03b1\u03c1\u03ce<br>kar\u1e53<br>Ancient Greek<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        33.91,
+        39.8155
+      ],
+      "line": {
+        "color": "rgb(15, 133, 84)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.19,
+        21.9129
+      ],
+      "marker": {
+        "color": "rgb(15, 133, 84)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "karawiya",
+      "opacity": 0.75,
+      "text": [
+        "karawiy\u0101<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05b7\u05e8\u05b0\u05d5\u05b8\u05d9\u05b8\u05d0\u200e/\u071f\u0732\u072a\u0718\u0735\u071d\u0735\u0710<br>karw\u0101y\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \u03ba\u03b1\u03c1\u03ce<br>kar\u1e53<br>Ancient Greek<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0647\u0627\u0644<br>h\u0101l<br>Arabic<br>Afro-Asiatic",
+        " \u0647\u06cc\u0644<br>hil<br>Persian<br>Indo-European",
+        " \u090f\u0932\u093e<br>el\u0101<br>Sanskrit<br>Indo-European",
+        "*\u0113la<br>Proto-Dravidian<br>Dravidian"
+      ],
+      "lat": [
+        27.96,
+        32.0,
+        20.0,
+        11.0
+      ],
+      "line": {
+        "color": "rgb(115, 175, 72)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        54.0,
+        77.0,
+        78.0
+      ],
+      "marker": {
+        "color": "rgb(115, 175, 72)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "hal",
+      "opacity": 0.75,
+      "text": [
+        " \u0647\u0627\u0644<br>h\u0101l<br>Arabic<br>Afro-Asiatic",
+        " \u0647\u06cc\u0644<br>hil<br>Persian<br>Indo-European",
+        " \u090f\u0932\u093e<br>el\u0101<br>Sanskrit<br>Indo-European",
+        "*\u0113la<br>Proto-Dravidian<br>Dravidian"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0642\u0627\u0642\u0644\u0629<br>q\u0101qulla<br>Arabic<br>Afro-Asiatic",
+        " \u05e7\u05b8\u05e7\u05d5\u05bc\u05dc\u05b8\u05d0/\u0729\u0733\u0729\u0718\u073d\u0720\u0734\u0710\u200e<br>q\u0101qull\u0101<br>Classical Syriac<br>Afro-Asiatic",
+        " \ud808\udee1\ud808\udd23\ud808\udf0c\ud808\uddfb\ud808\udeac (qa-qu-ul-lu.SAR)<br>q\u0101qullu<br>Akkadian<br>Afro-Asiatic",
+        "? \u0924\u0915\u094d\u0915\u094b\u0932, \u0915\u0915\u094d\u0915\u094b\u0932<br>takkola, kakkola<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        37.1129,
+        33.1,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(237, 173, 8)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.1432,
+        44.1,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(237, 173, 8)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "qaqulla",
+      "opacity": 0.75,
+      "text": [
+        " \u0642\u0627\u0642\u0644\u0629<br>q\u0101qulla<br>Arabic<br>Afro-Asiatic",
+        " \u05e7\u05b8\u05e7\u05d5\u05bc\u05dc\u05b8\u05d0/\u0729\u0733\u0729\u0718\u073d\u0720\u0734\u0710\u200e<br>q\u0101qull\u0101<br>Classical Syriac<br>Afro-Asiatic",
+        " \ud808\udee1\ud808\udd23\ud808\udf0c\ud808\uddfb\ud808\udeac (qa-qu-ul-lu.SAR)<br>q\u0101qullu<br>Akkadian<br>Afro-Asiatic",
+        "? \u0924\u0915\u094d\u0915\u094b\u0932, \u0915\u0915\u094d\u0915\u094b\u0932<br>takkola, kakkola<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u062f\u0627\u0631\u0635\u064a\u0646\u064a<br>d\u0101r\u1e63\u012bn\u012b<br>Arabic<br>Afro-Asiatic",
+        " \u062f\u0627\u0631\u0686\u06cc\u0646<br>d\u0101rch\u012bn\u012b<br>Persian<br>Indo-European",
+        " *d\u0101r \u012b \u010d\u0113n\u012bg<br>*d\u0101r \u012b \u010d\u0113n\u012bg<br>Pahlavi<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        32.0,
+        30.06
+      ],
+      "line": {
+        "color": "rgb(225, 124, 5)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        54.0,
+        52.7
+      ],
+      "marker": {
+        "color": "rgb(225, 124, 5)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "darsini",
+      "opacity": 0.75,
+      "text": [
+        " \u062f\u0627\u0631\u0635\u064a\u0646\u064a<br>d\u0101r\u1e63\u012bn\u012b<br>Arabic<br>Afro-Asiatic",
+        " \u062f\u0627\u0631\u0686\u06cc\u0646<br>d\u0101rch\u012bn\u012b<br>Persian<br>Indo-European",
+        " *d\u0101r \u012b \u010d\u0113n\u012bg<br>*d\u0101r \u012b \u010d\u0113n\u012bg<br>Pahlavi<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0642\u0631\u0646\u0641\u0644<br>qaranful<br>Arabic<br>Afro-Asiatic",
+        "? <br>*<br>Dravidian<br>"
+      ],
+      "lat": [
+        27.96,
+        11.0
+      ],
+      "line": {
+        "color": "rgb(204, 80, 62)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        78.0
+      ],
+      "marker": {
+        "color": "rgb(204, 80, 62)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "qaranful",
+      "opacity": 0.75,
+      "text": [
+        " \u0642\u0631\u0646\u0641\u0644<br>qaranful<br>Arabic<br>Afro-Asiatic",
+        "? <br>*<br>Dravidian<br>"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0643\u0632\u0628\u0631\u0629<br>kuzbara<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05e1\u05d1\u05e8\u05d4<br>kusbara<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udeba\ud808\uddfd<br>kisibirru<br>Akkadian<br>Afro-Asiatic",
+        "? \u0915\u0941\u0938\u094d\u0924\u0941\u092e\u094d\u092c\u0930\u0940<br>kustumbar\u012b<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        33.91,
+        33.1,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(148, 52, 110)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.19,
+        44.1,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(148, 52, 110)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "kuzbura",
+      "opacity": 0.75,
+      "text": [
+        " \u0643\u0632\u0628\u0631\u0629<br>kuzbara<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05e1\u05d1\u05e8\u05d4<br>kusbara<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udeba\ud808\uddfd<br>kisibirru<br>Akkadian<br>Afro-Asiatic",
+        "? \u0915\u0941\u0938\u094d\u0924\u0941\u092e\u094d\u092c\u0930\u0940<br>kustumbar\u012b<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0643\u0645\u0648\u0646<br>kamm\u016bn<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05b7\u05bc\u05de\u05b9\u05bc\u05d5\u05e0\u05b8\u05b9\u05d0\u200e/\u0729\u0730\u0721\u073d\u0718\u0722\u0733\u0710\u200e<br>kamm\u014dn\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udf11\ud808\udc77\ud808\udeba\ud808\ude6a \u00da.GAMUN<br>kam\u016bnu<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "lat": [
+        27.96,
+        33.91,
+        33.1
+      ],
+      "line": {
+        "color": "rgb(111, 64, 112)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.19,
+        44.1
+      ],
+      "marker": {
+        "color": "rgb(111, 64, 112)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "kammun",
+      "opacity": 0.75,
+      "text": [
+        " \u0643\u0645\u0648\u0646<br>kamm\u016bn<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05b7\u05bc\u05de\u05b9\u05bc\u05d5\u05e0\u05b8\u05b9\u05d0\u200e/\u0729\u0730\u0721\u073d\u0718\u0722\u0733\u0710\u200e<br>kamm\u014dn\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udf11\ud808\udc77\ud808\udeba\ud808\ude6a \u00da.GAMUN<br>kam\u016bnu<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0634\u0628\u062a<br>shibitt<br>Arabic<br>Afro-Asiatic",
+        " \u072b\u0712\u0737\u072c\u0734\u0741\u0710\u200e<br>\u0161\u0259\u1e07ett\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udd46\ud808\udc8d\ud808\udf08<br>\u0161ibittu<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "lat": [
+        27.96,
+        33.91,
+        33.1
+      ],
+      "line": {
+        "color": "rgb(102, 102, 102)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.19,
+        44.1
+      ],
+      "marker": {
+        "color": "rgb(102, 102, 102)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "shibitt",
+      "opacity": 0.75,
+      "text": [
+        " \u0634\u0628\u062a<br>shibitt<br>Arabic<br>Afro-Asiatic",
+        " \u072b\u0712\u0737\u072c\u0734\u0741\u0710\u200e<br>\u0161\u0259\u1e07ett\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udd46\ud808\udc8d\ud808\udf08<br>\u0161ibittu<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "  \u0634\u0645\u0631<br>shamar<br>Arabic<br>Afro-Asiatic",
+        "simra<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udf11\ud808\udd29<br>\u0161imru<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "lat": [
+        27.96,
+        33.91,
+        33.1
+      ],
+      "line": {
+        "color": "rgb(95, 70, 144)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.19,
+        44.1
+      ],
+      "marker": {
+        "color": "rgb(95, 70, 144)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "shamar",
+      "opacity": 0.75,
+      "text": [
+        "  \u0634\u0645\u0631<br>shamar<br>Arabic<br>Afro-Asiatic",
+        "simra<br>Aramaic<br>Afro-Asiatic",
+        " \ud808\udf11\ud808\udd29<br>\u0161imru<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0632\u0646\u062c\u0628\u064a\u0644<br>zanjab\u012bl<br>Arabic<br>Afro-Asiatic",
+        " \u0719\u0722\u0713\u0712\u071d\u0720\u200e<br>zangab\u012bl<br>Classical Syriac<br>Afro-Asiatic",
+        "singib\u0113r<br>Pahlavi<br>Indo-European",
+        " \ud804\udc32\ud804\udc3a\ud804\udc01\ud804\udc15\ud804\udc3a\ud804\udc2f\ud804\udc42\ud804\udc2d<br>si\u1e43givera<br>Sauraseni Prakrit<br>Indo-European",
+        "? \u0936\u0943\u0919\u094d\u0917\u0935\u0947\u0930<br>\u015b\u1e5b\u1e45gavera<br>Sanskrit<br>Indo-European",
+        "*cinki-w\u0113r<br>Dravidian<br>",
+        "? <br>*kja\u014b<br>Proto-Sino-Tibetan<br>Sino-Tibetan"
+      ],
+      "lat": [
+        27.96,
+        37.1129,
+        30.06,
+        27.46,
+        20.0,
+        11.0,
+        24.0
+      ],
+      "line": {
+        "color": "rgb(29, 105, 150)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        42.1432,
+        52.7,
+        77.56,
+        77.0,
+        78.0,
+        100.0
+      ],
+      "marker": {
+        "color": "rgb(29, 105, 150)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "zanjabil",
+      "opacity": 0.75,
+      "text": [
+        " \u0632\u0646\u062c\u0628\u064a\u0644<br>zanjab\u012bl<br>Arabic<br>Afro-Asiatic",
+        " \u0719\u0722\u0713\u0712\u071d\u0720\u200e<br>zangab\u012bl<br>Classical Syriac<br>Afro-Asiatic",
+        "singib\u0113r<br>Pahlavi<br>Indo-European",
+        " \ud804\udc32\ud804\udc3a\ud804\udc01\ud804\udc15\ud804\udc3a\ud804\udc2f\ud804\udc42\ud804\udc2d<br>si\u1e43givera<br>Sauraseni Prakrit<br>Indo-European",
+        "? \u0936\u0943\u0919\u094d\u0917\u0935\u0947\u0930<br>\u015b\u1e5b\u1e45gavera<br>Sanskrit<br>Indo-European",
+        "*cinki-w\u0113r<br>Dravidian<br>",
+        "? <br>*kja\u014b<br>Proto-Sino-Tibetan<br>Sino-Tibetan"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u062f\u0627\u0631\u0641\u0644\u0641\u0644<br>d\u0101rfilfil<br>Arabic<br>Afro-Asiatic",
+        " \u062f\u0627\u0631 \u067e\u0644\u067e\u0644\u200e<br>d\u0101r pilpil<br>Persian<br>Indo-European",
+        "d\u0101ru + pippali<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        32.0,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(56, 166, 165)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        54.0,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(56, 166, 165)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "darfilfil",
+      "opacity": 0.75,
+      "text": [
+        " \u062f\u0627\u0631\u0641\u0644\u0641\u0644<br>d\u0101rfilfil<br>Arabic<br>Afro-Asiatic",
+        " \u062f\u0627\u0631 \u067e\u0644\u067e\u0644\u200e<br>d\u0101r pilpil<br>Persian<br>Indo-European",
+        "d\u0101ru + pippali<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0628\u0633\u0628\u0627\u0633<br>basb\u0101s<br>Arabic<br>Afro-Asiatic",
+        "<br>Persian<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        32.0
+      ],
+      "line": {
+        "color": "rgb(15, 133, 84)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        54.0
+      ],
+      "marker": {
+        "color": "rgb(15, 133, 84)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "basbas",
+      "opacity": 0.75,
+      "text": [
+        " \u0628\u0633\u0628\u0627\u0633<br>basb\u0101s<br>Arabic<br>Afro-Asiatic",
+        "<br>Persian<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u062c\u0648\u0632 \u0627\u0644\u0637\u064a\u0628<br>jawz al-\u1e6d\u012bb<br>Arabic<br>Afro-Asiatic",
+        "jawz buwwa<br>Persian<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        32.0
+      ],
+      "line": {
+        "color": "rgb(115, 175, 72)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        54.0
+      ],
+      "marker": {
+        "color": "rgb(115, 175, 72)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "jawz al-tib",
+      "opacity": 0.75,
+      "text": [
+        " \u062c\u0648\u0632 \u0627\u0644\u0637\u064a\u0628<br>jawz al-\u1e6d\u012bb<br>Arabic<br>Afro-Asiatic",
+        "jawz buwwa<br>Persian<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0641\u0644\u0641\u0644<br>filfil, fulful<br>Arabic<br>Afro-Asiatic",
+        " \u067e\u0644\u067e\u0644<br>pilpil<br>Persian<br>Indo-European",
+        "? <br>*<br>Middle Indo-Aryan<br>Indo-European",
+        " \u092a\u093f\u092a\u094d\u092a\u0932\u093f <br>pippali<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        32.0,
+        26.61,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(237, 173, 8)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        54.0,
+        78.97,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(237, 173, 8)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "fulful",
+      "opacity": 0.75,
+      "text": [
+        " \u0641\u0644\u0641\u0644<br>filfil, fulful<br>Arabic<br>Afro-Asiatic",
+        " \u067e\u0644\u067e\u0644<br>pilpil<br>Persian<br>Indo-European",
+        "? <br>*<br>Middle Indo-Aryan<br>Indo-European",
+        " \u092a\u093f\u092a\u094d\u092a\u0932\u093f <br>pippali<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0632\u0639\u0641\u0631\u0627\u0646<br>za\u02bffar\u0101n<br>Arabic<br>Afro-Asiatic",
+        "? <br>zarpar\u0101n<br>Pahlavi<br>Indo-European",
+        "? \ud808\udf11\ud808\udd2f\ud808\ude95<br>azup\u012bru, azup\u012br\u0101nu<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "lat": [
+        27.96,
+        30.06,
+        33.1
+      ],
+      "line": {
+        "color": "rgb(225, 124, 5)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        52.7,
+        44.1
+      ],
+      "marker": {
+        "color": "rgb(225, 124, 5)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "zafaran",
+      "opacity": 0.75,
+      "text": [
+        " \u0632\u0639\u0641\u0631\u0627\u0646<br>za\u02bffar\u0101n<br>Arabic<br>Afro-Asiatic",
+        "? <br>zarpar\u0101n<br>Pahlavi<br>Indo-European",
+        "? \ud808\udf11\ud808\udd2f\ud808\ude95<br>azup\u012bru, azup\u012br\u0101nu<br>Akkadian<br>Afro-Asiatic"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0643\u0631\u0643\u0645<br>kurkum<br>Arabic<br>Afro-Asiatic",
+        "? \u0915\u0941\u0919\u094d\u0915\u0941\u092e <br>ku\u1e45kuma<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(204, 80, 62)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(204, 80, 62)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "kurkum",
+      "opacity": 0.75,
+      "text": [
+        " \u0643\u0631\u0643\u0645<br>kurkum<br>Arabic<br>Afro-Asiatic",
+        "? \u0915\u0941\u0919\u094d\u0915\u0941\u092e <br>ku\u1e45kuma<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u0641\u0627\u0646\u064a\u0644\u064a\u0627\u060c \u0641\u0627\u0646\u064a\u0644\u0627<br>f\u0101n\u012bliy\u0101, f\u0101n\u012bll\u0101<br>Arabic<br>Afro-Asiatic",
+        "? <br>vanilia<br>French<br>Indo-European"
+      ],
+      "lat": [
+        27.96,
+        48.0
+      ],
+      "line": {
+        "color": "rgb(148, 52, 110)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85,
+        2.0
+      ],
+      "marker": {
+        "color": "rgb(148, 52, 110)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "faniliya",
+      "opacity": 0.75,
+      "text": [
+        " \u0641\u0627\u0646\u064a\u0644\u064a\u0627\u060c \u0641\u0627\u0646\u064a\u0644\u0627<br>f\u0101n\u012bliy\u0101, f\u0101n\u012bll\u0101<br>Arabic<br>Afro-Asiatic",
+        "? <br>vanilia<br>French<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "annotations": [
+          {
+            "font": {
+              "color": "lightgray",
+              "family": "font_family",
+              "size": 8
+            },
+            "name": "copyright",
+            "opacity": 0.9,
+            "showarrow": false,
+            "text": "\u00a9 G\u00e1bor Parti, 2022",
+            "x": 0.5,
+            "xref": "paper",
+            "y": 0,
+            "yref": "paper"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "projection": {
+        "rotation": {
+          "lat": 15,
+          "lon": 60,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "lonaxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "lataxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "resolution": 110,
+      "scope": "world",
+      "bgcolor": "rgba(255,255,255,0)",
+      "showcoastlines": true,
+      "coastlinewidth": 1,
+      "coastlinecolor": "gainsboro",
+      "showcountries": false,
+      "countrywidth": 1,
+      "countrycolor": "gainsboro",
+      "showframe": true,
+      "framewidth": 1,
+      "framecolor": "gainsboro",
+      "showlakes": true,
+      "lakecolor": "white",
+      "showland": true,
+      "landcolor": "gainsboro",
+      "showocean": true,
+      "oceancolor": "white",
+      "showrivers": true,
+      "riverwidth": 1,
+      "rivercolor": "white",
+      "showsubunits": false,
+      "subunitwidth": 1,
+      "subunitcolor": "gainsboro"
+    },
+    "legend": {
+      "font": {
+        "color": "black",
+        "size": 14,
+        "family": "Serif"
+      },
+      "title": {
+        "font": {
+          "color": "black",
+          "size": 16,
+          "family": "Serif"
+        }
+      },
+      "x": 0,
+      "y": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "traceorder": "normal",
+      "orientation": "v"
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 20,
+        "family": "Serif"
+      },
+      "x": 0.5,
+      "y": 0.99,
+      "xanchor": "center",
+      "yanchor": "top",
+      "text": "Etymological stages of a few spice names in Arabic"
+    },
+    "margin": {
+      "r": 0,
+      "t": 0,
+      "l": 0,
+      "b": 0
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}

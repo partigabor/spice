@@ -17,6 +17,8 @@ tags: ['culinary', 'medicinal']
 
 # Pepper
 
+{{< image src="images/kohler/pepper.png" alt="Illustration of *Piper nigrum* L. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|Hungarian|
@@ -39,8 +41,18 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 ## Etymologies
 
 {{< hint etym >}}
-English *pepper* < West Germanic * * *pipor* 'id.' < Latin *piper* 'black pepper, long pepper' < Ancient Greek πέπερι *péperi* 'id.' < Middle Indo-Aryan * पिप्परी *pipparī* 'long pepper' < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'[^1] 
- [^1]: @oed [@med; @bosworth_anglo-saxon_2014]; @oe; @lewis_latin_1879; @liddell_greek-english_1940; @sheth_paia-sadda-mahannavo_1923 [599]; @monier-williams_sanskrit-english_1899 [626]
+English *pepper* < West Germanic * * *pipor* 'id.' < Latin *piper* 'black pepper, long pepper' < Ancient Greek πέπερι *péperi* 'id.' < Middle Indo-Aryan * पिप्परी *pipparī* 'long pepper' < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic فلفل *filfil, fulful* 'pepper' < Persian پلپل *pilpil* 'id.'; cf. cognates Old Armenian *płpeł*, Old Georgian *ṗilṗili* < Middle Indo-Aryan * * ** 'long pepper' < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Mandarin Chinese 胡椒 *hú​jiāo* 'black pepper' [barbarian-pepper ], from 胡 *hú​* 'Western barbarians, steppe nomads' + 椒 *jiāo* 'pepper, spice' (*jiāo* was the prototype spice in China, originally referring to the local "Sichuan pepper" which is now called 花椒 *huājiāo* [flower-pepper ]), [Northern and Southern ] 420-445[^1]
+
 {{< /hint >}}
 
 ***

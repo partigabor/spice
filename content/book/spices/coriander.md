@@ -17,6 +17,8 @@ tags: ['culinary']
 
 # Coriander
 
+{{< image src="images/kohler/coriander.png" alt="Illustration of *Coriandrum sativum* L. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia; India; SW As.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 | English |Arabic|Chinese|Hungarian|
@@ -39,8 +41,23 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 ## Etymologies
 
 {{< hint etym >}}
-English *coriander* < Old French *coriandre* < Latin *coriandrum* < Ancient Greek *korīannon;-dron*[^1] 
- [^1]: ;
+English *coriander* < Old French *coriandre* < Latin *coriandrum* < Ancient Greek *korīannon;-dron*[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic كزبرة *kuzbara* 'coriander' < Aramaic *kusbara* 'coriander'; cf. cognates Classical Syriac *kūsbartā* < Akkadian *kisibirru* 'coriander' < Sanskrit कुस्तुम्बरी *kustumbarī* 'coriander'; cf. Tamil *kottamalli*; Indonesian *ketumbar*[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Mandarin Chinese 芫荽 *yánsuī* 'coriander' [lilac-coriander ], *yan* 'lilac daphne' + *sui* 'coriander', maybe a remodeling of 胡荽 *husui* after 芫花 *yanhua* 'lilac daphne' (*Daphne genkwa* a herb in TCM, on accou (the characters only appear in these words), ca. 1592[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Mandarin Chinese 胡荽 *húsuī* 'coriander' [barbarian-sui ], phono-semantic matching of an Iranian form < Iranian * * *koswi, *košwi, *gošwi* 'id.'; cf. cognates Middle Persian *gišnīz/kišnīz* 'coriander' ; Modern Persian گشنیز *gešniz* 'id.'[^1]
+
 {{< /hint >}}
 
 ***

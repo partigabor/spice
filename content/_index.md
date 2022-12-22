@@ -42,7 +42,7 @@ B
 
 ***
 
-{{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
+{{< image src="images/spices.png" alt="Illustration." >}}
 
 ## How to Cite
 

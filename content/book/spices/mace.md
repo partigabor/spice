@@ -17,6 +17,8 @@ tags: ['culinary']
 
 # Mace
 
+{{< image src="images/kohler/mace.png" alt="Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its aril, primarily for confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|     Hungarian    |
@@ -39,8 +41,18 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 ## Etymologies
 
 {{< hint etym >}}
-English *mace* 'aril surrounding the nutmeg', taken as a plural in Middle English (*macis*) and a new singular mace was formed from it, 1234 < Old French *macis* 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin *macis* 'id.'; cf. cognates Hungarian *mácisdió* < Latin *macir* < Ancient Greek μάκιρ *mákir* < unknown * **[^1] 
- [^1]: ;
+English *mace* 'aril surrounding the nutmeg', taken as a plural in Middle English (*macis*) and a new singular mace was formed from it, 1234 < Old French *macis* 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin *macis* 'id.'; cf. cognates Hungarian *mácisdió* < Latin *macir* < Ancient Greek μάκιρ *mákir* < unknown * **[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic بسباس *basbās* 'mace' < Persian[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Mandarin Chinese 肉豆蔻皮 *ròudòukòupí* 'mace'[^1]
+
 {{< /hint >}}
 
 ***

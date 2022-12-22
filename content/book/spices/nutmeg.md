@@ -17,6 +17,8 @@ tags: ['culinary']
 
 # Nutmeg
 
+{{< image src="images/kohler/nutmeg.png" alt="Illustration of *Myristica fragrans* Houtt. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 
 |English|  Arabic |Chinese|  Hungarian |
@@ -39,8 +41,18 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 ## Etymologies
 
 {{< hint etym >}}
-English *nutmeg* < Anglo-Norman * *nois mugue* < Old French *nois mug(u)ede; nois musguete* < Romance * * *nuce muscāta* < Latin *nux muscada* < Pahlavi * *mušk* < Sanskrit *muṣka*[^1] 
- [^1]: ;
+English *nutmeg* < Anglo-Norman * *nois mugue* < Old French *nois mug(u)ede; nois musguete* < Romance * * *nuce muscāta* < Latin *nux muscada* < Pahlavi * *mušk* < Sanskrit *muṣka*[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic جوز الطيب *jawz al-ṭīb* 'nutmeg' < Persian *jawz buwwa* 'nutmeg'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Mandarin Chinese 肉豆蔻 *ròudòukòu* 'nutmeg'[^1]
+
 {{< /hint >}}
 
 ***

@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<br>cassia<br>English<br>Indo-European",
+        "<br>casia<br>Latin<br>Indo-European",
+        "\u03ba\u03b1\u03c3\u03af\u03b1<br>kas\u00eda<br>Ancient Greek<br>Indo-European",
+        "\u05e7\u05b0\u05e6\u05b4\u05d9\u05e2\u05b8\u05d4<br>q\u0259\u1e63\u00ee\u02bf\u00e2<br>Ancient Hebrew<br>Afro-Asiatic"
+      ],
+      "lat": [
+        52.0,
+        41.9026,
+        39.8155,
+        31.7761
+      ],
+      "line": {
+        "color": "#8f1329",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        0.0,
+        12.4502,
+        21.9129,
+        35.1725
+      ],
+      "marker": {
+        "color": "#8f1329",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.8,
+        "size": 20,
+        "symbol": "diamond"
+      },
+      "mode": "markers+text",
+      "name": "cassia",
+      "opacity": 0.8,
+      "text": [
+        "cassia",
+        "casia",
+        "kas\u00eda",
+        "q\u0259\u1e63\u00ee\u02bf\u00e2"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 20
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "annotations": [
+          {
+            "font": {
+              "color": "lightgray",
+              "family": "font_family",
+              "size": 8
+            },
+            "name": "copyright",
+            "opacity": 0.9,
+            "showarrow": false,
+            "text": "\u00a9 G\u00e1bor Parti, 2022",
+            "x": 0.5,
+            "xref": "paper",
+            "y": 0,
+            "yref": "paper"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "projection": {
+        "rotation": {
+          "lat": 30,
+          "lon": 60,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "lonaxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "lataxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "resolution": 110,
+      "scope": "world",
+      "bgcolor": "rgba(255,255,255,0)",
+      "showcoastlines": true,
+      "coastlinewidth": 1,
+      "coastlinecolor": "gainsboro",
+      "showcountries": false,
+      "countrywidth": 1,
+      "countrycolor": "gainsboro",
+      "showframe": true,
+      "framewidth": 1,
+      "framecolor": "gainsboro",
+      "showlakes": true,
+      "lakecolor": "white",
+      "showland": true,
+      "landcolor": "gainsboro",
+      "showocean": true,
+      "oceancolor": "white",
+      "showrivers": true,
+      "riverwidth": 1,
+      "rivercolor": "white",
+      "showsubunits": false,
+      "subunitwidth": 1,
+      "subunitcolor": "gainsboro"
+    },
+    "legend": {
+      "font": {
+        "color": "black",
+        "size": 14,
+        "family": "Serif"
+      },
+      "title": {
+        "font": {
+          "color": "black",
+          "size": 16,
+          "family": "Serif"
+        }
+      },
+      "x": 0,
+      "y": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "traceorder": "normal",
+      "orientation": "v"
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 20,
+        "family": "Serif"
+      },
+      "x": 0.5,
+      "y": 0.99,
+      "xanchor": "center",
+      "yanchor": "top",
+      "text": "Etymological stages of cassia"
+    },
+    "margin": {
+      "r": 0,
+      "t": 0,
+      "l": 0,
+      "b": 0
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}

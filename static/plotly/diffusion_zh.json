@@ -1,0 +1,673 @@
+{
+  "data": [
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u591a\u9999\u679c<br>du\u014dxi\u0101nggu\u01d2<br>Mandarin Chinese<br>Sino-Tibetan",
+        "allspice<br>English<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        52.0
+      ],
+      "line": {
+        "color": "rgb(95, 70, 144)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        0.0
+      ],
+      "marker": {
+        "color": "rgb(95, 70, 144)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "duoxiangguo",
+      "opacity": 0.75,
+      "text": [
+        " \u591a\u9999\u679c<br>du\u014dxi\u0101nggu\u01d2<br>Mandarin Chinese<br>Sino-Tibetan",
+        "allspice<br>English<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u963f\u9b4f<br>\u0101w\u00e8i<br>Mandarin Chinese<br>Sino-Tibetan",
+        "ankwa\u1e63(\u1e6d)<br>Tokharian B<br>Indo-European",
+        "*angu\u017eat<br>Sogdian<br>Indo-European",
+        "*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        41.65,
+        39.7,
+        45.0
+      ],
+      "line": {
+        "color": "rgb(29, 105, 150)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        82.9,
+        66.983,
+        65.0
+      ],
+      "marker": {
+        "color": "rgb(29, 105, 150)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "awei",
+      "opacity": 0.75,
+      "text": [
+        " \u963f\u9b4f<br>\u0101w\u00e8i<br>Mandarin Chinese<br>Sino-Tibetan",
+        "ankwa\u1e63(\u1e6d)<br>Tokharian B<br>Indo-European",
+        "*angu\u017eat<br>Sogdian<br>Indo-European",
+        "*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u8208\u8556/\u8208\u6e20/\u8208\u77bf<br>x\u012bngq\u00fa<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u0939\u093f\u0919\u094d\u0917\u0941<br>hi\u1e45gu<br>Sanskrit<br>Indo-European",
+        "*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        20.0,
+        45.0
+      ],
+      "line": {
+        "color": "rgb(56, 166, 165)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        77.0,
+        65.0
+      ],
+      "marker": {
+        "color": "rgb(56, 166, 165)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "xingqu",
+      "opacity": 0.75,
+      "text": [
+        " \u8208\u8556/\u8208\u6e20/\u8208\u77bf<br>x\u012bngq\u00fa<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u0939\u093f\u0919\u094d\u0917\u0941<br>hi\u1e45gu<br>Sanskrit<br>Indo-European",
+        "*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u845b\u7e37\u5b50<br>g\u011b\u200bl\u01da\u200bzi<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u845b\u7e37\u5b50<br>karyuushi<br>Japanese<br>Japanese",
+        "? <br>caraway<br>English<br>Indo-European",
+        "carui<br>Medieval Latin<br>Indo-European",
+        " \u0643\u0631\u0627\u0648\u064a\u0627<br>kar\u0101wiy\u0101<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05b7\u05e8\u05b0\u05d5\u05b8\u05d9\u05b8\u05d0\u200e/\u071f\u0732\u072a\u0718\u0735\u071d\u0735\u0710<br>karw\u0101y\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \u03ba\u03b1\u03c1\u03ce<br>kar\u1e53<br>Ancient Greek<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        37.0,
+        52.0,
+        46.2,
+        27.96,
+        33.91,
+        39.8155
+      ],
+      "line": {
+        "color": "rgb(15, 133, 84)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        140.0,
+        0.0,
+        1.3,
+        43.85,
+        42.19,
+        21.9129
+      ],
+      "marker": {
+        "color": "rgb(15, 133, 84)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "geluzi",
+      "opacity": 0.75,
+      "text": [
+        " \u845b\u7e37\u5b50<br>g\u011b\u200bl\u01da\u200bzi<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u845b\u7e37\u5b50<br>karyuushi<br>Japanese<br>Japanese",
+        "? <br>caraway<br>English<br>Indo-European",
+        "carui<br>Medieval Latin<br>Indo-European",
+        " \u0643\u0631\u0627\u0648\u064a\u0627<br>kar\u0101wiy\u0101<br>Arabic<br>Afro-Asiatic",
+        " \u05db\u05b7\u05e8\u05b0\u05d5\u05b8\u05d9\u05b8\u05d0\u200e/\u071f\u0732\u072a\u0718\u0735\u071d\u0735\u0710<br>karw\u0101y\u0101<br>Aramaic<br>Afro-Asiatic",
+        " \u03ba\u03b1\u03c1\u03ce<br>kar\u1e53<br>Ancient Greek<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u8c46\u853b<br>d\u00f2uk\u00f2u<br>Mandarin Chinese<br>Sino-Tibetan",
+        "? <br>takkola<br>Pali<br>Indo-European",
+        "? \u0924\u0915\u094d\u0915\u094b\u0932, \u0915\u0915\u094d\u0915\u094b\u0932<br>takkola, kakkola<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        24.5271,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(115, 175, 72)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        82.251,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(115, 175, 72)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "doukou",
+      "opacity": 0.75,
+      "text": [
+        " \u8c46\u853b<br>d\u00f2uk\u00f2u<br>Mandarin Chinese<br>Sino-Tibetan",
+        "? <br>takkola<br>Pali<br>Indo-European",
+        "? \u0924\u0915\u094d\u0915\u094b\u0932, \u0915\u0915\u094d\u0915\u094b\u0932<br>takkola, kakkola<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u80e1\u837d<br>h\u00fasu\u012b<br>Mandarin Chinese<br>Sino-Tibetan",
+        "*koswi, *ko\u0161wi, *go\u0161wi<br>Iranian<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        39.7
+      ],
+      "line": {
+        "color": "rgb(237, 173, 8)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        66.98
+      ],
+      "marker": {
+        "color": "rgb(237, 173, 8)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "husui",
+      "opacity": 0.75,
+      "text": [
+        " \u80e1\u837d<br>h\u00fasu\u012b<br>Mandarin Chinese<br>Sino-Tibetan",
+        "*koswi, *ko\u0161wi, *go\u0161wi<br>Iranian<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u5b5c\u7136<br>z\u012b\u200br\u00e1n<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u0632\u0649\u0631\u06d5<br>zir\u00e4<br>Uyghur<br>Altaic",
+        " \u0632\u06cc\u0631\u0647<br>z\u012bra<br>Persian<br>Indo-European",
+        "? \u091c\u0940\u0930<br>j\u012bra<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        40.0,
+        32.0,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(225, 124, 5)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        80.0,
+        54.0,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(225, 124, 5)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "ziran",
+      "opacity": 0.75,
+      "text": [
+        " \u5b5c\u7136<br>z\u012b\u200br\u00e1n<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u0632\u0649\u0631\u06d5<br>zir\u00e4<br>Uyghur<br>Altaic",
+        " \u0632\u06cc\u0631\u0647<br>z\u012bra<br>Persian<br>Indo-European",
+        "? \u091c\u0940\u0930<br>j\u012bra<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u8494\u863f<br>sh\u00edlu\u00f3<br>Mandarin Chinese<br>Sino-Tibetan",
+        "z\u012bra<br>Persian<br>Indo-European",
+        "? \u091c\u0940\u0930<br>j\u012bra<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        32.0,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(204, 80, 62)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        54.0,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(204, 80, 62)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "shiluo",
+      "opacity": 0.75,
+      "text": [
+        " \u8494\u863f<br>sh\u00edlu\u00f3<br>Mandarin Chinese<br>Sino-Tibetan",
+        "z\u012bra<br>Persian<br>Indo-European",
+        "? \u091c\u0940\u0930<br>j\u012bra<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u80e1\u8606\u5df4<br>h\u00fal\u00fab\u0101<br>Mandarin Chinese<br>Sino-Tibetan",
+        "? \u062d\u0644\u0628\u0629<br>\u1e25ulba<br>Persian<br>Indo-European",
+        " \u062d\u0644\u0628\u0629<br>\u1e25ulba<br>Arabic<br>Afro-Asiatic"
+      ],
+      "lat": [
+        40.0209,
+        32.0,
+        27.96
+      ],
+      "line": {
+        "color": "rgb(148, 52, 110)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        54.0,
+        43.85
+      ],
+      "marker": {
+        "color": "rgb(148, 52, 110)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "huluba",
+      "opacity": 0.75,
+      "text": [
+        " \u80e1\u8606\u5df4<br>h\u00fal\u00fab\u0101<br>Mandarin Chinese<br>Sino-Tibetan",
+        "? \u062d\u0644\u0628\u0629<br>\u1e25ulba<br>Persian<br>Indo-European",
+        " \u062d\u0644\u0628\u0629<br>\u1e25ulba<br>Arabic<br>Afro-Asiatic"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u8591<br>ji\u0101ng<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u456c<br><br>Old Chinese<br>Sino-Tibetan",
+        "*kja\u014b<br>Proto-Sino-Tibetan<br>Sino-Tibetan"
+      ],
+      "lat": [
+        40.0209,
+        36.12,
+        24.0
+      ],
+      "line": {
+        "color": "rgb(111, 64, 112)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        114.32,
+        100.0
+      ],
+      "marker": {
+        "color": "rgb(111, 64, 112)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "jiang",
+      "opacity": 0.75,
+      "text": [
+        " \u8591<br>ji\u0101ng<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u456c<br><br>Old Chinese<br>Sino-Tibetan",
+        "*kja\u014b<br>Proto-Sino-Tibetan<br>Sino-Tibetan"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        " \u84fd\u62d4<br>b\u00ecb\u00e1<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u092a\u093f\u092a\u094d\u092a\u0932\u093f <br>pippali<br>Sanskrit<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        20.0
+      ],
+      "line": {
+        "color": "rgb(102, 102, 102)",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        77.0
+      ],
+      "marker": {
+        "color": "rgb(102, 102, 102)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 14,
+        "symbol": "circle"
+      },
+      "mode": "markers+lines",
+      "name": "biba",
+      "opacity": 0.75,
+      "text": [
+        " \u84fd\u62d4<br>b\u00ecb\u00e1<br>Mandarin Chinese<br>Sino-Tibetan",
+        " \u092a\u093f\u092a\u094d\u092a\u0932\u093f <br>pippali<br>Sanskrit<br>Indo-European"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "annotations": [
+          {
+            "font": {
+              "color": "lightgray",
+              "family": "font_family",
+              "size": 8
+            },
+            "name": "copyright",
+            "opacity": 0.9,
+            "showarrow": false,
+            "text": "\u00a9 G\u00e1bor Parti, 2022",
+            "x": 0.5,
+            "xref": "paper",
+            "y": 0,
+            "yref": "paper"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "projection": {
+        "rotation": {
+          "lat": 15,
+          "lon": 60,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "lonaxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "lataxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "resolution": 110,
+      "scope": "world",
+      "bgcolor": "rgba(255,255,255,0)",
+      "showcoastlines": true,
+      "coastlinewidth": 1,
+      "coastlinecolor": "gainsboro",
+      "showcountries": false,
+      "countrywidth": 1,
+      "countrycolor": "gainsboro",
+      "showframe": true,
+      "framewidth": 1,
+      "framecolor": "gainsboro",
+      "showlakes": true,
+      "lakecolor": "white",
+      "showland": true,
+      "landcolor": "gainsboro",
+      "showocean": true,
+      "oceancolor": "white",
+      "showrivers": true,
+      "riverwidth": 1,
+      "rivercolor": "white",
+      "showsubunits": false,
+      "subunitwidth": 1,
+      "subunitcolor": "gainsboro"
+    },
+    "legend": {
+      "font": {
+        "color": "black",
+        "size": 14,
+        "family": "Serif"
+      },
+      "title": {
+        "font": {
+          "color": "black",
+          "size": 16,
+          "family": "Serif"
+        }
+      },
+      "x": 0,
+      "y": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "traceorder": "normal",
+      "orientation": "v"
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 20,
+        "family": "Serif"
+      },
+      "x": 0.5,
+      "y": 0.99,
+      "xanchor": "center",
+      "yanchor": "top",
+      "text": "Etymological stages of a few spice names in Chinese"
+    },
+    "margin": {
+      "r": 0,
+      "t": 0,
+      "l": 0,
+      "b": 0
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}

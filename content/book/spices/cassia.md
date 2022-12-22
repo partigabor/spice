@@ -17,6 +17,8 @@ tags: ['culinary', 'medicinal']
 
 # Cassia
 
+{{< image src="images/kohler/cassia.png" alt="Illustration of *Cinnamomum cassia* (L.) J.Presl. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Southeast China.[^van_wyk_culinary_2014] It is used for its bark and fruit, primarily for flavor; diarrhea. Its aroma is described as pungent, cinnamon-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 |English|Arabic|Chinese|   Hungarian  |
@@ -39,8 +41,18 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 ## Etymologies
 
 {{< hint etym >}}
-English *cassia*, ca. 1000 < Latin *casia* 'id.', c. < Ancient Greek κασία *kasía* 'id.', c. < Ancient Hebrew קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)[^1] 
- [^1]: @oed [s.v. cassia]; @rosol_early_2018; @beekes_etymological_2010 [653]; @klein_comprehensive_1987 [589]
+English *cassia*, ca. 1000 < Latin *casia* 'id.', c. < Ancient Greek κασία *kasía* 'id.', c. < Ancient Hebrew קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic سليخة *salīkha* 'cinnamon bark; cassia bark' [peeled off, stripped off ], from *salakha* 'to pull off, strip off; skin, flay'; Semitic root *s-l-kh*; cf. cognates *[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+/kweiH/ 'cassia' [flesh-cinnamon ], *guì* is modified by *ròu* to distuinguish it from the osmanthus flower (桂花 *guìhuā*)[^1]
+
 {{< /hint >}}
 
 ***

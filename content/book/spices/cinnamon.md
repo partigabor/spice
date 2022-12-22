@@ -17,6 +17,8 @@ tags: ['culinary', 'medicinal']
 
 # Cinnamon
 
+{{< image src="images/kohler/cinnamon.png" alt="Illustration of *Cinnamomum verum* J.Presl. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Sri Lanka; SW. India.[^van_wyk_culinary_2014] It is used for its bark and leaf, primarily for flavor; anti-microbial. Its aroma is described as sweet, fragrant, pungent, with a heat index of 3.[^ucla_medicinal_2002]
 
 | English|Arabic|Chinese|Hungarian|
@@ -39,8 +41,18 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 ## Etymologies
 
 {{< hint etym >}}
-English *cinnamon* 'cinnamon', (Middle English *sinamome, synamome*), ca. 1430 < French *cinnamome* 'cinnamon', (earlier *cynnamome*; also c. *cinamonde*), 1211 < Latin *cinnamōmum* 'cinnamon', c. < Ancient Greek κιννάμωμον *kinnámōmon* 'cinnamon', later refashioned as *kínnamon* after Latin *cinnamum/cinnamon*, which partly influenced the current English form (of Semitic origin), c. ; cf. cognates Coptic *kinnamomon* < Semitic * * *qnmwn* 'cinnamon'; cf. cognates Ancient Hebrew *qināmōn*; Judeo-Aramaic *qnmw* < unknown[^1] 
- [^1]: @oed [s.v. cinnamon]; @tlfi; @lewis_latin_1879; @beekes_etymological_2010 [701]; @klein_comprehensive_1987 [585]; @rosol_early_2018
+English *cinnamon* 'cinnamon', (Middle English *sinamome, synamome*), ca. 1430 < French *cinnamome* 'cinnamon', (earlier *cynnamome*; also c. *cinamonde*), 1211 < Latin *cinnamōmum* 'cinnamon', c. < Ancient Greek κιννάμωμον *kinnámōmon* 'cinnamon', later refashioned as *kínnamon* after Latin *cinnamum/cinnamon*, which partly influenced the current English form (of Semitic origin), c. ; cf. cognates Coptic *kinnamomon* < Semitic * * *qnmwn* 'cinnamon'; cf. cognates Ancient Hebrew *qināmōn*; Judeo-Aramaic *qnmw* < unknown[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic دارصيني *dārṣīnī* 'cinnamon' < Persian دارچین *dārchīnī* 'cinnamon' [Chinese wood ], from Persian *dār* 'wood' + *cīn* 'China'; cf. cognates Sanskrit *dāru* (PIE *dóru) < Pahlavi *dār ī čēnīg * *dār ī čēnīg* 'cinnamon', (cf. Armenian *daričenik*)[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic قرفة *qirfa* 'cinnamon' [bark, rind ], from qarafa 'to peel, bark, derind'; Semitic root q-r-f (related to root q-l-f); cf. Amharic *kerefe*[^1]
+
 {{< /hint >}}
 
 ***

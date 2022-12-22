@@ -17,6 +17,8 @@ tags: ['culinary', 'medicinal']
 
 # Asafoetida
 
+{{< image src="images/kohler/asafoetida.png" alt="Illustration of *Ferula foetida* (Bunge) Regel from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia.[^van_wyk_culinary_2014] It is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
 
 |  English |Arabic|Chinese| Hungarian |
@@ -39,8 +41,33 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 ## Etymologies
 
 {{< hint etym >}}
-English *asafoetida*, a. 1398 < Medieval Latin *asafoetida* [stinking asa ] < from Persian *āzā* 'mastic', in a Lanized form, *asa* + Latin *foetid* 'ill-smelling, stinking', (feminine of *fœtidus*)[^1] 
- [^1]: @oed [s.v. asafoetida]; @laufer_sino-iranica_1919 [353]; @steingass_comprehensive_1892 [42]
+English *asafoetida*, a. 1398 < Medieval Latin *asafoetida* [stinking asa ] < from Persian *āzā* 'mastic', in a Lanized form, *asa* + Latin *foetid* 'ill-smelling, stinking', (feminine of *fœtidus*)[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+English *hing* 'asafoetida', 1599 < Hindi हींग *hīng* 'asafoetida' < Sanskrit हिङ्गु *hiṅgu* 'asafoetida'; cf. cognates Sogdian 'ynkw < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic حلتيت *ḥiltīt* 'asafoetida resin'; cf. cognates Hebrew *ḥiltiṯ* < Aramaic / *ḥeltīṯā* 'id.'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic أنجدان *anjudān* < Persian انگدان *angudān* < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+/ʔɑ ŋʉiH/ 'asafoetida' < Tokharian B *ankwaṣ(ṭ)* 'asafoetida' < Sogdian * *angužat* 'asafoetida' < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+/hɨŋ ɡɨʌ/ 'asafoetida', phonetic transcription < Sanskrit हिङ्गु *hiṅgu* 'asafoetida' < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese[^1]
+
 {{< /hint >}}
 
 ***

@@ -17,6 +17,8 @@ tags: ['culinary']
 
 # Star Anise
 
+{{< image src="images/kohler/star anise.png" alt="Illustration of *Illicium verum* Hook.f. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 |  English |   Arabic  |Chinese|  Hungarian |
@@ -39,8 +41,23 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 ## Etymologies
 
 {{< hint etym >}}
-English *star anise* 'star anise'[^1] 
- [^1]:
+English *star anise* 'star anise'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic ينسون نجمي *yansūn najmī* 'star anise'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Mandarin Chinese 八角茴香 *bājiǎohuíxiāng* 'star anise'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+English *badian* 'star anise', 1693 < French *badiane* 'star anise', 1681 < Persian بادیان *bādyān* 'fennel; anise'[^1]
+
 {{< /hint >}}
 
 ***

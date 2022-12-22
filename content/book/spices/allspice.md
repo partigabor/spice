@@ -17,6 +17,8 @@ tags: ['culinary']
 
 # Allspice
 
+{{< image src="images/kohler/allspice.png" alt="Illustration of *Pimenta dioica* (L.) Merr. from Köhler's Medizinal-Pflanzen (1887)." >}}
+
 Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; Caribbean.[^van_wyk_culinary_2014] It is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
 
 | English|   Arabic  |Chinese| Hungarian|
@@ -39,8 +41,23 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* 
 ## Etymologies
 
 {{< hint etym >}}
-English *allspice*, from *all* + *spice*; after the flavour profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper, 1621[^1] 
- [^1]: @oed [s.v. allspice]
+English *allspice*, from *all* + *spice*; after the flavour profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper, 1621[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+English *pimento* 'allspice; sweet pepper', ca. 1660 < partly Portuguese *pimenta* 'allspice; sweet pepper; black pepper' < and partly Spanish *pimiento* 'hot and sweet pepper; formerly also black pepper; pepper plant of both kinds', earlier *pimienta* 'black pepper; peppercorn; ground pepper' c., 1495 < Medieval Latin *pigmenta* 'plant juice; food seasoning; condiment; spices; perfumes', plural of *pigmentum* < Latin *pigmentum* 'colour, paint; ointment; drug; spiced wine', from *pingō* 'to paint' + *-mentum* 'instrument'[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Arabic فلفل إفرنجي *fulful ifranjī* 'allspice' [European pepper ], literally 'Frankish pepper', named so because it was transmitted by Europeans, 1700?[^1]
+
+{{< /hint >}}
+
+{{< hint etym >}}
+Mandarin Chinese 多香果 *duōxiāngguǒ* 'allspice' [many-spice-fruit ], semantic translation, 1900? < English *allspice* 'allspice', from *all* + *spice*; after the flavour profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper, 1621[^1]
+
 {{< /hint >}}
 
 ***
