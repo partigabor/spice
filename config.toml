@@ -24,7 +24,6 @@ assetDir = "assets"
 # WARNING! Kills Search function if true
 # canonifyurls=true 
 
-
 # # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # # all pages.
 # disqusShortname = "my-site"
