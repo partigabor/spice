@@ -1,0 +1,313 @@
+{
+  "data": [
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<br>allspice<br>English<br>Indo-European"
+      ],
+      "lat": [
+        52.0
+      ],
+      "line": {
+        "color": "#1d6996",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        0.0
+      ],
+      "marker": {
+        "color": "#1d6996",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 18,
+        "symbol": "circle"
+      },
+      "mode": "markers+text",
+      "name": "allspice",
+      "opacity": 0.75,
+      "text": [
+        "allspice"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 18
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<br>pimento<br>English<br>Indo-European",
+        "<br>pimenta<br>Portuguese<br>Indo-European",
+        "<br>pimiento<br>Spanish<br>Indo-European",
+        "<br>pigmenta<br>Medieval Latin<br>Indo-European",
+        "<br>pigmentum<br>Latin<br>Indo-European"
+      ],
+      "lat": [
+        52.0,
+        39.0,
+        40.0,
+        46.2,
+        41.9026
+      ],
+      "line": {
+        "color": "#38a6a5",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        0.0,
+        -8.0,
+        -4.0,
+        1.3,
+        12.4502
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 18,
+        "symbol": "circle"
+      },
+      "mode": "markers+text",
+      "name": "pimento",
+      "opacity": 0.75,
+      "text": [
+        "pimento",
+        "pimenta",
+        "pimiento",
+        "pigmenta",
+        "pigmentum"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 18
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "\u0641\u0644\u0641\u0644 \u0625\u0641\u0631\u0646\u062c\u064a<br>fulful ifranj\u012b<br>Arabic<br>Afro-Asiatic"
+      ],
+      "lat": [
+        27.96
+      ],
+      "line": {
+        "color": "#0f8554",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        43.85
+      ],
+      "marker": {
+        "color": "#0f8554",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 18,
+        "symbol": "circle"
+      },
+      "mode": "markers+text",
+      "name": "fulful ifranji",
+      "opacity": 0.75,
+      "text": [
+        "fulful ifranj\u012b"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 18
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "\u591a\u9999\u679c<br>du\u014dxi\u0101nggu\u01d2<br>Mandarin Chinese<br>Sino-Tibetan",
+        "<br>allspice<br>English<br>Indo-European"
+      ],
+      "lat": [
+        40.0209,
+        52.0
+      ],
+      "line": {
+        "color": "#edad08",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        116.228,
+        0.0
+      ],
+      "marker": {
+        "color": "#edad08",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.75,
+        "size": 18,
+        "symbol": "circle"
+      },
+      "mode": "markers+text",
+      "name": "duoxiangguo",
+      "opacity": 0.75,
+      "text": [
+        "du\u014dxi\u0101nggu\u01d2",
+        "allspice"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 18
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "annotations": [
+          {
+            "font": {
+              "color": "lightgray",
+              "family": "font_family",
+              "size": 8
+            },
+            "name": "copyright",
+            "opacity": 0.9,
+            "showarrow": false,
+            "text": "\u00a9 G\u00e1bor Parti, 2022",
+            "x": 0.5,
+            "xref": "paper",
+            "y": 0,
+            "yref": "paper"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "projection": {
+        "rotation": {
+          "lat": 30,
+          "lon": 60,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "lonaxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "lataxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "resolution": 110,
+      "scope": "world",
+      "bgcolor": "rgba(255,255,255,0)",
+      "showcoastlines": true,
+      "coastlinewidth": 1,
+      "coastlinecolor": "gainsboro",
+      "showcountries": false,
+      "countrywidth": 1,
+      "countrycolor": "gainsboro",
+      "showframe": true,
+      "framewidth": 1,
+      "framecolor": "gainsboro",
+      "showlakes": true,
+      "lakecolor": "white",
+      "showland": true,
+      "landcolor": "gainsboro",
+      "showocean": true,
+      "oceancolor": "white",
+      "showrivers": true,
+      "riverwidth": 1,
+      "rivercolor": "white",
+      "showsubunits": false,
+      "subunitwidth": 1,
+      "subunitcolor": "gainsboro"
+    },
+    "legend": {
+      "font": {
+        "color": "black",
+        "size": 14,
+        "family": "Serif"
+      },
+      "title": {
+        "font": {
+          "color": "black",
+          "size": 16,
+          "family": "Serif"
+        }
+      },
+      "x": 0,
+      "y": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "traceorder": "normal",
+      "orientation": "v"
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 20,
+        "family": "Serif"
+      },
+      "x": 0.5,
+      "y": 0.99,
+      "xanchor": "center",
+      "yanchor": "top",
+      "text": "Etymological stages of allspice"
+    },
+    "margin": {
+      "r": 0,
+      "t": 0,
+      "l": 0,
+      "b": 0
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4607 @@
+{
+  "data": [
+    {
+      "customdata": [
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "pepper, n.",
+        "pepper-quern, n.",
+        "peppercorn, n. and adj.",
+        "pepperer, n.1",
+        "peppergrass, n.",
+        "pepperwort, n.",
+        "water pepper, n.",
+        "pepperbox, n. and adj.",
+        "red pepper, n.",
+        "pepper tree, n.",
+        "green pepper",
+        "Indian pepper, n.",
+        "peppering, n.",
+        "Guinea pepper, n.",
+        "mountain pepper, n. ",
+        "bynny-pepper, n.",
+        "peppernel, n.",
+        "pepperbush, n.",
+        "pepper castor, n.",
+        "pepper-water, n.",
+        "pepperpot, n.",
+        "pepperidge, n.",
+        "peppermint, n. and adj.",
+        "pepperer, n.2",
+        "pepper-and-salt, n. and adj.",
+        "pepperwood, n.",
+        "peppernut, n.",
+        "pepperoni, n.",
+        "pepperette, n.",
+        "Dr Pepper, n.",
+        "pep, n.",
+        "pep talk, n.",
+        "pepper game",
+        "pepping up, n.",
+        "pep pill, n.",
+        "peppiness, n.",
+        "pep talker, n.",
+        "pep-talking, n.",
+        "pepperina, n.",
+        "pepper-up, n.",
+        "pepper-upper, n.",
+        "pepperoncino, n.",
+        "pepperpotting, n.",
+        "pepper gas, n.",
+        "pepper spray, n."
+      ],
+      "legendgroup": "n., main",
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "n., main",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        925,
+        940,
+        945,
+        1309,
+        1500,
+        1500,
+        1538,
+        1543,
+        1559,
+        1563,
+        1565,
+        1578,
+        1580,
+        1597,
+        1597,
+        1603,
+        1613,
+        1672,
+        1676,
+        1677,
+        1679,
+        1689,
+        1696,
+        1712,
+        1774,
+        1854,
+        1862,
+        1888,
+        1893,
+        1895,
+        1908,
+        1913,
+        1913,
+        1916,
+        1917,
+        1921,
+        1925,
+        1927,
+        1930,
+        1934,
+        1934,
+        1951,
+        1960,
+        1968,
+        1979
+      ],
+      "xaxis": "x",
+      "y": [
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n."
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=n.<br>level=main<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "n., main",
+      "marker": {
+        "color": "#1d6996",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "n., main",
+      "offsetgroup": "n., main",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        925,
+        940,
+        945,
+        1309,
+        1500,
+        1500,
+        1538,
+        1543,
+        1559,
+        1563,
+        1565,
+        1578,
+        1580,
+        1597,
+        1597,
+        1603,
+        1613,
+        1672,
+        1676,
+        1677,
+        1679,
+        1689,
+        1696,
+        1712,
+        1774,
+        1854,
+        1862,
+        1888,
+        1893,
+        1895,
+        1908,
+        1913,
+        1913,
+        1916,
+        1917,
+        1921,
+        1925,
+        1927,
+        1930,
+        1934,
+        1934,
+        1951,
+        1960,
+        1968,
+        1979
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "pepper-horn",
+        "pepper grain",
+        "\u2020 pepper polk",
+        "peppercorn rent",
+        "\u2020 pepper-gingerbread",
+        "pepper wine",
+        "pepper berry",
+        "pepper bread",
+        "pepper plant",
+        "pepper seed",
+        "pepper mill",
+        "pepper cake",
+        "pepper sauce",
+        "pepper root",
+        "pepper man",
+        "\u2020 pepper posset",
+        "\u2020 pepper worm",
+        "pepper shrub",
+        "\u2020 pepper-vend",
+        "pepper dulse",
+        "\u2020 pepper-wheat",
+        "\u2020 pepper-bird\u00a0",
+        "\u2020 pepper-bird\u00a0 ",
+        "sweet pepper",
+        "pepper elder",
+        "pepper plantation",
+        "pepper vine",
+        "pepper pod",
+        "\u2020 pepper porridge",
+        "\u2020 Pepper Alley",
+        "pepper saxifrage",
+        "pepper cress",
+        "pepperiness ",
+        "\u2020 pepperbrand",
+        "pepper dust",
+        "peppercorn hair",
+        "pepper grinder",
+        "pepper soup",
+        "pepperbox pistol",
+        "pepper moth",
+        "pepper rod",
+        "\u2020 pepper crop",
+        "\u2020 pepper-rent",
+        "pepper bottle",
+        "pepperweed",
+        "pepperbox revolver",
+        "pepper-and-saltiness",
+        "pepper shaker",
+        "pepper tea",
+        "\u2020 peppercorn shrub",
+        "pepper field",
+        "pepper steak",
+        "pepper belly",
+        "peppercorn bush",
+        "pepperbox spelling",
+        "peppercorn tree"
+      ],
+      "legendgroup": "n., sub",
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "n., sub",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        975,
+        1398,
+        1568,
+        1582,
+        1598,
+        1601,
+        1611,
+        1611,
+        1611,
+        1626,
+        1631,
+        1648,
+        1648,
+        1659,
+        1661,
+        1669,
+        1688,
+        1693,
+        1720,
+        1724,
+        1743,
+        1752,
+        1752,
+        1752,
+        1774,
+        1783,
+        1783,
+        1790,
+        1803,
+        1820,
+        1824,
+        1830,
+        1841,
+        1842,
+        1844,
+        1857,
+        1859,
+        1860,
+        1861,
+        1864,
+        1864,
+        1866,
+        1866,
+        1870,
+        1871,
+        1872,
+        1880,
+        1889,
+        1897,
+        1901,
+        1905,
+        1907,
+        1915,
+        1948,
+        1948,
+        1954
+      ],
+      "xaxis": "x",
+      "y": [
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n.",
+        "n."
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=n.<br>level=sub<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "n., sub",
+      "marker": {
+        "color": "#1d6996",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "n., sub",
+      "offsetgroup": "n., sub",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        975,
+        1398,
+        1568,
+        1582,
+        1598,
+        1601,
+        1611,
+        1611,
+        1611,
+        1626,
+        1631,
+        1648,
+        1648,
+        1659,
+        1661,
+        1669,
+        1688,
+        1693,
+        1720,
+        1724,
+        1743,
+        1752,
+        1752,
+        1752,
+        1774,
+        1783,
+        1783,
+        1790,
+        1803,
+        1820,
+        1824,
+        1830,
+        1841,
+        1842,
+        1844,
+        1857,
+        1859,
+        1860,
+        1861,
+        1864,
+        1864,
+        1866,
+        1866,
+        1870,
+        1871,
+        1872,
+        1880,
+        1889,
+        1897,
+        1901,
+        1905,
+        1907,
+        1915,
+        1948,
+        1948,
+        1954
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "pepper, v.",
+        "pep, v.",
+        "pep-talk, v.",
+        "pepper-gas, v.",
+        "pepper-pot, v.",
+        "pepper-spray, v."
+      ],
+      "legendgroup": "v., main",
+      "marker": {
+        "color": "#e17c05",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "v., main",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        930,
+        1910,
+        1936,
+        1970,
+        1974,
+        1993
+      ],
+      "xaxis": "x",
+      "y": [
+        "v.",
+        "v.",
+        "v.",
+        "v.",
+        "v.",
+        "v."
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=v.<br>level=main<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "v., main",
+      "marker": {
+        "color": "#e17c05",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "v., main",
+      "offsetgroup": "v., main",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        930,
+        1910,
+        1936,
+        1970,
+        1974,
+        1993
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ],
+        [
+          "main",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "peppered, adj.",
+        "peppercorn, n. and adj.",
+        "pepperbox, n. and adj.",
+        "peppery, adj.",
+        "pepperish, adj.",
+        "peppermint, n. and adj.",
+        "peppering, adj.",
+        "pepper-and-salt, n. and adj.",
+        "pepperminty, adj.",
+        "peppy, adj.",
+        "pepped-up, adj."
+      ],
+      "legendgroup": "adj., main",
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "adj., main",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        935,
+        950,
+        1543,
+        1610,
+        1613,
+        1696,
+        1712,
+        1774,
+        1854,
+        1914,
+        1916
+      ],
+      "xaxis": "x",
+      "y": [
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj."
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=adj.<br>level=main<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "adj., main",
+      "marker": {
+        "color": "#0f8554",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "adj., main",
+      "offsetgroup": "adj., main",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        935,
+        950,
+        1543,
+        1610,
+        1613,
+        1696,
+        1712,
+        1774,
+        1854,
+        1914,
+        1916
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "\u2020 pepper-nosed",
+        "pepper-coloured",
+        "pepper-proof",
+        "\u02c8peppercornish",
+        "pepper-and-salted",
+        "\u02c8peppercorny",
+        "peppercorn-sized",
+        "pepper-salt",
+        "pepper-and-salty"
+      ],
+      "legendgroup": "adj., sub",
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "adj., sub",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        1580,
+        1612,
+        1655,
+        1762,
+        1846,
+        1860,
+        1881,
+        1882,
+        1952
+      ],
+      "xaxis": "x",
+      "y": [
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj.",
+        "adj."
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=adj.<br>level=sub<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "adj., sub",
+      "marker": {
+        "color": "#0f8554",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "adj., sub",
+      "offsetgroup": "adj., sub",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        1580,
+        1612,
+        1655,
+        1762,
+        1846,
+        1860,
+        1881,
+        1882,
+        1952
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "sub",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "pepperily "
+      ],
+      "legendgroup": "adv., sub",
+      "marker": {
+        "color": "#73af48",
+        "opacity": 0.5,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "adv., sub",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        1898
+      ],
+      "xaxis": "x",
+      "y": [
+        "adv."
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=adv.<br>level=sub<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "adv., sub",
+      "marker": {
+        "color": "#73af48",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "adv., sub",
+      "offsetgroup": "adv., sub",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        1898
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "main",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "to have pepper in the nose"
+      ],
+      "legendgroup": "phrase, main",
+      "marker": {
+        "color": "#5f4690",
+        "opacity": 0.5,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "phrase, main",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        1400
+      ],
+      "xaxis": "x",
+      "y": [
+        "phrase"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=phrase<br>level=main<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "phrase, main",
+      "marker": {
+        "color": "#5f4690",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "phrase, main",
+      "offsetgroup": "phrase, main",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        1400
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ],
+        [
+          "sub",
+          "pepper",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>class=%{y}<br>level=%{customdata[0]}<br>year=%{x}<br>id=%{customdata[1]}<extra></extra>",
+      "hovertext": [
+        "\u2020to pepper a person's box (also pans)",
+        "to snuff pepper",
+        "to pay a visit to Pepper Alley"
+      ],
+      "legendgroup": "phrase, sub",
+      "marker": {
+        "color": "#5f4690",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "phrase, sub",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        1608,
+        1624,
+        1821
+      ],
+      "xaxis": "x",
+      "y": [
+        "phrase",
+        "phrase",
+        "phrase"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "class=phrase<br>level=sub<br>year=%{x}<br>count=%{y}<extra></extra>",
+      "legendgroup": "phrase, sub",
+      "marker": {
+        "color": "#5f4690",
+        "line": {
+          "color": "rgba(0,0,0,0)",
+          "width": 2
+        }
+      },
+      "name": "phrase, sub",
+      "offsetgroup": "phrase, sub",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        1608,
+        1624,
+        1821
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "choropleth": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "choropleth"
+          }
+        ],
+        "contourcarpet": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "contourcarpet"
+          }
+        ],
+        "contour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "contour"
+          }
+        ],
+        "heatmapgl": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmapgl"
+          }
+        ],
+        "heatmap": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmap"
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2dcontour"
+          }
+        ],
+        "histogram2d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2d"
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "mesh3d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "mesh3d"
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter3d"
+          }
+        ],
+        "scattercarpet": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattercarpet"
+          }
+        ],
+        "scattergeo": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergeo"
+          }
+        ],
+        "scattergl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergl"
+          }
+        ],
+        "scattermapbox": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattermapbox"
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolargl"
+          }
+        ],
+        "scatterpolar": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolar"
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "scatterternary": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterternary"
+          }
+        ],
+        "surface": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "surface"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ]
+      },
+      "layout": {
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "autotypenumbers": "strict",
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ]
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "geo": {
+          "bgcolor": "white",
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "showland": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "hovermode": "closest",
+        "mapbox": {
+          "style": "light"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "white",
+        "polar": {
+          "angularaxis": {
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8",
+            "ticks": ""
+          },
+          "bgcolor": "white",
+          "radialaxis": {
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8",
+            "ticks": ""
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          },
+          "yaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          },
+          "zaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "ternary": {
+          "aaxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          },
+          "bgcolor": "white",
+          "caxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "automargin": true,
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "automargin": true,
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        }
+      }
+    },
+    "xaxis": {
+      "anchor": "y",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "title": {
+        "text": "year"
+      },
+      "visible": true,
+      "ticklabelposition": "inside"
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": [
+        0.0,
+        0.7326
+      ],
+      "categoryorder": "array",
+      "categoryarray": [
+        "phrase",
+        "adv.",
+        "adj.",
+        "v.",
+        "n."
+      ],
+      "title": {},
+      "visible": true,
+      "showticklabels": true,
+      "ticklabelposition": "inside"
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "matches": "x",
+      "showticklabels": false,
+      "showgrid": true,
+      "visible": true,
+      "ticklabelposition": "inside"
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": [
+        0.7426,
+        1.0
+      ],
+      "matches": "y2",
+      "categoryorder": "array",
+      "categoryarray": [
+        "phrase",
+        "adv.",
+        "adj.",
+        "v.",
+        "n."
+      ],
+      "showticklabels": true,
+      "showline": false,
+      "ticks": "",
+      "showgrid": true,
+      "visible": true,
+      "title": {},
+      "ticklabelposition": "inside"
+    },
+    "legend": {
+      "title": {
+        "text": "class, level",
+        "side": "top"
+      },
+      "tracegroupgap": 0,
+      "itemsizing": "constant",
+      "font": {
+        "color": "black",
+        "size": 18,
+        "family": "Serif"
+      },
+      "xanchor": "left",
+      "yanchor": "top",
+      "bgcolor": "rgba(0,0,0,0)",
+      "orientation": "h"
+    },
+    "margin": {
+      "t": 20,
+      "r": 0,
+      "l": 0,
+      "b": 0
+    },
+    "barmode": "overlay",
+    "font": {
+      "family": "Serif",
+      "color": "black",
+      "size": 20
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 20,
+        "family": "Serif"
+      },
+      "y": 1,
+      "x": 0,
+      "xanchor": "left",
+      "yanchor": "top",
+      "text": "A timeline of words and phrases derived from pepper, based on main- and sub-level entries in the OED"
+    },
+    "showlegend": true,
+    "annotations": [
+      {
+        "align": "center",
+        "font": {
+          "color": "gainsboro",
+          "family": "Serif",
+          "size": 8
+        },
+        "showarrow": false,
+        "text": "\u00a9 Parti G\u00e1bor, 2022",
+        "x": 0,
+        "xanchor": "left",
+        "xref": "paper",
+        "y": 0,
+        "yanchor": "top",
+        "yref": "paper"
+      }
+    ],
+    "images": [
+      {
+        "sizex": 0.1,
+        "sizey": 0.1,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "top"
+      }
+    ],
+    "updatemenus": [
+      {
+        "active": 0,
+        "buttons": [
+          {
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  true,
+                  true
+                ]
+              },
+              {
+                "annotations": [
+                  {
+                    "x": 925,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 940,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-quern, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 945,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppercorn, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1309,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperer, n.1",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1500,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppergrass, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1500,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperwort, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1538,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "water pepper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1543,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperbox, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1559,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "red pepper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1563,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper tree, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1565,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "green pepper",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1578,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "Indian pepper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1580,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppering, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1597,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "Guinea pepper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1597,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "mountain pepper, n. ",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1603,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "bynny-pepper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1613,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppernel, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1672,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperbush, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1676,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper castor, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1677,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-water, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1679,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperpot, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1689,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperidge, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1696,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppermint, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1712,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperer, n.2",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1774,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-and-salt, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1854,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperwood, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1862,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppernut, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1888,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperoni, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1893,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperette, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1895,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "Dr Pepper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1908,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pep, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1913,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pep talk, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1913,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper game",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1916,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepping up, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1917,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pep pill, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1921,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppiness, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1925,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pep talker, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1927,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pep-talking, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1930,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperina, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1934,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-up, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1934,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-upper, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1951,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperoncino, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1960,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperpotting, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1968,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper gas, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1979,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper spray, n.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 975,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-horn",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1398,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper grain",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1568,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper polk",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1582,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppercorn rent",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1598,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper-gingerbread",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1601,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper wine",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1611,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper berry",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1611,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper bread",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1611,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper plant",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1626,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper seed",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1631,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper mill",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1648,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper cake",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1648,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper sauce",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1659,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper root",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1661,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper man",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1669,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper posset",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1688,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper worm",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1693,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper shrub",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1720,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper-vend",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1724,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper dulse",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1743,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper-wheat",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1752,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper-bird\u00a0",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1752,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper-bird\u00a0 ",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1752,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "sweet pepper",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1774,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper elder",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1783,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper plantation",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1783,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper vine",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1790,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper pod",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1803,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper porridge",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1820,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 Pepper Alley",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1824,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper saxifrage",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1830,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper cress",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1841,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperiness ",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1842,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepperbrand",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1844,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper dust",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1857,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppercorn hair",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1859,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper grinder",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1860,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper soup",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1861,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperbox pistol",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1864,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper moth",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1864,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper rod",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1866,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper crop",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1866,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper-rent",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1870,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper bottle",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1871,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperweed",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1872,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperbox revolver",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1880,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-and-saltiness",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1889,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper shaker",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1897,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper tea",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1901,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 peppercorn shrub",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1905,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper field",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1907,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper steak",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1915,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper belly",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1948,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppercorn bush",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1948,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperbox spelling",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1954,
+                    "y": "n.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppercorn tree",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 930,
+                    "y": "v.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper, v.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1910,
+                    "y": "v.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pep, v.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1936,
+                    "y": "v.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pep-talk, v.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1970,
+                    "y": "v.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-gas, v.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1974,
+                    "y": "v.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-pot, v.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1993,
+                    "y": "v.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-spray, v.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 935,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppered, adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 950,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppercorn, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1543,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperbox, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1610,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppery, adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1613,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperish, adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1696,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppermint, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1712,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppering, adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1774,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-and-salt, n. and adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1854,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperminty, adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1914,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppy, adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1916,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepped-up, adj.",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1580,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020 pepper-nosed",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1612,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-coloured",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1655,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-proof",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1762,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u02c8peppercornish",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1846,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-and-salted",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1860,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u02c8peppercorny",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1881,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "peppercorn-sized",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1882,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-salt",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1952,
+                    "y": "adj.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepper-and-salty",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1898,
+                    "y": "adv.",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "pepperily ",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1400,
+                    "y": "phrase",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "to have pepper in the nose",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1608,
+                    "y": "phrase",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "\u2020to pepper a person's box (also pans)",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1624,
+                    "y": "phrase",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "to snuff pepper",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  },
+                  {
+                    "x": 1821,
+                    "y": "phrase",
+                    "xanchor": "center",
+                    "yanchor": "bottom",
+                    "text": "to pay a visit to Pepper Alley",
+                    "textangle": -45,
+                    "showarrow": false,
+                    "font": {
+                      "size": 12,
+                      "color": "black",
+                      "family": "Serif"
+                    }
+                  }
+                ]
+              }
+            ],
+            "label": "Annotations: On",
+            "method": "update"
+          },
+          {
+            "args": [
+              {
+                "visible": [
+                  true,
+                  true,
+                  true,
+                  true
+                ]
+              },
+              {
+                "annotations": []
+              }
+            ],
+            "label": "Annotations: Off",
+            "method": "update"
+          }
+        ],
+        "showactive": true,
+        "type": "buttons",
+        "x": 1,
+        "xanchor": "right",
+        "y": -0.1,
+        "yanchor": "top"
+      }
+    ]
+  }
+}

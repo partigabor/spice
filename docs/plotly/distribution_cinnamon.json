@@ -1,0 +1,2315 @@
+{
+  "data": [
+    {
+      "customdata": [
+        [
+          "kaneel",
+          "Afrikaans",
+          "Indo-European",
+          "kaneel",
+          22.0,
+          -31.0,
+          "canela"
+        ],
+        [
+          "kaneel",
+          "Estonian",
+          "Uralic",
+          "kaneel",
+          26.0,
+          59.0,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Faroese",
+          "Indo-European",
+          "kanel",
+          -7.0,
+          62.0,
+          "canela"
+        ],
+        [
+          "kaneli",
+          "Finnish",
+          "Uralic",
+          "kaneli",
+          25.0,
+          62.0,
+          "canela"
+        ],
+        [
+          "cannelle",
+          "French",
+          "Indo-European",
+          "cannelle",
+          2.0,
+          48.0,
+          "canela"
+        ],
+        [
+          "kaniel",
+          "Frisian",
+          "Indo-European",
+          "kaniel",
+          5.0,
+          53.0,
+          "canela"
+        ],
+        [
+          "canela",
+          "Galician",
+          "Indo-European",
+          "canela",
+          -8.0,
+          43.0,
+          "canela"
+        ],
+        [
+          "Kaneel",
+          "German",
+          "Indo-European",
+          "Kaneel",
+          10.0,
+          52.0,
+          "canela"
+        ],
+        [
+          "kann\u00e8l",
+          "Haitian Creole",
+          "other",
+          "kann\u00e8l",
+          -72.5,
+          19.0,
+          "canela"
+        ],
+        [
+          "kanill, kanell",
+          "Icelandic",
+          "Indo-European",
+          "kanill, kanell",
+          -17.0,
+          65.0,
+          "canela"
+        ],
+        [
+          "cain\u00e9al",
+          "Irish",
+          "Indo-European",
+          "cain\u00e9al",
+          -8.0,
+          53.0,
+          "canela"
+        ],
+        [
+          "cannella",
+          "Italian",
+          "Indo-European",
+          "cannella",
+          12.0,
+          43.0,
+          "canela"
+        ],
+        [
+          "kaneel",
+          "Dutch",
+          "Indo-European",
+          "kaneel",
+          6.0,
+          52.5,
+          "canela"
+        ],
+        [
+          "kan\u00e9la",
+          "Kabuverdianu",
+          "Indo-European",
+          "kan\u00e9la",
+          -23.6148,
+          15.0586,
+          "canela"
+        ],
+        [
+          "kan\u00e9il",
+          "Luxemburgish",
+          "Indo-European",
+          "kan\u00e9il",
+          6.15,
+          49.68,
+          "canela"
+        ],
+        [
+          "kanelina",
+          "Malagasy",
+          "Austronesian",
+          "kanelina",
+          47.0,
+          -20.0,
+          "canela"
+        ],
+        [
+          "kannella",
+          "Maltese",
+          "Afro-Asiatic",
+          "kannella",
+          14.4166666667,
+          35.9166666667,
+          "canela"
+        ],
+        [
+          "\u03ba\u03b1\u03bd\u03ad\u03bb\u03b1",
+          "Modern Greek",
+          "Indo-European",
+          "kan\u00e9la",
+          23.13,
+          38.36,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Norwegian",
+          "Indo-European",
+          "kanel",
+          8.0,
+          61.0,
+          "canela"
+        ],
+        [
+          "can\u00e8la",
+          "Occitan",
+          "Indo-European",
+          "can\u00e8la",
+          2.0,
+          44.0,
+          "canela"
+        ],
+        [
+          "canela",
+          "Portuguese",
+          "Indo-European",
+          "canela",
+          -8.0,
+          39.0,
+          "canela"
+        ],
+        [
+          "caineal",
+          "Scottish Gaelic",
+          "Indo-European",
+          "caineal",
+          -5.24366,
+          56.7574,
+          "canela"
+        ],
+        [
+          "canela",
+          "Spanish",
+          "Indo-European",
+          "canela",
+          -4.0,
+          40.0,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Swedish",
+          "Indo-European",
+          "kanel",
+          15.0,
+          60.0,
+          "canela"
+        ],
+        [
+          "kanela",
+          "Tagalog",
+          "Austronesian",
+          "kanela",
+          121.0,
+          15.0,
+          "canela"
+        ],
+        [
+          "Kaneel",
+          "Low German",
+          "Indo-European",
+          "Kaneel ",
+          10.0,
+          53.0,
+          "canela"
+        ],
+        [
+          "kanel",
+          "Danish",
+          "Indo-European",
+          "kanel",
+          10.0,
+          56.0,
+          "canela"
+        ],
+        [
+          "kan\u0113lis",
+          "Latvian",
+          "Indo-European",
+          "kan\u0113lis",
+          24.0,
+          57.0,
+          "canela"
+        ],
+        [
+          "canyella, canella",
+          "Catalan",
+          "Indo-European",
+          "canyella, canella",
+          2.0,
+          41.75,
+          "canela"
+        ],
+        [
+          "\u043a\u0430\u043d\u0435\u0301\u043b\u0430",
+          "Bulgarian",
+          "Indo-European",
+          "kan\u00e9la",
+          25.0,
+          42.5,
+          "canela"
+        ],
+        [
+          "kanell",
+          "Breton",
+          "Indo-European",
+          "kanell",
+          -3.0,
+          48.0,
+          "canela"
+        ],
+        [
+          "kanell\u00eb",
+          "Albanian",
+          "Indo-European",
+          "kanell\u00eb",
+          20.0,
+          41.0,
+          "canela"
+        ],
+        [
+          "cannella",
+          "Corsican",
+          "Indo-European",
+          "cannella",
+          9.25537,
+          41.7,
+          "canela"
+        ],
+        [
+          "kanela",
+          "Basque",
+          "Basque",
+          "kanela",
+          -3.0,
+          43.0,
+          "canela"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>term=%{customdata[0]}<br>language=%{customdata[1]}<br>family=%{customdata[2]}<extra></extra>",
+      "hovertext": [
+        "kaneel",
+        "kaneel",
+        "kanel",
+        "kaneli",
+        "cannelle",
+        "kaniel",
+        "canela",
+        "Kaneel",
+        "kann\u00e8l",
+        "kanill, kanell",
+        "cain\u00e9al",
+        "cannella",
+        "kaneel",
+        "kan\u00e9la",
+        "kan\u00e9il",
+        "kanelina",
+        "kannella",
+        "kan\u00e9la",
+        "kanel",
+        "can\u00e8la",
+        "canela",
+        "caineal",
+        "canela",
+        "kanel",
+        "kanela",
+        "Kaneel ",
+        "kanel",
+        "kan\u0113lis",
+        "canyella, canella",
+        "kan\u00e9la",
+        "kanell",
+        "kanell\u00eb",
+        "cannella",
+        "kanela"
+      ],
+      "lat": [
+        -31.0,
+        59.0,
+        62.0,
+        62.0,
+        48.0,
+        53.0,
+        43.0,
+        52.0,
+        19.0,
+        65.0,
+        53.0,
+        43.0,
+        52.5,
+        15.0586,
+        49.68,
+        -20.0,
+        35.9166666667,
+        38.36,
+        61.0,
+        44.0,
+        39.0,
+        56.7574,
+        40.0,
+        60.0,
+        15.0,
+        53.0,
+        56.0,
+        57.0,
+        41.75,
+        42.5,
+        48.0,
+        41.0,
+        41.7,
+        43.0
+      ],
+      "legendgroup": "canela",
+      "lon": [
+        22.0,
+        26.0,
+        -7.0,
+        25.0,
+        2.0,
+        5.0,
+        -8.0,
+        10.0,
+        -72.5,
+        -17.0,
+        -8.0,
+        12.0,
+        6.0,
+        -23.6148,
+        6.15,
+        47.0,
+        14.4166666667,
+        23.13,
+        8.0,
+        2.0,
+        -8.0,
+        -5.24366,
+        -4.0,
+        15.0,
+        121.0,
+        10.0,
+        10.0,
+        24.0,
+        2.0,
+        25.0,
+        -3.0,
+        20.0,
+        9.25537,
+        -3.0
+      ],
+      "marker": {
+        "color": "#5f4690",
+        "opacity": 0.8,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "canela",
+      "showlegend": true,
+      "text": [
+        "kaneel",
+        "kaneel",
+        "kanel",
+        "kaneli",
+        "cannelle",
+        "kaniel",
+        "canela",
+        "Kaneel",
+        "kann\u00e8l",
+        "kanill, kanell",
+        "cain\u00e9al",
+        "cannella",
+        "kaneel",
+        "kan\u00e9la",
+        "kan\u00e9il",
+        "kanelina",
+        "kannella",
+        "kan\u00e9la",
+        "kanel",
+        "can\u00e8la",
+        "canela",
+        "caineal",
+        "canela",
+        "kanel",
+        "kanela",
+        "Kaneel ",
+        "kanel",
+        "kan\u0113lis",
+        "canyella, canella",
+        "kan\u00e9la",
+        "kanell",
+        "kanell\u00eb",
+        "cannella",
+        "kanela"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "cinnam\u014dmum, cinnamum",
+          "Latin",
+          "Indo-European",
+          "cinnam\u014dmum, cinnamum",
+          12.4502,
+          41.9026,
+          "kinnamon"
+        ],
+        [
+          "cinamonas",
+          "Lithuanian",
+          "Indo-European",
+          "cinamonas",
+          24.0,
+          55.0,
+          "kinnamon"
+        ],
+        [
+          "\u0446\u0438\u043c\u0435\u0442",
+          "Macedonian",
+          "Indo-European",
+          "cimet",
+          21.75,
+          41.6666666667,
+          "kinnamon"
+        ],
+        [
+          "cimet",
+          "Bosnian Standard",
+          "Indo-European",
+          "cimet",
+          17.046,
+          43.859,
+          "kinnamon"
+        ],
+        [
+          "hinamona",
+          "Maori",
+          "Austronesian",
+          "hinamona",
+          176.0,
+          -40.0,
+          "kinnamon"
+        ],
+        [
+          "\u05e7\u05d9\u05e0\u05de\u05d5\u05df",
+          "Modern Hebrew",
+          "Afro-Asiatic",
+          "kinam\u00f3n",
+          35.0179,
+          31.1056,
+          "kinnamon"
+        ],
+        [
+          "cynamon",
+          "Polish",
+          "Indo-European",
+          "cynamon",
+          20.0,
+          52.0,
+          "kinnamon"
+        ],
+        [
+          "cimet",
+          "Croatian Standard",
+          "Indo-European",
+          "cimet",
+          15.982,
+          45.555,
+          "kinnamon"
+        ],
+        [
+          "\u30b7\u30ca\u30e2\u30f3",
+          "Japanese",
+          "Japanese",
+          "shinamon",
+          140.0,
+          37.0,
+          "kinnamon"
+        ],
+        [
+          "\u0446\u0438\u043c\u0435\u0442",
+          "Serbian-Croatian-Bosnian",
+          "Indo-European",
+          "cimet",
+          18.81,
+          44.15,
+          "kinnamon"
+        ],
+        [
+          "sinamone",
+          "Sesotho",
+          "Niger-Congo",
+          "sinamone",
+          27.0,
+          -28.0,
+          "kinnamon"
+        ],
+        [
+          "sinamoni",
+          "Shona",
+          "Atlantic-Congo",
+          "sinamoni",
+          29.75725,
+          -17.20849,
+          "kinnamon"
+        ],
+        [
+          "cimet",
+          "Slovene",
+          "Indo-European",
+          "cimet",
+          15.0,
+          46.0,
+          "kinnamon"
+        ],
+        [
+          "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd",
+          "Ancient Greek",
+          "Indo-European",
+          "kinn\u00e1m\u014dmon",
+          21.9129,
+          39.8155,
+          "kinnamon"
+        ],
+        [
+          "synamon",
+          "Welsh",
+          "Indo-European",
+          "synamon",
+          -3.0,
+          52.0,
+          "kinnamon"
+        ],
+        [
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0576",
+          "Western Armenian",
+          "Indo-European",
+          "ginamon",
+          44.4839,
+          40.1897,
+          "kinnamon"
+        ],
+        [
+          "isinamon",
+          "Xhosa",
+          "Atlantic-Congo",
+          "isinamon",
+          28.0769,
+          -31.0389,
+          "kinnamon"
+        ],
+        [
+          "\u05e6\u05d9\u05de\u05e8\u05d9\u05e0\u05d2 , \u05e6\u05d9\u05de\u05e2\u05e8\u05d9\u05e0\u05d2",
+          "Yiddish",
+          "Indo-European",
+          "tsimring",
+          23.0,
+          52.0,
+          "kinnamon"
+        ],
+        [
+          "kinamoni",
+          "Samoan",
+          "Austronesian",
+          "kinamoni",
+          -171.833333333,
+          -13.9166666667,
+          "kinnamon"
+        ],
+        [
+          "\u0446\u0438\u043c\u0435\u0442",
+          "Serbian Standard",
+          "Indo-European",
+          "cimet",
+          21.9192,
+          44.3238,
+          "kinnamon"
+        ],
+        [
+          "isinamoni",
+          "Zulu",
+          "Atlantic-Congo",
+          "isinamoni",
+          30.2,
+          -28.9,
+          "kinnamon"
+        ],
+        [
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0574\u0578\u0576",
+          "Classical-Middle Armenian",
+          "Indo-European",
+          "kinamomon",
+          41.346422,
+          38.592316,
+          "kinnamon"
+        ],
+        [
+          "\u2c95\u2c93\u2c9b\u2c9b\u2c81\u2c99\u2cb1\u2c99\u2c9f\u2c9b, \u2c95\u2c93\u2c9b\u2c81\u2c99\u2c9f\u2c9b",
+          "Coptic",
+          "Afro-Asiatic",
+          "kinnam\u014dmon, kinamon",
+          32.0,
+          26.0,
+          "kinnamon"
+        ],
+        [
+          "Zimt",
+          "German",
+          "Indo-European",
+          "Zimt",
+          10.0,
+          52.0,
+          "kinnamon"
+        ],
+        [
+          "\u1245\u1293\u121e\u1219",
+          "Geez",
+          "Afro-Asiatic",
+          "q\u0259n\u0101momu",
+          40.6821,
+          10.1342,
+          "kinnamon"
+        ],
+        [
+          "cinnamon",
+          "English",
+          "Indo-European",
+          "cinnamon",
+          0.0,
+          52.0,
+          "kinnamon"
+        ],
+        [
+          "kinamona",
+          "Hawaiian",
+          "Austronesian",
+          "kinamona",
+          -155.5,
+          19.5833333333,
+          "kinnamon"
+        ],
+        [
+          "cinamo",
+          "Esperanto",
+          null,
+          "cinamo",
+          2.81045,
+          49.3273,
+          "kinnamon"
+        ],
+        [
+          "\u056f\u056b\u0576\u0561\u0574\u0578\u0576",
+          "Eastern Armenian",
+          "Indo-European",
+          "kinamon",
+          45.0,
+          40.0,
+          "kinnamon"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>term=%{customdata[0]}<br>language=%{customdata[1]}<br>family=%{customdata[2]}<extra></extra>",
+      "hovertext": [
+        "cinnam\u014dmum, cinnamum",
+        "cinamonas",
+        "cimet",
+        "cimet",
+        "hinamona",
+        "kinam\u00f3n",
+        "cynamon",
+        "cimet",
+        "shinamon",
+        "cimet",
+        "sinamone",
+        "sinamoni",
+        "cimet",
+        "kinn\u00e1m\u014dmon",
+        "synamon",
+        "ginamon",
+        "isinamon",
+        "tsimring",
+        "kinamoni",
+        "cimet",
+        "isinamoni",
+        "kinamomon",
+        "kinnam\u014dmon, kinamon",
+        "Zimt",
+        "q\u0259n\u0101momu",
+        "cinnamon",
+        "kinamona",
+        "cinamo",
+        "kinamon"
+      ],
+      "lat": [
+        41.9026,
+        55.0,
+        41.6666666667,
+        43.859,
+        -40.0,
+        31.1056,
+        52.0,
+        45.555,
+        37.0,
+        44.15,
+        -28.0,
+        -17.20849,
+        46.0,
+        39.8155,
+        52.0,
+        40.1897,
+        -31.0389,
+        52.0,
+        -13.9166666667,
+        44.3238,
+        -28.9,
+        38.592316,
+        26.0,
+        52.0,
+        10.1342,
+        52.0,
+        19.5833333333,
+        49.3273,
+        40.0
+      ],
+      "legendgroup": "kinnamon",
+      "lon": [
+        12.4502,
+        24.0,
+        21.75,
+        17.046,
+        176.0,
+        35.0179,
+        20.0,
+        15.982,
+        140.0,
+        18.81,
+        27.0,
+        29.75725,
+        15.0,
+        21.9129,
+        -3.0,
+        44.4839,
+        28.0769,
+        23.0,
+        -171.833333333,
+        21.9192,
+        30.2,
+        41.346422,
+        32.0,
+        10.0,
+        40.6821,
+        0.0,
+        -155.5,
+        2.81045,
+        45.0
+      ],
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.8,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "kinnamon",
+      "showlegend": true,
+      "text": [
+        "cinnam\u014dmum, cinnamum",
+        "cinamonas",
+        "cimet",
+        "cimet",
+        "hinamona",
+        "kinam\u00f3n",
+        "cynamon",
+        "cimet",
+        "shinamon",
+        "cimet",
+        "sinamone",
+        "sinamoni",
+        "cimet",
+        "kinn\u00e1m\u014dmon",
+        "synamon",
+        "ginamon",
+        "isinamon",
+        "tsimring",
+        "kinamoni",
+        "cimet",
+        "isinamoni",
+        "kinamomon",
+        "kinnam\u014dmon, kinamon",
+        "Zimt",
+        "q\u0259n\u0101momu",
+        "cinnamon",
+        "kinamona",
+        "cinamo",
+        "kinamon"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u043a\u0430\u0440\u044b\u0301\u0446\u0430",
+          "Belarusian",
+          "Indo-European",
+          "kar\u00fdca",
+          25.6038,
+          53.2307,
+          "korica"
+        ],
+        [
+          "\u043a\u043e\u0440\u0438\u0301\u0446\u044f",
+          "Ukrainian",
+          "Indo-European",
+          "kor\u00fdcja",
+          33.0,
+          49.0,
+          "korica"
+        ],
+        [
+          "\u043a\u043e\u0440\u0438\u0301\u0446\u0430",
+          "Russian",
+          "Indo-European",
+          "kor\u00edca",
+          38.0,
+          56.0,
+          "korica"
+        ],
+        [
+          "\u043a\u043e\u0440\u0438\u0446\u0430",
+          "Kirghiz",
+          "Altaic",
+          "qoritsa",
+          75.0,
+          42.0,
+          "korica"
+        ],
+        [
+          "\u0161korica",
+          "Slovak",
+          "Indo-European",
+          "\u0161korica",
+          20.0,
+          49.0,
+          "korica"
+        ],
+        [
+          "sko\u0159ice",
+          "Czech",
+          "Indo-European",
+          "sko\u0159ice",
+          15.0,
+          50.0,
+          "korica"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>term=%{customdata[0]}<br>language=%{customdata[1]}<br>family=%{customdata[2]}<extra></extra>",
+      "hovertext": [
+        "kar\u00fdca",
+        "kor\u00fdcja",
+        "kor\u00edca",
+        "qoritsa",
+        "\u0161korica",
+        "sko\u0159ice"
+      ],
+      "lat": [
+        53.2307,
+        49.0,
+        56.0,
+        42.0,
+        49.0,
+        50.0
+      ],
+      "legendgroup": "korica",
+      "lon": [
+        25.6038,
+        33.0,
+        38.0,
+        75.0,
+        20.0,
+        15.0
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "opacity": 0.8,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "korica",
+      "showlegend": true,
+      "text": [
+        "kar\u00fdca",
+        "kor\u00fdcja",
+        "kor\u00edca",
+        "qoritsa",
+        "\u0161korica",
+        "sko\u0159ice"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "qorfe",
+          "Somali",
+          "Afro-Asiatic",
+          "qorfe",
+          45.0,
+          3.0,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0650\u0631\u0652\u0641\u064e\u0629",
+          "Standard Arabic",
+          "Afro-Asiatic",
+          "qirfa",
+          43.8525,
+          27.9625,
+          "qirfa"
+        ],
+        [
+          "\u1240\u1228\u134b",
+          "Amharic",
+          "Afro-Asiatic",
+          "\u1e33\u00e4r\u00e4fa",
+          38.0,
+          10.0,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0631\u0641\u0629",
+          "Egyptian Arabic",
+          "Afro-Asiatic",
+          "\u02beerfa",
+          31.0,
+          31.0,
+          "qirfa"
+        ],
+        [
+          "\u1243\u122d\u134b",
+          "Tigrinya",
+          "Afro-Asiatic",
+          "\u1e33arfa",
+          38.5,
+          14.5,
+          "qirfa"
+        ],
+        [
+          "kirfa",
+          "Hausa",
+          "Afro-Asiatic",
+          "kirfa",
+          7.0,
+          12.0,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0631\u0641\u0629",
+          "Hijazi Arabic",
+          "Afro-Asiatic",
+          "girfa",
+          38.9237,
+          22.8346,
+          "qirfa"
+        ],
+        [
+          "\u0642\u0631\u0641\u0629",
+          "Moroccan Arabic",
+          "Afro-Asiatic",
+          "qarfa",
+          -7.5,
+          32.5,
+          "qirfa"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>term=%{customdata[0]}<br>language=%{customdata[1]}<br>family=%{customdata[2]}<extra></extra>",
+      "hovertext": [
+        "qorfe",
+        "qirfa",
+        "\u1e33\u00e4r\u00e4fa",
+        "\u02beerfa",
+        "\u1e33arfa",
+        "kirfa",
+        "girfa",
+        "qarfa"
+      ],
+      "lat": [
+        3.0,
+        27.9625,
+        10.0,
+        31.0,
+        14.5,
+        12.0,
+        22.8346,
+        32.5
+      ],
+      "legendgroup": "qirfa",
+      "lon": [
+        45.0,
+        43.8525,
+        38.0,
+        31.0,
+        38.5,
+        7.0,
+        38.9237,
+        -7.5
+      ],
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.8,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "qirfa",
+      "showlegend": true,
+      "text": [
+        "qorfe",
+        "qirfa",
+        "\u1e33\u00e4r\u00e4fa",
+        "\u02beerfa",
+        "\u1e33arfa",
+        "kirfa",
+        "girfa",
+        "qarfa"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u0926\u093e\u0930\u0941\u091a\u093f\u0928\u0940",
+          "Sanskrit",
+          "Indo-European",
+          "d\u0101rucin\u012b",
+          77.0,
+          20.0,
+          "darchin"
+        ],
+        [
+          "\u0564\u0561\u0580\u056b\u0573\u0565\u0576\u056b\u056f",
+          "Classical-Middle Armenian",
+          "Indo-European",
+          "dari\u010denik",
+          41.346422,
+          38.592316,
+          "darchin"
+        ],
+        [
+          "\u09a6\u09be\u09b2\u099a\u09c7\u09a8\u09bf",
+          "Assamese",
+          "Indo-European",
+          "dalseni",
+          93.0,
+          26.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u06cc\u0646",
+          "Persian",
+          "Indo-European",
+          "d\u00e2r\u010din",
+          54.0,
+          32.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0644\u0686\u06cc\u0646\u06cc",
+          "Pashto",
+          "Indo-European",
+          "dolchini",
+          67.0,
+          33.0,
+          "darchin"
+        ],
+        [
+          "\u0715\u072a\u0728\u071d\u0722\u071d , \u0728\u071d\u0722\u0715\u072a\u0713",
+          "Classical Syriac",
+          "Afro-Asiatic",
+          "d\u0101r\u1e63\u012bn\u012b, \u1e63\u012bndre\u1e21",
+          42.1432,
+          37.1129,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u0940\u0928\u0940",
+          "Hindi",
+          "Indo-European",
+          "d\u0101lc\u012bn\u012b",
+          77.0,
+          25.0,
+          "darchin"
+        ],
+        [
+          "dalasini",
+          "Swahili",
+          "Atlantic-Congo",
+          "dalasini",
+          37.624,
+          -8.25605,
+          "darchin"
+        ],
+        [
+          "\u0434\u043e\u0440\u0447\u0438\u043d",
+          "Tajik",
+          "Indo-European",
+          "dor\u010din",
+          70.0,
+          38.6666666667,
+          "darchin"
+        ],
+        [
+          "\u0434\u0430\u0440\u0447\u0438\u043d",
+          "Tatar",
+          "Altaic",
+          "dar\u00e7in",
+          49.5,
+          56.0,
+          "darchin"
+        ],
+        [
+          "\u0c26\u0c3e\u0c32\u0c4d\u0c1a\u0c3f\u0c28 \u0c1a\u0c46\u0c15\u0c4d\u0c15",
+          "Telugu",
+          "Dravidian",
+          "d\u0101lchina chekka",
+          79.0,
+          16.0,
+          "darchin"
+        ],
+        [
+          "tar\u00e7\u0131n",
+          "Turkish",
+          "Altaic",
+          "tar\u00e7\u0131n",
+          35.0,
+          39.0,
+          "darchin"
+        ],
+        [
+          "dar\u00e7yn",
+          "Turkmen",
+          "Altaic",
+          "dar\u00e7yn",
+          58.0,
+          40.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631 \u0686\u06cc\u0646\u06cc",
+          "Urdu",
+          "Indo-European",
+          "d\u0101rc\u012bn\u012b",
+          67.0,
+          25.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u0649\u0646",
+          "Uyghur",
+          "Altaic",
+          "dal\u00e7in, dar\u00e7in",
+          80.0,
+          40.0,
+          "darchin"
+        ],
+        [
+          "dolchin",
+          "Uzbek",
+          "Altaic",
+          "dolchin",
+          66.0,
+          39.0,
+          "darchin"
+        ],
+        [
+          "\u0564\u0561\u0580\u0579\u056b\u0576",
+          "Western Armenian",
+          "Indo-European",
+          "tarch\u02bfin",
+          44.4839,
+          40.1897,
+          "darchin"
+        ],
+        [
+          "\u0564\u0561\u0580\u0579\u056b\u0576",
+          "Eastern Armenian",
+          "Indo-European",
+          "dar\u010d\u02bfin",
+          45.0,
+          40.0,
+          "darchin"
+        ],
+        [
+          "tar\u00e7\u0131n",
+          "Crimean Tatar",
+          "Altaic",
+          "tar\u00e7\u0131n",
+          34.0833333333,
+          45.0,
+          "darchin"
+        ],
+        [
+          "\u0b26\u0b3e\u0b32\u0b1a\u0b3f\u0b28\u0b3f, \u0b21\u0b3e\u0b32\u0b1a\u0b3f\u0b28\u0b3f",
+          "Oriya",
+          "Indo-European",
+          "dalachini",
+          85.0,
+          21.0,
+          "darchin"
+        ],
+        [
+          "dar\u00e7\u0131n",
+          "Azerbaijani",
+          "Altaic",
+          "dar\u00e7\u0131n",
+          48.5,
+          40.5,
+          "darchin"
+        ],
+        [
+          "\u0a26\u0a3e\u0a32\u0a1a\u0a40\u0a28\u0a40",
+          "Panjabi",
+          "Indo-European",
+          "d\u0101lc\u012bn\u012b",
+          74.0,
+          31.0,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u0940\u0928\u0940",
+          "Marathi",
+          "Indo-European",
+          "d\u0101lc\u012bn\u012b",
+          76.0,
+          19.0,
+          "darchin"
+        ],
+        [
+          "\u10d3\u10d0\u10e0\u10d8\u10e9\u10d8\u10dc\u10d8",
+          "Georgian",
+          "Kartvelian",
+          "dari\u010dini",
+          44.0,
+          42.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0686\u06cc\u0646",
+          "Central Kurdish",
+          "Indo-European",
+          "dar\u00e7\u00een",
+          45.8077,
+          35.6539,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0631\u0633\u064a\u0646",
+          "Gulf Arabic",
+          "Afro-Asiatic",
+          "d\u0101rs\u012bn",
+          47.5,
+          30.17,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u093f\u0928\u0940",
+          "Maithili",
+          "Indo-European",
+          "dalchini",
+          86.0,
+          26.0,
+          "darchin"
+        ],
+        [
+          "\u0434\u0430\u0440\u0448\u044b\u043d",
+          "Kazakh",
+          "Altaic",
+          "dar\u015f\u0131n",
+          70.0,
+          50.0,
+          "darchin"
+        ],
+        [
+          "\u062f\u0627\u0644\u0686\u06cc\u0646",
+          "Kashmiri",
+          "Indo-European",
+          "d\u0101lch\u012bn",
+          76.0,
+          34.0,
+          "darchin"
+        ],
+        [
+          "\u0ca6\u0cbe\u0cb2\u0ccd\u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf",
+          "Kannada",
+          "Dravidian",
+          "d\u0101lcinni",
+          76.0,
+          14.0,
+          "darchin"
+        ],
+        [
+          "\u05d3\u05b7\u05bc\u05e8\u05b0\u05e6\u05b4\u05d9\u05e0\u05b4\u05d9",
+          "Jewish Babylonian Aramaic",
+          "Afro-Asiatic",
+          "dar\u1e63\u012bn\u012b",
+          44.245,
+          32.273,
+          "darchin"
+        ],
+        [
+          "\u09a6\u09be\u09b0\u09c1\u099a\u09bf\u09a8\u09bf, \u09a6\u09be\u09b0\u099a\u09bf\u09a8\u09bf",
+          "Bengali",
+          "Indo-European",
+          "darucini, darcini",
+          90.0,
+          24.0,
+          "darchin"
+        ],
+        [
+          "\u0926\u093e\u0932\u091a\u093f\u0928\u0940",
+          "Nepali",
+          "Indo-European",
+          "d\u0101lacin\u012b",
+          85.0,
+          28.0,
+          "darchin"
+        ],
+        [
+          "dar\u00e7\u00een",
+          "Northern Kurdish",
+          "Indo-European",
+          "dar\u00e7\u00een",
+          43.0,
+          37.0,
+          "darchin"
+        ],
+        [
+          "\ud804\udd13\ud804\udd23\ud804\udd34 \ud804\udd0c\ud804\udd28\ud804\udd1a\ud804\udd28",
+          "Chakma",
+          "Indo-European",
+          "dal chini",
+          92.339,
+          23.00148,
+          "darchin"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>term=%{customdata[0]}<br>language=%{customdata[1]}<br>family=%{customdata[2]}<extra></extra>",
+      "hovertext": [
+        "d\u0101rucin\u012b",
+        "dari\u010denik",
+        "dalseni",
+        "d\u00e2r\u010din",
+        "dolchini",
+        "d\u0101r\u1e63\u012bn\u012b, \u1e63\u012bndre\u1e21",
+        "d\u0101lc\u012bn\u012b",
+        "dalasini",
+        "dor\u010din",
+        "dar\u00e7in",
+        "d\u0101lchina chekka",
+        "tar\u00e7\u0131n",
+        "dar\u00e7yn",
+        "d\u0101rc\u012bn\u012b",
+        "dal\u00e7in, dar\u00e7in",
+        "dolchin",
+        "tarch\u02bfin",
+        "dar\u010d\u02bfin",
+        "tar\u00e7\u0131n",
+        "dalachini",
+        "dar\u00e7\u0131n",
+        "d\u0101lc\u012bn\u012b",
+        "d\u0101lc\u012bn\u012b",
+        "dari\u010dini",
+        "dar\u00e7\u00een",
+        "d\u0101rs\u012bn",
+        "dalchini",
+        "dar\u015f\u0131n",
+        "d\u0101lch\u012bn",
+        "d\u0101lcinni",
+        "dar\u1e63\u012bn\u012b",
+        "darucini, darcini",
+        "d\u0101lacin\u012b",
+        "dar\u00e7\u00een",
+        "dal chini"
+      ],
+      "lat": [
+        20.0,
+        38.592316,
+        26.0,
+        32.0,
+        33.0,
+        37.1129,
+        25.0,
+        -8.25605,
+        38.6666666667,
+        56.0,
+        16.0,
+        39.0,
+        40.0,
+        25.0,
+        40.0,
+        39.0,
+        40.1897,
+        40.0,
+        45.0,
+        21.0,
+        40.5,
+        31.0,
+        19.0,
+        42.0,
+        35.6539,
+        30.17,
+        26.0,
+        50.0,
+        34.0,
+        14.0,
+        32.273,
+        24.0,
+        28.0,
+        37.0,
+        23.00148
+      ],
+      "legendgroup": "darchin",
+      "lon": [
+        77.0,
+        41.346422,
+        93.0,
+        54.0,
+        67.0,
+        42.1432,
+        77.0,
+        37.624,
+        70.0,
+        49.5,
+        79.0,
+        35.0,
+        58.0,
+        67.0,
+        80.0,
+        66.0,
+        44.4839,
+        45.0,
+        34.0833333333,
+        85.0,
+        48.5,
+        74.0,
+        76.0,
+        44.0,
+        45.8077,
+        47.5,
+        86.0,
+        70.0,
+        76.0,
+        76.0,
+        44.245,
+        90.0,
+        85.0,
+        43.0,
+        92.339
+      ],
+      "marker": {
+        "color": "#73af48",
+        "opacity": 0.8,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "darchin",
+      "showlegend": true,
+      "text": [
+        "d\u0101rucin\u012b",
+        "dari\u010denik",
+        "dalseni",
+        "d\u00e2r\u010din",
+        "dolchini",
+        "d\u0101r\u1e63\u012bn\u012b, \u1e63\u012bndre\u1e21",
+        "d\u0101lc\u012bn\u012b",
+        "dalasini",
+        "dor\u010din",
+        "dar\u00e7in",
+        "d\u0101lchina chekka",
+        "tar\u00e7\u0131n",
+        "dar\u00e7yn",
+        "d\u0101rc\u012bn\u012b",
+        "dal\u00e7in, dar\u00e7in",
+        "dolchin",
+        "tarch\u02bfin",
+        "dar\u010d\u02bfin",
+        "tar\u00e7\u0131n",
+        "dalachini",
+        "dar\u00e7\u0131n",
+        "d\u0101lc\u012bn\u012b",
+        "d\u0101lc\u012bn\u012b",
+        "dari\u010dini",
+        "dar\u00e7\u00een",
+        "d\u0101rs\u012bn",
+        "dalchini",
+        "dar\u015f\u0131n",
+        "d\u0101lch\u012bn",
+        "d\u0101lcinni",
+        "dar\u1e63\u012bn\u012b",
+        "darucini, darcini",
+        "d\u0101lacin\u012b",
+        "dar\u00e7\u00een",
+        "dal chini"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "\u8089\u6842",
+          "Hakka",
+          "Sino-Tibetan",
+          "ngiuk-kui",
+          116.0,
+          25.0,
+          "gui"
+        ],
+        [
+          "qu\u1ebf",
+          "Vietnamese",
+          "Austro-Asiatic",
+          "qu\u1ebf",
+          106.5,
+          10.5,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Cantonese",
+          "Sino-Tibetan",
+          "juk6 gwai3",
+          113.0,
+          23.0,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Min Nan Chinese",
+          "Sino-Tibetan",
+          "jio\u030dk-ku\u00ec/lio\u030dk-ku\u00ec\u3000",
+          118.17,
+          24.5,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Mandarin Chinese",
+          "Sino-Tibetan",
+          "r\u00f2ugu\u00ec",
+          116.228,
+          40.0209,
+          "gui"
+        ],
+        [
+          "\u8089\u6842",
+          "Japanese",
+          "Japanese",
+          "nikkei",
+          140.0,
+          37.0,
+          "gui"
+        ],
+        [
+          "\uacc4\ud53c",
+          "Korean",
+          "Korean",
+          "gyepi",
+          128.0,
+          37.5,
+          "gui"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>term=%{customdata[0]}<br>language=%{customdata[1]}<br>family=%{customdata[2]}<extra></extra>",
+      "hovertext": [
+        "ngiuk-kui",
+        "qu\u1ebf",
+        "juk6 gwai3",
+        "jio\u030dk-ku\u00ec/lio\u030dk-ku\u00ec\u3000",
+        "r\u00f2ugu\u00ec",
+        "nikkei",
+        "gyepi"
+      ],
+      "lat": [
+        25.0,
+        10.5,
+        23.0,
+        24.5,
+        40.0209,
+        37.0,
+        37.5
+      ],
+      "legendgroup": "gui",
+      "lon": [
+        116.0,
+        106.5,
+        113.0,
+        118.17,
+        116.228,
+        140.0,
+        128.0
+      ],
+      "marker": {
+        "color": "#edad08",
+        "opacity": 0.8,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "gui",
+      "showlegend": true,
+      "text": [
+        "ngiuk-kui",
+        "qu\u1ebf",
+        "juk6 gwai3",
+        "jio\u030dk-ku\u00ec/lio\u030dk-ku\u00ec\u3000",
+        "r\u00f2ugu\u00ec",
+        "nikkei",
+        "gyepi"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "anoatre dua",
+          "Twi",
+          "Atlantic-Congo",
+          "anoatre dua",
+          -1.33,
+          6.35,
+          "other"
+        ],
+        [
+          "\u0e2d\u0e1a\u0e40\u0e0a\u0e22",
+          "Thai",
+          "Tai-Kadai",
+          "\u00f2p-ch\u0259\u0259i",
+          101.0,
+          16.0,
+          "other"
+        ],
+        [
+          "kayu manis",
+          "Indonesian",
+          "Austronesian",
+          "kayu manis",
+          106.0,
+          0.0,
+          "other"
+        ],
+        [
+          "\u078a\u07ae\u0782\u07a8 \u078c\u07ae\u0781\u07a8",
+          "Dhivehi",
+          "Indo-European",
+          "foni thoshi",
+          73.5,
+          4.16666666667,
+          "other"
+        ],
+        [
+          "\u17a2\u17bb\u1794\u1786\u17ba\u1799",
+          "Khmer",
+          "Austro-Asiatic",
+          "obchheuy",
+          105.0,
+          12.5,
+          "other"
+        ],
+        [
+          "\u0c9a\u0cc6\u0c95\u0ccd\u0c95\u0cc6",
+          "Tulu",
+          "Dravidian",
+          "chekke",
+          75.3333333333,
+          12.75,
+          "other"
+        ],
+        [
+          "\ua98f\ua9aa\ua9b8\ua9a9\ua9a4\ua9b6\ua9b1\ua9c0",
+          "Javanese",
+          "Austronesian",
+          "kayumanis",
+          111.0,
+          -7.0,
+          "other"
+        ],
+        [
+          "pongmo",
+          "Konyak Naga",
+          "Sino-Tibetan",
+          "pongmo",
+          95.0598,
+          26.6823,
+          "other"
+        ],
+        [
+          "\u0f64\u0f72\u0f44\u0f0b\u0f5a",
+          "Tibetan",
+          "Sino-Tibetan",
+          "shing tsha",
+          90.1872,
+          28.3681,
+          "other"
+        ],
+        [
+          "\u101e\u1005\u103a\u1000\u103c\u1036\u1015\u102d\u102f\u1038",
+          "Burmese",
+          "Sino-Tibetan",
+          "sackrampui:",
+          96.0,
+          21.0,
+          "other"
+        ],
+        [
+          "achansa",
+          "Northern Rengma Naga",
+          "Sino-Tibetan",
+          "achansa",
+          94.5683,
+          26.4492,
+          "other"
+        ],
+        [
+          "\u0b87\u0bb2\u0bb5\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8, \u0b95\u0bb0\u0bc1\u0bb5\u0bbe\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8/\u0b95\u0bb1\u0bc1\u0bb5\u0bbe\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc8",
+          "Tamil",
+          "Dravidian",
+          "ilava\u1e45kappa\u1e6d\u1e6dai, karuv\u0101ppa\u1e6d\u1e6dai/ka\u1e5fuv\u0101ppa\u1e6d\u1e6dai",
+          78.5,
+          11.0,
+          "other"
+        ],
+        [
+          "fah\u00e9j",
+          "Hungarian",
+          "Uralic",
+          "fah\u00e9j",
+          20.0,
+          47.0,
+          "other"
+        ],
+        [
+          "pharongkor",
+          "North-Central Tangkhul Naga",
+          "Sino-Tibetan",
+          "pharongkor",
+          94.204722,
+          25.156667,
+          "other"
+        ],
+        [
+          "\u0448\u0430\u043d\u0446",
+          "Mongolian",
+          "Mongolic-Khitan",
+          "shants",
+          106.29,
+          48.32,
+          "other"
+        ],
+        [
+          "scor\u021bi\u0219oar\u0103",
+          "Romanian",
+          "Indo-European",
+          "scor\u021bi\u0219oar\u0103",
+          25.0,
+          46.0,
+          "other"
+        ],
+        [
+          "thakthing",
+          "Mizo",
+          "Sino-Tibetan",
+          "thakthing",
+          92.8333333333,
+          23.1666666667,
+          "other"
+        ],
+        [
+          "chipfweketo, thime",
+          "Chokri Naga",
+          "Sino-Tibetan",
+          "chipfweketo, thime",
+          94.2887,
+          25.5636,
+          "other"
+        ],
+        [
+          "sungshi",
+          "Ao Naga",
+          "Sino-Tibetan",
+          "sungshi",
+          94.3824,
+          26.3241,
+          "other"
+        ],
+        [
+          "\u0989\u09b6\u09bf\u0982\u09b6\u09be",
+          "Manipuri",
+          "Sino-Tibetan",
+          "ushingsha",
+          93.3426,
+          24.4409,
+          "other"
+        ],
+        [
+          "\u0d15\u0d31\u0d41\u0d35\u0d2a\u0d4d\u0d2a\u0d1f\u0d4d\u0d1f",
+          "Malayalam",
+          "Dravidian",
+          "ka\u1e5fuvappa\u1e6d\u1e6da",
+          76.5,
+          10.0,
+          "other"
+        ],
+        [
+          "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4",
+          "Sinhala",
+          "Indo-European",
+          "kuru\u0148du",
+          80.5,
+          7.0,
+          "other"
+        ],
+        [
+          "kulit kayu manis",
+          "Malay",
+          "Austronesian",
+          "kulit kayu manis",
+          102.0,
+          3.0,
+          "other"
+        ],
+        [
+          "\u0aa4\u0a9c",
+          "Gujarati",
+          "Indo-European",
+          "taj",
+          72.0,
+          23.0,
+          "other"
+        ],
+        [
+          "losani, akusa",
+          "Sumi Naga",
+          "Sino-Tibetan",
+          "losani, akusa",
+          94.4235,
+          25.9996,
+          "other"
+        ],
+        [
+          "kayu manis",
+          "Brunei Malay",
+          "Austronesian",
+          "kayu manis",
+          114.72,
+          4.53,
+          "other"
+        ],
+        [
+          "eso igi gbigb\u1eb9 oloorun",
+          "Yoruba",
+          "Atlantic-Congo",
+          "eso igi gbigb\u1eb9 oloorun",
+          3.67225,
+          7.15345,
+          "other"
+        ],
+        [
+          "\u0ead\u0ebb\u0e9a\u0ec0\u0e8a\u0e8d",
+          "Lao",
+          "Tai-Kadai",
+          "obsey",
+          103.0,
+          18.0,
+          "other"
+        ],
+        [
+          "xsangsuru",
+          "Lotha Naga",
+          "Sino-Tibetan",
+          "xsangsuru",
+          94.04355,
+          26.01396,
+          "other"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>term=%{customdata[0]}<br>language=%{customdata[1]}<br>family=%{customdata[2]}<extra></extra>",
+      "hovertext": [
+        "anoatre dua",
+        "\u00f2p-ch\u0259\u0259i",
+        "kayu manis",
+        "foni thoshi",
+        "obchheuy",
+        "chekke",
+        "kayumanis",
+        "pongmo",
+        "shing tsha",
+        "sackrampui:",
+        "achansa",
+        "ilava\u1e45kappa\u1e6d\u1e6dai, karuv\u0101ppa\u1e6d\u1e6dai/ka\u1e5fuv\u0101ppa\u1e6d\u1e6dai",
+        "fah\u00e9j",
+        "pharongkor",
+        "shants",
+        "scor\u021bi\u0219oar\u0103",
+        "thakthing",
+        "chipfweketo, thime",
+        "sungshi",
+        "ushingsha",
+        "ka\u1e5fuvappa\u1e6d\u1e6da",
+        "kuru\u0148du",
+        "kulit kayu manis",
+        "taj",
+        "losani, akusa",
+        "kayu manis",
+        "eso igi gbigb\u1eb9 oloorun",
+        "obsey",
+        "xsangsuru"
+      ],
+      "lat": [
+        6.35,
+        16.0,
+        0.0,
+        4.16666666667,
+        12.5,
+        12.75,
+        -7.0,
+        26.6823,
+        28.3681,
+        21.0,
+        26.4492,
+        11.0,
+        47.0,
+        25.156667,
+        48.32,
+        46.0,
+        23.1666666667,
+        25.5636,
+        26.3241,
+        24.4409,
+        10.0,
+        7.0,
+        3.0,
+        23.0,
+        25.9996,
+        4.53,
+        7.15345,
+        18.0,
+        26.01396
+      ],
+      "legendgroup": "other",
+      "lon": [
+        -1.33,
+        101.0,
+        106.0,
+        73.5,
+        105.0,
+        75.3333333333,
+        111.0,
+        95.0598,
+        90.1872,
+        96.0,
+        94.5683,
+        78.5,
+        20.0,
+        94.204722,
+        106.29,
+        25.0,
+        92.8333333333,
+        94.2887,
+        94.3824,
+        93.3426,
+        76.5,
+        80.5,
+        102.0,
+        72.0,
+        94.4235,
+        114.72,
+        3.67225,
+        103.0,
+        94.04355
+      ],
+      "marker": {
+        "color": "#808080",
+        "opacity": 0.8,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "size": 12
+      },
+      "mode": "markers",
+      "name": "other",
+      "showlegend": true,
+      "text": [
+        "anoatre dua",
+        "\u00f2p-ch\u0259\u0259i",
+        "kayu manis",
+        "foni thoshi",
+        "obchheuy",
+        "chekke",
+        "kayumanis",
+        "pongmo",
+        "shing tsha",
+        "sackrampui:",
+        "achansa",
+        "ilava\u1e45kappa\u1e6d\u1e6dai, karuv\u0101ppa\u1e6d\u1e6dai/ka\u1e5fuv\u0101ppa\u1e6d\u1e6dai",
+        "fah\u00e9j",
+        "pharongkor",
+        "shants",
+        "scor\u021bi\u0219oar\u0103",
+        "thakthing",
+        "chipfweketo, thime",
+        "sungshi",
+        "ushingsha",
+        "ka\u1e5fuvappa\u1e6d\u1e6da",
+        "kuru\u0148du",
+        "kulit kayu manis",
+        "taj",
+        "losani, akusa",
+        "kayu manis",
+        "eso igi gbigb\u1eb9 oloorun",
+        "obsey",
+        "xsangsuru"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 12
+      },
+      "textposition": "middle right"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "annotations": [
+          {
+            "font": {
+              "color": "lightgray",
+              "family": "font_family",
+              "size": 8
+            },
+            "name": "copyright",
+            "opacity": 0.9,
+            "showarrow": false,
+            "text": "\u00a9 G\u00e1bor Parti, 2022",
+            "x": 0.5,
+            "xref": "paper",
+            "y": 0,
+            "yref": "paper"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "domain": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "center": {},
+      "projection": {
+        "rotation": {
+          "lat": 15,
+          "lon": 60,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "lonaxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "lataxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "resolution": 110,
+      "scope": "world",
+      "bgcolor": "rgba(255,255,255,0)",
+      "showcoastlines": true,
+      "coastlinewidth": 1,
+      "coastlinecolor": "gainsboro",
+      "showcountries": false,
+      "countrywidth": 1,
+      "countrycolor": "gainsboro",
+      "showframe": true,
+      "framewidth": 1,
+      "framecolor": "gainsboro",
+      "showlakes": true,
+      "lakecolor": "white",
+      "showland": true,
+      "landcolor": "gainsboro",
+      "showocean": true,
+      "oceancolor": "white",
+      "showrivers": true,
+      "riverwidth": 1,
+      "rivercolor": "white",
+      "showsubunits": false,
+      "subunitwidth": 1,
+      "subunitcolor": "gainsboro"
+    },
+    "legend": {
+      "title": {
+        "text": "group",
+        "font": {
+          "color": "black",
+          "size": 16,
+          "family": "Serif"
+        }
+      },
+      "tracegroupgap": 0,
+      "font": {
+        "color": "black",
+        "size": 14,
+        "family": "Serif"
+      },
+      "x": 0,
+      "y": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "traceorder": "normal",
+      "orientation": "v"
+    },
+    "margin": {
+      "t": 0,
+      "r": 0,
+      "l": 0,
+      "b": 0
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 20,
+        "family": "Serif"
+      },
+      "x": 0.5,
+      "y": 0.99,
+      "xanchor": "center",
+      "yanchor": "top",
+      "text": "Distribution of words for cinnamon in a few languages"
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}
