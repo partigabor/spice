@@ -36,6 +36,13 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 |       color      |    light yellow when fresh, beige when powdered   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/798372-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *ginger*, ca. 925 < reinforced by Old French *gingivere, gingibre* 'ginger' < Medieval Latin *gingiber* 'ginger' < Latin *zingiber* 'ginger' < Ancient Greek *ziggiberis* 'ginger' < Pali *siṅgivera* 'ginger'; cf. cognates Sanskrit शृङ्गवेर < Dravidian * * *cinki-wēr* 'ginger', South dravidian nominal compound from the etyma of Tamil and Malayalam *iñci* (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian *wēr*); the base of * *cinki* is a loanword < unknown * ** 'ginger', unidentified Southeast Asian language; cf. cognates Khasi *sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'[^1] 
+ [^1]: @oed [@ross_ginger_1952]; @krishnamurti_dravidian_2003 [5];
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -65,12 +72,6 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 |   薑  |  jiāng  |   ginger   | Kleeman, 2010 |
 |  幹薑  | gānjiāng| dry-ginger |Defrancis, 2003|
 |  鮮薑  |xiānjiāng|fresh-ginger|Defrancis, 2003|
-
-
-{{< hint etym >}}
-English *ginger*, ca. 925 < reinforced by Old French *gingivere, gingibre* 'ginger' < Medieval Latin *gingiber* 'ginger' < Latin *zingiber* 'ginger' < Ancient Greek *ziggiberis* 'ginger' < Pali *siṅgivera* 'ginger'; cf. cognates Sanskrit शृङ्गवेर < Dravidian * * *cinki-wēr* 'ginger', South dravidian nominal compound from the etyma of Tamil and Malayalam *iñci* (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian *wēr*); the base of * *cinki* is a loanword < unknown * ** 'ginger', unidentified Southeast Asian language; cf. cognates Khasi *sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'[^1] 
- [^1]: @oed [@ross_ginger_1952]; @krishnamurti_dravidian_2003 [5];
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_ginger.json" height="300px" >}}

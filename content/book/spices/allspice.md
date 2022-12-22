@@ -36,6 +36,13 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* 
 |       color      |                     dark brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/196799-2)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *allspice*, from *all* + *spice*; after the flavour profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper, 1621[^1] 
+ [^1]: @oed [s.v. allspice]
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -73,11 +80,6 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* 
 |  全香子 |  quánxiāngzǐ  |     all-spice-seed     |Spices Journey, 2022|
 | 牙買加胡椒|yámǎijiā hújiāo|Jamaica-barbarian-pepper|        MDBG        |
 |  眾香子 |  zhòngxiāngzǐ |     many-spice-seed    |        MDBG        |
-
-{{< hint etym >}}
-English *allspice*, from *all* + *spice*; after the flavour profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper, 1621[^1] 
- [^1]: @oed [s.v. allspice]
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_allspice.json" height="300px" >}}

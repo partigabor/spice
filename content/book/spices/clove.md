@@ -36,6 +36,13 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |       color      |                rich, reddish brown                |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/601421-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *clove*, ?ca. 1225 < Anglo-Norman *clow*, c.1200 < Old French *clou*, XII < Latin *clāvus* 'nail'[^1] 
+ [^1]: ;
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -59,12 +66,6 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |------|-----------|--------------------|---------------|
 |  丁香  | dīngxiāng |     nail-spice     | Kleeman, 2010 |
 |  雞舌香 |jīshéxiāng |chicken-tongue-spice|Defrancis, 2003|
-
-
-{{< hint etym >}}
-English *clove*, ?ca. 1225 < Anglo-Norman *clow*, c.1200 < Old French *clou*, XII < Latin *clāvus* 'nail'[^1] 
- [^1]: ;
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_clove.json" height="300px" >}}

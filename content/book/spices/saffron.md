@@ -36,6 +36,13 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |       color      |              deep red; dyes in orange             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/436688-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *saffron*, ca. 1200; cf. Middle English *saf(f)rǒun* < French *safran* 'id.', c. 1150; cf. Middle Low German *safferân*, Middle Dutch *saffraen* (Dutch *saffraan*), Middle High German *saffrân* (modern German *safran*) < Medieval Latin *saffrānum* 'id.' < Arabic زعفران *zaʿfarān* 'id.', (not connected with *ṣafrā'* feminine of *aṣfar* 'yellow'); cf. Turkish, Persian, and Hindi; Jewish Aramaic *zaʿperānā*; Spanish *azafran*, Portuguese *açafrão*; the word without this prefix gives rise to Italian *zafferano, zaffrone*, Provençal *safran, safrá*, Catalan *safrá*, French *safran*, medieval Latin *safranum*, medieval Greek ζαϕρᾶς *zaforás*, modern Greek σαϕράνι *safráni*, Russian *šafran*. [^1] 
+ [^1]: @oed [s.v. saffron]; @med [saf(f)rǒun]; @tlfi [s.v. safran]; @wehr_dictionary_1976
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -65,12 +72,6 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |  撒法郎 |  sǎfǎláng |                  |  Laufer, 1919 |
 |  咱夫藍 |  záfūlán  |                  |  Laufer, 1919 |
 |  鬱金香 | yùjīnxiāng| yü-gold-aromatic | Schafer, 1985 |
-
-
-{{< hint etym >}}
-English *saffron*, ca. 1200; cf. Middle English *saf(f)rǒun* < French *safran* 'id.', c. 1150; cf. Middle Low German *safferân*, Middle Dutch *saffraen* (Dutch *saffraan*), Middle High German *saffrân* (modern German *safran*) < Medieval Latin *saffrānum* 'id.' < Arabic زعفران *zaʿfarān* 'id.', (not connected with *ṣafrā'* feminine of *aṣfar* 'yellow'); cf. Turkish, Persian, and Hindi; Jewish Aramaic *zaʿperānā*; Spanish *azafran*, Portuguese *açafrão*; the word without this prefix gives rise to Italian *zafferano, zaffrone*, Provençal *safran, safrá*, Catalan *safrá*, French *safran*, medieval Latin *safranum*, medieval Greek ζαϕρᾶς *zaforás*, modern Greek σαϕράνι *safráni*, Russian *šafran*. [^1] 
- [^1]: @oed [s.v. saffron]; @med [saf(f)rǒun]; @tlfi [s.v. safran]; @wehr_dictionary_1976
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_saffron.json" height="300px" >}}

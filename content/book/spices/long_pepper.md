@@ -36,6 +36,13 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 |       color      |   dreen to red when ripe, dark brown when dried   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/682031-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *long pepper* 'long pepper', eOE; cf. cognates Anglo-Norman as poivre lonc (13th cent.; Middle French, French poivre long) and also Middle Dutch lanc peper (Dutch lange peper), Middle Low German lanc pēper, lancpēper, Old High German langpfeffar (Middle High German langer pheffer, German langer Pfeffer), Old Swedish langa pipar (Swedish långpeppar) < Latin *piper longus* 'long pepper' [pepper-long ][^1] 
+ [^1]: @oed [long pepper]
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -64,12 +71,6 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 |  蓽撥  |bìbō|       |    Hu, 2005   |
 |  蓽茇  |bìbá|       |Defrancis, 2003|
 |  畢勃  |bìbó|       |               |
-
-
-{{< hint etym >}}
-English *long pepper* 'long pepper', eOE; cf. cognates Anglo-Norman as poivre lonc (13th cent.; Middle French, French poivre long) and also Middle Dutch lanc peper (Dutch lange peper), Middle Low German lanc pēper, lancpēper, Old High German langpfeffar (Middle High German langer pheffer, German langer Pfeffer), Old Swedish langa pipar (Swedish långpeppar) < Latin *piper longus* 'long pepper' [pepper-long ][^1] 
- [^1]: @oed [long pepper]
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_long_pepper.json" height="300px" >}}

@@ -36,6 +36,13 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 |       color      |             light green to light brown             |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/842680-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *fennel*, a. 700 < Old English *fenol*, a. 700 < Latin *faeniculum*, via Vulgar Latin *fēnoclum, fēnuclum* substituted for classical Latin *faeniculum*, diminutive of *faenum* hay; cf. Old French fenoil (modern French fenouil), Provençal fenolh, Italian finocchio, Spanish hinojo.[^1] 
+ [^1]: @oed [s.v. fennel];
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -68,12 +75,6 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 |  蘹香  |  huáixiāng | huai-spice |             |
 |  甜茴香 |tiánhuíxiāng|sweet-fennel|             |
 |  小茴香 |xiǎohuíxiāng| small-anise|             |
-
-
-{{< hint etym >}}
-English *fennel*, a. 700 < Old English *fenol*, a. 700 < Latin *faeniculum*, via Vulgar Latin *fēnoclum, fēnuclum* substituted for classical Latin *faeniculum*, diminutive of *faenum* hay; cf. Old French fenoil (modern French fenouil), Provençal fenolh, Italian finocchio, Spanish hinojo.[^1] 
- [^1]: @oed [s.v. fennel];
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_fennel.json" height="300px" >}}

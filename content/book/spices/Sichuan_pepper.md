@@ -36,6 +36,13 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 |       color      |                     red; green                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *Sichuan pepper*[^1] 
+ [^1]:
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -84,12 +91,6 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 |  崖椒  |    yájiāo   |     cliff-pepper     |    Hu, 2005   |
 |  竹葉椒 |  zhúyèjiāo  |  bamboo-leaf-pepper  |               |
 |   椒  |     jiāo    |        pepper        |Defrancis, 2003|
-
-
-{{< hint etym >}}
-English *Sichuan pepper*[^1] 
- [^1]:
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_Sichuan_pepper.json" height="300px" >}}

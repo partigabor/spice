@@ -36,6 +36,13 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/840882-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *cumin*, Middle English cumin, comin was either from French (like Middle Dutch comijn, Dutch komijn), or altered from Old English cymen after French. (Old English *cymen*); cf. cognates Old High German chumin, cumin, also chumil (Middle High German kümel, German kümmel), Swedish kummin, Danish kummen. The word has also come down in the Romanic languages, Italian cumino, comino, Spanish comino, Portuguese cominho, Old French cumin, comin. < Latin *cumīnum* 'id.' < Ancient Greek κύμῑνον *kúmīnon* 'id.', The Greek κύμῑνον is supposed to have been a foreign word, cognate in origin with the Semitic names < Semitic * * *kmn* 'id.'; cf. cognates Arabic *kammūn*; Hebrew *kammōn*; Akkadian *kamūnu*[^1] 
+ [^1]: @oed [s.v. cumin];
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -69,12 +76,6 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |  馬芹子 |    mǎqínzi   |  horse-celery-seed |             |
 |  枯茗  |    kūmíng    |    withered-tea    |     MDBG    |
 |  蒔蘿  |    shíluó    |     dill-turnip    |Kleeman, 2010|
-
-
-{{< hint etym >}}
-English *cumin*, Middle English cumin, comin was either from French (like Middle Dutch comijn, Dutch komijn), or altered from Old English cymen after French. (Old English *cymen*); cf. cognates Old High German chumin, cumin, also chumil (Middle High German kümel, German kümmel), Swedish kummin, Danish kummen. The word has also come down in the Romanic languages, Italian cumino, comino, Spanish comino, Portuguese cominho, Old French cumin, comin. < Latin *cumīnum* 'id.' < Ancient Greek κύμῑνον *kúmīnon* 'id.', The Greek κύμῑνον is supposed to have been a foreign word, cognate in origin with the Semitic names < Semitic * * *kmn* 'id.'; cf. cognates Arabic *kammūn*; Hebrew *kammōn*; Akkadian *kamūnu*[^1] 
- [^1]: @oed [s.v. cumin];
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}

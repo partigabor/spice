@@ -36,6 +36,13 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 |       color      |                   red and green in many shades                  |
 |botanical database|       [POWO](https://powo.science.kew.org/taxon/316944-2)       |
 
+## Etymologies
+
+{{< hint etym >}}
+English *chilli* 'chili pepper', 1662 < Spanish *chile* 'chili pepper', 1571 < Classical Nahuatl *chīlli* 'chili plant'[^1] 
+ [^1]: @oed [s.v. chilli]; @dle [s.v. chile]; @ond [s.v. chilli]
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -98,12 +105,6 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 |  辣子  |      làzi     |        spiciness       |Defrancis, 2003|
 |  番椒  |    fānjiāo    |     foreign-pepper     |   Dott, 2020  |
 |  柿子椒 |   shìzijiāo   |   persimmon-ZI-pepper  |      MDBG     |
-
-
-{{< hint etym >}}
-English *chilli* 'chili pepper', 1662 < Spanish *chile* 'chili pepper', 1571 < Classical Nahuatl *chīlli* 'chili plant'[^1] 
- [^1]: @oed [s.v. chilli]; @dle [s.v. chile]; @ond [s.v. chilli]
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_chile.json" height="300px" >}}

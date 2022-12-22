@@ -36,6 +36,13 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 |       color      |             from pale yellow to brown             |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *asafoetida*, a. 1398 < Medieval Latin *asafoetida* [stinking asa ] < from Persian *āzā* 'mastic', in a Lanized form, *asa* + Latin *foetid* 'ill-smelling, stinking', (feminine of *fœtidus*)[^1] 
+ [^1]: @oed [s.v. asafoetida]; @laufer_sino-iranica_1919 [353]; @steingass_comprehensive_1892 [42]
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -69,12 +76,6 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 |  黑黎提提  |hēilítí​tí|       |Rossabi, 2013|
 |   形虞   |  xíngyú  |       | Leung, 2019 |
 |興蕖/興渠/興瞿|  xīngqú  |       | Leung, 2019 |
-
-
-{{< hint etym >}}
-English *asafoetida*, a. 1398 < Medieval Latin *asafoetida* [stinking asa ] < from Persian *āzā* 'mastic', in a Lanized form, *asa* + Latin *foetid* 'ill-smelling, stinking', (feminine of *fœtidus*)[^1] 
- [^1]: @oed [s.v. asafoetida]; @laufer_sino-iranica_1919 [353]; @steingass_comprehensive_1892 [42]
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_asafoetida.json" height="300px" >}}

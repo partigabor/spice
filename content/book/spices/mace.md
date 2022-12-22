@@ -36,6 +36,13 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 |       color      | crimson red aril whn fresh, pale yellow when dried|
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *mace* 'aril surrounding the nutmeg', taken as a plural in Middle English (*macis*) and a new singular mace was formed from it, 1234 < Old French *macis* 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin *macis* 'id.'; cf. cognates Hungarian *mácisdió* < Latin *macir* < Ancient Greek μάκιρ *mákir* < unknown * **[^1] 
+ [^1]: ;
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -58,12 +65,6 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 |script|     term     |  literal  |    source   |
 |------|--------------|-----------|-------------|
 | 肉豆蔻乾皮|ròudòukòugānpí|nutmeg-skin|Kleeman, 2010|
-
-
-{{< hint etym >}}
-English *mace* 'aril surrounding the nutmeg', taken as a plural in Middle English (*macis*) and a new singular mace was formed from it, 1234 < Old French *macis* 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin *macis* 'id.'; cf. cognates Hungarian *mácisdió* < Latin *macir* < Ancient Greek μάκιρ *mákir* < unknown * **[^1] 
- [^1]: ;
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_mace.json" height="300px" >}}

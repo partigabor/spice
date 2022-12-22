@@ -36,6 +36,13 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 |       color      |         pale brown nut, dark when powdered        |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/586076-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *nutmeg* < Anglo-Norman * *nois mugue* < Old French *nois mug(u)ede; nois musguete* < Romance * * *nuce muscāta* < Latin *nux muscada* < Pahlavi * *mušk* < Sanskrit *muṣka*[^1] 
+ [^1]: ;
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -60,12 +67,6 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 |------|--------------|-------------------------------|---------------|
 |  肉豆蔻 |   ròudòukòu  |      flesh-bean-cardamom      |Defrancis, 2003|
 | 肉荳蔻籽粉|ròudòukòuzǐfěn|flesh-bean-cardamom-seed-powder| Kleeman, 2010 |
-
-
-{{< hint etym >}}
-English *nutmeg* < Anglo-Norman * *nois mugue* < Old French *nois mug(u)ede; nois musguete* < Romance * * *nuce muscāta* < Latin *nux muscada* < Pahlavi * *mušk* < Sanskrit *muṣka*[^1] 
- [^1]: ;
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_nutmeg.json" height="300px" >}}

@@ -36,6 +36,13 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 |       color      |                     light yellow                    |
 |botanical database| [POWO](https://powo.science.kew.org/taxon/840760-1) |
 
+## Etymologies
+
+{{< hint etym >}}
+English *coriander* < Old French *coriandre* < Latin *coriandrum* < Ancient Greek *korīannon;-dron*[^1] 
+ [^1]: ;
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -66,12 +73,6 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 |  香茜  |xiāngqiàn|  fragrant-madder  |   Wikipedia   |
 |  香菜  | xiāngcài| fragrant-vegetable|      MDBG     |
 |  胡荽  |  húsuī  |barbarian-coriander|Defrancis, 2003|
-
-
-{{< hint etym >}}
-English *coriander* < Old French *coriandre* < Latin *coriandrum* < Ancient Greek *korīannon;-dron*[^1] 
- [^1]: ;
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_coriander.json" height="300px" >}}

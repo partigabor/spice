@@ -41,19 +41,3 @@ bookToc: false
         24 Vanilla planifolia           vanilla         香草            xiāngcǎo             فانيليا fānīliyā
 
 The set of 24 spices included in this thesis, with scientific names of the source plant, names in English, Chinese, Arabic, and their transliterations.
-
-['::: etymology\n',
- '[]{#ety:saffron label="ety:saffron"} English *saffron*, ca. 1200; cf.\n',
- "Middle English saf(f)rǒun \\< French *safran* 'id.', c. 1150; cf. Middle\n",
- 'Low German safferân, Middle Dutch saffraen (Dutch saffraan), Middle High\n',
- 'German saffrân (modern German safran) \\< Medieval Latin *saffrānum*\n',
- "'id.' \\< Arabic زعفران *zaʿfarān* 'id.', (not connected with *ṣafrā'*\n",
- "feminine of *aṣfar* 'yellow'); cf. Turkish, Persian, and Hindi; Jewish\n",
- 'Aramaic zaʿperānā; Spanish azafran, Portuguese açafrão; the word without\n',
- 'this prefix gives rise to Italian zafferano, zaffrone, Provençal safran,\n',
- 'safrá, Catalan safrá, French safran, medieval Latin safranum, medieval\n',
- 'Greek ζαϕρᾶς, modern Greek σαϕράνι, Russian šafran. [^1]\n',
- ':::\n',
- '\n',
- '[^1]: @oed [s.v. saffron]; @med [saf(f)rǒun]; @tlfi [s.v. safran];\n',
- '    @wehr_dictionary_1976\n']

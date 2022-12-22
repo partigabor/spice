@@ -36,6 +36,13 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 |       color      |                             orange brown                             |
 |botanical database|          [POWO](https://powo.science.kew.org/taxon/554553-1)         |
 
+## Etymologies
+
+{{< hint etym >}}
+English *star anise* 'star anise'[^1] 
+ [^1]:
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -68,12 +75,6 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 |  舶茴香 |  bóhuíxiāng  |    ship-hui-spice    |               |
 |  大茴香 |  dà​huíxiāng |     big-hui-spice    |      MDBG     |
 |  大料  |    dàliào    |    big-ingredient    |Defrancis, 2003|
-
-
-{{< hint etym >}}
-English *star anise* 'star anise'[^1] 
- [^1]:
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_star_anise.json" height="300px" >}}

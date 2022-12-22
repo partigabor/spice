@@ -36,6 +36,13 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 |       color      |                    yellow seeds                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *fenugreek*, in old English from Latin, in Middle English and later from French < French *fenugrec* < Latin *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans[^1] 
+ [^1]:
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -58,12 +65,6 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 |script| term |      literal     |    source   |
 |------|------|------------------|-------------|
 |  胡蘆巴 |húlúbā|barbarian-reeds-ba|Kleeman, 2010|
-
-
-{{< hint etym >}}
-English *fenugreek*, in old English from Latin, in Middle English and later from French < French *fenugrec* < Latin *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans[^1] 
- [^1]:
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_fenugreek.json" height="300px" >}}

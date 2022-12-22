@@ -36,6 +36,13 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 |       color      |                   reddish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/463288-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *cassia*, ca. 1000 < Latin *casia* 'id.', c. < Ancient Greek κασία *kasía* 'id.', c. < Ancient Hebrew קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)[^1] 
+ [^1]: @oed [s.v. cassia]; @rosol_early_2018; @beekes_etymological_2010 [653]; @klein_comprehensive_1987 [589]
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -79,12 +86,6 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 |   桂  |  guì  |     cassia    |Defrancis, 2003|
 |  桂枝  | guìzhī|cassia-branches|Defrancis, 2003|
 |  桂子  | guìzǐ |  cassia-seeds |Defrancis, 2003|
-
-
-{{< hint etym >}}
-English *cassia*, ca. 1000 < Latin *casia* 'id.', c. < Ancient Greek κασία *kasía* 'id.', c. < Ancient Hebrew קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)[^1] 
- [^1]: @oed [s.v. cassia]; @rosol_early_2018; @beekes_etymological_2010 [653]; @klein_comprehensive_1987 [589]
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cassia.json" height="300px" >}}

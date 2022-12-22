@@ -36,6 +36,13 @@ Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^
 |       color      |                    light brown                    |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/846658-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *anise*, ca. 1325 < French *anis* 'anise', 1236 < Latin *anīsum* 'anise', (dill is *anēthum*) < Ancient Greek ἄνισον *ánison* 'anise; dill', and other Greek dialectal variants, e.g.: *ánēthon*; included both plants, only later distinguished (probaby of substrate origin) < Egyptian (Ancient) *jnst* 'a medicinal, edible plant (probably anise)'[^1] 
+ [^1]: @oed [anise; @ahd anise]; @tlfi [s.v. anis]; @lewis_latin_1879; @liddell_greek-english_1940; @erman_worterbuch_1926 [99; @hemmerdinger_noms_1968 240]
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -66,12 +73,6 @@ Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^
 | 歐洲大茴香|ōuzhōu dàhuíxiāng| European-big-hui-spice|  Wikipedia  |
 | 西洋茴香 | xīyáng huíxiāng |western-ocean-hui-spice|  Wikipedia  |
 |  洋茴香 |  yáng huíxiāng  |    ocean-hui-spice    |     CEC     |
-
-
-{{< hint etym >}}
-English *anise*, ca. 1325 < French *anis* 'anise', 1236 < Latin *anīsum* 'anise', (dill is *anēthum*) < Ancient Greek ἄνισον *ánison* 'anise; dill', and other Greek dialectal variants, e.g.: *ánēthon*; included both plants, only later distinguished (probaby of substrate origin) < Egyptian (Ancient) *jnst* 'a medicinal, edible plant (probably anise)'[^1] 
- [^1]: @oed [anise; @ahd anise]; @tlfi [s.v. anis]; @lewis_latin_1879; @liddell_greek-english_1940; @erman_worterbuch_1926 [99; @hemmerdinger_noms_1968 240]
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_anise.json" height="300px" >}}

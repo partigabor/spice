@@ -36,6 +36,13 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 |       color      |                   greyish brown                   |
 |botanical database|[POWO](https://powo.science.kew.org/taxon/837530-1)|
 
+## Etymologies
+
+{{< hint etym >}}
+English *dill*, ulterior derivation unknown, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* < unknown * **[^1] 
+ [^1]: @oed [s.v. dill]
+{{< /hint >}}
+
 ***
 
 ## Names
@@ -60,12 +67,6 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 |------|----------|------------|------|
 |  蒔蘿  |  shíluó  | dill-turnip|      |
 |  土茴香 |tǔhuíxiāng|earth-fennel|      |
-
-
-{{< hint etym >}}
-English *dill*, ulterior derivation unknown, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* < unknown * **[^1] 
- [^1]: @oed [s.v. dill]
-{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_dill.json" height="300px" >}}
