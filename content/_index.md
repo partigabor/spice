@@ -42,7 +42,7 @@ B
 
 ***
 
-{{< image src="images/spices.png" alt="Illustration." >}}
+{{< image src="images/spices-300.png" alt="Illustration." >}}
 
 ## How to Cite
 
