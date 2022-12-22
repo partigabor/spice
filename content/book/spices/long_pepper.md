@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Long Pepper
 
-{{< image src="images/kohler/long pepper.png" alt="Illustration of *Piper longum* L. from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Piper longum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/long pepper.png)
 
 Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
 
@@ -41,17 +41,17 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 ## Etymologies
 
 {{< hint etym >}}
-English *long pepper* 'long pepper', eOE; cf. cognates Anglo-Norman as poivre lonc (13th cent.; Middle French, French poivre long) and also Middle Dutch lanc peper (Dutch lange peper), Middle Low German lanc pēper, lancpēper, Old High German langpfeffar (Middle High German langer pheffer, German langer Pfeffer), Old Swedish langa pipar (Swedish långpeppar) < Latin *piper longus* 'long pepper' [pepper-long ][^1]
+English *long pepper* 'long pepper', eOE; cf. cognates Anglo-Norman as poivre lonc (13th cent.; Middle French, French poivre long) and also Middle Dutch lanc peper (Dutch lange peper), Middle Low German lanc pēper, lancpēper, Old High German langpfeffar (Middle High German langer pheffer, German langer Pfeffer), Old Swedish langa pipar (Swedish långpeppar) < Latin *piper longus* 'long pepper' [pepper-long ]
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic دارفلفل *dārfilfil* 'long pepper', compound of two Persian words < Persian دار پلپل *dār pilpil* 'long pepper', formed within Persian from *dār* 'wood' + *pilpil* 'pepper' (both words are Sanskrit loanwords) < ultimately from Sanskrit *dāru + pippali* 'long pepper'[^1]
+Arabic دارفلفل *dārfilfil* 'long pepper', compound of two Persian words < Persian دار پلپل *dār pilpil* 'long pepper', formed within Persian from *dār* 'wood' + *pilpil* 'pepper' (both words are Sanskrit loanwords) < ultimately from Sanskrit *dāru + pippali* 'long pepper'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/piɪt̚ buɑt̚/ 'long pepper', a phonetic loan < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'[^1]
+/piɪt̚ buɑt̚/ 'long pepper', a phonetic loan < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'
 
 {{< /hint >}}
 

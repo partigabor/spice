@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Cardamom
 
-{{< image src="images/kohler/cardamom.png" alt="Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Elettaria cardamomum* (L.) Maton from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/cardamom.png)
 
 Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its fruit (seed pods, capsules), primarily for desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_medicinal_2002]
 
@@ -41,27 +41,27 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingi
 ## Etymologies
 
 {{< hint etym >}}
-English *cardamom* 'cardamom', (via post-classical Latin *cardimomum*, a. 1398), ?ca. 1425 < later also from Old French *cardemome* 'cardamom', ca. 1170; cf. modern French *cardamome* < Latin *cardamōmum* 'cardamom', c. < Hellenistic Greek καρδάμωμον *kardámōmon* 'cardamom', haplological *kárdam-* 'cress' + *ámōmon* 'an Indian spice plant', c. < Ancient Greek κάρδαμον *kárdamon* 'garden cress ', prehaps a loanword (many plant names with *-amon* are clear loanwords; the suffIx *-amon* is known from Pre-Greek), c. ; cf. cognates classical Latin *cardamum* < unknown * **[^1]
+English *cardamom* 'cardamom', (via post-classical Latin *cardimomum*, a. 1398), ?ca. 1425 < later also from Old French *cardemome* 'cardamom', ca. 1170; cf. modern French *cardamome* < Latin *cardamōmum* 'cardamom', c. < Hellenistic Greek καρδάμωμον *kardámōmon* 'cardamom', haplological *kárdam-* 'cress' + *ámōmon* 'an Indian spice plant', c. < Ancient Greek κάρδαμον *kárdamon* 'garden cress ', prehaps a loanword (many plant names with *-amon* are clear loanwords; the suffIx *-amon* is known from Pre-Greek), c. ; cf. cognates classical Latin *cardamum* < unknown * **
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *amomum* 'any of several spices of genus Amomum, family Zingiberaceae, including cardamom.', An odoriferous plant. The Amomum of the ancients not being certainly identified, the word was used with uncertain denotation by earlier writers;, a. 1398 < Latin *amomum* 'amomum and a balm containing this spice' < Ancient Greek ἄμωμον *ámōmon* 'an Indian spice-plant, black cardamom (Amomum subulatum)', an Oriental loanword, cf. κιννάμωμον < Semitic * 'id.'; cf. cognates Classical Syriac *ḥəmāmā* → Arabic *ḥamāmā*; Akkadian *ḫamīmu*[^1]
+English *amomum* 'any of several spices of genus Amomum, family Zingiberaceae, including cardamom.', An odoriferous plant. The Amomum of the ancients not being certainly identified, the word was used with uncertain denotation by earlier writers;, a. 1398 < Latin *amomum* 'amomum and a balm containing this spice' < Ancient Greek ἄμωμον *ámōmon* 'an Indian spice-plant, black cardamom (Amomum subulatum)', an Oriental loanword, cf. κιννάμωμον < Semitic * 'id.'; cf. cognates Classical Syriac *ḥəmāmā* → Arabic *ḥamāmā*; Akkadian *ḫamīmu*
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic هال *hāl* 'cardamom' < Persian هیل *hil* 'the lesser cardamoms' < Sanskrit एला *elā* 'cardamom' < Proto-Dravidian * * *ēla* 'cardamom'; cf. Tamil *ēlam*[^1]
+Arabic هال *hāl* 'cardamom' < Persian هیل *hil* 'the lesser cardamoms' < Sanskrit एला *elā* 'cardamom' < Proto-Dravidian * * *ēla* 'cardamom'; cf. Tamil *ēlam*
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic قاقلة *qāqulla* 'cardamom; black cardamom' < Classical Syriac קָקוּלָא/ *qāqullā* 'cardamom' < Akkadian (qa-qu-ul-lu.SAR) *qāqullu* 'cardamom' < Sanskrit तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*[^1]
+Arabic قاقلة *qāqulla* 'cardamom; black cardamom' < Classical Syriac קָקוּלָא/ *qāqullā* 'cardamom' < Akkadian (qa-qu-ul-lu.SAR) *qāqullu* 'cardamom' < Sanskrit तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/tɑ kuət/ 'round cardamom' < Pali *takkola* 'Bdellium, a perfume made from the berry of the kakkola plant' < Sanskrit तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*; Chinese 嘎哥拉 *gágēlā*[^1]
+/tɑ kuət/ 'round cardamom' < Pali *takkola* 'Bdellium, a perfume made from the berry of the kakkola plant' < Sanskrit तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*; Chinese 嘎哥拉 *gágēlā*
 
 {{< /hint >}}
 

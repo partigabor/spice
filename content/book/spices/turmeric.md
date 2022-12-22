@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal', 'ritualistic']
 
 # Turmeric
 
-{{< image src="images/kohler/turmeric.png" alt="Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Curcuma longa* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/turmeric.png)
 
 Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
@@ -41,12 +41,12 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 ## Etymologies
 
 {{< hint etym >}}
-English *turmeric* 'turmeric', obscure origin (by alteration of earlier forms), 1545 < akin to French *terre mérite* 'saffron' [worthy earth ] < and Medieval Latin *terra merita* 'turmeric' [deserved earth ] < Arabic *kurkum* 'turmeric; saffron', maybe a folk-etymological corruption[^1]
+English *turmeric* 'turmeric', obscure origin (by alteration of earlier forms), 1545 < akin to French *terre mérite* 'saffron' [worthy earth ] < and Medieval Latin *terra merita* 'turmeric' [deserved earth ] < Arabic *kurkum* 'turmeric; saffron', maybe a folk-etymological corruption
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic كركم *kurkum* 'turmeric; saffron'; cf. cognates Hebrew *karkom*; Aramaic / *kurkmā*; Akkadian *kurkanū* < Sanskrit कुङ्कुम *kuṅkuma* 'saffron'[^1]
+Arabic كركم *kurkum* 'turmeric; saffron'; cf. cognates Hebrew *karkom*; Aramaic / *kurkmā*; Akkadian *kurkanū* < Sanskrit कुङ्कुम *kuṅkuma* 'saffron'
 
 {{< /hint >}}
 

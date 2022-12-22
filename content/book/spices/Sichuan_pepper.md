@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Sichuan Pepper
 
-{{< image src="images/kohler/Sichuan pepper.png" alt="Illustration of *Zanthoxylum bungeanum* Maxim. from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Zanthoxylum bungeanum* Maxim. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/Sichuan pepper.png)
 
 Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats; colic. Its aroma is described as woodsy, peppery, with a heat index of 3.[^ucla_medicinal_2002]
 
@@ -41,22 +41,22 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 ## Etymologies
 
 {{< hint etym >}}
-English *Sichuan pepper*[^1]
+English *Sichuan pepper*
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *fagara* < Medieval Latin *fagara* 'Sichuan pepper?; cubeb?', translingual word from scientific Latin; coined by European botanists reading Avicenna (cf. da Orta) < Arabic فاغرة *fāghira* < Persian *fākhira*[^1]
+English *fagara* < Medieval Latin *fagara* 'Sichuan pepper?; cubeb?', translingual word from scientific Latin; coined by European botanists reading Avicenna (cf. da Orta) < Arabic فاغرة *fāghira* < Persian *fākhira*
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic فلفل سيتشوان *fulful sītshuwān* 'Sichuan pepper'[^1]
+Arabic فلفل سيتشوان *fulful sītshuwān* 'Sichuan pepper'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 花椒 *huā​jiāo* 'Sichuan pepper' [flower-pepper ][^1]
+Mandarin Chinese 花椒 *huā​jiāo* 'Sichuan pepper' [flower-pepper ]
 
 {{< /hint >}}
 

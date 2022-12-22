@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Chile
 
-{{< image src="images/kohler/chile.png" alt="Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Capsicum annuum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/chile.png)
 
 Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 
@@ -41,22 +41,22 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 ## Etymologies
 
 {{< hint etym >}}
-English *chilli* 'chili pepper', 1662 < Spanish *chile* 'chili pepper', 1571 < Classical Nahuatl *chīlli* 'chili plant'[^1]
+English *chilli* 'chili pepper', 1662 < Spanish *chile* 'chili pepper', 1571 < Classical Nahuatl *chīlli* 'chili plant'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic فلفل حار *fulful ḥārr* 'chili pepper' [hot pepper ][^1]
+Arabic فلفل حار *fulful ḥārr* 'chili pepper' [hot pepper ]
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 辣椒 *làjiāo* 'chili pepper' [pungent-pepper ][^1]
+Mandarin Chinese 辣椒 *làjiāo* 'chili pepper' [pungent-pepper ]
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *paprika* < Hungarian *paprika*, diminutive? < Serbian-Croatian-Bosnian *paprika* 'little pepper', (papar+ika) papar = pepper; -ika = Suffix appended to words to create a feminine noun, usually denoting a plant. < Slavic * *pьpьrь * *pĭpĭrĭ* < Latin *piper* < Ancient Greek πέπερι *péperi* < Pahlavi *?* < Middle Indo-Aryan * *pipparī* < Sanskrit *pippalī*[^1]
+English *paprika* < Hungarian *paprika*, diminutive? < Serbian-Croatian-Bosnian *paprika* 'little pepper', (papar+ika) papar = pepper; -ika = Suffix appended to words to create a feminine noun, usually denoting a plant. < Slavic * *pьpьrь * *pĭpĭrĭ* < Latin *piper* < Ancient Greek πέπερι *péperi* < Pahlavi *?* < Middle Indo-Aryan * *pipparī* < Sanskrit *pippalī*
 
 {{< /hint >}}
 

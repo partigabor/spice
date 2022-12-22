@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Anise
 
-{{< image src="images/kohler/anise.png" alt="Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Pimpinella anisum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/anise.png)
 
 Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia.[^van_wyk_culinary_2014] It is used for its fruit and oil, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
@@ -41,17 +41,17 @@ Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^
 ## Etymologies
 
 {{< hint etym >}}
-English *anise*, ca. 1325 < French *anis* 'anise', 1236 < Latin *anīsum* 'anise', (dill is *anēthum*) < Ancient Greek ἄνισον *ánison* 'anise; dill', and other Greek dialectal variants, e.g.: *ánēthon*; included both plants, only later distinguished (probaby of substrate origin) < Egyptian (Ancient) *jnst* 'a medicinal, edible plant (probably anise)'[^1]
+English *anise*, ca. 1325 < French *anis* 'anise', 1236 < Latin *anīsum* 'anise', (dill is *anēthum*) < Ancient Greek ἄνισον *ánison* 'anise; dill', and other Greek dialectal variants, e.g.: *ánēthon*; included both plants, only later distinguished (probaby of substrate origin) < Egyptian (Ancient) *jnst* 'a medicinal, edible plant (probably anise)'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic أنيسون *anīsūn* 'anise', (later assimilated as *yānsūn*), a. 791 < Ancient Greek ἄνισον *ánison* 'anise; dill', and other Greek dialectal variants, e.g.: *ánēthon*; included both plants, only later distinguished (probaby of substrate origin) < Egyptian (Ancient) *jnst* 'a medicinal, edible plant (probably anise)', ca. 2030-1650 BC[^1]
+Arabic أنيسون *anīsūn* 'anise', (later assimilated as *yānsūn*), a. 791 < Ancient Greek ἄνισον *ánison* 'anise; dill', and other Greek dialectal variants, e.g.: *ánēthon*; included both plants, only later distinguished (probaby of substrate origin) < Egyptian (Ancient) *jnst* 'a medicinal, edible plant (probably anise)', ca. 2030-1650 BC
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 茴芹 *huíqín* 'anise' [hui-celery ], from *hui* 'anise/fennel' + *qin* 'celery' (茴 *huí* could be interpreted as 'Muslim spice', see 茴香 *huíxiāng* 'fennel'), 1841[^1]
+Mandarin Chinese 茴芹 *huíqín* 'anise' [hui-celery ], from *hui* 'anise/fennel' + *qin* 'celery' (茴 *huí* could be interpreted as 'Muslim spice', see 茴香 *huíxiāng* 'fennel'), 1841
 
 {{< /hint >}}
 

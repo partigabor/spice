@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Fennel
 
-{{< image src="images/kohler/fennel.png" alt="Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Foeniculum vulgare* Mill. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/fennel.png)
 
 Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable from the *Apiaceae* family,[^powo] originating in the region(s) of Med.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
@@ -41,17 +41,17 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 ## Etymologies
 
 {{< hint etym >}}
-English *fennel*, a. 700 < Old English *fenol*, a. 700 < Latin *faeniculum*, via Vulgar Latin *fēnoclum, fēnuclum* substituted for classical Latin *faeniculum*, diminutive of *faenum* hay; cf. Old French fenoil (modern French fenouil), Provençal fenolh, Italian finocchio, Spanish hinojo.[^1]
+English *fennel*, a. 700 < Old English *fenol*, a. 700 < Latin *faeniculum*, via Vulgar Latin *fēnoclum, fēnuclum* substituted for classical Latin *faeniculum*, diminutive of *faenum* hay; cf. Old French fenoil (modern French fenouil), Provençal fenolh, Italian finocchio, Spanish hinojo.
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic شمر *shamar* 'fennel' < Aramaic *simra* 'fennel' < Akkadian *šimru* 'fennel'[^1]
+Arabic شمر *shamar* 'fennel' < Aramaic *simra* 'fennel' < Akkadian *šimru* 'fennel'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 茴香 *huíxiāng* 'fennel' [hui-spice ], 茴 *hui* refers to fennel, anise, and related plants; it perhaps could be rendered as 'muslim spice' by way of its construction: 回 'Islam; Hui people' + 艹 'grass, herb' (Hu, 2005); or, phono semantic compund[^1]
+Mandarin Chinese 茴香 *huíxiāng* 'fennel' [hui-spice ], 茴 *hui* refers to fennel, anise, and related plants; it perhaps could be rendered as 'muslim spice' by way of its construction: 回 'Islam; Hui people' + 艹 'grass, herb' (Hu, 2005); or, phono semantic compund
 
 {{< /hint >}}
 

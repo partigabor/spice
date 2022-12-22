@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Clove
 
-{{< image src="images/kohler/clove.png" alt="Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Syzygium aromaticum* (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/clove.png)
 
 Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
@@ -41,17 +41,17 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 ## Etymologies
 
 {{< hint etym >}}
-English *clove*, ?ca. 1225 < Anglo-Norman *clow*, c.1200 < Old French *clou*, XII < Latin *clāvus* 'nail'[^1]
+English *clove*, ?ca. 1225 < Anglo-Norman *clow*, c.1200 < Old French *clou*, XII < Latin *clāvus* 'nail'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic قرنفل *qaranful* 'clove', (also refers to carnation flower) < Dravidian * * **, perhaps from a language of South India, where cloves were initially traded from[^1]
+Arabic قرنفل *qaranful* 'clove', (also refers to carnation flower) < Dravidian * * **, perhaps from a language of South India, where cloves were initially traded from
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 丁香 *dīngxiāng* 'clove' [nail-spice ], using pictogram after the shape of the spice (earlier name is 雞舌香 *jīshéxiāng* [chicken-tongue-spice ] ), 1321[^1]
+Mandarin Chinese 丁香 *dīngxiāng* 'clove' [nail-spice ], using pictogram after the shape of the spice (earlier name is 雞舌香 *jīshéxiāng* [chicken-tongue-spice ] ), 1321
 
 {{< /hint >}}
 

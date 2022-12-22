@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Fenugreek
 
-{{< image src="images/kohler/fenugreek.png" alt="Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Trigonella foenum-graecum* L. from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/fenugreek.png)
 
 Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S Eur; W As.[^van_wyk_culinary_2014] It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 
@@ -41,17 +41,17 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 ## Etymologies
 
 {{< hint etym >}}
-English *fenugreek*, in old English from Latin, in Middle English and later from French < French *fenugrec* < Latin *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans[^1]
+English *fenugreek*, in old English from Latin, in Middle English and later from French < French *fenugrec* < Latin *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*[^1]
+Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 胡蘆巴 *húlúbā* 'fenugreek' < Persian حلبة *ḥulba* 'fenugreek' < Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*[^1]
+Mandarin Chinese 胡蘆巴 *húlúbā* 'fenugreek' < Persian حلبة *ḥulba* 'fenugreek' < Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
 
 {{< /hint >}}
 

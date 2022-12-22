@@ -140,7 +140,7 @@ The only correct way to insert images from static/images, but for this you need 
 
 ![Image](/images/diogenes.jpg)
 
-However, using hugo shortcode, you won't have this problem.
+However, using hugo shortcode, you won't have this problem, but it only works on the main page...
 
 ```
 {{\< image src="images/cardamom.png" alt="Cardamom." \>}}

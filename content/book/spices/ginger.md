@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Ginger
 
-{{< image src="images/kohler/ginger.png" alt="Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen (1887)." >}}
+![Illustration of *Zingiber officinale* Roscoe from Köhler's Medizinal-Pflanzen (1887).](/images/kohler/ginger.png)
 
 Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary).[^van_wyk_culinary_2014] It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
@@ -41,17 +41,17 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 ## Etymologies
 
 {{< hint etym >}}
-English *ginger*, ca. 925 < reinforced by Old French *gingivere, gingibre* 'ginger' < Medieval Latin *gingiber* 'ginger' < Latin *zingiber* 'ginger' < Ancient Greek *ziggiberis* 'ginger' < Pali *siṅgivera* 'ginger'; cf. cognates Sanskrit शृङ्गवेर < Dravidian * * *cinki-wēr* 'ginger', South dravidian nominal compound from the etyma of Tamil and Malayalam *iñci* (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian *wēr*); the base of * *cinki* is a loanword < unknown * ** 'ginger', unidentified Southeast Asian language; cf. cognates Khasi *sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'[^1]
+English *ginger*, ca. 925 < reinforced by Old French *gingivere, gingibre* 'ginger' < Medieval Latin *gingiber* 'ginger' < Latin *zingiber* 'ginger' < Ancient Greek *ziggiberis* 'ginger' < Pali *siṅgivera* 'ginger'; cf. cognates Sanskrit शृङ्गवेर < Dravidian * * *cinki-wēr* 'ginger', South dravidian nominal compound from the etyma of Tamil and Malayalam *iñci* (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian *wēr*); the base of * *cinki* is a loanword < unknown * ** 'ginger', unidentified Southeast Asian language; cf. cognates Khasi *sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic زنجبيل *zanjabīl* 'ginger', 609-632 < Classical Syriac ܙܢܓܒܝܠ *zangabīl* 'ginger' < Pahlavi *singibēr* 'ginger', or via another Middle Iranian language < Sauraseni Prakrit 𑀲𑀺𑀁𑀕𑀺𑀯𑁂𑀭 *siṃgivera* 'ginger' < Sanskrit शृङ्गवेर *śṛṅgavera* 'ginger' < Dravidian * * *cinki-wēr* 'ginger', South dravidian nominal compound from the etyma of Tamil and Malayalam *iñci* (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian *wēr*); the base of * *cinki* is a loanword < unknown * ** 'ginger', unidentified Southeast Asian language; cf. cognates Khasi *sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'[^1]
+Arabic زنجبيل *zanjabīl* 'ginger', 609-632 < Classical Syriac ܙܢܓܒܝܠ *zangabīl* 'ginger' < Pahlavi *singibēr* 'ginger', or via another Middle Iranian language < Sauraseni Prakrit 𑀲𑀺𑀁𑀕𑀺𑀯𑁂𑀭 *siṃgivera* 'ginger' < Sanskrit शृङ्गवेर *śṛṅgavera* 'ginger' < Dravidian * * *cinki-wēr* 'ginger', South dravidian nominal compound from the etyma of Tamil and Malayalam *iñci* (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian *wēr*); the base of * *cinki* is a loanword < unknown * ** 'ginger', unidentified Southeast Asian language; cf. cognates Khasi *sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/ *kaŋ/ 'ginger' < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'; cf. Burmese ချင်း *hkyang:*[^1]
+/ *kaŋ/ 'ginger' < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'; cf. Burmese ချင်း *hkyang:*
 
 {{< /hint >}}
 

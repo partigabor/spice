@@ -23,9 +23,9 @@ This website contains information on spices and spice names. It aims to list, ca
 
 >The database is currently in a developmental state (beta version), I plan an initial release in 2023, after the thesis has been defended, and a revised version has been published.
 
-## Overview
+<!-- ## Overview
 
-You can browse the available spice pages under the menu [Spices](book/spices).
+You can browse the available spice pages under the menu [Spices](book/spices). -->
 
 <!-- 
 {{< columns >}}
