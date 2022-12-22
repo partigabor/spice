@@ -1,8 +1,8 @@
 ---
 title: Dill
 author: Gábor Parti
-date: 2022-12-18
-description: The seeds and leaves of a Mediterranean herb used to flavour food in European cuisine..
+date: 2022-12-22
+description: The seeds and leaves of a Mediterranean herb used to flavour food in European cuisine.
 weight: 1
 # bookCollapseSection: true
 # bookComments: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Dill
 
+Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 |  dill |  شبت |   蒔蘿  |  kapor  |
-
-Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Nort Africa; West Asia.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for pickles, fish, breads; gripe. Its aroma is described as bitter-sweet, cool, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -60,6 +60,12 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 |------|----------|------------|------|
 |  蒔蘿  |  shíluó  | dill-turnip|      |
 |  土茴香 |tǔhuíxiāng|earth-fennel|      |
+
+
+{{< hint etym >}}
+English *dill*, ulterior derivation unknown, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* < unknown * **[^1] 
+ [^1]: @oed [s.v. dill]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_dill.json" height="300px" >}}

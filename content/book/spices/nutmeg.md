@@ -1,7 +1,7 @@
 ---
 title: Nutmeg
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace..
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Nutmeg
 
+Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
+
 |English|  Arabic |Chinese|  Hungarian |
 |-------|---------|-------|------------|
 | nutmeg|جوز الطيب|  肉豆蔻  |szerecsendió|
-
-Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its seed, primarily for desserts, eggnog; diahrrhea. Its aroma is described as sweet, warm, nutty, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -60,6 +60,12 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 |------|--------------|-------------------------------|---------------|
 |  肉豆蔻 |   ròudòukòu  |      flesh-bean-cardamom      |Defrancis, 2003|
 | 肉荳蔻籽粉|ròudòukòuzǐfěn|flesh-bean-cardamom-seed-powder| Kleeman, 2010 |
+
+
+{{< hint etym >}}
+English *nutmeg* < Anglo-Norman * *nois mugue* < Old French *nois mug(u)ede; nois musguete* < Romance * * *nuce muscāta* < Latin *nux muscada* < Pahlavi * *mušk* < Sanskrit *muṣka*[^1] 
+ [^1]: ;
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_nutmeg.json" height="300px" >}}

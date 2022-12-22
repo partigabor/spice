@@ -1,8 +1,8 @@
 ---
 title: Chile
 author: Gábor Parti
-date: 2022-12-18
-description: The fruits of several species from Central and South America , related to paprika..
+date: 2022-12-22
+description: The fruits of several species from Central and South America , related to paprika., also known as chilli; chili pepper.
 weight: 1
 # bookCollapseSection: true
 # bookComments: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Chile
 
+Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
+
 |English| Arabic |Chinese|Hungarian|
 |-------|--------|-------|---------|
 | chile |فلفل حار|   辣椒  | paprika |
-
-Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^powo] originating in the region(s) of Central America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; analgesic. Its aroma is described as pungent, fiery, with a heat index of 4-10.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -98,6 +98,12 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 |  辣子  |      làzi     |        spiciness       |Defrancis, 2003|
 |  番椒  |    fānjiāo    |     foreign-pepper     |   Dott, 2020  |
 |  柿子椒 |   shìzijiāo   |   persimmon-ZI-pepper  |      MDBG     |
+
+
+{{< hint etym >}}
+English *chilli* 'chili pepper', 1662 < Spanish *chile* 'chili pepper', 1571 < Classical Nahuatl *chīlli* 'chili plant'[^1] 
+ [^1]: @oed [s.v. chilli]; @dle [s.v. chile]; @ond [s.v. chilli]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_chile.json" height="300px" >}}

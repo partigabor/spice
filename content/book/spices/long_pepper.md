@@ -1,7 +1,7 @@
 ---
 title: Long Pepper
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The spike-like cluster of fruits of Piper longum from India.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Long Pepper
 
+Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
+
 |  English  | Arabic|Chinese| Hungarian |
 |-----------|-------|-------|-----------|
 |long pepper|دارفلفل|   蓽撥  |hosszú bors|
-
-Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -64,6 +64,12 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 |  蓽撥  |bìbō|       |    Hu, 2005   |
 |  蓽茇  |bìbá|       |Defrancis, 2003|
 |  畢勃  |bìbó|       |               |
+
+
+{{< hint etym >}}
+English *long pepper* 'long pepper', eOE; cf. cognates Anglo-Norman as poivre lonc (13th cent.; Middle French, French poivre long) and also Middle Dutch lanc peper (Dutch lange peper), Middle Low German lanc pēper, lancpēper, Old High German langpfeffar (Middle High German langer pheffer, German langer Pfeffer), Old Swedish langa pipar (Swedish långpeppar) < Latin *piper longus* 'long pepper' [pepper-long ][^1] 
+ [^1]: @oed [long pepper]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_long_pepper.json" height="300px" >}}

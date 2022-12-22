@@ -1,7 +1,7 @@
 ---
 title: Fenugreek
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The seeds of a West Asian herb.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Fenugreek
 
+Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S Eur; W As.[^van_wyk_culinary_2014] It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
+
 | English |Arabic|Chinese| Hungarian|
 |---------|------|-------|----------|
 |fenugreek| حلبة |  胡蘆巴  |görögszéna|
-
-Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the *Fabaceae* family,[^powo] originating in the region(s) of S Eur; W As.[^van_wyk_culinary_2014] It is used for its seed and leaf, primarily for curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -58,6 +58,12 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 |script| term |      literal     |    source   |
 |------|------|------------------|-------------|
 |  胡蘆巴 |húlúbā|barbarian-reeds-ba|Kleeman, 2010|
+
+
+{{< hint etym >}}
+English *fenugreek*, in old English from Latin, in Middle English and later from French < French *fenugrec* < Latin *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans[^1] 
+ [^1]:
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_fenugreek.json" height="300px" >}}

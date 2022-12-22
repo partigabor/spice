@@ -1,7 +1,7 @@
 ---
 title: Clove
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The dried flower-buds of a tropical tree from the Moluccas, Indonesia.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Clove
 
+Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|
 | clove | قرنفل|   丁香  |szegfűszeg|
-
-Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicinal spice from the *Myrtaceae* family,[^powo] originating in the region(s) of Moluccas (Indonesia).[^van_wyk_culinary_2014] It is used for its flower buds, primarily for meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -59,6 +59,12 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 |------|-----------|--------------------|---------------|
 |  丁香  | dīngxiāng |     nail-spice     | Kleeman, 2010 |
 |  雞舌香 |jīshéxiāng |chicken-tongue-spice|Defrancis, 2003|
+
+
+{{< hint etym >}}
+English *clove*, ?ca. 1225 < Anglo-Norman *clow*, c.1200 < Old French *clou*, XII < Latin *clāvus* 'nail'[^1] 
+ [^1]: ;
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_clove.json" height="300px" >}}

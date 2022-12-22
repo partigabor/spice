@@ -1,7 +1,7 @@
 ---
 title: Star Anise
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The star shaped pericarps of a tree from Vietnam and South China.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Star Anise
 
+Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
+
 |  English |   Arabic  |Chinese|  Hungarian |
 |----------|-----------|-------|------------|
 |star anise|يانسون نجمي|   八角  |csillagánizs|
-
-Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandraceae* family,[^powo] originating in the region(s) of SE. China; Vietnam.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats, desserts; colic. Its aroma is described as bitter, licorice-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -68,6 +68,12 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 |  舶茴香 |  bóhuíxiāng  |    ship-hui-spice    |               |
 |  大茴香 |  dà​huíxiāng |     big-hui-spice    |      MDBG     |
 |  大料  |    dàliào    |    big-ingredient    |Defrancis, 2003|
+
+
+{{< hint etym >}}
+English *star anise* 'star anise'[^1] 
+ [^1]:
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_star_anise.json" height="300px" >}}

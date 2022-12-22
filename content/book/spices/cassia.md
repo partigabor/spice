@@ -1,7 +1,7 @@
 ---
 title: Cassia
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The inner bark of several Southeast Asian species, related to cinnamon..
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Cassia
 
+Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Southeast China.[^van_wyk_culinary_2014] It is used for its bark and fruit, primarily for flavor; diarrhea. Its aroma is described as pungent, cinnamon-like, with a heat index of 3.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|   Hungarian  |
 |-------|------|-------|--------------|
 | cassia| سليخة|   肉桂  |kasszia(fahéj)|
-
-Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice from the *Lauraceae* family,[^powo] originating in the region(s) of Southeast China.[^van_wyk_culinary_2014] It is used for its bark and fruit, primarily for flavor; diarrhea. Its aroma is described as pungent, cinnamon-like, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -79,6 +79,12 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 |   桂  |  guì  |     cassia    |Defrancis, 2003|
 |  桂枝  | guìzhī|cassia-branches|Defrancis, 2003|
 |  桂子  | guìzǐ |  cassia-seeds |Defrancis, 2003|
+
+
+{{< hint etym >}}
+English *cassia*, ca. 1000 < Latin *casia* 'id.', c. < Ancient Greek κασία *kasía* 'id.', c. < Ancient Hebrew קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)[^1] 
+ [^1]: @oed [s.v. cassia]; @rosol_early_2018; @beekes_etymological_2010 [653]; @klein_comprehensive_1987 [589]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cassia.json" height="300px" >}}

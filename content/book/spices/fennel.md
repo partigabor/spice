@@ -1,7 +1,7 @@
 ---
 title: Fennel
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The dried fruits of a perennial herb, also used as a vegetable .
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Fennel
 
+Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable from the *Apiaceae* family,[^powo] originating in the region(s) of Med.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese| Hungarian|
 |-------|------|-------|----------|
 | fennel|  شمر |   茴香  |édeskömény|
-
-Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable from the *Apiaceae* family,[^powo] originating in the region(s) of Med.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -68,6 +68,12 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 |  蘹香  |  huáixiāng | huai-spice |             |
 |  甜茴香 |tiánhuíxiāng|sweet-fennel|             |
 |  小茴香 |xiǎohuíxiāng| small-anise|             |
+
+
+{{< hint etym >}}
+English *fennel*, a. 700 < Old English *fenol*, a. 700 < Latin *faeniculum*, via Vulgar Latin *fēnoclum, fēnuclum* substituted for classical Latin *faeniculum*, diminutive of *faenum* hay; cf. Old French fenoil (modern French fenouil), Provençal fenolh, Italian finocchio, Spanish hinojo.[^1] 
+ [^1]: @oed [s.v. fennel];
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_fennel.json" height="300px" >}}

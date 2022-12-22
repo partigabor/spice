@@ -1,7 +1,7 @@
 ---
 title: Vanilla
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The aromatic seed pods of orchid species from America.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Vanilla
 
+Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
+
 |English| Arabic|Chinese|Hungarian|
 |-------|-------|-------|---------|
 |vanilla|فانيليا|   香草  | vanília |
-
-Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -61,6 +61,12 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 |script|  term  |      literal      |     source    |
 |------|--------|-------------------|---------------|
 |  香草  |xiāngcǎo|fragrant-grass/herb|Defrancis, 2003|
+
+
+{{< hint etym >}}
+English *vanilla* , 1662 < Spanish *vainilla* 'id.' [little sheath, little pod ], from *vaina/vaína* 'scabbard, sheath; pod, husk' + *-illa* diminutive suffix, 1555 < Latin *vāgīna* 'scabbard, sheath; covering, holder of anything', esp. husks that enclose an ear of grain; also by anatomical figurative sense, origin of vagina[^1] 
+ [^1]: @oed [s.v. vanilla]; @gomez_de_silva_elseviers_1985 [538; @corominas_breve_1987 596]; @lewis_latin_1879 [s.v. vāgīna]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_vanilla.json" height="300px" >}}

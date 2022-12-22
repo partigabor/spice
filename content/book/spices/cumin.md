@@ -1,7 +1,7 @@
 ---
 title: Cumin
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The dried seeds of a West Asian flowering plant.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Cumin
 
+Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of W. \& C. Asia; India .[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|  Hungarian |
 |-------|------|-------|------------|
 | cumin | كمون |   孜然  |római kömény|
-
-Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of W. \& C. Asia; India .[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -69,6 +69,12 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 |  馬芹子 |    mǎqínzi   |  horse-celery-seed |             |
 |  枯茗  |    kūmíng    |    withered-tea    |     MDBG    |
 |  蒔蘿  |    shíluó    |     dill-turnip    |Kleeman, 2010|
+
+
+{{< hint etym >}}
+English *cumin*, Middle English cumin, comin was either from French (like Middle Dutch comijn, Dutch komijn), or altered from Old English cymen after French. (Old English *cymen*); cf. cognates Old High German chumin, cumin, also chumil (Middle High German kümel, German kümmel), Swedish kummin, Danish kummen. The word has also come down in the Romanic languages, Italian cumino, comino, Spanish comino, Portuguese cominho, Old French cumin, comin. < Latin *cumīnum* 'id.' < Ancient Greek κύμῑνον *kúmīnon* 'id.', The Greek κύμῑνον is supposed to have been a foreign word, cognate in origin with the Semitic names < Semitic * * *kmn* 'id.'; cf. cognates Arabic *kammūn*; Hebrew *kammōn*; Akkadian *kamūnu*[^1] 
+ [^1]: @oed [s.v. cumin];
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}

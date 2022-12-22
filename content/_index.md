@@ -17,8 +17,6 @@ plotly: true
 — WEBSITE UNDER CONSTRUCTION —
 {{% /center %}}
 
-{{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
-
 # Welcome to the *Spices & Spice Terminology Database* 1.0 (Beta)
 
 This website contains information on spices and spice names. It aims to list, categorize, and introduce spices from a [philological](https://en.wikipedia.org/wiki/Philology) point of view, focusing on their origins, history, spread, cultural significance, and linguistic analysis. The website is based on a Ph.D. dissertation currently under review and revision, titled *Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*.
@@ -43,6 +41,8 @@ B
 {{< /columns >}} -->
 
 ***
+
+{{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
 
 ## How to Cite
 

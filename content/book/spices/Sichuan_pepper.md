@@ -1,7 +1,7 @@
 ---
 title: Sichuan Pepper
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The numbing, red or green fruits of East Asian prickly ash trees, related to sansho..
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Sichuan Pepper
 
+Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats; colic. Its aroma is described as woodsy, peppery, with a heat index of 3.[^ucla_medicinal_2002]
+
 |    English   |   Arabic   |Chinese|   Hungarian  |
 |--------------|------------|-------|--------------|
 |Sichuan pepper|فلفل سيتشوان|   花椒  |szecsuáni bors|
-
-Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats; colic. Its aroma is described as woodsy, peppery, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -84,6 +84,12 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 |  崖椒  |    yájiāo   |     cliff-pepper     |    Hu, 2005   |
 |  竹葉椒 |  zhúyèjiāo  |  bamboo-leaf-pepper  |               |
 |   椒  |     jiāo    |        pepper        |Defrancis, 2003|
+
+
+{{< hint etym >}}
+English *Sichuan pepper*[^1] 
+ [^1]:
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_Sichuan_pepper.json" height="300px" >}}

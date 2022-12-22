@@ -1,7 +1,7 @@
 ---
 title: Caraway
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The seed-like fruits of a Eurasian herb.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Caraway
 
+Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; Eurasia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|  Hungarian  |
 |-------|------|-------|-------------|
 |caraway|كراويا|  葛縷子  |fűszerkömény |
-
-Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; Eurasia.[^van_wyk_culinary_2014] It is used for its fruit, primarily for breads, sausages, cheese; carminative. Its aroma is described as warm, sweet, anise-like, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -65,6 +65,12 @@ Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo
 |  葛縷子 |   gělǚzi   |                 |Kleeman, 2010|
 |  藏茴香 |zànghuíxiāng|Tibetan-hui-spice|     MDBG    |
 |  頁蒿  |    yèhāo   |  leaf-wormwood  |     MDBG    |
+
+
+{{< hint etym >}}
+English *caraway* 'caraway', ca. 1440 < Medieval Latin *carui* 'caraway', or some allied Romanic form, ca. 1080; cf. cognates French *carvi*, Italian *carvi*, Spanish *carvi*; Old Spanish *alcaravea*, *alcarahueya*, Portuguese *alcaravia*, *alcorovia* < Arabic كراويا *karāwiyā* 'caraway', (loaned to some Eurropean languages with *al-* definite article, via Andalusian Arabic) < Aramaic / *karwāyā* 'caraway' < Ancient Greek καρώ *karṓ* 'caraway', a form of the word *káron*, derived from *káre* 'head'; -ṓ form seems Pre-Greek (these forms could not immediately give the Arabic, hence possibly via *καρυΐα * *karuḯa* a typical plant derivation form of καρώ *karṓ*, κάρον *káron*); cf. cognates Latin *carum, careum*[^1] 
+ [^1]: @oed [s.v. caraway]; @ahd [s.v. caraway]; @corriente_dictionary_2008 [74; @tlfi carvi]; @low_aramaeische_1881 [207; @low_flora_1924 437-438]; @beekes_etymological_2010 [653; @sokoloff_dictionary_2002 599]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_caraway.json" height="300px" >}}

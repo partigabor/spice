@@ -1,7 +1,7 @@
 ---
 title: Coriander
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The dried fruits of an annual herb, also used for its fresh leaves, also known as cilantro; Chinese parsley.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Coriander
 
+Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia; India; SW As.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
+
 | English |Arabic|Chinese|Hungarian|
 |---------|------|-------|---------|
 |coriander| كزبرة|   芫荽  |koriander|
-
-Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia; India; SW As.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -66,6 +66,12 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 |  香茜  |xiāngqiàn|  fragrant-madder  |   Wikipedia   |
 |  香菜  | xiāngcài| fragrant-vegetable|      MDBG     |
 |  胡荽  |  húsuī  |barbarian-coriander|Defrancis, 2003|
+
+
+{{< hint etym >}}
+English *coriander* < Old French *coriandre* < Latin *coriandrum* < Ancient Greek *korīannon;-dron*[^1] 
+ [^1]: ;
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_coriander.json" height="300px" >}}

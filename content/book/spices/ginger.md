@@ -1,7 +1,7 @@
 ---
 title: Ginger
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The rhizomes of the ginger plant, fresh or dried.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Ginger
 
+Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary).[^van_wyk_culinary_2014] It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 | ginger|زنجبيل|   薑   | gyömbér |
-
-Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the *Zingiberaceae* family,[^powo] originating in the region(s) of South East Asia; India (secondary).[^van_wyk_culinary_2014] It is used for its rhizome, primarily for Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -65,6 +65,12 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 |   薑  |  jiāng  |   ginger   | Kleeman, 2010 |
 |  幹薑  | gānjiāng| dry-ginger |Defrancis, 2003|
 |  鮮薑  |xiānjiāng|fresh-ginger|Defrancis, 2003|
+
+
+{{< hint etym >}}
+English *ginger*, ca. 925 < reinforced by Old French *gingivere, gingibre* 'ginger' < Medieval Latin *gingiber* 'ginger' < Latin *zingiber* 'ginger' < Ancient Greek *ziggiberis* 'ginger' < Pali *siṅgivera* 'ginger'; cf. cognates Sanskrit शृङ्गवेर < Dravidian * * *cinki-wēr* 'ginger', South dravidian nominal compound from the etyma of Tamil and Malayalam *iñci* (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian *wēr*); the base of * *cinki* is a loanword < unknown * ** 'ginger', unidentified Southeast Asian language; cf. cognates Khasi *sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* < Proto-Sino-Tibetan * * *kjaŋ* 'ginger'[^1] 
+ [^1]: @oed [@ross_ginger_1952]; @krishnamurti_dravidian_2003 [5];
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_ginger.json" height="300px" >}}

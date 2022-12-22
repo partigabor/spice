@@ -1,7 +1,7 @@
 ---
 title: Asafoetida
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The dried gum-resin of several species of Ferula plants, also known as hing; devil's dung.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Asafoetida
 
+Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia.[^van_wyk_culinary_2014] It is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
+
 |  English |Arabic|Chinese| Hungarian |
 |----------|------|-------|-----------|
 |asafoetida| حلتیت|   阿魏  |ördöggyökér|
-
-Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice from the *Apiaceae* family,[^powo] originating in the region(s) of Iran; W. and C. Asia.[^van_wyk_culinary_2014] It is used for its gum-resin (latex), primarily for curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -69,6 +69,12 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 |  黑黎提提  |hēilítí​tí|       |Rossabi, 2013|
 |   形虞   |  xíngyú  |       | Leung, 2019 |
 |興蕖/興渠/興瞿|  xīngqú  |       | Leung, 2019 |
+
+
+{{< hint etym >}}
+English *asafoetida*, a. 1398 < Medieval Latin *asafoetida* [stinking asa ] < from Persian *āzā* 'mastic', in a Lanized form, *asa* + Latin *foetid* 'ill-smelling, stinking', (feminine of *fœtidus*)[^1] 
+ [^1]: @oed [s.v. asafoetida]; @laufer_sino-iranica_1919 [353]; @steingass_comprehensive_1892 [42]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_asafoetida.json" height="300px" >}}

@@ -1,7 +1,7 @@
 ---
 title: Turmeric
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The bright yellow powder yielded from the rhizomes of Curcuma longa.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary', 'medicinal', 'ritualistic']
 
 # Turmeric
 
+Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
+
 | English|Arabic|Chinese|Hungarian|
 |--------|------|-------|---------|
 |turmeric| كركم |   薑黃  | kurkuma |
-
-Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice and dye from the *Zingiberaceae* family,[^powo] originating in the region(s) of India.[^van_wyk_culinary_2014] It is used for its rhizome, primarily for curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -67,6 +67,12 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 |  薑黃  |jiānghuáng|ginger-yellow| Kleeman, 2010 |
 |  黃薑  |huángjiāng|yellow-ginger|Defrancis, 2003|
 |  鬱金  |   yùjīn  |   yü-gold   | Schafer, 1985 |
+
+
+{{< hint etym >}}
+English *turmeric* 'turmeric', obscure origin (by alteration of earlier forms), 1545 < akin to French *terre mérite* 'saffron' [worthy earth ] < and Medieval Latin *terra merita* 'turmeric' [deserved earth ] < Arabic *kurkum* 'turmeric; saffron', maybe a folk-etymological corruption[^1] 
+ [^1]: @oed [s.v. turmeric]; @oe [s.v. turmeric]; @guthrie_trade-language_2009; @klein_comprehensive_1971 [789]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_turmeric.json" height="300px" >}}

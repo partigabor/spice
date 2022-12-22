@@ -1,7 +1,7 @@
 ---
 title: Anise
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The seed-like fruits of a Mediterranean herb, also known as aniseed.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Anise
 
+Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia.[^van_wyk_culinary_2014] It is used for its fruit and oil, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 | anise |أنيسون|   茴芹  |  ánizs  |
-
-Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia.[^van_wyk_culinary_2014] It is used for its fruit and oil, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -66,6 +66,12 @@ Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^
 | 歐洲大茴香|ōuzhōu dàhuíxiāng| European-big-hui-spice|  Wikipedia  |
 | 西洋茴香 | xīyáng huíxiāng |western-ocean-hui-spice|  Wikipedia  |
 |  洋茴香 |  yáng huíxiāng  |    ocean-hui-spice    |     CEC     |
+
+
+{{< hint etym >}}
+English *anise*, ca. 1325 < French *anis* 'anise', 1236 < Latin *anīsum* 'anise', (dill is *anēthum*) < Ancient Greek ἄνισον *ánison* 'anise; dill', and other Greek dialectal variants, e.g.: *ánēthon*; included both plants, only later distinguished (probaby of substrate origin) < Egyptian (Ancient) *jnst* 'a medicinal, edible plant (probably anise)'[^1] 
+ [^1]: @oed [anise; @ahd anise]; @tlfi [s.v. anis]; @lewis_latin_1879; @liddell_greek-english_1940; @erman_worterbuch_1926 [99; @hemmerdinger_noms_1968 240]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_anise.json" height="300px" >}}

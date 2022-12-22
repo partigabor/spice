@@ -1,7 +1,7 @@
 ---
 title: Allspice
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper.
 weight: 1
 # bookCollapseSection: true
@@ -17,13 +17,11 @@ tags: ['culinary']
 
 # Allspice
 
-{{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
+Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; Caribbean.[^van_wyk_culinary_2014] It is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
 
 | English|   Arabic  |Chinese| Hungarian|
 |--------|-----------|-------|----------|
 |allspice|فلفل إفرنجي|  多香果  |szegfűbors|
-
-Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; Caribbean.[^van_wyk_culinary_2014] It is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -75,6 +73,11 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* 
 |  全香子 |  quánxiāngzǐ  |     all-spice-seed     |Spices Journey, 2022|
 | 牙買加胡椒|yámǎijiā hújiāo|Jamaica-barbarian-pepper|        MDBG        |
 |  眾香子 |  zhòngxiāngzǐ |     many-spice-seed    |        MDBG        |
+
+{{< hint etym >}}
+English *allspice*, from *all* + *spice*; after the flavour profile that resembles the combined aroma of cloves, nutmeg, cinnamon, and black pepper, 1621[^1] 
+ [^1]: @oed [s.v. allspice]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_allspice.json" height="300px" >}}

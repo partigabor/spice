@@ -1,7 +1,7 @@
 ---
 title: Pepper
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The dried fruits of an Indian vine, also known as black pepper.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary', 'medicinal']
 
 # Pepper
 
+Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 | pepper| فلفل |   胡椒  |   bors  |
-
-Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of Malabar coast (South India).[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavors; colds. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -68,6 +68,12 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 |  黑胡椒 | hēihújiāo|black-barbarian-pepper|        MDBG        |
 |  綠胡椒 | lǜhújiāo |green-barbarian-pepper|Regency Spices, 2022|
 |  青胡椒 |qīnghújiāo|green-barbarian-pepper|Regency Spices, 2022|
+
+
+{{< hint etym >}}
+English *pepper* < West Germanic * * *pipor* 'id.' < Latin *piper* 'black pepper, long pepper' < Ancient Greek πέπερι *péperi* 'id.' < Middle Indo-Aryan * पिप्परी *pipparī* 'long pepper' < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'[^1] 
+ [^1]: @oed [@med; @bosworth_anglo-saxon_2014]; @oe; @lewis_latin_1879; @liddell_greek-english_1940; @sheth_paia-sadda-mahannavo_1923 [599]; @monier-williams_sanskrit-english_1899 [626]
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_pepper.json" height="300px" >}}

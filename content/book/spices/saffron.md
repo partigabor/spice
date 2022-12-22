@@ -1,7 +1,7 @@
 ---
 title: Saffron
 author: Gábor Parti
-date: 2022-12-18
+date: 2022-12-22
 description: The stigmas or styles of the saffron crocus flower.
 weight: 1
 # bookCollapseSection: true
@@ -17,11 +17,11 @@ tags: ['culinary']
 
 # Saffron
 
+Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for bouillabaise, rice; fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
+
 |English|Arabic|Chinese|Hungarian|
 |-------|------|-------|---------|
 |saffron|زعفران|  藏紅花  | sáfrány |
-
-Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for bouillabaise, rice; fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]
 
 ## Overview
 
@@ -65,6 +65,12 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |  撒法郎 |  sǎfǎláng |                  |  Laufer, 1919 |
 |  咱夫藍 |  záfūlán  |                  |  Laufer, 1919 |
 |  鬱金香 | yùjīnxiāng| yü-gold-aromatic | Schafer, 1985 |
+
+
+{{< hint etym >}}
+English *saffron*, ca. 1200; cf. Middle English *saf(f)rǒun* < French *safran* 'id.', c. 1150; cf. Middle Low German *safferân*, Middle Dutch *saffraen* (Dutch *saffraan*), Middle High German *saffrân* (modern German *safran*) < Medieval Latin *saffrānum* 'id.' < Arabic زعفران *zaʿfarān* 'id.', (not connected with *ṣafrā'* feminine of *aṣfar* 'yellow'); cf. Turkish, Persian, and Hindi; Jewish Aramaic *zaʿperānā*; Spanish *azafran*, Portuguese *açafrão*; the word without this prefix gives rise to Italian *zafferano, zaffrone*, Provençal *safran, safrá*, Catalan *safrá*, French *safran*, medieval Latin *safranum*, medieval Greek ζαϕρᾶς *zaforás*, modern Greek σαϕράνι *safráni*, Russian *šafran*. [^1] 
+ [^1]: @oed [s.v. saffron]; @med [saf(f)rǒun]; @tlfi [s.v. safran]; @wehr_dictionary_1976
+{{< /hint >}}
 
 {{< load-plotly >}}
 {{< plotly json="/plotly/diffusion_name_saffron.json" height="300px" >}}
