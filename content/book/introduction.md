@@ -11,6 +11,8 @@ bookToc: false
 
 # Introduction
 
+{{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
+
 ## Significance
 
 Understanding the language of spices is a key to open a door to this

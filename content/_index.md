@@ -17,7 +17,7 @@ plotly: true
 — WEBSITE UNDER CONSTRUCTION —
 {{% /center %}}
 
-<!-- {{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}} -->
+{{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
 
 # Welcome to the *Spices & Spice Terminology Database* 1.0 (Beta)
 

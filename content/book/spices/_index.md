@@ -1,7 +1,7 @@
 ---
 weight: 20
 # bookFlatSection: true
-title: "Spices"
+title: "The Spices"
 # bookHidden: true
 bookCollapseSection: true
 bookFlatSection: false

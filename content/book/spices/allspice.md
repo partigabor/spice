@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Allspice
 
-{{< image src="/images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
+{{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}}
 
 | English|   Arabic  |Chinese| Hungarian|
 |--------|-----------|-------|----------|
