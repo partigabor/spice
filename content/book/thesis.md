@@ -8,3 +8,5 @@ weight: 90
 # bookSearchExclude: true
 bookToc: false
 ---
+
+The full thesis will be available for download here, in early 2023.
