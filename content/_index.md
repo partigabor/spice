@@ -40,9 +40,9 @@ B
 
 {{< /columns >}} -->
 
-***
-
 {{< image src="images/pepper-trail.png" alt="Illustration." >}}
+
+***
 
 <!-- ## How to Cite
 
