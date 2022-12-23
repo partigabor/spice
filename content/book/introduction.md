@@ -14,16 +14,16 @@ bookToc: false
 <!-- {{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}} -->
 <!-- does not work -->
 
-        # Species                      English         Chinese         Translit.       Arabic   Translit.
-        1 Pimenta dioica               allspice        多香果          duōxiāngguǒ      فلفل إفرنجي filfil ifranjī
-        2 Pimpinella anisum            anise           茴芹            huíqín                 ينسون yansūn
-        3 Ferula assa-foetida et al.   asafoetida      阿魏            wèi                   حلتیت ḥiltīt
-        4 Carum carvi                  caraway         葛縷子          gělǚzi                كراويا karāwiyā
-        5 Elettaria cardamomum         cardamom        荳蔻            dòukòu                   هال hāl
-        6 Cinnamomum cassia            cassia          肉桂            ròuguì                 سليخة salīkha
-        7 Capsicum annuum et al.       chile           辣椒            làjiāo              فلفل حار fulful hārr
-        8 Cinnamomum verum             cinnamon        錫蘭肉桂        xīlánròuguì             قرفة qirfa
-        9 Syzygium aromaticum          clove           丁香            dīngxiāng              قرنفل qaranful
+         # Species                      English         Chinese         Translit.       Arabic   Translit.
+         1 Pimenta dioica               allspice        多香果          duōxiāngguǒ      فلفل إفرنجي filfil ifranjī
+         2 Pimpinella anisum            anise           茴芹            huíqín                 ينسون yansūn
+         3 Ferula assa-foetida et al.   asafoetida      阿魏            wèi                   حلتیت ḥiltīt
+         4 Carum carvi                  caraway         葛縷子          gělǚzi                كراويا karāwiyā
+         5 Elettaria cardamomum         cardamom        荳蔻            dòukòu                   هال hāl
+         6 Cinnamomum cassia            cassia          肉桂            ròuguì                 سليخة salīkha
+         7 Capsicum annuum et al.       chile           辣椒            làjiāo              فلفل حار fulful hārr
+         8 Cinnamomum verum             cinnamon        錫蘭肉桂        xīlánròuguì             قرفة qirfa
+         9 Syzygium aromaticum          clove           丁香            dīngxiāng              قرنفل qaranful
         10 Coriandrum sativum           coriander       芫荽            yánsui                 كزبرة kuzbara
         11 Cuminum cyminum              cumin           孜然            zīrán                   كمون kammūn
         12 Anethum graveolens           dill            蒔蘿            shíluó                   شبت shibitt

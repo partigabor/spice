@@ -53,3 +53,4 @@ As the thesis is under revision, and related papers are still in manuscript form
 {{< hint cite >}}  
 Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.0 (beta). Retrieved December 12, 2022, https://partigabor.github.io/spice/
 {{< /hint >}} -->
+
