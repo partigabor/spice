@@ -1,7 +1,7 @@
 ---
 title: Chile
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The fruits of several species from Central and South America , related to paprika., also known as chilli; chili pepper.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Chile
 
-![Illustration of Capsicum annuum](/images/kohler/chile.png)
+![Illustration of Capsicum_annuum](/images/kohler/chile.png)
 
 {{< center >}}
 Illustration of Capsicum annuum L. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,22 +45,22 @@ Chile (*Capsicum annuum* L.) is a culinary spice from the *Solanaceae* family,[^
 ## Etymologies
 
 {{< hint etym >}}
-English *chilli* 'chili pepper', 1662 < Spanish *chile* 'chili pepper', 1571 < Classical Nahuatl *chīlli* 'chili plant'
+English chilli 'chili pepper', 1662 < Spanish chile 'chili pepper', 1571 < Classical Nahuatl chīlli 'chili plant'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic فلفل حار *fulful ḥārr* 'chili pepper' [hot pepper ]
+Arabic فلفل حار fulful ḥārr 'chili pepper' [hot pepper ]
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 辣椒 *làjiāo* 'chili pepper' [pungent-pepper ]
+Mandarin Chinese 辣椒 làjiāo 'chili pepper' [pungent-pepper ]
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *paprika* < Hungarian *paprika*, diminutive? < Serbian-Croatian-Bosnian *paprika* 'little pepper', (papar+ika) papar = pepper; -ika = Suffix appended to words to create a feminine noun, usually denoting a plant. < Slavic * *pьpьrь * *pĭpĭrĭ* < Latin *piper* < Ancient Greek πέπερι *péperi* < Pahlavi *?* < Middle Indo-Aryan * *pipparī* < Sanskrit *pippalī*
+English paprika < Hungarian paprika, diminutive? < Serbian-Croatian-Bosnian paprika 'little pepper', (papar+ika) papar = pepper; -ika = Suffix appended to words to create a feminine noun, usually denoting a plant. < Slavic pьpьrь pĭpĭrĭ < Latin piper < Ancient Greek πέπερι péperi < Pahlavi ? < Middle Indo-Aryan pipparī < Sanskrit pippalī
 
 {{< /hint >}}
 

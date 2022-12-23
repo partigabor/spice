@@ -1,7 +1,7 @@
 ---
 title: Sichuan Pepper
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The numbing, red or green fruits of East Asian prickly ash trees, related to sansho..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Sichuan Pepper
 
-![Illustration of Zanthoxylum bungeanum](/images/kohler/Sichuan pepper.png)
+![Illustration of Zanthoxylum_bungeanum](/images/kohler/Sichuan pepper.png)
 
 {{< center >}}
 Illustration of Zanthoxylum bungeanum Maxim. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,22 +45,22 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 ## Etymologies
 
 {{< hint etym >}}
-English *Sichuan pepper*
+English Sichuan pepper
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *fagara* < Medieval Latin *fagara* 'Sichuan pepper?; cubeb?', translingual word from scientific Latin; coined by European botanists reading Avicenna (cf. da Orta) < Arabic فاغرة *fāghira* < Persian *fākhira*
+English fagara < Medieval Latin fagara 'Sichuan pepper?; cubeb?', translingual word from scientific Latin; coined by European botanists reading Avicenna (cf. da Orta) < Arabic فاغرة fāghira < Persian fākhira
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic فلفل سيتشوان *fulful sītshuwān* 'Sichuan pepper'
+Arabic فلفل سيتشوان fulful sītshuwān 'Sichuan pepper'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 花椒 *huā​jiāo* 'Sichuan pepper' [flower-pepper ]
+Mandarin Chinese 花椒 huā​jiāo 'Sichuan pepper' [flower-pepper ]
 
 {{< /hint >}}
 

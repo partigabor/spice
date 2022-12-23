@@ -1,7 +1,7 @@
 ---
 title: Nutmeg
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Nutmeg
 
-![Illustration of Myristica fragrans](/images/kohler/nutmeg.png)
+![Illustration of Myristica_fragrans](/images/kohler/nutmeg.png)
 
 {{< center >}}
 Illustration of Myristica fragrans Houtt. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 ## Etymologies
 
 {{< hint etym >}}
-English *nutmeg* < Anglo-Norman * *nois mugue* < Old French *nois mug(u)ede; nois musguete* < Romance * * *nuce muscāta* < Latin *nux muscada* < Pahlavi * *mušk* < Sanskrit *muṣka*
+English nutmeg < Anglo-Norman nois mugue < Old French nois mug(u)ede; nois musguete < Romance nuce muscāta < Latin nux muscada < Pahlavi mušk < Sanskrit muṣka
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic جوز الطيب *jawz al-ṭīb* 'nutmeg' < Persian *jawz buwwa* 'nutmeg'
+Arabic جوز الطيب jawz al-ṭīb 'nutmeg' < Persian jawz buwwa 'nutmeg'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 肉豆蔻 *ròudòukòu* 'nutmeg'
+Mandarin Chinese 肉豆蔻 ròudòukòu 'nutmeg'
 
 {{< /hint >}}
 

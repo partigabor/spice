@@ -1,7 +1,7 @@
 ---
 title: Cassia
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The inner bark of several Southeast Asian species, related to cinnamon..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Cassia
 
-![Illustration of Cinnamomum cassia](/images/kohler/cassia.png)
+![Illustration of Cinnamomum_cassia](/images/kohler/cassia.png)
 
 {{< center >}}
 Illustration of Cinnamomum cassia (L.) J.Presl. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 ## Etymologies
 
 {{< hint etym >}}
-English *cassia*, ca. 1000 < Latin *casia* 'id.', c. < Ancient Greek κασία *kasía* 'id.', c. < Ancient Hebrew קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)
+English cassia, ca. 1000 < Latin casia 'id.', c. < Ancient Greek κασία kasía 'id.', c. < Ancient Hebrew קְצִיעָה qəṣîʿâ 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from qṣaʿ 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic سليخة *salīkha* 'cinnamon bark; cassia bark' [peeled off, stripped off ], from *salakha* 'to pull off, strip off; skin, flay'; Semitic root *s-l-kh*; cf. cognates *
+Arabic سليخة salīkha 'cinnamon bark; cassia bark' [peeled off, stripped off ], from salakha 'to pull off, strip off; skin, flay'; Semitic root s-l-kh; cf. cognates
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/kweiH/ 'cassia' [flesh-cinnamon ], *guì* is modified by *ròu* to distuinguish it from the osmanthus flower (桂花 *guìhuā*)
+/kweiH/ 'cassia' [flesh-cinnamon ], guì is modified by ròu to distuinguish it from the osmanthus flower (桂花 guìhuā)
 
 {{< /hint >}}
 

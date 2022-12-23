@@ -1,7 +1,7 @@
 ---
 title: Fenugreek
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The seeds of a West Asian herb.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Fenugreek
 
-![Illustration of Trigonella foenum-graecum](/images/kohler/fenugreek.png)
+![Illustration of Trigonella_foenum-graecum](/images/kohler/fenugreek.png)
 
 {{< center >}}
 Illustration of Trigonella foenum-graecum L. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 ## Etymologies
 
 {{< hint etym >}}
-English *fenugreek*, in old English from Latin, in Middle English and later from French < French *fenugrec* < Latin *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans
+English fenugreek, in old English from Latin, in Middle English and later from French < French fenugrec < Latin faenugraecum [Greek-hay ], named faenum Graecum 'Greek hay' by the Romans
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
+Arabic حلبة ḥulba 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew ḥilbā
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 胡蘆巴 *húlúbā* 'fenugreek' < Persian حلبة *ḥulba* 'fenugreek' < Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
+Mandarin Chinese 胡蘆巴 húlúbā 'fenugreek' < Persian حلبة ḥulba 'fenugreek' < Arabic حلبة ḥulba 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew ḥilbā
 
 {{< /hint >}}
 

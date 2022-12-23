@@ -1,7 +1,7 @@
 ---
 title: Dill
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The seeds and leaves of a Mediterranean herb used to flavour food in European cuisine.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Dill
 
-![Illustration of Anethum graveolens](/images/kohler/dill.png)
+![Illustration of Anethum_graveolens](/images/kohler/dill.png)
 
 {{< center >}}
 Illustration of Anethum graveolens L. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 ## Etymologies
 
 {{< hint etym >}}
-English *dill*, ulterior derivation unknown, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* < unknown * **
+English dill, ulterior derivation unknown, a. 700; cf. cognates Old Low German dilli, Dutch dille, Old High German tilli, Middle High German tille, German dill, dille, Danish dild, Swedish dill < unknown
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic شبت *shibitt* 'dill' < Aramaic *šəḇettā* 'dill'; cf. cognates Hebrew *šéḇeṯ*; Persian *ševid* < Akkadian *šibittu* 'dill'
+Arabic شبت shibitt 'dill' < Aramaic šəḇettā 'dill'; cf. cognates Hebrew šéḇeṯ; Persian ševid < Akkadian šibittu 'dill'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 蒔蘿 *shíluó* 'dill', 1008 < Persian *zīra* 'dill', distantly related to Sanskrit *jīraka* (zire-ye siyāh [black cumin ] 'caraway'; zire-ye sabz [green cumin ] 'cumin'); cf. cognates Sogdian zyr'kk /zîrê/; Persian *zīra*; Hindi-Urdu *zīrā* < or Sanskrit जीर *jīra* 'dill'; cf. Hindi जीरा *jīrā*; English *jeera*
+Mandarin Chinese 蒔蘿 shíluó 'dill', 1008 < Persian zīra 'dill', distantly related to Sanskrit jīraka (zire-ye siyāh [black cumin ] 'caraway'; zire-ye sabz [green cumin ] 'cumin'); cf. cognates Sogdian zyr'kk /zîrê/; Persian zīra; Hindi-Urdu zīrā < or Sanskrit जीर jīra 'dill'; cf. Hindi जीरा jīrā; English jeera
 
 {{< /hint >}}
 

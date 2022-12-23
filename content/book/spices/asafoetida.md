@@ -1,7 +1,7 @@
 ---
 title: Asafoetida
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The dried gum-resin of several species of Ferula plants, also known as hing; devil's dung.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Asafoetida
 
-![Illustration of Ferula foetida](/images/kohler/asafoetida.png)
+![Illustration of Ferula_foetida](/images/kohler/asafoetida.png)
 
 {{< center >}}
 Illustration of Ferula foetida (Bunge) Regel from Köhler's Medizinal-Pflanzen (1887).
@@ -45,32 +45,32 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 ## Etymologies
 
 {{< hint etym >}}
-English *asafoetida*, a. 1398 < Medieval Latin *asafoetida* [stinking asa ] < from Persian *āzā* 'mastic', in a Lanized form, *asa* + Latin *foetid* 'ill-smelling, stinking', (feminine of *fœtidus*)
+English asafoetida, a. 1398 < Medieval Latin asafoetida [stinking asa ] < from Persian āzā 'mastic', in a Lanized form, asa + Latin foetid 'ill-smelling, stinking', (feminine of fœtidus)
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *hing* 'asafoetida', 1599 < Hindi हींग *hīng* 'asafoetida' < Sanskrit हिङ्गु *hiṅgu* 'asafoetida'; cf. cognates Sogdian 'ynkw < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
+English hing 'asafoetida', 1599 < Hindi हींग hīng 'asafoetida' < Sanskrit हिङ्गु hiṅgu 'asafoetida'; cf. cognates Sogdian 'ynkw < Proto-Iranian aṅgu-ǰatu- 'resin-gum'; cf. Tokharian B, Khotanese
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic حلتيت *ḥiltīt* 'asafoetida resin'; cf. cognates Hebrew *ḥiltiṯ* < Aramaic / *ḥeltīṯā* 'id.'
+Arabic حلتيت ḥiltīt 'asafoetida resin'; cf. cognates Hebrew ḥiltiṯ < Aramaic / ḥeltīṯā 'id.'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic أنجدان *anjudān* < Persian انگدان *angudān* < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
+Arabic أنجدان anjudān < Persian انگدان angudān < Proto-Iranian aṅgu-ǰatu- 'resin-gum'; cf. Tokharian B, Khotanese
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/ʔɑ ŋʉiH/ 'asafoetida' < Tokharian B *ankwaṣ(ṭ)* 'asafoetida' < Sogdian * *angužat* 'asafoetida' < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'
+/ʔɑ ŋʉiH/ 'asafoetida' < Tokharian B ankwaṣ(ṭ) 'asafoetida' < Sogdian angužat 'asafoetida' < Proto-Iranian aṅgu-ǰatu- 'resin-gum'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/hɨŋ ɡɨʌ/ 'asafoetida', phonetic transcription < Sanskrit हिङ्गु *hiṅgu* 'asafoetida' < Proto-Iranian * * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
+/hɨŋ ɡɨʌ/ 'asafoetida', phonetic transcription < Sanskrit हिङ्गु hiṅgu 'asafoetida' < Proto-Iranian aṅgu-ǰatu- 'resin-gum'; cf. Tokharian B, Khotanese
 
 {{< /hint >}}
 

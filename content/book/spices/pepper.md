@@ -1,7 +1,7 @@
 ---
 title: Pepper
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The dried fruits of an Indian vine, also known as black pepper.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Pepper
 
-![Illustration of Piper nigrum](/images/kohler/pepper.png)
+![Illustration of Piper_nigrum](/images/kohler/pepper.png)
 
 {{< center >}}
 Illustration of Piper nigrum L. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Pepper (*Piper nigrum* L.) is a culinary and medicinal spice from the *Piperacea
 ## Etymologies
 
 {{< hint etym >}}
-English *pepper* < West Germanic * * *pipor* 'id.' < Latin *piper* 'black pepper, long pepper' < Ancient Greek πέπερι *péperi* 'id.' < Middle Indo-Aryan * पिप्परी *pipparī* 'long pepper' < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'
+English pepper < West Germanic pipor 'id.' < Latin piper 'black pepper, long pepper' < Ancient Greek πέπερι péperi 'id.' < Middle Indo-Aryan पिप्परी pipparī 'long pepper' < Sanskrit पिप्पलि pippali 'long pepper Piper longum (plant and berry); a berry'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic فلفل *filfil, fulful* 'pepper' < Persian پلپل *pilpil* 'id.'; cf. cognates Old Armenian *płpeł*, Old Georgian *ṗilṗili* < Middle Indo-Aryan * * ** 'long pepper' < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'
+Arabic فلفل filfil, fulful 'pepper' < Persian پلپل pilpil 'id.'; cf. cognates Old Armenian płpeł, Old Georgian ṗilṗili < Middle Indo-Aryan 'long pepper' < Sanskrit पिप्पलि pippali 'long pepper Piper longum (plant and berry); a berry'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 胡椒 *hú​jiāo* 'black pepper' [barbarian-pepper ], from 胡 *hú​* 'Western barbarians, steppe nomads' + 椒 *jiāo* 'pepper, spice' (*jiāo* was the prototype spice in China, originally referring to the local "Sichuan pepper" which is now called 花椒 *huājiāo* [flower-pepper ]), [Northern and Southern ] 420-445
+Mandarin Chinese 胡椒 hú​jiāo 'black pepper' [barbarian-pepper ], from 胡 hú​ 'Western barbarians, steppe nomads' + 椒 jiāo 'pepper, spice' (jiāo was the prototype spice in China, originally referring to the local "Sichuan pepper" which is now called 花椒 huājiāo [flower-pepper ]), [Northern and Southern ] 420-445
 
 {{< /hint >}}
 

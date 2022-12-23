@@ -1,7 +1,7 @@
 ---
 title: Caraway
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The seed-like fruits of a Eurasian herb.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Caraway
 
-![Illustration of Carum carvi](/images/kohler/caraway.png)
+![Illustration of Carum_carvi](/images/kohler/caraway.png)
 
 {{< center >}}
 Illustration of Carum carvi L. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Caraway (*Carum carvi* L.) is a culinary spice from the *Apiaceae* family,[^powo
 ## Etymologies
 
 {{< hint etym >}}
-English *caraway* 'caraway', ca. 1440 < Medieval Latin *carui* 'caraway', or some allied Romanic form, ca. 1080; cf. cognates French *carvi*, Italian *carvi*, Spanish *carvi*; Old Spanish *alcaravea*, *alcarahueya*, Portuguese *alcaravia*, *alcorovia* < Arabic كراويا *karāwiyā* 'caraway', (loaned to some Eurropean languages with *al-* definite article, via Andalusian Arabic) < Aramaic / *karwāyā* 'caraway' < Ancient Greek καρώ *karṓ* 'caraway', a form of the word *káron*, derived from *káre* 'head'; -ṓ form seems Pre-Greek (these forms could not immediately give the Arabic, hence possibly via *καρυΐα * *karuḯa* a typical plant derivation form of καρώ *karṓ*, κάρον *káron*); cf. cognates Latin *carum, careum*
+English caraway 'caraway', ca. 1440 < Medieval Latin carui 'caraway', or some allied Romanic form, ca. 1080; cf. cognates French carvi, Italian carvi, Spanish carvi; Old Spanish alcaravea, alcarahueya, Portuguese alcaravia, alcorovia < Arabic كراويا karāwiyā 'caraway', (loaned to some Eurropean languages with al- definite article, via Andalusian Arabic) < Aramaic / karwāyā 'caraway' < Ancient Greek καρώ karṓ 'caraway', a form of the word káron, derived from káre 'head'; -ṓ form seems Pre-Greek (these forms could not immediately give the Arabic, hence possibly via καρυΐα karuḯa a typical plant derivation form of καρώ karṓ, κάρον káron); cf. cognates Latin carum, careum
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic *karawiyā* 'caraway', (loaned to some Eurropean languages with *al-* definite article; via Andalusian Arabic) < Aramaic / *karwāyā* 'caraway' < Ancient Greek καρώ *karṓ* 'caraway', a form of the word *káron*, derived from *káre* 'head'; -ṓ form seems Pre-Greek (these forms could not immediately give the Arabic, hence possibly via *καρυΐα * *karuḯa* a typical plant derivation form of καρώ *karṓ*, κάρον *káron*); cf. cognates Latin *carum, careum*
+Arabic karawiyā 'caraway', (loaned to some Eurropean languages with al- definite article; via Andalusian Arabic) < Aramaic / karwāyā 'caraway' < Ancient Greek καρώ karṓ 'caraway', a form of the word káron, derived from káre 'head'; -ṓ form seems Pre-Greek (these forms could not immediately give the Arabic, hence possibly via καρυΐα karuḯa a typical plant derivation form of καρώ karṓ, κάρον káron); cf. cognates Latin carum, careum
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 葛縷子 *gě​lǚ​zi* 'caraway' [bean-hemp-seed? ], phono-semantic matching; see *shilo* 'cumin and caraway' < Japanese 葛縷子 *karyuushi* 'caraway', probably a transcription of Latin *Carui*, or English *caraway* + *zi* (also キャラウェイ *kyarawei* and 姫茴香 [princess-fennel-spice ]), 1822 < from English *caraway* 'caraway', ca. 1440 or from Medieval Latin *carui* 'caraway', or some allied Romanic form; cf. cognates French carvi, Italian carvi, Spanish carvi (whence Scots carvy, kervie), Old Spanish alcaravea, alcarahueya, Portuguese alcaravia, alcorovia < Arabic كراويا *karāwiyā* 'caraway', (loaned to some Eurropean languages with *al-* definite article; via Andalusian Arabic) < Aramaic / *karwāyā* 'caraway' < Ancient Greek καρώ *karṓ* 'caraway', a form of the word *káron*, derived from *káre* 'head'; -ṓ form seems Pre-Greek (these forms could not immediately give the Arabic, hence possibly via *καρυΐα * *karuḯa* a typical plant derivation form of καρώ *karṓ*, κάρον *káron*); cf. cognates Latin *carum, careum*
+Mandarin Chinese 葛縷子 gě​lǚ​zi 'caraway' [bean-hemp-seed? ], phono-semantic matching; see shilo 'cumin and caraway' < Japanese 葛縷子 karyuushi 'caraway', probably a transcription of Latin Carui, or English caraway + zi (also キャラウェイ kyarawei and 姫茴香 [princess-fennel-spice ]), 1822 < from English caraway 'caraway', ca. 1440 or from Medieval Latin carui 'caraway', or some allied Romanic form; cf. cognates French carvi, Italian carvi, Spanish carvi (whence Scots carvy, kervie), Old Spanish alcaravea, alcarahueya, Portuguese alcaravia, alcorovia < Arabic كراويا karāwiyā 'caraway', (loaned to some Eurropean languages with al- definite article; via Andalusian Arabic) < Aramaic / karwāyā 'caraway' < Ancient Greek καρώ karṓ 'caraway', a form of the word káron, derived from káre 'head'; -ṓ form seems Pre-Greek (these forms could not immediately give the Arabic, hence possibly via καρυΐα karuḯa a typical plant derivation form of καρώ karṓ, κάρον káron); cf. cognates Latin carum, careum
 
 {{< /hint >}}
 

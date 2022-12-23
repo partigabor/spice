@@ -1,7 +1,7 @@
 ---
 title: Coriander
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The dried fruits of an annual herb, also used for its fresh leaves, also known as cilantro; Chinese parsley.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Coriander
 
-![Illustration of Coriandrum sativum](/images/kohler/coriander.png)
+![Illustration of Coriandrum_sativum](/images/kohler/coriander.png)
 
 {{< center >}}
 Illustration of Coriandrum sativum L. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,22 +45,22 @@ Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiac
 ## Etymologies
 
 {{< hint etym >}}
-English *coriander* < Old French *coriandre* < Latin *coriandrum* < Ancient Greek *korīannon;-dron*
+English coriander < Old French coriandre < Latin coriandrum < Ancient Greek korīannon;-dron
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic كزبرة *kuzbara* 'coriander' < Aramaic *kusbara* 'coriander'; cf. cognates Classical Syriac *kūsbartā* < Akkadian *kisibirru* 'coriander' < Sanskrit कुस्तुम्बरी *kustumbarī* 'coriander'; cf. Tamil *kottamalli*; Indonesian *ketumbar*
+Arabic كزبرة kuzbara 'coriander' < Aramaic kusbara 'coriander'; cf. cognates Classical Syriac kūsbartā < Akkadian kisibirru 'coriander' < Sanskrit कुस्तुम्बरी kustumbarī 'coriander'; cf. Tamil kottamalli; Indonesian ketumbar
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 芫荽 *yánsuī* 'coriander' [lilac-coriander ], *yan* 'lilac daphne' + *sui* 'coriander', maybe a remodeling of 胡荽 *husui* after 芫花 *yanhua* 'lilac daphne' (*Daphne genkwa* a herb in TCM, on accou (the characters only appear in these words), ca. 1592
+Mandarin Chinese 芫荽 yánsuī 'coriander' [lilac-coriander ], yan 'lilac daphne' + sui 'coriander', maybe a remodeling of 胡荽 husui after 芫花 yanhua 'lilac daphne' (Daphne genkwa a herb in TCM, on accou (the characters only appear in these words), ca. 1592
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 胡荽 *húsuī* 'coriander' [barbarian-sui ], phono-semantic matching of an Iranian form < Iranian * * *koswi, *košwi, *gošwi* 'id.'; cf. cognates Middle Persian *gišnīz/kišnīz* 'coriander' ; Modern Persian گشنیز *gešniz* 'id.'
+Mandarin Chinese 胡荽 húsuī 'coriander' [barbarian-sui ], phono-semantic matching of an Iranian form < Iranian koswi, košwi, gošwi 'id.'; cf. cognates Middle Persian gišnīz/kišnīz 'coriander' ; Modern Persian گشنیز gešniz 'id.'
 
 {{< /hint >}}
 

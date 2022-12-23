@@ -1,7 +1,7 @@
 ---
 title: Star Anise
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The star shaped pericarps of a tree from Vietnam and South China.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Star Anise
 
-![Illustration of Illicium verum](/images/kohler/star anise.png)
+![Illustration of Illicium_verum](/images/kohler/star anise.png)
 
 {{< center >}}
 Illustration of Illicium verum Hook.f. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,22 +45,22 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 ## Etymologies
 
 {{< hint etym >}}
-English *star anise* 'star anise'
+English star anise 'star anise'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic ينسون نجمي *yansūn najmī* 'star anise'
+Arabic ينسون نجمي yansūn najmī 'star anise'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 八角茴香 *bājiǎohuíxiāng* 'star anise'
+Mandarin Chinese 八角茴香 bājiǎohuíxiāng 'star anise'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *badian* 'star anise', 1693 < French *badiane* 'star anise', 1681 < Persian بادیان *bādyān* 'fennel; anise'
+English badian 'star anise', 1693 < French badiane 'star anise', 1681 < Persian بادیان bādyān 'fennel; anise'
 
 {{< /hint >}}
 

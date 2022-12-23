@@ -1,7 +1,7 @@
 ---
 title: Cinnamon
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The inner bark of the cinnamon tree from Sri Lanka, related to cassia..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Cinnamon
 
-![Illustration of Cinnamomum verum](/images/kohler/cinnamon.png)
+![Illustration of Cinnamomum_verum](/images/kohler/cinnamon.png)
 
 {{< center >}}
 Illustration of Cinnamomum verum J.Presl. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Cinnamon (*Cinnamomum verum* J.Presl.) is a culinary and medicinal spice from th
 ## Etymologies
 
 {{< hint etym >}}
-English *cinnamon* 'cinnamon', (Middle English *sinamome, synamome*), ca. 1430 < French *cinnamome* 'cinnamon', (earlier *cynnamome*; also c. *cinamonde*), 1211 < Latin *cinnamōmum* 'cinnamon', c. < Ancient Greek κιννάμωμον *kinnámōmon* 'cinnamon', later refashioned as *kínnamon* after Latin *cinnamum/cinnamon*, which partly influenced the current English form (of Semitic origin), c. ; cf. cognates Coptic *kinnamomon* < Semitic * * *qnmwn* 'cinnamon'; cf. cognates Ancient Hebrew *qināmōn*; Judeo-Aramaic *qnmw* < unknown
+English cinnamon 'cinnamon', (Middle English sinamome, synamome), ca. 1430 < French cinnamome 'cinnamon', (earlier cynnamome; also c. cinamonde), 1211 < Latin cinnamōmum 'cinnamon', c. < Ancient Greek κιννάμωμον kinnámōmon 'cinnamon', later refashioned as kínnamon after Latin cinnamum/cinnamon, which partly influenced the current English form (of Semitic origin), c. ; cf. cognates Coptic kinnamomon < Semitic qnmwn 'cinnamon'; cf. cognates Ancient Hebrew qināmōn; Judeo-Aramaic qnmw < unknown
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic دارصيني *dārṣīnī* 'cinnamon' < Persian دارچین *dārchīnī* 'cinnamon' [Chinese wood ], from Persian *dār* 'wood' + *cīn* 'China'; cf. cognates Sanskrit *dāru* (PIE *dóru) < Pahlavi *dār ī čēnīg * *dār ī čēnīg* 'cinnamon', (cf. Armenian *daričenik*)
+Arabic دارصيني dārṣīnī 'cinnamon' < Persian دارچین dārchīnī 'cinnamon' [Chinese wood ], from Persian dār 'wood' + cīn 'China'; cf. cognates Sanskrit dāru (PIE dóru) < Pahlavi dār ī čēnīg dār ī čēnīg 'cinnamon', (cf. Armenian daričenik)
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic قرفة *qirfa* 'cinnamon' [bark, rind ], from qarafa 'to peel, bark, derind'; Semitic root q-r-f (related to root q-l-f); cf. Amharic *kerefe*
+Arabic قرفة qirfa 'cinnamon' [bark, rind ], from qarafa 'to peel, bark, derind'; Semitic root q-r-f (related to root q-l-f); cf. Amharic kerefe
 
 {{< /hint >}}
 

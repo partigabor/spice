@@ -1,7 +1,7 @@
 ---
 title: Mace
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The aril (seed-covering) of the nutmeg, related to nutmeg..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Mace
 
-![Illustration of Myristica fragrans](/images/kohler/mace.png)
+![Illustration of Myristica_fragrans](/images/kohler/mace.png)
 
 {{< center >}}
 Illustration of Myristica fragrans Houtt. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 ## Etymologies
 
 {{< hint etym >}}
-English *mace* 'aril surrounding the nutmeg', taken as a plural in Middle English (*macis*) and a new singular mace was formed from it, 1234 < Old French *macis* 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin *macis* 'id.'; cf. cognates Hungarian *mácisdió* < Latin *macir* < Ancient Greek μάκιρ *mákir* < unknown * **
+English mace 'aril surrounding the nutmeg', taken as a plural in Middle English (macis) and a new singular mace was formed from it, 1234 < Old French macis 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin macis 'id.'; cf. cognates Hungarian mácisdió < Latin macir < Ancient Greek μάκιρ mákir < unknown
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic بسباس *basbās* 'mace' < Persian
+Arabic بسباس basbās 'mace' < Persian
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 肉豆蔻皮 *ròudòukòupí* 'mace'
+Mandarin Chinese 肉豆蔻皮 ròudòukòupí 'mace'
 
 {{< /hint >}}
 

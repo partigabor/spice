@@ -1,7 +1,7 @@
 ---
 title: Turmeric
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The bright yellow powder yielded from the rhizomes of Curcuma longa.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal', 'ritualistic']
 
 # Turmeric
 
-![Illustration of Curcuma longa](/images/kohler/turmeric.png)
+![Illustration of Curcuma_longa](/images/kohler/turmeric.png)
 
 {{< center >}}
 Illustration of Curcuma longa L. from Köhler's Medizinal-Pflanzen (1887).
@@ -45,12 +45,12 @@ Turmeric (*Curcuma longa* L.) is a culinary and medicinal and ritualistic spice 
 ## Etymologies
 
 {{< hint etym >}}
-English *turmeric* 'turmeric', obscure origin (by alteration of earlier forms), 1545 < akin to French *terre mérite* 'saffron' [worthy earth ] < and Medieval Latin *terra merita* 'turmeric' [deserved earth ] < Arabic *kurkum* 'turmeric; saffron', maybe a folk-etymological corruption
+English turmeric 'turmeric', obscure origin (by alteration of earlier forms), 1545 < akin to French terre mérite 'saffron' [worthy earth ] < and Medieval Latin terra merita 'turmeric' [deserved earth ] < Arabic kurkum 'turmeric; saffron', maybe a folk-etymological corruption
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic كركم *kurkum* 'turmeric; saffron'; cf. cognates Hebrew *karkom*; Aramaic / *kurkmā*; Akkadian *kurkanū* < Sanskrit कुङ्कुम *kuṅkuma* 'saffron'
+Arabic كركم kurkum 'turmeric; saffron'; cf. cognates Hebrew karkom; Aramaic / kurkmā; Akkadian kurkanū < Sanskrit कुङ्कुम kuṅkuma 'saffron'
 
 {{< /hint >}}
 

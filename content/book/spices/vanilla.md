@@ -1,7 +1,7 @@
 ---
 title: Vanilla
 author: Gábor Parti
-date: 2022-12-22
+date: 2022-12-23
 description: The aromatic seed pods of orchid species from America.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Vanilla
 
-![Illustration of Vanilla planifolia](/images/kohler/vanilla.png)
+![Illustration of Vanilla_planifolia](/images/kohler/vanilla.png)
 
 {{< center >}}
 Illustration of Vanilla planifolia Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887).
@@ -45,17 +45,17 @@ Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *O
 ## Etymologies
 
 {{< hint etym >}}
-English *vanilla* , 1662 < Spanish *vainilla* 'id.' [little sheath, little pod ], from *vaina/vaína* 'scabbard, sheath; pod, husk' + *-illa* diminutive suffix, 1555 < Latin *vāgīna* 'scabbard, sheath; covering, holder of anything', esp. husks that enclose an ear of grain; also by anatomical figurative sense, origin of vagina
+English vanilla , 1662 < Spanish vainilla 'id.' [little sheath, little pod ], from vaina/vaína 'scabbard, sheath; pod, husk' + -illa diminutive suffix, 1555 < Latin vāgīna 'scabbard, sheath; covering, holder of anything', esp. husks that enclose an ear of grain; also by anatomical figurative sense, origin of vagina
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic فانيليا، فانيلا *fānīliyā, fānīllā* 'vanilla', (no /v/ sound in arabic, rendered with /f/ or /w/) < French *vanilia* 'vanilla'
+Arabic فانيليا، فانيلا fānīliyā, fānīllā 'vanilla', (no /v/ sound in arabic, rendered with /f/ or /w/) < French vanilia 'vanilla'
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 香草 *xiāngcǎo* 'vanilla' [fragrant-grass ], (also Cantonese 雲呢拿 *wan4 nei1 laa4-2*)
+Mandarin Chinese 香草 xiāngcǎo 'vanilla' [fragrant-grass ], (also Cantonese 雲呢拿 wan4 nei1 laa4-2)
 
 {{< /hint >}}
 
