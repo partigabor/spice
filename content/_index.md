@@ -42,9 +42,9 @@ B
 
 ***
 
-<!-- {{< image src="images/spices-300.png" alt="Illustration." >}}
+{{< image src="images/pepper-trail.png" alt="Illustration." >}}
 
-## How to Cite
+<!-- ## How to Cite
 
 As the thesis is under revision, and related papers are still in manuscript form, you can cite the website.
 
