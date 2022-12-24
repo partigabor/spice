@@ -25,6 +25,9 @@ This website contains information on spices and spice names. It aims to list, ca
 
 The goal of this project is to gather the available knowledge on spices (and in the future herbs, incense, and other aromatics as well), especially in terms of historical data. Our hypothesis is that along their journey during early global trade, these materials have left a continuous trail, which serves as linguistic evidence.
 
+{{< load-plotly >}}
+
+{{< plotly json="plotly/distribution.json" height="400" >}}
 
 <!-- 
 {{< columns >}}
