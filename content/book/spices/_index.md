@@ -12,10 +12,6 @@ resources:
   title: gallery-title-:counter
 ---
 
-{{% center %}}
-— WEBSITE UNDER CONSTRUCTION —
-{{% /center %}}
-
 # The Spices
 
 {{<section>}}

@@ -29,8 +29,6 @@ The following markdown file showcases all the features one can achieve within ma
 
 {{< load-plotly >}}
 
-1
-
 {{< plotly json="/plotly/distribution.json" height="200" >}}
 
 <!-- works if I put files on main website -->
@@ -125,9 +123,9 @@ Todo lists can be written by using the standard Markdown syntax:
 
 [An external link](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html)
 
-[A relative link from one post to another post](book/cite)
+[A relative link from one post to another post](book/introduction)
 
-[A link to a file](/spice/plotly/distribution.html)
+<!-- [A link to a file, needs to be on motherpage](/spice/plotly/distribution.html) --> 
 
 [A link to heading on this page](help#figures)
 
