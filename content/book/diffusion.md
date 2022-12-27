@@ -14,8 +14,8 @@ Um
 
 {{< load-plotly >}}
 
-{{< plotly json="plotly/distribution_en.json" height="400" >}}
+{{< plotly json="plotly/diffusion_en.json" height="400" >}}
 
-{{< plotly json="plotly/distribution_ar.json" height="400" >}}
+{{< plotly json="plotly/diffusion_ar.json" height="400" >}}
 
-{{< plotly json="plotly/distribution_zh.json" height="400" >}}
+{{< plotly json="plotly/diffusion_zh.json" height="400" >}}
