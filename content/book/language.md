@@ -15,20 +15,22 @@ plotly: true
 
 {{< load-plotly >}}
 
-{{< plotly json="/plotly/languages_tripie.json" height="200px" >}}
+## The Distribution of Names in Various Languages
+{{< plotly json="/plotly/languages_tripie.json" height="300px" >}}
 
-{{< plotly json="/plotly/analyzability_tripie.json" height="200px" >}}
+## Analyzability of Words
+{{< plotly json="/plotly/analyzability_tripie.json" height="300px" >}}
 
-{{< plotly json="/plotly/borrowing_pie.json" height="200px" >}}
+{{< plotly json="/plotly/borrowing_pie.json" height="300px" >}}
 
-{{< plotly json="/plotly/structure.json" height="200px" >}}
+{{< plotly json="/plotly/structure.json" height="300px" >}}
 
-{{< plotly json="/plotly/headword_tripie.json" height="200px" >}}
+{{< plotly json="/plotly/headword_tripie.json" height="300px" >}}
 
-{{< plotly json="/plotly/headword_type_tripie.json" height="200px" >}}
+{{< plotly json="/plotly/headword_type_tripie.json" height="300px" >}}
 
-{{< plotly json="/plotly/modifier_tripie.json" height="200px" >}}
+{{< plotly json="/plotly/modifier_tripie.json" height="300px" >}}
 
-{{< plotly json="/plotly/modifier_type_tripie.json" height="200px" >}}
+{{< plotly json="/plotly/modifier_type_tripie.json" height="300px" >}}
 
-{{< plotly json="/plotly/sensory_tripie.json" height="200px" >}}
+{{< plotly json="/plotly/sensory_tripie.json" height="300px" >}}

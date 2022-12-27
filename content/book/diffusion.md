@@ -33,8 +33,9 @@ This page contains visualizations showing the diffusion of spices on spatial and
 
 # Temporal Diffusion: Dates of Attestation
 
-{{< plotly json="/plotly/attestation.json" height="600px" >}}
-
 {{< plotly json="/plotly/attestation_and_borrowing.json" height="600px" >}}
+
+
+## Compact
 
 {{< plotly json="/plotly/attestation_and_borrowing_compact.json" height="600px" >}}
