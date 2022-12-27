@@ -10,14 +10,14 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://partigabor.github.io/spice/book/diffusion/" /><meta property="article:section" content="book" />
 <meta property="article:published_time" content="2022-12-01T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-12-27T13:03:22+08:00" />
+<meta property="article:modified_time" content="2022-12-27T13:07:00+08:00" />
 
 <title>The Diffusion of Spices | Spices &amp; Spice Terminology Database 1.0 (Beta)</title>
 <link rel="manifest" href="/spice/manifest.json">
 <link rel="icon" href="/spice/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/spice/book.min.b7af37373304934bb4a58d5c42e328c33b2e5b87140dc4f4746a060f509151b4.css" integrity="sha256-t683NzMEk0u0pY1cQuMowzsuW4cUDcT0dGoGD1CRUbQ=" crossorigin="anonymous">
   <script defer src="/spice/flexsearch.min.js"></script>
-  <script defer src="/spice/en.search.min.5a61123b828bb66cedfa01b0b6649219647293ad2bfc9d8a4eada0f171548ef3.js" integrity="sha256-WmESO4KLtmzt&#43;gGwtmSSGWRyk60r/J2KTq2g8XFUjvM=" crossorigin="anonymous"></script>
+  <script defer src="/spice/en.search.min.603dc360fe6ea776a539a4ebb871a0f09318ef4a5fae1e095a54c6b6ff540189.js" integrity="sha256-YD3DYP5up3alOaTruHGg8JMY70pfrh4JWlTGtv9UAYk=" crossorigin="anonymous"></script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5VF0FL7ED"></script>
 <script>
@@ -571,10 +571,19 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><p>
+  <article class="markdown">
   
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
+<p>This page contains visualizations showing the diffusion of spices on spatial and temporal trajectories when considering the etymologies of spice words.</p>
+<h1 id="spatial-diffusion-tracing-etymologies">
+  Spatial Diffusion: Tracing Etymologies
+  <a class="anchor" href="#spatial-diffusion-tracing-etymologies">#</a>
+</h1>
+<h2 id="english">
+  English
+  <a class="anchor" href="#english">#</a>
+</h2>
 
 
 <div id="/plotly/diffusion_en.json" class="plotly" style="height:600px"></div>
@@ -584,7 +593,11 @@ Plotly.d3.json("/plotly/diffusion_en.json", function(err, fig) {
     Plotly.plot('\/plotly\/diffusion_en.json', fig.data, fig.layout, {responsive: true});
 });
 </script>
-</p>
+
+<h2 id="arabic">
+  Arabic
+  <a class="anchor" href="#arabic">#</a>
+</h2>
 
 
 <div id="/plotly/diffusion_ar.json" class="plotly" style="height:600px"></div>
@@ -595,6 +608,10 @@ Plotly.d3.json("/plotly/diffusion_ar.json", function(err, fig) {
 });
 </script>
 
+<h2 id="chinese">
+  Chinese
+  <a class="anchor" href="#chinese">#</a>
+</h2>
 
 
 <div id="/plotly/diffusion_zh.json" class="plotly" style="height:600px"></div>
@@ -602,6 +619,20 @@ Plotly.d3.json("/plotly/diffusion_ar.json", function(err, fig) {
 <script>
 Plotly.d3.json("/plotly/diffusion_zh.json", function(err, fig) {
     Plotly.plot('\/plotly\/diffusion_zh.json', fig.data, fig.layout, {responsive: true});
+});
+</script>
+
+<h1 id="temporal-diffusion-dates-of-attestation">
+  Temporal Diffusion: Dates of Attestation
+  <a class="anchor" href="#temporal-diffusion-dates-of-attestation">#</a>
+</h1>
+
+
+<div id="/plotly/attestation.json" class="plotly" style="height:600px"></div>
+
+<script>
+Plotly.d3.json("/plotly/attestation.json", function(err, fig) {
+    Plotly.plot('\/plotly\/attestation.json', fig.data, fig.layout, {responsive: true});
 });
 </script>
 
@@ -614,7 +645,7 @@ Plotly.d3.json("/plotly/diffusion_zh.json", function(err, fig) {
   <div class="flex flex-wrap justify-between">
 
 
-  <div><a class="flex align-center" href="https://github.com/partigabor/spice/commit/26de91e3524cbdc1c21bcb9c398dcbcf80baa4bd" title='Last modified by Gabor Parti | December 27, 2022' target="_blank" rel="noopener">
+  <div><a class="flex align-center" href="https://github.com/partigabor/spice/commit/6a0598888a719b00fc911370489945be9e2c59fa" title='Last modified by Gabor Parti | December 27, 2022' target="_blank" rel="noopener">
       <img src="/spice/svg/calendar.svg" class="book-icon" alt="Calendar" />
       <span>December 27, 2022</span>
     </a>
