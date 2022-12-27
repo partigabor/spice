@@ -1,5 +1,8 @@
 ---
 title: "Introduction"
+author: Gábor Parti
+date: 2022-12-01
+description: Introduction.
 weight: 10
 # bookCollapseSection: true
 # bookComments: true
@@ -7,6 +10,7 @@ weight: 10
 # bookHidden: true
 # bookSearchExclude: true
 bookToc: false
+plotly: true
 ---
 
 # Introduction
