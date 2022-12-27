@@ -13,6 +13,8 @@ bookToc: false
 plotly: true
 ---
 
+{{< load-plotly >}}
+
 # Introduction
 
 ## The Distribution of Names in Various Languages
