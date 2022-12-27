@@ -15,7 +15,13 @@ plotly: true
 
 {{< load-plotly >}}
 
-This page contains visualizations showing the diffusion of spices on spatial and temporal trajectories when considering the etymologies of spice words. 
+# The Diffusion of Spices
+
+This page contains visualizations showing the diffusion of spices on spatial and temporal trajectories when considering the etymologies of spice words.
+
+## Borrowings
+
+{{< plotly json="/plotly/borrowing_pie.json" height="300px" >}}
 
 # Spatial Diffusion: Tracing Etymologies
 
