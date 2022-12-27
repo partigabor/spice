@@ -16,8 +16,8 @@ plotly: true
 Um...
 
 {{< load-plotly >}}
-{{< plotly json="plotly/diffusion_en.json" height="400" >}}
+{{< plotly json="/plotly/diffusion_name_allspice.json" height="300px" >}}
 
-{{< plotly json="plotly/diffusion_ar.json" height="400" >}}
+{{< plotly json="/plotly/diffusion_ar.json" height="400" >}}
 
-{{< plotly json="plotly/diffusion_zh.json" height="400" >}}
+{{< plotly json="/plotly/diffusion_zh.json" height="400" >}}
