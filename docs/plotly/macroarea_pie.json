@@ -1,1 +1,117 @@
-{"data":[{"customdata":[["Asia"],["Americas"],["Med"],["E. Med."],["Eurasia"],["Med.; W. Asia"]],"domain":{"x":[0.0,1.0],"y":[0.0,1.0]},"hole":0.45,"hovertemplate":"area=%{customdata[0]}<br>total=%{value}<extra></extra>","labels":["Asia","Americas","Med","E. Med.","Eurasia","Med.; W. Asia"],"legendgroup":"","marker":{"colors":["#5f4690","#38a6a5","#73af48","#e17c05","#94346e","#5f4690"]},"name":"","showlegend":true,"values":[16,3,2,1,1,1],"type":"pie","direction":"clockwise","sort":false,"textinfo":"value"}],"layout":{"template":{"layout":{"colorway":["#5f4690","#38a6a5","#73af48","#e17c05","#94346e"]}},"legend":{"tracegroupgap":0,"bgcolor":"rgba(255,255,255,0.5)","y":1,"x":0,"xanchor":"left","yanchor":"bottom","orientation":"h"},"margin":{"t":0,"r":0,"l":0,"b":0},"font":{"family":"Serif","color":"black","size":40},"width":600,"height":700,"annotations":[{"showarrow":false,"text":"24","x":0.5,"y":0.5,"font":{"size":40}}]}}
+{
+  "data": [
+    {
+      "customdata": [
+        [
+          "Asia"
+        ],
+        [
+          "Americas"
+        ],
+        [
+          "Med"
+        ],
+        [
+          "E. Med."
+        ],
+        [
+          "Eurasia"
+        ],
+        [
+          "Med.; W. Asia"
+        ]
+      ],
+      "domain": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "hole": 0.45,
+      "hovertemplate": "area=%{customdata[0]}<br>total=%{value}<extra></extra>",
+      "labels": [
+        "Asia",
+        "Americas",
+        "Med",
+        "E. Med.",
+        "Eurasia",
+        "Med.; W. Asia"
+      ],
+      "legendgroup": "",
+      "marker": {
+        "colors": [
+          "#5f4690",
+          "#38a6a5",
+          "#73af48",
+          "#e17c05",
+          "#94346e",
+          "#5f4690"
+        ]
+      },
+      "name": "",
+      "showlegend": true,
+      "values": [
+        16,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "type": "pie",
+      "direction": "clockwise",
+      "sort": false,
+      "textinfo": "value"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "colorway": [
+          "#5f4690",
+          "#38a6a5",
+          "#73af48",
+          "#e17c05",
+          "#94346e"
+        ]
+      }
+    },
+    "legend": {
+      "tracegroupgap": 0,
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "y": 1,
+      "x": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "orientation": "h"
+    },
+    "margin": {
+      "t": 0,
+      "r": 0,
+      "l": 0,
+      "b": 0
+    },
+    "font": {
+      "family": "Serif",
+      "color": "black",
+      "size": 40
+    },
+    "width": 600,
+    "height": 700,
+    "annotations": [
+      {
+        "showarrow": false,
+        "text": "24",
+        "x": 0.5,
+        "y": 0.5,
+        "font": {
+          "size": 40
+        }
+      }
+    ]
+  }
+}
