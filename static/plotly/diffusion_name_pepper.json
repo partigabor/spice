@@ -4,14 +4,18 @@
       "hoverinfo": "text",
       "hovertext": [
         "<br>pepper<br>English<br>Indo-European",
+        "<br>*pipor<br>West Germanic<br>Indo-European",
         "<br>piper<br>Latin<br>Indo-European",
         "\u03c0\u03ad\u03c0\u03b5\u03c1\u03b9<br>p\u00e9peri<br>Ancient Greek<br>Indo-European",
+        "\u092a\u093f\u092a\u094d\u092a\u0930\u0940 <br>pippar\u012b<br>Middle Indo-Aryan<br>Indo-European",
         "\u092a\u093f\u092a\u094d\u092a\u0932\u093f <br>pippali<br>Sanskrit<br>Indo-European"
       ],
       "lat": [
         52.0,
+        48.0,
         41.9026,
         39.8155,
+        26.61,
         20.0
       ],
       "line": {
@@ -21,8 +25,10 @@
       },
       "lon": [
         0.0,
+        9.0,
         12.4502,
         21.9129,
+        78.97,
         77.0
       ],
       "marker": {
@@ -40,8 +46,10 @@
       "opacity": 0.8,
       "text": [
         "pepper",
+        "*pipor",
         "piper",
         "p\u00e9peri",
+        "pippar\u012b",
         "pippali"
       ],
       "textfont": {

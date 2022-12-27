@@ -5,12 +5,14 @@
       "hovertext": [
         "<br>cumin<br>English<br>Indo-European",
         "<br>cum\u012bnum<br>Latin<br>Indo-European",
-        "\u03ba\u03cd\u03bc\u1fd1\u03bd\u03bf\u03bd<br>k\u00fam\u012bnon<br>Ancient Greek<br>Indo-European"
+        "\u03ba\u03cd\u03bc\u1fd1\u03bd\u03bf\u03bd<br>k\u00fam\u012bnon<br>Ancient Greek<br>Indo-European",
+        "<br>*kmn<br>Semitic<br>Afro-Asiatic"
       ],
       "lat": [
         52.0,
         41.9026,
-        39.8155
+        39.8155,
+        29.0
       ],
       "line": {
         "color": "#8f1329",
@@ -20,7 +22,8 @@
       "lon": [
         0.0,
         12.4502,
-        21.9129
+        21.9129,
+        40.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -38,7 +41,8 @@
       "text": [
         "cumin",
         "cum\u012bnum",
-        "k\u00fam\u012bnon"
+        "k\u00fam\u012bnon",
+        "*kmn"
       ],
       "textfont": {
         "color": "black",

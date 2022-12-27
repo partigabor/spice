@@ -5,12 +5,14 @@
       "hovertext": [
         "\u0647\u0627\u0644<br>h\u0101l<br>Arabic<br>Afro-Asiatic",
         "\u0647\u06cc\u0644<br>hil<br>Persian<br>Indo-European",
-        "\u090f\u0932\u093e<br>el\u0101<br>Sanskrit<br>Indo-European"
+        "\u090f\u0932\u093e<br>el\u0101<br>Sanskrit<br>Indo-European",
+        "<br>*\u0113la<br>Proto-Dravidian<br>Dravidian"
       ],
       "lat": [
         27.96,
         32.0,
-        20.0
+        20.0,
+        11.0
       ],
       "line": {
         "color": "#8f1329",
@@ -20,7 +22,8 @@
       "lon": [
         43.85,
         54.0,
-        77.0
+        77.0,
+        78.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -38,7 +41,8 @@
       "text": [
         "h\u0101l",
         "hil",
-        "el\u0101"
+        "el\u0101",
+        "*\u0113la"
       ],
       "textfont": {
         "color": "black",

@@ -3,10 +3,12 @@
     {
       "hoverinfo": "text",
       "hovertext": [
-        "\u80e1\u837d<br>h\u00fasu\u012b<br>Mandarin Chinese<br>Sino-Tibetan"
+        "\u80e1\u837d<br>h\u00fasu\u012b<br>Mandarin Chinese<br>Sino-Tibetan",
+        "<br>*koswi, *ko\u0161wi, *go\u0161wi<br>Iranian<br>Indo-European"
       ],
       "lat": [
-        40.0209
+        40.0209,
+        39.7
       ],
       "line": {
         "color": "#8f1329",
@@ -14,7 +16,8 @@
         "width": 4
       },
       "lon": [
-        116.228
+        116.228,
+        66.98
       ],
       "marker": {
         "color": "#8f1329",
@@ -30,7 +33,8 @@
       "name": "husui",
       "opacity": 0.8,
       "text": [
-        "h\u00fasu\u012b"
+        "h\u00fasu\u012b",
+        "*koswi, *ko\u0161wi, *go\u0161wi"
       ],
       "textfont": {
         "color": "black",

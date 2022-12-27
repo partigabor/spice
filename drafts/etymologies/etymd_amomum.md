@@ -6,8 +6,8 @@ identified, the word was used with uncertain denotation by earlier
 writers;, a. 1398 \< Latin *amomum* 'amomum and a balm containing this
 spice' \< Ancient Greek ἄμωμον *ámōmon* 'an Indian spice-plant, black
 cardamom (Amomum subulatum)', an Oriental loanword, cf. κιννάμωμον \<
-Semitic\* 'id.'; cf. cognates Classical Syriac *ḥəmāmā* → Arabic
-*ḥamāmā*; Akkadian *ḫamīmu*[^1]
+Semitic 'id.'; cf. cognates Classical Syriac *ḥəmāmā* → Arabic *ḥamāmā*;
+Akkadian *ḫamīmu*[^1]
 :::
 
 [^1]: @oed [s.v. amomum]; @lewis_latin_1879; @liddell_greek-english_1940

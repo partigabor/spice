@@ -5,12 +5,14 @@
       "hovertext": [
         "<br>amomum<br>English<br>Indo-European",
         "<br>amomum<br>Latin<br>Indo-European",
-        "\u1f04\u03bc\u03c9\u03bc\u03bf\u03bd<br>\u00e1m\u014dmon<br>Ancient Greek<br>Indo-European"
+        "\u1f04\u03bc\u03c9\u03bc\u03bf\u03bd<br>\u00e1m\u014dmon<br>Ancient Greek<br>Indo-European",
+        "<br><br>Semitic<br>Afro-Asiatic"
       ],
       "lat": [
         52.0,
         41.9026,
-        39.8155
+        39.8155,
+        29.0
       ],
       "line": {
         "color": "#8f1329",
@@ -20,7 +22,8 @@
       "lon": [
         0.0,
         12.4502,
-        21.9129
+        21.9129,
+        40.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -38,7 +41,8 @@
       "text": [
         "amomum",
         "amomum",
-        "\u00e1m\u014dmon"
+        "\u00e1m\u014dmon",
+        ""
       ],
       "textfont": {
         "color": "black",

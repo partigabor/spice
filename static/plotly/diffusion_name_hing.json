@@ -5,12 +5,14 @@
       "hovertext": [
         "<br>hing<br>English<br>Indo-European",
         "\u0939\u0940\u0902\u0917<br>h\u012bng<br>Hindi<br>Indo-European",
-        "\u0939\u093f\u0919\u094d\u0917\u0941<br>hi\u1e45gu<br>Sanskrit<br>Indo-European"
+        "\u0939\u093f\u0919\u094d\u0917\u0941<br>hi\u1e45gu<br>Sanskrit<br>Indo-European",
+        "<br>*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
       ],
       "lat": [
         52.0,
         25.0,
-        20.0
+        20.0,
+        45.0
       ],
       "line": {
         "color": "#8f1329",
@@ -20,7 +22,8 @@
       "lon": [
         0.0,
         77.0,
-        77.0
+        77.0,
+        65.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -38,7 +41,8 @@
       "text": [
         "hing",
         "h\u012bng",
-        "hi\u1e45gu"
+        "hi\u1e45gu",
+        "*a\u1e45gu-\u01f0atu-"
       ],
       "textfont": {
         "color": "black",

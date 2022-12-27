@@ -361,19 +361,19 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "Proto-Iranian*",
+      "legendgroup": "Proto-Iranian",
       "marker": {
         "color": "#000000",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Proto-Iranian*",
-      "offsetgroup": "Proto-Iranian*",
+      "name": "Proto-Iranian",
+      "offsetgroup": "Proto-Iranian",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "Proto-Iranian*"
+        "Proto-Iranian"
       ],
       "textposition": "inside",
       "x": [

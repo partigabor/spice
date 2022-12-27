@@ -45,32 +45,44 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 ## Etymologies
 
 {{< hint etym >}}
-English asafoetida, a. 1398 < Medieval Latin asafoetida [stinking asa ] < from Persian āzā 'mastic', in a Lanized form, asa + Latin foetid 'ill-smelling, stinking', (feminine of fœtidus)
+English *asafoetida*, a. 1398 < Medieval Latin *asafoetida* [stinking asa ] < from Persian *āzā* 'mastic', in a Lanized form, *asa* + Latin *foetid* 'ill-smelling, stinking', (feminine of *fœtidus*)
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English hing 'asafoetida', 1599 < Hindi हींग hīng 'asafoetida' < Sanskrit हिङ्गु hiṅgu 'asafoetida'; cf. cognates Sogdian 'ynkw < Proto-Iranian aṅgu-ǰatu- 'resin-gum'; cf. Tokharian B, Khotanese
+English *hing* 'asafoetida', 1599 < Hindi हींग *hīng* 'asafoetida' < Sanskrit हिङ्गु *hiṅgu* 'asafoetida'; cf. cognates Sogdian 'ynkw < Proto-Iranian * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic حلتيت ḥiltīt 'asafoetida resin'; cf. cognates Hebrew ḥiltiṯ < Aramaic / ḥeltīṯā 'id.'
+Arabic حلتيت *ḥiltīt* 'asafoetida resin'; cf. cognates Hebrew *ḥiltiṯ* < Aramaic / *ḥeltīṯā* 'id.'
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic أنجدان anjudān < Persian انگدان angudān < Proto-Iranian aṅgu-ǰatu- 'resin-gum'; cf. Tokharian B, Khotanese
+Arabic أنجدان *anjudān* < Persian انگدان *angudān* < Proto-Iranian * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/ʔɑ ŋʉiH/ 'asafoetida' < Tokharian B ankwaṣ(ṭ) 'asafoetida' < Sogdian angužat 'asafoetida' < Proto-Iranian aṅgu-ǰatu- 'resin-gum'
+/ʔɑ ŋʉiH/ 'asafoetida' < Tokharian B *ankwaṣ(ṭ)* 'asafoetida' < Sogdian * *angužat* 'asafoetida' < Proto-Iranian * *aṅgu-ǰatu-* 'resin-gum'
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/hɨŋ ɡɨʌ/ 'asafoetida', phonetic transcription < Sanskrit हिङ्गु hiṅgu 'asafoetida' < Proto-Iranian aṅgu-ǰatu- 'resin-gum'; cf. Tokharian B, Khotanese
+/hɨŋ ɡɨʌ/ 'asafoetida', phonetic transcription < Sanskrit हिङ्गु *hiṅgu* 'asafoetida' < Proto-Iranian * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
+
+
 
 {{< /hint >}}
 

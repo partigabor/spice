@@ -4,11 +4,13 @@
       "hoverinfo": "text",
       "hovertext": [
         "\u8591<br>ji\u0101ng<br>Mandarin Chinese<br>Sino-Tibetan",
-        "\u456c<br><br>Old Chinese<br>Sino-Tibetan"
+        "\u456c<br><br>Old Chinese<br>Sino-Tibetan",
+        "<br>*kja\u014b<br>Proto-Sino-Tibetan<br>Sino-Tibetan"
       ],
       "lat": [
         40.0209,
-        36.12
+        36.12,
+        24.0
       ],
       "line": {
         "color": "#8f1329",
@@ -17,7 +19,8 @@
       },
       "lon": [
         116.228,
-        114.32
+        114.32,
+        100.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -34,7 +37,8 @@
       "opacity": 0.8,
       "text": [
         "ji\u0101ng",
-        ""
+        "",
+        "*kja\u014b"
       ],
       "textfont": {
         "color": "black",

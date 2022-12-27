@@ -140,19 +140,19 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "Semitic*",
+      "legendgroup": "Semitic",
       "marker": {
         "color": "#73af48",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Semitic*",
-      "offsetgroup": "Semitic*",
+      "name": "Semitic",
+      "offsetgroup": "Semitic",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "Semitic*"
+        "Semitic"
       ],
       "textposition": "inside",
       "x": [
@@ -300,19 +300,19 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "Proto-Iranian*",
+      "legendgroup": "Proto-Iranian",
       "marker": {
         "color": "#6f4070",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Proto-Iranian*",
-      "offsetgroup": "Proto-Iranian*",
+      "name": "Proto-Iranian",
+      "offsetgroup": "Proto-Iranian",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "Proto-Iranian*"
+        "Proto-Iranian"
       ],
       "textposition": "inside",
       "x": [
@@ -364,19 +364,19 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "Iranian*",
+      "legendgroup": "Iranian",
       "marker": {
         "color": "#000000",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Iranian*",
-      "offsetgroup": "Iranian*",
+      "name": "Iranian",
+      "offsetgroup": "Iranian",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "Iranian*"
+        "Iranian"
       ],
       "textposition": "inside",
       "x": [

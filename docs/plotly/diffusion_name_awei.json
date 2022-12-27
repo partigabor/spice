@@ -5,12 +5,14 @@
       "hovertext": [
         "\u963f\u9b4f<br>\u0101w\u00e8i<br>Mandarin Chinese<br>Sino-Tibetan",
         "<br>ankwa\u1e63(\u1e6d)<br>Tokharian B<br>Indo-European",
-        "<br>*angu\u017eat<br>Sogdian<br>Indo-European"
+        "<br>*angu\u017eat<br>Sogdian<br>Indo-European",
+        "<br>*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
       ],
       "lat": [
         40.0209,
         41.65,
-        39.7
+        39.7,
+        45.0
       ],
       "line": {
         "color": "#8f1329",
@@ -20,7 +22,8 @@
       "lon": [
         116.228,
         82.9,
-        66.983
+        66.983,
+        65.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -38,7 +41,8 @@
       "text": [
         "\u0101w\u00e8i",
         "ankwa\u1e63(\u1e6d)",
-        "*angu\u017eat"
+        "*angu\u017eat",
+        "*a\u1e45gu-\u01f0atu-"
       ],
       "textfont": {
         "color": "black",

@@ -6,6 +6,7 @@
         "<br>nutmeg<br>English<br>Indo-European",
         "<br>*nois mugue<br>Anglo-Norman<br>Indo-European",
         "<br>nois mug(u)ede; nois musguete<br>Old French<br>Indo-European",
+        "<br>*nuce musc\u0101ta<br>Romance<br>Indo-European",
         "<br>nux muscada<br>Latin<br>Indo-European",
         "<br>*mu\u0161k<br>Pahlavi<br>Indo-European",
         "<br>mu\u1e63ka<br>Sanskrit<br>Indo-European"
@@ -14,6 +15,7 @@
         52.0,
         51.0,
         48.8,
+        44.0,
         41.9026,
         30.06,
         20.0
@@ -27,6 +29,7 @@
         0.0,
         -1.0,
         1.11,
+        12.0,
         12.4502,
         52.7,
         77.0
@@ -48,6 +51,7 @@
         "nutmeg",
         "*nois mugue",
         "nois mug(u)ede; nois musguete",
+        "*nuce musc\u0101ta",
         "nux muscada",
         "*mu\u0161k",
         "mu\u1e63ka"

@@ -8,7 +8,9 @@
         "<br>gingiber<br>Medieval Latin<br>Indo-European",
         "<br>zingiber<br>Latin<br>Indo-European",
         "\u03b6\u03b9\u03b3\u03b3\u03af\u03b2\u03b5\u03c1\u03b9\u03c2<br>ziggiberis<br>Ancient Greek<br>Indo-European",
-        "<br>si\u1e45givera <br>Pali<br>Indo-European"
+        "<br>si\u1e45givera <br>Pali<br>Indo-European",
+        "<br>*cinki-w\u0113r<br>Dravidian<br>",
+        "<br>*kja\u014b<br>Proto-Sino-Tibetan<br>Sino-Tibetan"
       ],
       "lat": [
         52.0,
@@ -16,7 +18,9 @@
         46.2,
         41.9026,
         39.8155,
-        24.5271
+        24.5271,
+        11.0,
+        24.0
       ],
       "line": {
         "color": "#8f1329",
@@ -29,7 +33,9 @@
         1.3,
         12.4502,
         21.9129,
-        82.251
+        82.251,
+        78.0,
+        100.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -50,7 +56,9 @@
         "gingiber",
         "zingiber",
         "ziggiberis",
-        "si\u1e45givera "
+        "si\u1e45givera ",
+        "*cinki-w\u0113r",
+        "*kja\u014b"
       ],
       "textfont": {
         "color": "black",

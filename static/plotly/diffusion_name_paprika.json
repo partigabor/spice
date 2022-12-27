@@ -6,18 +6,22 @@
         "<br>paprika<br>English<br>Indo-European",
         "<br>paprika<br>Hungarian<br>Uralic",
         "<br>paprika<br>Serbian-Croatian-Bosnian<br>Indo-European",
+        "*p\u044cp\u044cr\u044c<br>*p\u012dp\u012dr\u012d <br>Slavic<br>Indo-European",
         "<br>piper<br>Latin<br>Indo-European",
         "\u03c0\u03ad\u03c0\u03b5\u03c1\u03b9<br>p\u00e9peri<br>Ancient Greek<br>Indo-European",
         "<br>?<br>Pahlavi<br>Indo-European",
+        "<br>pippar\u012b<br>Middle Indo-Aryan<br>Indo-European",
         "<br>pippal\u012b<br>Sanskrit<br>Indo-European"
       ],
       "lat": [
         52.0,
         47.0,
         44.15,
+        43.72,
         41.9026,
         39.8155,
         30.06,
+        26.61,
         20.0
       ],
       "line": {
@@ -29,9 +33,11 @@
         0.0,
         20.0,
         18.81,
+        22.84,
         12.4502,
         21.9129,
         52.7,
+        78.97,
         77.0
       ],
       "marker": {
@@ -51,9 +57,11 @@
         "paprika",
         "paprika",
         "paprika",
+        "*p\u012dp\u012dr\u012d ",
         "piper",
         "p\u00e9peri",
         "?",
+        "pippar\u012b",
         "pippal\u012b"
       ],
       "textfont": {

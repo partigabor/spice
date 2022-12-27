@@ -45,17 +45,23 @@ Mace (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae* 
 ## Etymologies
 
 {{< hint etym >}}
-English mace 'aril surrounding the nutmeg', taken as a plural in Middle English (macis) and a new singular mace was formed from it, 1234 < Old French macis 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin macis 'id.'; cf. cognates Hungarian mácisdió < Latin macir < Ancient Greek μάκιρ mákir < unknown
+English *mace* 'aril surrounding the nutmeg', taken as a plural in Middle English (*macis*) and a new singular mace was formed from it, 1234 < Old French *macis* 'id.', (although only attested slightly later than in Middle English) < or Medieval Latin *macis* 'id.'; cf. cognates Hungarian *mácisdió* < Latin *macir* < Ancient Greek μάκιρ *mákir* < unknown *?*
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic بسباس basbās 'mace' < Persian
+Arabic بسباس *basbās* 'mace' < Persian
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 肉豆蔻皮 ròudòukòupí 'mace'
+Mandarin Chinese 肉豆蔻皮 *ròudòukòupí* 'mace'
+
+
 
 {{< /hint >}}
 

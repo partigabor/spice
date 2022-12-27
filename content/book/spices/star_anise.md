@@ -45,22 +45,30 @@ Star Anise (*Illicium verum* Hook.f.) is a culinary spice from the *Schisandrace
 ## Etymologies
 
 {{< hint etym >}}
-English star anise 'star anise'
+English *star anise* 'star anise'
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic ينسون نجمي yansūn najmī 'star anise'
+Arabic ينسون نجمي *yansūn najmī* 'star anise'
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 八角茴香 bājiǎohuíxiāng 'star anise'
+Mandarin Chinese 八角茴香 *bājiǎohuíxiāng* 'star anise'
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English badian 'star anise', 1693 < French badiane 'star anise', 1681 < Persian بادیان bādyān 'fennel; anise'
+English *badian* 'star anise', 1693 < French *badiane* 'star anise', 1681 < Persian بادیان *bādyān* 'fennel; anise'
+
+
 
 {{< /hint >}}
 

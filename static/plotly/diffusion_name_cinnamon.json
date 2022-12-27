@@ -6,13 +6,15 @@
         "<br>cinnamon<br>English<br>Indo-European",
         "<br>cinnamome<br>French<br>Indo-European",
         "<br>cinnam\u014dmum<br>Latin<br>Indo-European",
-        "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd<br>kinn\u00e1m\u014dmon<br>Ancient Greek<br>Indo-European"
+        "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd<br>kinn\u00e1m\u014dmon<br>Ancient Greek<br>Indo-European",
+        "<br>*qnmwn<br>Semitic<br>Afro-Asiatic"
       ],
       "lat": [
         52.0,
         48.0,
         41.9026,
-        39.8155
+        39.8155,
+        29.0
       ],
       "line": {
         "color": "#8f1329",
@@ -23,7 +25,8 @@
         0.0,
         2.0,
         12.4502,
-        21.9129
+        21.9129,
+        40.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -42,7 +45,8 @@
         "cinnamon",
         "cinnamome",
         "cinnam\u014dmum",
-        "kinn\u00e1m\u014dmon"
+        "kinn\u00e1m\u014dmon",
+        "*qnmwn"
       ],
       "textfont": {
         "color": "black",

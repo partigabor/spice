@@ -7,14 +7,18 @@
         "\u0719\u0722\u0713\u0712\u071d\u0720\u200e<br>zangab\u012bl<br>Classical Syriac<br>Afro-Asiatic",
         "<br>singib\u0113r<br>Pahlavi<br>Indo-European",
         "\ud804\udc32\ud804\udc3a\ud804\udc01\ud804\udc15\ud804\udc3a\ud804\udc2f\ud804\udc42\ud804\udc2d<br>si\u1e43givera<br>Sauraseni Prakrit<br>Indo-European",
-        "\u0936\u0943\u0919\u094d\u0917\u0935\u0947\u0930<br>\u015b\u1e5b\u1e45gavera<br>Sanskrit<br>Indo-European"
+        "\u0936\u0943\u0919\u094d\u0917\u0935\u0947\u0930<br>\u015b\u1e5b\u1e45gavera<br>Sanskrit<br>Indo-European",
+        "<br>*cinki-w\u0113r<br>Dravidian<br>",
+        "<br>*kja\u014b<br>Proto-Sino-Tibetan<br>Sino-Tibetan"
       ],
       "lat": [
         27.96,
         37.1129,
         30.06,
         27.46,
-        20.0
+        20.0,
+        11.0,
+        24.0
       ],
       "line": {
         "color": "#8f1329",
@@ -26,7 +30,9 @@
         42.1432,
         52.7,
         77.56,
-        77.0
+        77.0,
+        78.0,
+        100.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -46,7 +52,9 @@
         "zangab\u012bl",
         "singib\u0113r",
         "si\u1e43givera",
-        "\u015b\u1e5b\u1e45gavera"
+        "\u015b\u1e5b\u1e45gavera",
+        "*cinki-w\u0113r",
+        "*kja\u014b"
       ],
       "textfont": {
         "color": "black",

@@ -5,11 +5,13 @@
       "hovertext": [
         "\u0641\u0644\u0641\u0644<br>filfil, fulful<br>Arabic<br>Afro-Asiatic",
         "\u067e\u0644\u067e\u0644<br>pilpil<br>Persian<br>Indo-European",
+        "<br>?<br>Middle Indo-Aryan<br>Indo-European",
         "\u092a\u093f\u092a\u094d\u092a\u0932\u093f <br>pippali<br>Sanskrit<br>Indo-European"
       ],
       "lat": [
         27.96,
         32.0,
+        26.61,
         20.0
       ],
       "line": {
@@ -20,6 +22,7 @@
       "lon": [
         43.85,
         54.0,
+        78.97,
         77.0
       ],
       "marker": {
@@ -38,6 +41,7 @@
       "text": [
         "filfil, fulful",
         "pilpil",
+        "?",
         "pippali"
       ],
       "textfont": {

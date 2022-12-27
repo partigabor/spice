@@ -45,17 +45,23 @@ Nutmeg (*Myristica fragrans* Houtt.) is a culinary spice from the *Myristicaceae
 ## Etymologies
 
 {{< hint etym >}}
-English nutmeg < Anglo-Norman nois mugue < Old French nois mug(u)ede; nois musguete < Romance nuce muscāta < Latin nux muscada < Pahlavi mušk < Sanskrit muṣka
+English *nutmeg* < Anglo-Norman * *nois mugue* < Old French *nois mug(u)ede; nois musguete* < Romance * *nuce muscāta* < Latin *nux muscada* < Pahlavi * *mušk* < Sanskrit *muṣka*
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic جوز الطيب jawz al-ṭīb 'nutmeg' < Persian jawz buwwa 'nutmeg'
+Arabic جوز الطيب *jawz al-ṭīb* 'nutmeg' < Persian *jawz buwwa* 'nutmeg'
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 肉豆蔻 ròudòukòu 'nutmeg'
+Mandarin Chinese 肉豆蔻 *ròudòukòu* 'nutmeg'
+
+
 
 {{< /hint >}}
 

@@ -45,17 +45,23 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 ## Etymologies
 
 {{< hint etym >}}
-English saffron, ca. 1200; cf. Middle English saf(f)rǒun < French safran 'id.', c. 1150; cf. Middle Low German safferân, Middle Dutch saffraen (Dutch saffraan), Middle High German saffrân (modern German safran) < Medieval Latin saffrānum 'id.' < Arabic زعفران zaʿfarān 'id.', (not connected with ṣafrā' feminine of aṣfar 'yellow'); cf. Turkish, Persian, and Hindi; Jewish Aramaic zaʿperānā; Spanish azafran, Portuguese açafrão; the word without this prefix gives rise to Italian zafferano, zaffrone, Provençal safran, safrá, Catalan safrá, French safran, medieval Latin safranum, medieval Greek ζαϕρᾶς zaforás, modern Greek σαϕράνι safráni, Russian šafran.
+English *saffron*, ca. 1200; cf. Middle English *saf(f)rǒun* < French *safran* 'id.', c. 1150; cf. Middle Low German *safferân*, Middle Dutch *saffraen* (Dutch *saffraan*), Middle High German *saffrân* (modern German *safran*) < Medieval Latin *saffrānum* 'id.' < Arabic زعفران *zaʿfarān* 'id.', (not connected with *ṣafrā'* feminine of *aṣfar* 'yellow'); cf. Turkish, Persian, and Hindi; Jewish Aramaic *zaʿperānā*; Spanish *azafran*, Portuguese *açafrão*; the word without this prefix gives rise to Italian *zafferano, zaffrone*, Provençal *safran, safrá*, Catalan *safrá*, French *safran*, medieval Latin *safranum*, medieval Greek ζαϕρᾶς *zaforás*, modern Greek σαϕράνι *safráni*, Russian *šafran*. 
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic زعفران zaʿfarān 'saffron', (not connected with ṣafrā' feminine of aṣfar yellow); cf. Turkish, Persian, and Hindi; Jewish Aramaic zaʿperānā; Spanish azafran, Portuguese açafrão; the word without this prefix gives rise to Italian zafferano, zaffrone, Provençal safran, safrá, Catalan safrá, French safran, medieval Latin safranum, medieval Greek ζαϕρᾶς, modern Greek σαϕράνι, Russian šafran. < Pahlavi zarparān 'saffron' [golden thread ], zar 'gold' + par 'feather' + -ān 'pl.', a pseudo-etymological explanation < Akkadian azupīru, azupīrānu 'a spice and medicinal plant', (unlikely etymon)
+Arabic زعفران *zaʿfarān* 'saffron', (not connected with ṣafrā' feminine of aṣfar yellow); cf. Turkish, Persian, and Hindi; Jewish Aramaic zaʿperānā; Spanish azafran, Portuguese açafrão; the word without this prefix gives rise to Italian zafferano, zaffrone, Provençal safran, safrá, Catalan safrá, French safran, medieval Latin safranum, medieval Greek ζαϕρᾶς, modern Greek σαϕράνι, Russian šafran. < Pahlavi *zarparān* 'saffron' [golden thread ], *zar* 'gold' + *par* 'feather' + *-ān* 'pl.', a pseudo-etymological explanation < Akkadian *azupīru, azupīrānu* 'a spice and medicinal plant', (unlikely etymon)
+
+
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 番紅花 fānhónghuā 'saffron' [foreign-red-flower ], reached China from way of Kashmir and Tibet, hence the synonyms 藏紅花 zànghónghuā [Tibetan-red-flower ], 西紅花 xīhónghuā [western-red-flower ]
+Mandarin Chinese 番紅花 *fānhónghuā* 'saffron' [foreign-red-flower ], reached China from way of Kashmir and Tibet, hence the synonyms 藏紅花 *zànghónghuā* [Tibetan-red-flower ], 西紅花 *xīhónghuā* [western-red-flower ]
+
+
 
 {{< /hint >}}
 

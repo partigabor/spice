@@ -4,11 +4,13 @@
       "hoverinfo": "text",
       "hovertext": [
         "\u0623\u0646\u062c\u062f\u0627\u0646<br>anjud\u0101n<br>Arabic<br>Afro-Asiatic",
-        "\u0627\u0646\u06af\u062f\u0627\u0646\u200e<br>angud\u0101n<br>Persian<br>Indo-European"
+        "\u0627\u0646\u06af\u062f\u0627\u0646\u200e<br>angud\u0101n<br>Persian<br>Indo-European",
+        "<br>*a\u1e45gu-\u01f0atu-<br>Proto-Iranian<br>Indo-European"
       ],
       "lat": [
         27.96,
-        32.0
+        32.0,
+        45.0
       ],
       "line": {
         "color": "#8f1329",
@@ -17,7 +19,8 @@
       },
       "lon": [
         43.85,
-        54.0
+        54.0,
+        65.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -34,7 +37,8 @@
       "opacity": 0.8,
       "text": [
         "anjud\u0101n",
-        "angud\u0101n"
+        "angud\u0101n",
+        "*a\u1e45gu-\u01f0atu-"
       ],
       "textfont": {
         "color": "black",

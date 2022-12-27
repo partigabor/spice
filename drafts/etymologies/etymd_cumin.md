@@ -8,7 +8,7 @@ has also come down in the Romanic languages, Italian cumino, comino,
 Spanish comino, Portuguese cominho, Old French cumin, comin. \< Latin
 *cumīnum* 'id.' \< Ancient Greek κύμῑνον *kúmīnon* 'id.', The Greek
 κύμῑνον is supposed to have been a foreign word, cognate in origin with
-the Semitic names \< Semitic\* *\*kmn* 'id.'; cf. cognates Arabic
+the Semitic names \< Semitic *\*kmn* 'id.'; cf. cognates Arabic
 *kammūn*; Hebrew *kammōn*; Akkadian *kamūnu*[^1]
 :::
 
