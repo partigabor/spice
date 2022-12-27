@@ -59,17 +59,6 @@ Mandarin Chinese 胡蘆巴 húlúbā 'fenugreek' < Persian حلبة ḥulba 'fen
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fenugreek.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_hulba.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_huluba.json" height="300px" >}}
-
 ***
 
 ## Names

@@ -59,17 +59,6 @@ Mandarin Chinese 番紅花 fānhónghuā 'saffron' [foreign-red-flower ], reache
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_saffron.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_zafaran.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fanhonghua.json" height="300px" >}}
-
 ***
 
 ## Names

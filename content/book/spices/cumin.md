@@ -59,17 +59,6 @@ Mandarin Chinese 孜然 zī​rán 'cumin', modern loan from Uyghur (the histori
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_kammun.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_ziran.json" height="300px" >}}
-
 ***
 
 ## Names

@@ -59,17 +59,6 @@ Mandarin Chinese 肉豆蔻 ròudòukòu 'nutmeg'
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_nutmeg.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_jawz_al-tib.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_roudoukou.json" height="300px" >}}
-
 ***
 
 ## Names

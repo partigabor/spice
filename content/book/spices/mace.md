@@ -59,17 +59,6 @@ Mandarin Chinese 肉豆蔻皮 ròudòukòupí 'mace'
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_mace.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_basbas.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_roudoukoupi.json" height="300px" >}}
-
 ***
 
 ## Names

@@ -64,20 +64,6 @@ Mandarin Chinese 胡荽 húsuī 'coriander' [barbarian-sui ], phono-semantic mat
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_coriander.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_kuzbura.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_yansui.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_husui.json" height="300px" >}}
-
 ***
 
 ## Names

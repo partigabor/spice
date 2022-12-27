@@ -59,17 +59,6 @@ Mandarin Chinese 茴香 huíxiāng 'fennel' [hui-spice ], 茴 hui refers to fenn
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fennel.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_shamar.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_huixiang.json" height="300px" >}}
-
 ***
 
 ## Names

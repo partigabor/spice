@@ -59,17 +59,6 @@ Mandarin Chinese 葛縷子 gě​lǚ​zi 'caraway' [bean-hemp-seed? ], phono-se
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_caraway.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_karawiya.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_geluzi.json" height="300px" >}}
-
 ***
 
 ## Names

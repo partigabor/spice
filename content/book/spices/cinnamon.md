@@ -59,17 +59,6 @@ Arabic قرفة qirfa 'cinnamon' [bark, rind ], from qarafa 'to peel, bark, deri
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_cinnamon.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_darsini.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_qirfa.json" height="300px" >}}
-
 ***
 
 ## Names

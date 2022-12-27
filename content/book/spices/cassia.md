@@ -59,17 +59,6 @@ Arabic سليخة salīkha 'cinnamon bark; cassia bark' [peeled off, stripped of
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_cassia.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_salikha.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_rougui.json" height="300px" >}}
-
 ***
 
 ## Names

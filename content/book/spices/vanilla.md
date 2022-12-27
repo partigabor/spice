@@ -59,17 +59,6 @@ Mandarin Chinese 香草 xiāngcǎo 'vanilla' [fragrant-grass ], (also Cantonese 
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_vanilla.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_faniliya.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_xiangcao.json" height="300px" >}}
-
 ***
 
 ## Names

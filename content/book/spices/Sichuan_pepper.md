@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Sichuan Pepper
 
-![Illustration of Zanthoxylum_bungeanum](/images/kohler/Sichuan pepper.png)
+![Illustration of Zanthoxylum_bungeanum](/images/kohler/Sichuan_pepper.png)
 
 {{< center >}}
 Illustration of Zanthoxylum bungeanum Maxim. from Köhler's Medizinal-Pflanzen (1887).
@@ -63,20 +63,6 @@ Arabic فلفل سيتشوان fulful sītshuwān 'Sichuan pepper'
 Mandarin Chinese 花椒 huā​jiāo 'Sichuan pepper' [flower-pepper ]
 
 {{< /hint >}}
-
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_Sichuan_pepper.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fagara.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fulful_sitshuwan.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_huajiao.json" height="300px" >}}
 
 ***
 

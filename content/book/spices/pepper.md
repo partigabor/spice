@@ -59,17 +59,6 @@ Mandarin Chinese 胡椒 hú​jiāo 'black pepper' [barbarian-pepper ], from 胡
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_pepper.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fulful.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_hujiao.json" height="300px" >}}
-
 ***
 
 ## Names

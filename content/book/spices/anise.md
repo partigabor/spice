@@ -59,17 +59,6 @@ Mandarin Chinese 茴芹 huíqín 'anise' [hui-celery ], from hui 'anise/fennel' 
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_anise.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_anisun.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_huiqin.json" height="300px" >}}
-
 ***
 
 ## Names

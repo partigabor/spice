@@ -59,17 +59,6 @@ Arabic زنجبيل zanjabīl 'ginger', 609-632 < Classical Syriac ܙܢܓܒܝܠ 
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_ginger.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_zanjabil.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_jiang.json" height="300px" >}}
-
 ***
 
 ## Names

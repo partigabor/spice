@@ -64,20 +64,6 @@ English paprika < Hungarian paprika, diminutive? < Serbian-Croatian-Bosnian papr
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_chile.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fulful_harr.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_lajiao.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_paprika.json" height="300px" >}}
-
 ***
 
 ## Names

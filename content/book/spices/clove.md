@@ -59,17 +59,6 @@ Mandarin Chinese 丁香 dīngxiāng 'clove' [nail-spice ], using pictogram after
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_clove.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_qaranful.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_dingxiang.json" height="300px" >}}
-
 ***
 
 ## Names

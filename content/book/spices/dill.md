@@ -59,17 +59,6 @@ Mandarin Chinese 蒔蘿 shíluó 'dill', 1008 < Persian zīra 'dill', distantly 
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_dill.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_shibitt.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_shiluo.json" height="300px" >}}
-
 ***
 
 ## Names

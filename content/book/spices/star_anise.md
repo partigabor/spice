@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Star Anise
 
-![Illustration of Illicium_verum](/images/kohler/star anise.png)
+![Illustration of Illicium_verum](/images/kohler/star_anise.png)
 
 {{< center >}}
 Illustration of Illicium verum Hook.f. from Köhler's Medizinal-Pflanzen (1887).
@@ -63,20 +63,6 @@ Mandarin Chinese 八角茴香 bājiǎohuíxiāng 'star anise'
 English badian 'star anise', 1693 < French badiane 'star anise', 1681 < Persian بادیان bādyān 'fennel; anise'
 
 {{< /hint >}}
-
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_star_anise.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_yansun_najmi.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_bajiaohuixiang.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_badian.json" height="300px" >}}
 
 ***
 

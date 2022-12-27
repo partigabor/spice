@@ -64,20 +64,6 @@ Mandarin Chinese 多香果 duōxiāngguǒ 'allspice' [many-spice-fruit ], semant
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_allspice.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_pimento.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fulful_ifranji.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_duoxiangguo.json" height="300px" >}}
-
 ***
 
 ## Names

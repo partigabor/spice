@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Long Pepper
 
-![Illustration of Piper_longum](/images/kohler/long pepper.png)
+![Illustration of Piper_longum](/images/kohler/long_pepper.png)
 
 {{< center >}}
 Illustration of Piper longum L. from Köhler's Medizinal-Pflanzen (1887).
@@ -58,17 +58,6 @@ Arabic دارفلفل dārfilfil 'long pepper', compound of two Persian words < 
 /piɪt̚ buɑt̚/ 'long pepper', a phonetic loan < Sanskrit पिप्पलि pippali 'long pepper Piper longum (plant and berry); a berry'
 
 {{< /hint >}}
-
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_long_pepper.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_darfilfil.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_biba.json" height="300px" >}}
 
 ***
 

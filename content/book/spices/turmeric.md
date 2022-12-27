@@ -54,14 +54,6 @@ Arabic كركم kurkum 'turmeric; saffron'; cf. cognates Hebrew karkom; Aramaic 
 
 {{< /hint >}}
 
-## Etymology maps
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_turmeric.json" height="300px" >}}
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_kurkum.json" height="300px" >}}
-
 ***
 
 ## Names
