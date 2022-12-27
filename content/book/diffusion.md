@@ -13,9 +13,5 @@ bookToc: false
 plotly: true
 ---
 
-Um...
-
 {{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_allspice.json" height="300px" >}}
-
-so...
+{{< plotly json="/plotly/diffusion_en_.json" height="400px" >}}
