@@ -59,6 +59,17 @@ Mandarin Chinese 胡椒 hú​jiāo 'black pepper' [barbarian-pepper ], from 胡
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_pepper.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_fulful.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_hujiao.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -91,9 +102,6 @@ Mandarin Chinese 胡椒 hú​jiāo 'black pepper' [barbarian-pepper ], from 胡
 |  黑胡椒 | hēihújiāo|black-barbarian-pepper|        MDBG        |
 |  綠胡椒 | lǜhújiāo |green-barbarian-pepper|Regency Spices, 2022|
 |  青胡椒 |qīnghújiāo|green-barbarian-pepper|Regency Spices, 2022|
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_pepper.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

@@ -64,6 +64,20 @@ Mandarin Chinese 多香果 duōxiāngguǒ 'allspice' [many-spice-fruit ], semant
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_allspice.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_pimento.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_fulful_ifranji.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_duoxiangguo.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -101,9 +115,6 @@ Mandarin Chinese 多香果 duōxiāngguǒ 'allspice' [many-spice-fruit ], semant
 |  全香子 |  quánxiāngzǐ  |     all-spice-seed     |Spices Journey, 2022|
 | 牙買加胡椒|yámǎijiā hújiāo|Jamaica-barbarian-pepper|        MDBG        |
 |  眾香子 |  zhòngxiāngzǐ |     many-spice-seed    |        MDBG        |
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_allspice.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

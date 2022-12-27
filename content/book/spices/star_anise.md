@@ -64,6 +64,20 @@ English badian 'star anise', 1693 < French badiane 'star anise', 1681 < Persian 
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_star_anise.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_yansun_najmi.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_bajiaohuixiang.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_badian.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -96,9 +110,6 @@ English badian 'star anise', 1693 < French badiane 'star anise', 1681 < Persian 
 |  舶茴香 |  bóhuíxiāng  |    ship-hui-spice    |               |
 |  大茴香 |  dà​huíxiāng |     big-hui-spice    |      MDBG     |
 |  大料  |    dàliào    |    big-ingredient    |Defrancis, 2003|
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_star_anise.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

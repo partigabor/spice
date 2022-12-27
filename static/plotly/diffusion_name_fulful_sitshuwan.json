@@ -3,7 +3,7 @@
     {
       "hoverinfo": "text",
       "hovertext": [
-        "\u0641\u0644\u0641\u0644 \u062d\u0627\u0631 <br>fulful \u1e25\u0101rr<br>Arabic<br>Afro-Asiatic"
+        "\u0641\u0644\u0641\u0644 \u0633\u064a\u062a\u0634\u0648\u0627\u0646<br>fulful s\u012btshuw\u0101n<br>Arabic<br>Afro-Asiatic"
       ],
       "lat": [
         27.96
@@ -27,10 +27,10 @@
         "symbol": "diamond"
       },
       "mode": "markers+text",
-      "name": "fulful harr",
+      "name": "fulful sitshuwan",
       "opacity": 0.8,
       "text": [
-        "fulful \u1e25\u0101rr"
+        "fulful s\u012btshuw\u0101n"
       ],
       "textfont": {
         "color": "black",
@@ -141,7 +141,7 @@
       "y": 0.99,
       "xanchor": "center",
       "yanchor": "top",
-      "text": "Etymological stages of fulful harr"
+      "text": "Etymological stages of fulful_sitshuwan"
     },
     "margin": {
       "r": 0,

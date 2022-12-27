@@ -3,10 +3,10 @@
     {
       "hoverinfo": "text",
       "hovertext": [
-        "\u064a\u0646\u0633\u0648\u0646 \u0646\u062c\u0645\u064a<br>yans\u016bn najm\u012b<br>Arabic<br>Afro-Asiatic"
+        "<br>Sichuan pepper<br>English<br>Indo-European"
       ],
       "lat": [
-        27.96
+        52.0
       ],
       "line": {
         "color": "#8f1329",
@@ -14,7 +14,7 @@
         "width": 4
       },
       "lon": [
-        43.85
+        0.0
       ],
       "marker": {
         "color": "#8f1329",
@@ -27,10 +27,10 @@
         "symbol": "diamond"
       },
       "mode": "markers+text",
-      "name": "yansun najmi",
+      "name": "Sichuan pepper",
       "opacity": 0.8,
       "text": [
-        "yans\u016bn najm\u012b"
+        "Sichuan pepper"
       ],
       "textfont": {
         "color": "black",
@@ -141,7 +141,7 @@
       "y": 0.99,
       "xanchor": "center",
       "yanchor": "top",
-      "text": "Etymological stages of yansun najmi"
+      "text": "Etymological stages of Sichuan_pepper"
     },
     "margin": {
       "r": 0,

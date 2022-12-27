@@ -59,6 +59,17 @@ Mandarin Chinese 孜然 zī​rán 'cumin', modern loan from Uyghur (the histori
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_kammun.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_ziran.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -92,9 +103,6 @@ Mandarin Chinese 孜然 zī​rán 'cumin', modern loan from Uyghur (the histori
 |  馬芹子 |    mǎqínzi   |  horse-celery-seed |             |
 |  枯茗  |    kūmíng    |    withered-tea    |     MDBG    |
 |  蒔蘿  |    shíluó    |     dill-turnip    |Kleeman, 2010|
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_cumin.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

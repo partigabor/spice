@@ -59,6 +59,17 @@ Mandarin Chinese 番紅花 fānhónghuā 'saffron' [foreign-red-flower ], reache
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_saffron.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_zafaran.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_fanhonghua.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -88,9 +99,6 @@ Mandarin Chinese 番紅花 fānhónghuā 'saffron' [foreign-red-flower ], reache
 |  撒法郎 |  sǎfǎláng |                  |  Laufer, 1919 |
 |  咱夫藍 |  záfūlán  |                  |  Laufer, 1919 |
 |  鬱金香 | yùjīnxiāng| yü-gold-aromatic | Schafer, 1985 |
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_saffron.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

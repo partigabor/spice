@@ -59,6 +59,17 @@ Arabic سليخة salīkha 'cinnamon bark; cassia bark' [peeled off, stripped of
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_cassia.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_salikha.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_rougui.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -102,9 +113,6 @@ Arabic سليخة salīkha 'cinnamon bark; cassia bark' [peeled off, stripped of
 |   桂  |  guì  |     cassia    |Defrancis, 2003|
 |  桂枝  | guìzhī|cassia-branches|Defrancis, 2003|
 |  桂子  | guìzǐ |  cassia-seeds |Defrancis, 2003|
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_cassia.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

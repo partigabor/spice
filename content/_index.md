@@ -63,6 +63,6 @@ As the thesis is under revision, and related papers are still in manuscript form
 #### In APA 7<sup>th</sup>:
 
 {{< hint cite >}}  
-Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.0 (beta). Retrieved December 22, 2022, https://partigabor.github.io/spice/
+Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.0 (Beta). Retrieved December 22, 2022, https://partigabor.github.io/spice/
 {{< /hint >}}
 

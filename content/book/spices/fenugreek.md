@@ -59,6 +59,17 @@ Mandarin Chinese 胡蘆巴 húlúbā 'fenugreek' < Persian حلبة ḥulba 'fen
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_fenugreek.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_hulba.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_huluba.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -81,9 +92,6 @@ Mandarin Chinese 胡蘆巴 húlúbā 'fenugreek' < Persian حلبة ḥulba 'fen
 |script| term |      literal     |    source   |
 |------|------|------------------|-------------|
 |  胡蘆巴 |húlúbā|barbarian-reeds-ba|Kleeman, 2010|
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_fenugreek.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

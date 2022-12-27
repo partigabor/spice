@@ -59,6 +59,17 @@ Arabic قرفة qirfa 'cinnamon' [bark, rind ], from qarafa 'to peel, bark, deri
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_cinnamon.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_darsini.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_qirfa.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -88,9 +99,6 @@ Arabic قرفة qirfa 'cinnamon' [bark, rind ], from qarafa 'to peel, bark, deri
 |script|    term   |       literal       |  source |
 |------|-----------|---------------------|---------|
 | 錫蘭肉桂 |xīlánròuguì|Ceylon-flesh-cinnamon|Wikipedia|
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_cinnamon.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

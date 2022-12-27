@@ -69,6 +69,23 @@ Arabic قاقلة qāqulla 'cardamom; black cardamom' < Classical Syriac קָק�
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_cardamom.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_amomum.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_hal.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_qaqulla.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_doukou.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -99,9 +116,6 @@ Arabic قاقلة qāqulla 'cardamom; black cardamom' < Classical Syriac קָק�
 |  綠豆蔻 |  lǜdòukòu |   green-cardamom  |   Wikipedia   |
 |  青砂仁 |qīngshā​rén|green-gravel-kernel|   Wikipedia   |
 |  小豆蔻 | xiǎodòukòu|  little-cardamom  |Defrancis, 2003|
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_cardamom.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001

@@ -74,6 +74,26 @@ Arabic أنجدان anjudān < Persian انگدان angudān < Proto-Iranian a�
 
 {{< /hint >}}
 
+## Etymology maps
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_asafoetida.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_hing.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_hiltit.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_anjudan.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_awei.json" height="300px" >}}
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/diffusion_name_xingqu.json" height="300px" >}}
+
 ***
 
 ## Names
@@ -107,9 +127,6 @@ Arabic أنجدان anjudān < Persian انگدان angudān < Proto-Iranian a�
 |  黑黎提提  |hēilítí​tí|       |Rossabi, 2013|
 |   形虞   |  xíngyú  |       | Leung, 2019 |
 |興蕖/興渠/興瞿|  xīngqú  |       | Leung, 2019 |
-
-{{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_name_asafoetida.json" height="300px" >}}
 
 [^powo]: POWO. (2022). Plants of the World Online (Botanical Database). Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/
 [^van_wyk_culinary_2014]: van Wyk, B.-E. (2014). Culinary Herbs and Spices of the World. University of Chicago Press, joint publication with the Royal Botanic Gardens, Kew. https://doi.org/10.7208/chicago/9780226091839.001.0001
