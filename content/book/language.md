@@ -20,6 +20,7 @@ plotly: true
 ## Analyzability of Words
 {{< plotly json="/plotly/analyzability_tripie.json" height="300px">}}
 
+## The Structure of Spice Names
 {{< plotly json="/plotly/structure_tripie.json" height="300px" >}}
 
 ## Headwords
