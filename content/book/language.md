@@ -17,13 +17,10 @@ plotly: true
 
 # The Language of Spices
 
-## The Distribution of Names in Various Languages
-{{< plotly json="/plotly/languages_pie.json" height="300px" >}}
-
 ## Analyzability of Words
-{{< plotly json="/plotly/analyzability_tripie.json" height="300px" width="600px">}}
+{{< plotly json="/plotly/analyzability_tripie.json" height="300px">}}
 
-{{< plotly json="/plotly/structure.json" height="300px" >}}
+{{< plotly json="/plotly/structure_tripie.json" height="300px" >}}
 
 ## Headwords
 {{< plotly json="/plotly/headword_bar.json" height="300px" >}}
