@@ -1,7 +1,7 @@
 ---
 title: Chile
 author: Gábor Parti
-date: 2022-12-23
+date: 2022-12-27
 description: The fruits of several species from Central and South America , related to paprika., also known as chilli; chili pepper.
 weight: 1
 # bookCollapseSection: true

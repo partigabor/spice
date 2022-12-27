@@ -1,7 +1,7 @@
 ---
 title: Coriander
 author: Gábor Parti
-date: 2022-12-23
+date: 2022-12-27
 description: The dried fruits of an annual herb, also used for its fresh leaves, also known as cilantro; Chinese parsley.
 weight: 1
 # bookCollapseSection: true

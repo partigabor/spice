@@ -1,5 +1,8 @@
 ---
 title: "The Diffusion of Spices"
+author: Gábor Parti
+date: 2022-12-01
+description: Diffusion.
 weight: 30
 # bookCollapseSection: true
 # bookComments: true
@@ -10,10 +13,9 @@ bookToc: false
 plotly: true
 ---
 
-Um
+Um...
 
 {{< load-plotly >}}
-
 {{< plotly json="plotly/diffusion_en.json" height="400" >}}
 
 {{< plotly json="plotly/diffusion_ar.json" height="400" >}}
