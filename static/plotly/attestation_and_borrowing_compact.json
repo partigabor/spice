@@ -1,1 +1,2402 @@
-{"data":[{"customdata":[["Sichuan pepper","pepper","-771","Zanthoxylum spp.",1],["ginger","ginger","-221","Zingiber officinale",1],["cassia","flesh-cassia","170-219","Cinnamomum cassia",1],["cassia","cassia","c-200","Cinnamomum cassia",1],["clove","chicken-tongue-spice","343","Syzygium aromaticum",1],["saffron","y\u00fc-gold-aromatic","343","Crocus sativus",1],["pepper","barbarian-pepper","c450","Piper nigrum",1],["fennel","hui-spice","801","Foeniculum vulgare",1],["nutmeg","flesh-bean-cardamom","978","Myristica fragrans",1],["coriander","fragrant-vegetable","978","Coriandrum sativum",1],["clove","nail-spice","1321","Syzygium aromaticum",1],["turmeric","ginger-yellow","1408","Curcuma longa",1],["saffron","foreign-red-flower","1578","Crocus sativus",1],["star anise","eight-horned-hui-spice","1578","Illicium verum",1],["chile","foreign-pepper","1591","Capsicum annuum",1],["Sichuan pepper","flower-pepper","c1592","Zanthoxylum bungeanum",1],["coriander","lilac-coriander","c1592","Coriandrum sativum",1],["chile","pungent-pepper","1785","Capsicum annuum",1],["vanilla","fragrant-grass/herb","1800?","Vanilla planifolia",1],["mace","nutmeg-skin","1819","Myristica fragrans",1],["anise","hui-celery","1841","Pimpinella anisum",1]],"hovertemplate":"<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=no<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>","hovertext":["ji\u0101o","ji\u0101ng","r\u00f2ugu\u00ec","gu\u00ec","j\u012bsh\u00e9xi\u0101ng ","y\u00f9j\u012bnxi\u0101ng","h\u00faji\u0101o","hu\u00edxi\u0101ng","r\u00f2ud\u00f2uk\u00f2u","xi\u0101ngc\u00e0i","d\u012bngxi\u0101ng","ji\u0101nghu\u00e1ng","f\u0101nh\u00f3nghu\u0101","b\u0101ji\u01ceohu\u00edxi\u0101ng","f\u0101nji\u0101o","hu\u0101\u200bji\u0101o","y\u00e1nsu\u012b","l\u00e0ji\u0101o","xi\u0101ngc\u01ceo","r\u00f2ud\u00f2uk\u00f2ug\u0101np\u00ed","hu\u00edq\u00edn"],"legendgroup":"Chinese, no","marker":{"color":"#edad08","opacity":0.5,"size":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"sizemode":"area","sizeref":0.0025,"symbol":"circle-open","line":{"color":"rgba(255,255,255,0)","width":2}},"mode":"markers","name":"Chinese, no","orientation":"h","showlegend":true,"x":[-771,-221,-219,-200,343,343,450,801,978,978,1321,1408,1578,1578,1591,1592,1592,1785,1800,1819,1841],"xaxis":"x","y":["Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese"],"yaxis":"y","type":"scatter"},{"alignmentgroup":"True","bingroup":"x","hovertemplate":"language=Chinese<br>borrowing=no<br>count=%{y}<extra></extra>","legendgroup":"Chinese, no","marker":{"color":"#edad08","line":{"color":"rgba(255,255,255,0)","width":2}},"name":"Chinese, no","offsetgroup":"Chinese, no","opacity":0.5,"showlegend":false,"x":[-771,-221,-219,-200,343,343,450,801,978,978,1321,1408,1578,1578,1591,1592,1592,1785,1800,1819,1841],"xaxis":"x2","yaxis":"y2","type":"histogram"},{"customdata":[["asafoetida",null,"c400?","Ferula spp.",1],["asafoetida",null,"801","Ferula spp.",1],["long pepper",null,"801","Piper longum",1],["cumin","dill-turnip","1008","Cuminum cyminum",1],["dill","dill-turnip","1008","Anethum graveolens",1],["fenugreek","barbarian-reeds-ba","1408","Trigonella foenum-graecum",1],["caraway",null,"1822","Carum carvi",1],["cumin",null,"1900?","Cuminum cyminum",1],["cinnamon","Ceylon-flesh-cinnamon","1920","Cinnamomum verum",1],["allspice","many-spice-fruit","1953","Pimenta dioica",1]],"hovertemplate":"<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=yes<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>","hovertext":["x\u012bngq\u00fa","\u0101w\u00e8i","b\u00ecb\u014d","sh\u00edlu\u00f3","sh\u00edlu\u00f3","h\u00fal\u00fab\u0101","g\u011bl\u01dazi","z\u012br\u00e1n","x\u012bl\u00e1nr\u00f2ugu\u00ec","du\u014dxi\u0101nggu\u01d2"],"legendgroup":"Chinese, yes","marker":{"color":"#edad08","opacity":0.5,"size":[1,1,1,1,1,1,1,1,1,1],"sizemode":"area","sizeref":0.0025,"symbol":"circle","line":{"color":"rgba(255,255,255,0)","width":2}},"mode":"markers","name":"Chinese, yes","orientation":"h","showlegend":true,"x":[400,801,801,1008,1008,1408,1822,1900,1920,1953],"xaxis":"x","y":["Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese"],"yaxis":"y","type":"scatter"},{"alignmentgroup":"True","bingroup":"x","hovertemplate":"language=Chinese<br>borrowing=yes<br>count=%{y}<extra></extra>","legendgroup":"Chinese, yes","marker":{"color":"#edad08","line":{"color":"rgba(255,255,255,0)","width":2}},"name":"Chinese, yes","offsetgroup":"Chinese, yes","opacity":0.5,"showlegend":false,"x":[400,801,801,1008,1008,1408,1822,1900,1920,1953],"xaxis":"x2","yaxis":"y2","type":"histogram"},{"customdata":[["cardamom","bean-cardamom","624","Amomum spp.",1]],"hovertemplate":"<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=maybe<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>","hovertext":["d\u00f2uk\u00f2u"],"legendgroup":"Chinese, maybe","marker":{"color":"#edad08","opacity":0.5,"size":[1],"sizemode":"area","sizeref":0.0025,"symbol":"circle-open-dot","line":{"color":"rgba(255,255,255,0)","width":2}},"mode":"markers","name":"Chinese, maybe","orientation":"h","showlegend":true,"x":[624],"xaxis":"x","y":["Chinese"],"yaxis":"y","type":"scatter"},{"alignmentgroup":"True","bingroup":"x","hovertemplate":"language=Chinese<br>borrowing=maybe<br>count=%{y}<extra></extra>","legendgroup":"Chinese, maybe","marker":{"color":"#edad08","line":{"color":"rgba(255,255,255,0)","width":2}},"name":"Chinese, maybe","offsetgroup":"Chinese, maybe","opacity":0.5,"showlegend":false,"x":[624],"xaxis":"x2","yaxis":"y2","type":"histogram"},{"customdata":[["fenugreek",null,"a791","Trigonella foenum-graecum",1],["cinnamon","bark, rind","a820","Cinnamomum spp.",1],["cassia","peel, strip","a820","Cinnamomum cassia",1],["Sichuan pepper","open","c977","Zanthoxylum spp.",1],["star anise","star anise","1400?","Illicium verum",1],["chile","hot pepper","1540?","Capsicum spp.",1],["allspice","European pepper","1700?","Pimenta dioica",1],["Sichuan pepper","Sichuan pepper","1900?","Zanthoxylum spp.",1]],"hovertemplate":"<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=no<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>","hovertext":["\u1e25ulba","qirfa","sal\u012bkha","f\u0101ghira ","y\u0101ns\u016bn najm\u012b","fulful \u1e25\u0101rr","fulful ifranj\u012b","fulful s\u012btshuw\u0101n"],"legendgroup":"Arabic, no","marker":{"color":"#0f8554","opacity":0.5,"size":[1,1,1,1,1,1,1,1],"sizemode":"area","sizeref":0.0025,"symbol":"circle-open","line":{"color":"rgba(255,255,255,0)","width":2}},"mode":"markers","name":"Arabic, no","orientation":"h","showlegend":true,"x":[791,820,820,977,1400,1540,1700,1900],"xaxis":"x","y":["Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic"],"yaxis":"y","type":"scatter"},{"alignmentgroup":"True","bingroup":"x","hovertemplate":"language=Arabic<br>borrowing=no<br>count=%{y}<extra></extra>","legendgroup":"Arabic, no","marker":{"color":"#0f8554","line":{"color":"rgba(255,255,255,0)","width":2}},"name":"Arabic, no","offsetgroup":"Arabic, no","opacity":0.5,"showlegend":false,"x":[791,820,820,977,1400,1540,1700,1900],"xaxis":"x2","yaxis":"y2","type":"histogram"},{"customdata":[["pepper",null,"a544","Piper nigrum",1],["ginger",null,"a632","Zingiber officinale",1],["saffron",null,"a687","Crocus sativus",1],["coriander",null,"a791","Coriandrum sativum",1],["turmeric",null,"a791","Curcuma longa",1],["asafoetida",null,"a791","Ferula spp.",1],["caraway",null,"a805","Carum carvi",1],["black cardamom",null,"a853","Amomum spp.",1],["cumin",null,"a853","Cuminum cyminum",1],["cinnamon","Chinese wood","a869","Cinnamomum spp.",1],["long pepper",null,"a935","Piper chaba; et al.",1],["mace",null,"a935","Myristica fragrans",1],["nutmeg","fragrant nut","a935","Myristica fragrans",1],["anise",null,"a935","Pimpinella anisum",1],["cardamom",null,"a935","Elettaria cardamomum",1],["clove",null,"a956","Syzygium aromaticum",1],["dill",null,"c977","Anethum graveolens",1],["fennel",null,"c999?","Foeniculum vulgare",1],["vanilla",null,"1800?","Vanilla planifolia",1]],"hovertemplate":"<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=yes<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>","hovertext":["fulful","zanjab\u012bl","za\u02bffar\u0101n","kuzbara","kurkum","\u1e25ilt\u012bt","kar\u0101wiy\u0101","q\u0101qulla","kamm\u016bn","d\u0101r\u1e63\u012bn\u012b","d\u0101rfilfil","basb\u0101s","jawz al-\u1e6d\u012bb","an\u012bs\u016bn","h\u0101l","qaranful","shibithth","shamar","f\u0101n\u012bliy\u0101"],"legendgroup":"Arabic, yes","marker":{"color":"#0f8554","opacity":0.5,"size":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"sizemode":"area","sizeref":0.0025,"symbol":"circle","line":{"color":"rgba(255,255,255,0)","width":2}},"mode":"markers","name":"Arabic, yes","orientation":"h","showlegend":true,"x":[544,632,687,791,791,791,805,853,853,869,935,935,935,935,935,956,977,999,1800],"xaxis":"x","y":["Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic","Arabic"],"yaxis":"y","type":"scatter"},{"alignmentgroup":"True","bingroup":"x","hovertemplate":"language=Arabic<br>borrowing=yes<br>count=%{y}<extra></extra>","legendgroup":"Arabic, yes","marker":{"color":"#0f8554","line":{"color":"rgba(255,255,255,0)","width":2}},"name":"Arabic, yes","offsetgroup":"Arabic, yes","opacity":0.5,"showlegend":false,"x":[544,632,687,791,791,791,805,853,853,869,935,935,935,935,935,956,977,999,1800],"xaxis":"x2","yaxis":"y2","type":"histogram"},{"customdata":[["allspice",null,"1621","Pimenta dioica",1],["star anise",null,"1767","Illicium verum",1]],"hovertemplate":"<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=no<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>","hovertext":["allspice","star anise"],"legendgroup":"English, no","marker":{"color":"#1d6996","opacity":0.5,"size":[1,1],"sizemode":"area","sizeref":0.0025,"symbol":"circle-open","line":{"color":"rgba(255,255,255,0)","width":2}},"mode":"markers","name":"English, no","orientation":"h","showlegend":true,"x":[1621,1767],"xaxis":"x","y":["English","English"],"yaxis":"y","type":"scatter"},{"alignmentgroup":"True","bingroup":"x","hovertemplate":"language=English<br>borrowing=no<br>count=%{y}<extra></extra>","legendgroup":"English, no","marker":{"color":"#1d6996","line":{"color":"rgba(255,255,255,0)","width":2}},"name":"English, no","offsetgroup":"English, no","opacity":0.5,"showlegend":false,"x":[1621,1767],"xaxis":"x2","yaxis":"y2","type":"histogram"},{"customdata":[["dill",null,"a700","Anethum graveolens",1],["fennel",null,"a700","Foeniculum vulgare",1],["long pepper",null,"eOE","Piper longum",1],["pepper",null,"eOE","Piper nigrum",1],["ginger",null,"eOE","Zingiber officinale",1],["cumin",null,"c897","Cuminum cyminum",1],["fenugreek",null,"c1000","Trigonella foenum-graecum",1],["cassia",null,"c1000","Cinnamomum cassia",1],["coriander",null,"c1000","Coriandrum sativum",1],["saffron",null,"c1200","Crocus sativus",1],["clove",null,"?c1225","Syzygium aromaticum",1],["mace",null,"1234","Myristica fragrans",1],["coriander",null,"a1300","Coriandrum sativum",1],["anise",null,"c1325","Pimpinella anisum",1],["nutmeg",null,"1387","Myristica fragrans",1],["cardamom",null,"a1398","Elettaria cardamomum",1],["black cardamom",null,"a1398","Amomum spp.",1],["asafoetida",null,"a1398","Ferula spp.",1],["cinnamon",null,"c1430","Cinnamomum verum",1],["caraway",null,"c1440","Carum carvi",1],["turmeric",null,"1545","Curcuma longa",1],["asafoetida",null,"1599","Ferula assa-foetida et al.",1],["chile",null,"1662","Capsicum spp.",1],["vanilla",null,"1662","Vanilla spp.",1],["star anise",null,"1693","Illicium verum",1],["Sichuan pepper",null,"1929","Zanthoxylum spp.",1]],"hovertemplate":"<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=yes<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>","hovertext":["dill","fennel","long pepper","pepper","ginger","cumin","fenugreek","cassia","coliander","saffron","clove","mace","coriander","anise","nutmeg","cardamom","amomum","asafoetida","cinnamon","caraway","turmeric","hing","chili","vanilla","badian","Sichuan pepper"],"legendgroup":"English, yes","marker":{"color":"#1d6996","opacity":0.5,"size":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"sizemode":"area","sizeref":0.0025,"symbol":"circle","line":{"color":"rgba(255,255,255,0)","width":2}},"mode":"markers","name":"English, yes","orientation":"h","showlegend":true,"x":[700,700,800,800,800,897,1000,1000,1000,1200,1225,1234,1300,1325,1387,1398,1398,1398,1430,1440,1545,1599,1662,1662,1693,1929],"xaxis":"x","y":["English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English","English"],"yaxis":"y","type":"scatter"},{"alignmentgroup":"True","bingroup":"x","hovertemplate":"language=English<br>borrowing=yes<br>count=%{y}<extra></extra>","legendgroup":"English, yes","marker":{"color":"#1d6996","line":{"color":"rgba(255,255,255,0)","width":2}},"name":"English, yes","offsetgroup":"English, yes","opacity":0.5,"showlegend":false,"x":[700,700,800,800,800,897,1000,1000,1000,1200,1225,1234,1300,1325,1387,1398,1398,1398,1430,1440,1545,1599,1662,1662,1693,1929],"xaxis":"x2","yaxis":"y2","type":"histogram"}],"layout":{"template":{"data":{"barpolar":[{"marker":{"line":{"color":"white","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"white","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"#C8D4E3","linecolor":"#C8D4E3","minorgridcolor":"#C8D4E3","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"#C8D4E3","linecolor":"#C8D4E3","minorgridcolor":"#C8D4E3","startlinecolor":"#2a3f5f"},"type":"carpet"}],"choropleth":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"choropleth"}],"contourcarpet":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"contourcarpet"}],"contour":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"contour"}],"heatmapgl":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"heatmapgl"}],"heatmap":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"heatmap"}],"histogram2dcontour":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"histogram2dcontour"}],"histogram2d":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"histogram2d"}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"mesh3d":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"mesh3d"}],"parcoords":[{"line":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"parcoords"}],"pie":[{"automargin":true,"type":"pie"}],"scatter3d":[{"line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatter3d"}],"scattercarpet":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattercarpet"}],"scattergeo":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattergeo"}],"scattergl":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattergl"}],"scattermapbox":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattermapbox"}],"scatterpolargl":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterpolargl"}],"scatterpolar":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterpolar"}],"scatter":[{"fillpattern":{"fillmode":"overlay","size":10,"solidity":0.2},"type":"scatter"}],"scatterternary":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterternary"}],"surface":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"surface"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}]},"layout":{"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"autotypenumbers":"strict","coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]],"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]},"colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"geo":{"bgcolor":"white","lakecolor":"white","landcolor":"white","showlakes":true,"showland":true,"subunitcolor":"#C8D4E3"},"hoverlabel":{"align":"left"},"hovermode":"closest","mapbox":{"style":"light"},"paper_bgcolor":"white","plot_bgcolor":"white","polar":{"angularaxis":{"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":""},"bgcolor":"white","radialaxis":{"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":""}},"scene":{"xaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"},"yaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"},"zaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"ternary":{"aaxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"baxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"bgcolor":"white","caxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""}},"title":{"x":0.05},"xaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2},"yaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2}}},"xaxis":{"anchor":"y","domain":[0.0,1.0],"title":{"text":"year"},"visible":true,"showticklabels":true,"automargin":true,"tickfont":{"family":"Serif","color":"black","size":16},"ticklabelposition":"inside"},"yaxis":{"anchor":"x","domain":[0.0,0.7326],"categoryorder":"array","categoryarray":["English","Arabic","Chinese"],"title":{},"visible":true,"showticklabels":true,"automargin":true,"tickfont":{"family":"Serif","color":"black","size":16}},"xaxis2":{"anchor":"y2","domain":[0.0,1.0],"matches":"x","showticklabels":true,"showgrid":true,"visible":true,"automargin":true,"tickfont":{"family":"Serif","color":"black","size":16},"ticklabelposition":"inside"},"yaxis2":{"anchor":"x2","domain":[0.7426,1.0],"matches":"y2","categoryorder":"array","categoryarray":["English","Arabic","Chinese"],"showticklabels":true,"showline":false,"ticks":"","showgrid":true,"visible":true,"automargin":true,"title":{},"tickfont":{"family":"Serif","color":"black","size":16}},"legend":{"title":{"text":"language, borrowing","side":"top"},"tracegroupgap":0,"itemsizing":"constant","font":{"color":"black","size":18,"family":"Serif"},"x":0,"y":-0.1,"xanchor":"left","yanchor":"top","bgcolor":"rgba(255,255,255,0)","orientation":"h"},"margin":{"t":40,"r":0,"l":0,"b":40},"barmode":"overlay","font":{"family":"Serif","color":"black","size":20},"annotations":[{"align":"center","font":{"color":"gainsboro","family":"Serif","size":8},"showarrow":false,"text":"\u00a9 Parti G\u00e1bor, 2022","x":0,"xanchor":"left","xref":"paper","y":0,"yanchor":"top","yref":"paper"}],"images":[{"sizex":0.1,"sizey":0.1,"source":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png","x":1,"xanchor":"right","y":0,"yanchor":"top"}],"title":{"font":{"color":"black","size":24,"family":"Serif"},"y":1,"x":0,"xanchor":"left","yanchor":"top","text":"Dates of attestation of a set of spice terms."},"height":550}}
+{
+  "data": [
+    {
+      "customdata": [
+        [
+          "Sichuan pepper",
+          "pepper",
+          "-771",
+          "Zanthoxylum spp.",
+          1
+        ],
+        [
+          "ginger",
+          "ginger",
+          "-221",
+          "Zingiber officinale",
+          1
+        ],
+        [
+          "cassia",
+          "flesh-cassia",
+          "170-219",
+          "Cinnamomum cassia",
+          1
+        ],
+        [
+          "cassia",
+          "cassia",
+          "c-200",
+          "Cinnamomum cassia",
+          1
+        ],
+        [
+          "clove",
+          "chicken-tongue-spice",
+          "343",
+          "Syzygium aromaticum",
+          1
+        ],
+        [
+          "saffron",
+          "y\u00fc-gold-aromatic",
+          "343",
+          "Crocus sativus",
+          1
+        ],
+        [
+          "pepper",
+          "barbarian-pepper",
+          "c450",
+          "Piper nigrum",
+          1
+        ],
+        [
+          "fennel",
+          "hui-spice",
+          "801",
+          "Foeniculum vulgare",
+          1
+        ],
+        [
+          "nutmeg",
+          "flesh-bean-cardamom",
+          "978",
+          "Myristica fragrans",
+          1
+        ],
+        [
+          "coriander",
+          "fragrant-vegetable",
+          "978",
+          "Coriandrum sativum",
+          1
+        ],
+        [
+          "clove",
+          "nail-spice",
+          "1321",
+          "Syzygium aromaticum",
+          1
+        ],
+        [
+          "turmeric",
+          "ginger-yellow",
+          "1408",
+          "Curcuma longa",
+          1
+        ],
+        [
+          "saffron",
+          "foreign-red-flower",
+          "1578",
+          "Crocus sativus",
+          1
+        ],
+        [
+          "star anise",
+          "eight-horned-hui-spice",
+          "1578",
+          "Illicium verum",
+          1
+        ],
+        [
+          "chile",
+          "foreign-pepper",
+          "1591",
+          "Capsicum annuum",
+          1
+        ],
+        [
+          "Sichuan pepper",
+          "flower-pepper",
+          "c1592",
+          "Zanthoxylum bungeanum",
+          1
+        ],
+        [
+          "coriander",
+          "lilac-coriander",
+          "c1592",
+          "Coriandrum sativum",
+          1
+        ],
+        [
+          "chile",
+          "pungent-pepper",
+          "1785",
+          "Capsicum annuum",
+          1
+        ],
+        [
+          "vanilla",
+          "fragrant-grass/herb",
+          "1800?",
+          "Vanilla planifolia",
+          1
+        ],
+        [
+          "mace",
+          "nutmeg-skin",
+          "1819",
+          "Myristica fragrans",
+          1
+        ],
+        [
+          "anise",
+          "hui-celery",
+          "1841",
+          "Pimpinella anisum",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=no<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
+      "hovertext": [
+        "ji\u0101o",
+        "ji\u0101ng",
+        "r\u00f2ugu\u00ec",
+        "gu\u00ec",
+        "j\u012bsh\u00e9xi\u0101ng ",
+        "y\u00f9j\u012bnxi\u0101ng",
+        "h\u00faji\u0101o",
+        "hu\u00edxi\u0101ng",
+        "r\u00f2ud\u00f2uk\u00f2u",
+        "xi\u0101ngc\u00e0i",
+        "d\u012bngxi\u0101ng",
+        "ji\u0101nghu\u00e1ng",
+        "f\u0101nh\u00f3nghu\u0101",
+        "b\u0101ji\u01ceohu\u00edxi\u0101ng",
+        "f\u0101nji\u0101o",
+        "hu\u0101\u200bji\u0101o",
+        "y\u00e1nsu\u012b",
+        "l\u00e0ji\u0101o",
+        "xi\u0101ngc\u01ceo",
+        "r\u00f2ud\u00f2uk\u00f2ug\u0101np\u00ed",
+        "hu\u00edq\u00edn"
+      ],
+      "legendgroup": "Chinese, no",
+      "marker": {
+        "color": "#edad08",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "Chinese, no",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        -771,
+        -221,
+        -219,
+        -200,
+        343,
+        343,
+        450,
+        801,
+        978,
+        978,
+        1321,
+        1408,
+        1578,
+        1578,
+        1591,
+        1592,
+        1592,
+        1785,
+        1800,
+        1819,
+        1841
+      ],
+      "xaxis": "x",
+      "y": [
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "language=Chinese<br>borrowing=no<br>count=%{y}<extra></extra>",
+      "legendgroup": "Chinese, no",
+      "marker": {
+        "color": "#edad08",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "name": "Chinese, no",
+      "offsetgroup": "Chinese, no",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        -771,
+        -221,
+        -219,
+        -200,
+        343,
+        343,
+        450,
+        801,
+        978,
+        978,
+        1321,
+        1408,
+        1578,
+        1578,
+        1591,
+        1592,
+        1592,
+        1785,
+        1800,
+        1819,
+        1841
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "asafoetida",
+          null,
+          "c400?",
+          "Ferula spp.",
+          1
+        ],
+        [
+          "asafoetida",
+          null,
+          "801",
+          "Ferula spp.",
+          1
+        ],
+        [
+          "long pepper",
+          null,
+          "801",
+          "Piper longum",
+          1
+        ],
+        [
+          "cumin",
+          "dill-turnip",
+          "1008",
+          "Cuminum cyminum",
+          1
+        ],
+        [
+          "dill",
+          "dill-turnip",
+          "1008",
+          "Anethum graveolens",
+          1
+        ],
+        [
+          "fenugreek",
+          "barbarian-reeds-ba",
+          "1408",
+          "Trigonella foenum-graecum",
+          1
+        ],
+        [
+          "caraway",
+          null,
+          "1822",
+          "Carum carvi",
+          1
+        ],
+        [
+          "cumin",
+          null,
+          "1900?",
+          "Cuminum cyminum",
+          1
+        ],
+        [
+          "cinnamon",
+          "Ceylon-flesh-cinnamon",
+          "1920",
+          "Cinnamomum verum",
+          1
+        ],
+        [
+          "allspice",
+          "many-spice-fruit",
+          "1953",
+          "Pimenta dioica",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=yes<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
+      "hovertext": [
+        "x\u012bngq\u00fa",
+        "\u0101w\u00e8i",
+        "b\u00ecb\u014d",
+        "sh\u00edlu\u00f3",
+        "sh\u00edlu\u00f3",
+        "h\u00fal\u00fab\u0101",
+        "g\u011bl\u01dazi",
+        "z\u012br\u00e1n",
+        "x\u012bl\u00e1nr\u00f2ugu\u00ec",
+        "du\u014dxi\u0101nggu\u01d2"
+      ],
+      "legendgroup": "Chinese, yes",
+      "marker": {
+        "color": "#edad08",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "Chinese, yes",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        400,
+        801,
+        801,
+        1008,
+        1008,
+        1408,
+        1822,
+        1900,
+        1920,
+        1953
+      ],
+      "xaxis": "x",
+      "y": [
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese",
+        "Chinese"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "language=Chinese<br>borrowing=yes<br>count=%{y}<extra></extra>",
+      "legendgroup": "Chinese, yes",
+      "marker": {
+        "color": "#edad08",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "name": "Chinese, yes",
+      "offsetgroup": "Chinese, yes",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        400,
+        801,
+        801,
+        1008,
+        1008,
+        1408,
+        1822,
+        1900,
+        1920,
+        1953
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "cardamom",
+          "bean-cardamom",
+          "624",
+          "Amomum spp.",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=maybe<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
+      "hovertext": [
+        "d\u00f2uk\u00f2u"
+      ],
+      "legendgroup": "Chinese, maybe",
+      "marker": {
+        "color": "#edad08",
+        "opacity": 0.5,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open-dot",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "Chinese, maybe",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        624
+      ],
+      "xaxis": "x",
+      "y": [
+        "Chinese"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "language=Chinese<br>borrowing=maybe<br>count=%{y}<extra></extra>",
+      "legendgroup": "Chinese, maybe",
+      "marker": {
+        "color": "#edad08",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "name": "Chinese, maybe",
+      "offsetgroup": "Chinese, maybe",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        624
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "fenugreek",
+          null,
+          "a791",
+          "Trigonella foenum-graecum",
+          1
+        ],
+        [
+          "cinnamon",
+          "bark, rind",
+          "a820",
+          "Cinnamomum spp.",
+          1
+        ],
+        [
+          "cassia",
+          "peel, strip",
+          "a820",
+          "Cinnamomum cassia",
+          1
+        ],
+        [
+          "Sichuan pepper",
+          "open",
+          "c977",
+          "Zanthoxylum spp.",
+          1
+        ],
+        [
+          "star anise",
+          "star anise",
+          "1400?",
+          "Illicium verum",
+          1
+        ],
+        [
+          "chile",
+          "hot pepper",
+          "1540?",
+          "Capsicum spp.",
+          1
+        ],
+        [
+          "allspice",
+          "European pepper",
+          "1700?",
+          "Pimenta dioica",
+          1
+        ],
+        [
+          "Sichuan pepper",
+          "Sichuan pepper",
+          "1900?",
+          "Zanthoxylum spp.",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=no<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
+      "hovertext": [
+        "\u1e25ulba",
+        "qirfa",
+        "sal\u012bkha",
+        "f\u0101ghira ",
+        "y\u0101ns\u016bn najm\u012b",
+        "fulful \u1e25\u0101rr",
+        "fulful ifranj\u012b",
+        "fulful s\u012btshuw\u0101n"
+      ],
+      "legendgroup": "Arabic, no",
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "Arabic, no",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        791,
+        820,
+        820,
+        977,
+        1400,
+        1540,
+        1700,
+        1900
+      ],
+      "xaxis": "x",
+      "y": [
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "language=Arabic<br>borrowing=no<br>count=%{y}<extra></extra>",
+      "legendgroup": "Arabic, no",
+      "marker": {
+        "color": "#0f8554",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "name": "Arabic, no",
+      "offsetgroup": "Arabic, no",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        791,
+        820,
+        820,
+        977,
+        1400,
+        1540,
+        1700,
+        1900
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "pepper",
+          null,
+          "a544",
+          "Piper nigrum",
+          1
+        ],
+        [
+          "ginger",
+          null,
+          "a632",
+          "Zingiber officinale",
+          1
+        ],
+        [
+          "saffron",
+          null,
+          "a687",
+          "Crocus sativus",
+          1
+        ],
+        [
+          "coriander",
+          null,
+          "a791",
+          "Coriandrum sativum",
+          1
+        ],
+        [
+          "turmeric",
+          null,
+          "a791",
+          "Curcuma longa",
+          1
+        ],
+        [
+          "asafoetida",
+          null,
+          "a791",
+          "Ferula spp.",
+          1
+        ],
+        [
+          "caraway",
+          null,
+          "a805",
+          "Carum carvi",
+          1
+        ],
+        [
+          "black cardamom",
+          null,
+          "a853",
+          "Amomum spp.",
+          1
+        ],
+        [
+          "cumin",
+          null,
+          "a853",
+          "Cuminum cyminum",
+          1
+        ],
+        [
+          "cinnamon",
+          "Chinese wood",
+          "a869",
+          "Cinnamomum spp.",
+          1
+        ],
+        [
+          "long pepper",
+          null,
+          "a935",
+          "Piper chaba; et al.",
+          1
+        ],
+        [
+          "mace",
+          null,
+          "a935",
+          "Myristica fragrans",
+          1
+        ],
+        [
+          "nutmeg",
+          "fragrant nut",
+          "a935",
+          "Myristica fragrans",
+          1
+        ],
+        [
+          "anise",
+          null,
+          "a935",
+          "Pimpinella anisum",
+          1
+        ],
+        [
+          "cardamom",
+          null,
+          "a935",
+          "Elettaria cardamomum",
+          1
+        ],
+        [
+          "clove",
+          null,
+          "a956",
+          "Syzygium aromaticum",
+          1
+        ],
+        [
+          "dill",
+          null,
+          "c977",
+          "Anethum graveolens",
+          1
+        ],
+        [
+          "fennel",
+          null,
+          "c999?",
+          "Foeniculum vulgare",
+          1
+        ],
+        [
+          "vanilla",
+          null,
+          "1800?",
+          "Vanilla planifolia",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=yes<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
+      "hovertext": [
+        "fulful",
+        "zanjab\u012bl",
+        "za\u02bffar\u0101n",
+        "kuzbara",
+        "kurkum",
+        "\u1e25ilt\u012bt",
+        "kar\u0101wiy\u0101",
+        "q\u0101qulla",
+        "kamm\u016bn",
+        "d\u0101r\u1e63\u012bn\u012b",
+        "d\u0101rfilfil",
+        "basb\u0101s",
+        "jawz al-\u1e6d\u012bb",
+        "an\u012bs\u016bn",
+        "h\u0101l",
+        "qaranful",
+        "shibithth",
+        "shamar",
+        "f\u0101n\u012bliy\u0101"
+      ],
+      "legendgroup": "Arabic, yes",
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "Arabic, yes",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        544,
+        632,
+        687,
+        791,
+        791,
+        791,
+        805,
+        853,
+        853,
+        869,
+        935,
+        935,
+        935,
+        935,
+        935,
+        956,
+        977,
+        999,
+        1800
+      ],
+      "xaxis": "x",
+      "y": [
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic",
+        "Arabic"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "language=Arabic<br>borrowing=yes<br>count=%{y}<extra></extra>",
+      "legendgroup": "Arabic, yes",
+      "marker": {
+        "color": "#0f8554",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "name": "Arabic, yes",
+      "offsetgroup": "Arabic, yes",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        544,
+        632,
+        687,
+        791,
+        791,
+        791,
+        805,
+        853,
+        853,
+        869,
+        935,
+        935,
+        935,
+        935,
+        935,
+        956,
+        977,
+        999,
+        1800
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "allspice",
+          null,
+          "1621",
+          "Pimenta dioica",
+          1
+        ],
+        [
+          "star anise",
+          null,
+          "1767",
+          "Illicium verum",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=no<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
+      "hovertext": [
+        "allspice",
+        "star anise"
+      ],
+      "legendgroup": "English, no",
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle-open",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "English, no",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        1621,
+        1767
+      ],
+      "xaxis": "x",
+      "y": [
+        "English",
+        "English"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "language=English<br>borrowing=no<br>count=%{y}<extra></extra>",
+      "legendgroup": "English, no",
+      "marker": {
+        "color": "#1d6996",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "name": "English, no",
+      "offsetgroup": "English, no",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        1621,
+        1767
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    },
+    {
+      "customdata": [
+        [
+          "dill",
+          null,
+          "a700",
+          "Anethum graveolens",
+          1
+        ],
+        [
+          "fennel",
+          null,
+          "a700",
+          "Foeniculum vulgare",
+          1
+        ],
+        [
+          "long pepper",
+          null,
+          "eOE",
+          "Piper longum",
+          1
+        ],
+        [
+          "pepper",
+          null,
+          "eOE",
+          "Piper nigrum",
+          1
+        ],
+        [
+          "ginger",
+          null,
+          "eOE",
+          "Zingiber officinale",
+          1
+        ],
+        [
+          "cumin",
+          null,
+          "c897",
+          "Cuminum cyminum",
+          1
+        ],
+        [
+          "fenugreek",
+          null,
+          "c1000",
+          "Trigonella foenum-graecum",
+          1
+        ],
+        [
+          "cassia",
+          null,
+          "c1000",
+          "Cinnamomum cassia",
+          1
+        ],
+        [
+          "coriander",
+          null,
+          "c1000",
+          "Coriandrum sativum",
+          1
+        ],
+        [
+          "saffron",
+          null,
+          "c1200",
+          "Crocus sativus",
+          1
+        ],
+        [
+          "clove",
+          null,
+          "?c1225",
+          "Syzygium aromaticum",
+          1
+        ],
+        [
+          "mace",
+          null,
+          "1234",
+          "Myristica fragrans",
+          1
+        ],
+        [
+          "coriander",
+          null,
+          "a1300",
+          "Coriandrum sativum",
+          1
+        ],
+        [
+          "anise",
+          null,
+          "c1325",
+          "Pimpinella anisum",
+          1
+        ],
+        [
+          "nutmeg",
+          null,
+          "1387",
+          "Myristica fragrans",
+          1
+        ],
+        [
+          "cardamom",
+          null,
+          "a1398",
+          "Elettaria cardamomum",
+          1
+        ],
+        [
+          "black cardamom",
+          null,
+          "a1398",
+          "Amomum spp.",
+          1
+        ],
+        [
+          "asafoetida",
+          null,
+          "a1398",
+          "Ferula spp.",
+          1
+        ],
+        [
+          "cinnamon",
+          null,
+          "c1430",
+          "Cinnamomum verum",
+          1
+        ],
+        [
+          "caraway",
+          null,
+          "c1440",
+          "Carum carvi",
+          1
+        ],
+        [
+          "turmeric",
+          null,
+          "1545",
+          "Curcuma longa",
+          1
+        ],
+        [
+          "asafoetida",
+          null,
+          "1599",
+          "Ferula assa-foetida et al.",
+          1
+        ],
+        [
+          "chile",
+          null,
+          "1662",
+          "Capsicum spp.",
+          1
+        ],
+        [
+          "vanilla",
+          null,
+          "1662",
+          "Vanilla spp.",
+          1
+        ],
+        [
+          "star anise",
+          null,
+          "1693",
+          "Illicium verum",
+          1
+        ],
+        [
+          "Sichuan pepper",
+          null,
+          "1929",
+          "Zanthoxylum spp.",
+          1
+        ]
+      ],
+      "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=yes<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
+      "hovertext": [
+        "dill",
+        "fennel",
+        "long pepper",
+        "pepper",
+        "ginger",
+        "cumin",
+        "fenugreek",
+        "cassia",
+        "coliander",
+        "saffron",
+        "clove",
+        "mace",
+        "coriander",
+        "anise",
+        "nutmeg",
+        "cardamom",
+        "amomum",
+        "asafoetida",
+        "cinnamon",
+        "caraway",
+        "turmeric",
+        "hing",
+        "chili",
+        "vanilla",
+        "badian",
+        "Sichuan pepper"
+      ],
+      "legendgroup": "English, yes",
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.5,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.0025,
+        "symbol": "circle",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "mode": "markers",
+      "name": "English, yes",
+      "orientation": "h",
+      "showlegend": true,
+      "x": [
+        700,
+        700,
+        800,
+        800,
+        800,
+        897,
+        1000,
+        1000,
+        1000,
+        1200,
+        1225,
+        1234,
+        1300,
+        1325,
+        1387,
+        1398,
+        1398,
+        1398,
+        1430,
+        1440,
+        1545,
+        1599,
+        1662,
+        1662,
+        1693,
+        1929
+      ],
+      "xaxis": "x",
+      "y": [
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English",
+        "English"
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "alignmentgroup": "True",
+      "bingroup": "x",
+      "hovertemplate": "language=English<br>borrowing=yes<br>count=%{y}<extra></extra>",
+      "legendgroup": "English, yes",
+      "marker": {
+        "color": "#1d6996",
+        "line": {
+          "color": "rgba(255,255,255,0)",
+          "width": 2
+        }
+      },
+      "name": "English, yes",
+      "offsetgroup": "English, yes",
+      "opacity": 0.5,
+      "showlegend": false,
+      "x": [
+        700,
+        700,
+        800,
+        800,
+        800,
+        897,
+        1000,
+        1000,
+        1000,
+        1200,
+        1225,
+        1234,
+        1300,
+        1325,
+        1387,
+        1398,
+        1398,
+        1398,
+        1430,
+        1440,
+        1545,
+        1599,
+        1662,
+        1662,
+        1693,
+        1929
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "histogram"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "choropleth": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "choropleth"
+          }
+        ],
+        "contourcarpet": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "contourcarpet"
+          }
+        ],
+        "contour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "contour"
+          }
+        ],
+        "heatmapgl": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmapgl"
+          }
+        ],
+        "heatmap": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmap"
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2dcontour"
+          }
+        ],
+        "histogram2d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2d"
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "mesh3d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "mesh3d"
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter3d"
+          }
+        ],
+        "scattercarpet": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattercarpet"
+          }
+        ],
+        "scattergeo": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergeo"
+          }
+        ],
+        "scattergl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergl"
+          }
+        ],
+        "scattermapbox": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattermapbox"
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolargl"
+          }
+        ],
+        "scatterpolar": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolar"
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "scatterternary": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterternary"
+          }
+        ],
+        "surface": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "surface"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ]
+      },
+      "layout": {
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "autotypenumbers": "strict",
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ]
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "geo": {
+          "bgcolor": "white",
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "showland": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "hovermode": "closest",
+        "mapbox": {
+          "style": "light"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "white",
+        "polar": {
+          "angularaxis": {
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8",
+            "ticks": ""
+          },
+          "bgcolor": "white",
+          "radialaxis": {
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8",
+            "ticks": ""
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          },
+          "yaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          },
+          "zaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "ternary": {
+          "aaxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          },
+          "bgcolor": "white",
+          "caxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "automargin": true,
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "automargin": true,
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        }
+      }
+    },
+    "xaxis": {
+      "anchor": "y",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "title": {
+        "text": "year"
+      },
+      "visible": true,
+      "showticklabels": true,
+      "automargin": true,
+      "tickfont": {
+        "family": "Serif",
+        "color": "black",
+        "size": 16
+      },
+      "ticklabelposition": "inside"
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": [
+        0.0,
+        0.7326
+      ],
+      "categoryorder": "array",
+      "categoryarray": [
+        "English",
+        "Arabic",
+        "Chinese"
+      ],
+      "title": {},
+      "visible": true,
+      "showticklabels": true,
+      "automargin": true,
+      "tickfont": {
+        "family": "Serif",
+        "color": "black",
+        "size": 16
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "matches": "x",
+      "showticklabels": true,
+      "showgrid": true,
+      "visible": true,
+      "automargin": true,
+      "tickfont": {
+        "family": "Serif",
+        "color": "black",
+        "size": 16
+      },
+      "ticklabelposition": "inside"
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": [
+        0.7426,
+        1.0
+      ],
+      "matches": "y2",
+      "categoryorder": "array",
+      "categoryarray": [
+        "English",
+        "Arabic",
+        "Chinese"
+      ],
+      "showticklabels": true,
+      "showline": false,
+      "ticks": "",
+      "showgrid": true,
+      "visible": true,
+      "automargin": true,
+      "title": {},
+      "tickfont": {
+        "family": "Serif",
+        "color": "black",
+        "size": 16
+      }
+    },
+    "legend": {
+      "title": {
+        "text": "language, borrowing",
+        "side": "top"
+      },
+      "tracegroupgap": 0,
+      "itemsizing": "constant",
+      "font": {
+        "color": "black",
+        "size": 18,
+        "family": "Serif"
+      },
+      "x": 0,
+      "y": -0.1,
+      "xanchor": "left",
+      "yanchor": "top",
+      "bgcolor": "rgba(255,255,255,0)",
+      "orientation": "h"
+    },
+    "margin": {
+      "t": 40,
+      "r": 0,
+      "l": 0,
+      "b": 40
+    },
+    "barmode": "overlay",
+    "font": {
+      "family": "Serif",
+      "color": "black",
+      "size": 20
+    },
+    "annotations": [
+      {
+        "align": "center",
+        "font": {
+          "color": "gainsboro",
+          "family": "Serif",
+          "size": 8
+        },
+        "showarrow": false,
+        "text": "\u00a9 Parti G\u00e1bor, 2022",
+        "x": 0,
+        "xanchor": "left",
+        "xref": "paper",
+        "y": 0,
+        "yanchor": "top",
+        "yref": "paper"
+      }
+    ],
+    "images": [
+      {
+        "sizex": 0.1,
+        "sizey": 0.1,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "top"
+      }
+    ],
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 24,
+        "family": "Serif"
+      },
+      "y": 1,
+      "x": 0,
+      "xanchor": "left",
+      "yanchor": "top",
+      "text": "Dates of attestation for a set of spice terms"
+    },
+    "height": 550
+  }
+}

@@ -1,1 +1,963 @@
-{"data":[{"customdata":[["Pimenta dioica","Myrtaceae","S. Mexico to C. America; Caribbean","\u0641\u0644\u0641\u0644 \u0625\u0641\u0631\u0646\u062c\u064a","\u591a\u9999\u679c","-77","18",1],["Syzygium aromaticum","Myrtaceae","Moluccas (Indonesia)","\u0642\u0631\u0646\u0641\u0644","\u4e01\u9999","127","0",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["allspice","clove"],"lat":["18","0"],"legendgroup":"Myrtaceae","lon":["-77","127"],"marker":{"color":"#5f4690","opacity":0.8,"size":[1,1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Myrtaceae","showlegend":true,"text":["allspice","clove"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Pimpinella anisum","Apiaceae","E. Mediterranean; W. Asia","\u0623\u0646\u064a\u0633\u0648\u0646","\u8334\u82b9","35","39",1],["Ferula foetida","Apiaceae","Iran; W. and C. Asia","\u062d\u0644\u062a\u06cc\u062a","\u963f\u9b4f","55","35",1],["Carum carvi","Apiaceae","Mediterranean; Eurasia","\u0643\u0631\u0627\u0648\u064a\u0627","\u845b\u7e37\u5b50","69","45",1],["Coriandrum sativum","Apiaceae","Mediterranean; W. Asia; India; SW As","\u0643\u0632\u0628\u0631\u0629","\u82ab\u837d","39","35",1],["Cuminum cyminum","Apiaceae","W. \\& C. Asia; India ","\u0643\u0645\u0648\u0646 ","\u5b5c\u7136","53","32",1],["Anethum graveolens","Apiaceae","Nort Africa; West Asia","\u0634\u0628\u062a","\u8494\u863f","30","28",1],["Foeniculum vulgare","Apiaceae","Med","\u0634\u0645\u0631","\u8334\u9999","42","29",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["anise","asafoetida","caraway","coriander","cumin","dill","fennel"],"lat":["39","35","45","35","32","28","29"],"legendgroup":"Apiaceae","lon":["35","55","69","39","53","30","42"],"marker":{"color":"#1d6996","opacity":0.8,"size":[1,1,1,1,1,1,1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Apiaceae","showlegend":true,"text":["anise","asafoetida","caraway","coriander","cumin","dill","fennel"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Elettaria cardamomum","Zingiberaceae","India","\u0647\u0627\u0644","\u8c46\u853b","75","16",1],["Zingiber officinale","Zingiberaceae","South East Asia; India (secondary)","\u0632\u0646\u062c\u0628\u064a\u0644","\u8591","95","24",1],["Curcuma longa","Zingiberaceae","India","\u0643\u0631\u0643\u0645","\u8591\u9ec3","79","12",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["cardamom","ginger","turmeric"],"lat":["16","24","12"],"legendgroup":"Zingiberaceae","lon":["75","95","79"],"marker":{"color":"#38a6a5","opacity":0.8,"size":[1,1,1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Zingiberaceae","showlegend":true,"text":["cardamom","ginger","turmeric"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Cinnamomum cassia","Lauraceae","Southeast China","\u0633\u0644\u064a\u062e\u0629","\u8089\u6842","111","22",1],["Cinnamomum verum","Lauraceae","Sri Lanka; SW. India","\u0642\u0631\u0641\u0629","\u932b\u862d\u8089\u6842","81","7",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["cassia","cinnamon"],"lat":["22","7"],"legendgroup":"Lauraceae","lon":["111","81"],"marker":{"color":"#0f8554","opacity":0.8,"size":[1,1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Lauraceae","showlegend":true,"text":["cassia","cinnamon"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Capsicum annuum","Solanaceae","Central America","\u0641\u0644\u0641\u0644 \u062d\u0627\u0631","\u8fa3\u6912","-85","12",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["chile"],"lat":["12"],"legendgroup":"Solanaceae","lon":["-85"],"marker":{"color":"#73af48","opacity":0.8,"size":[1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Solanaceae","showlegend":true,"text":["chile"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Trigonella foenum-graecum","Fabaceae","S Eur; W As","\u062d\u0644\u0628\u0629","\u80e1\u8606\u5df4","67","33",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["fenugreek"],"lat":["33"],"legendgroup":"Fabaceae","lon":["67"],"marker":{"color":"#edad08","opacity":0.8,"size":[1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Fabaceae","showlegend":true,"text":["fenugreek"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Piper longum","Piperaceae","E. Himalaya to S. China; Indo-China","\u062f\u0627\u0631\u0641\u0644\u0641\u0644","\u84fd\u64a5","80","23",1],["Piper nigrum","Piperaceae","Malabar coast (South India)","\u0641\u0644\u0641\u0644","\u80e1\u6912","76","14",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["long pepper","pepper"],"lat":["23","14"],"legendgroup":"Piperaceae","lon":["80","76"],"marker":{"color":"#e17c05","opacity":0.8,"size":[1,1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Piperaceae","showlegend":true,"text":["long pepper","pepper"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Myristica fragrans","Myristicaceae","Moluccas (Indonesia)","\u0628\u0633\u0628\u0627\u0633\u0629","\u8089\u8c46\u853b\u76ae","130","-6",1],["Myristica fragrans","Myristicaceae","Moluccas (Indonesia)","\u062c\u0648\u0632 \u0627\u0644\u0637\u064a\u0628","\u8089\u8c46\u853b","129","-4",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["mace","nutmeg"],"lat":["-6","-4"],"legendgroup":"Myristicaceae","lon":["130","129"],"marker":{"color":"#cc503e","opacity":0.8,"size":[1,1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Myristicaceae","showlegend":true,"text":["mace","nutmeg"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Crocus sativus","Iridaceae","Greece","\u0632\u0639\u0641\u0631\u0627\u0646","\u85cf\u7d05\u82b1","22","39",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["saffron"],"lat":["39"],"legendgroup":"Iridaceae","lon":["22"],"marker":{"color":"#94346e","opacity":0.8,"size":[1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Iridaceae","showlegend":true,"text":["saffron"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Zanthoxylum bungeanum","Rutaceae","China","\u0641\u0644\u0641\u0644 \u0633\u064a\u062a\u0634\u0648\u0627\u0646","\u82b1\u6912","105","35",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["Sichuan pepper"],"lat":["35"],"legendgroup":"Rutaceae","lon":["105"],"marker":{"color":"#6f4070","opacity":0.8,"size":[1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Rutaceae","showlegend":true,"text":["Sichuan pepper"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Illicium verum","Schisandraceae","SE. China; Vietnam","\u064a\u0627\u0646\u0633\u0648\u0646 \u0646\u062c\u0645\u064a","\u516b\u89d2","106","18",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["star anise"],"lat":["18"],"legendgroup":"Schisandraceae","lon":["106"],"marker":{"color":"#808080","opacity":0.8,"size":[1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Schisandraceae","showlegend":true,"text":["star anise"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"},{"customdata":[["Vanilla planifolia","Orchidaceae","Tropical America","\u0641\u0627\u0646\u064a\u0644\u064a\u0627","\u9999\u8349","-55","-10",1]],"geo":"geo","hovertemplate":"<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>","hovertext":["vanilla"],"lat":["-10"],"legendgroup":"Orchidaceae","lon":["-55"],"marker":{"color":"#000000","opacity":0.8,"size":[1],"sizemode":"area","sizeref":0.006944444444444444,"symbol":"circle","line":{"color":"white","width":1}},"mode":"markers+text","name":"Orchidaceae","showlegend":true,"text":["vanilla"],"type":"scattergeo","textfont":{"color":"black","family":"Serif","size":14},"textposition":"middle right"}],"layout":{"template":{"layout":{"annotations":[{"font":{"color":"lightgray","family":"font_family","size":8},"name":"copyright","opacity":0.9,"showarrow":false,"text":"\u00a9 G\u00e1bor Parti, 2022","x":0.5,"xref":"paper","y":0,"yref":"paper"}]}},"geo":{"domain":{"x":[0.0,1.0],"y":[0.0,1.0]},"center":{},"projection":{"rotation":{"lat":20,"lon":80,"roll":0},"type":"orthographic","scale":1},"lonaxis":{"showgrid":true,"gridwidth":0.5,"dtick":10,"gridcolor":"#EDEDED"},"lataxis":{"showgrid":true,"gridwidth":0.5,"dtick":10,"gridcolor":"#EDEDED"},"resolution":110,"scope":"world","bgcolor":"rgba(255,255,255,0)","showcoastlines":true,"coastlinewidth":1,"coastlinecolor":"gainsboro","showcountries":false,"countrywidth":1,"countrycolor":"gainsboro","showframe":true,"framewidth":1,"framecolor":"gainsboro","showlakes":true,"lakecolor":"white","showland":true,"landcolor":"gainsboro","showocean":true,"oceancolor":"white","showrivers":true,"riverwidth":1,"rivercolor":"white","showsubunits":false,"subunitwidth":1,"subunitcolor":"gainsboro"},"legend":{"title":{"text":"family","font":{"color":"black","size":16,"family":"Serif"}},"tracegroupgap":0,"itemsizing":"constant","font":{"color":"black","size":14,"family":"Serif"},"x":0,"y":0,"xanchor":"left","yanchor":"bottom","bgcolor":"rgba(255,255,255,0.5)","traceorder":"normal","orientation":"v"},"margin":{"t":0,"r":0,"l":0,"b":0},"title":{"font":{"color":"black","size":20,"family":"Serif"},"x":0.5,"y":0.99,"xanchor":"center","yanchor":"top","text":""},"hoverlabel":{"font":{"size":14,"family":"Serif"}},"paper_bgcolor":"rgba(255,255,255,0)","plot_bgcolor":"rgba(255,255,255,0)","showlegend":true,"images":[{"sizex":0.15,"sizey":0.15,"source":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png","x":1,"xanchor":"right","y":0,"yanchor":"bottom"}]}}
+{
+  "data": [
+    {
+      "customdata": [
+        [
+          "Pimenta dioica",
+          "Myrtaceae",
+          "S. Mexico to C. America; Caribbean",
+          "\u0641\u0644\u0641\u0644 \u0625\u0641\u0631\u0646\u062c\u064a",
+          "\u591a\u9999\u679c",
+          "-77",
+          "18",
+          1
+        ],
+        [
+          "Syzygium aromaticum",
+          "Myrtaceae",
+          "Moluccas (Indonesia)",
+          "\u0642\u0631\u0646\u0641\u0644",
+          "\u4e01\u9999",
+          "127",
+          "0",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "allspice",
+        "clove"
+      ],
+      "lat": [
+        "18",
+        "0"
+      ],
+      "legendgroup": "Myrtaceae",
+      "lon": [
+        "-77",
+        "127"
+      ],
+      "marker": {
+        "color": "#5f4690",
+        "opacity": 0.8,
+        "size": [
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Myrtaceae",
+      "showlegend": true,
+      "text": [
+        "allspice",
+        "clove"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Pimpinella anisum",
+          "Apiaceae",
+          "E. Mediterranean; W. Asia",
+          "\u0623\u0646\u064a\u0633\u0648\u0646",
+          "\u8334\u82b9",
+          "35",
+          "39",
+          1
+        ],
+        [
+          "Ferula foetida",
+          "Apiaceae",
+          "Iran; W. and C. Asia",
+          "\u062d\u0644\u062a\u06cc\u062a",
+          "\u963f\u9b4f",
+          "55",
+          "35",
+          1
+        ],
+        [
+          "Carum carvi",
+          "Apiaceae",
+          "Mediterranean; Eurasia",
+          "\u0643\u0631\u0627\u0648\u064a\u0627",
+          "\u845b\u7e37\u5b50",
+          "69",
+          "45",
+          1
+        ],
+        [
+          "Coriandrum sativum",
+          "Apiaceae",
+          "Mediterranean; W. Asia; India; SW As",
+          "\u0643\u0632\u0628\u0631\u0629",
+          "\u82ab\u837d",
+          "39",
+          "35",
+          1
+        ],
+        [
+          "Cuminum cyminum",
+          "Apiaceae",
+          "W. \\& C. Asia; India ",
+          "\u0643\u0645\u0648\u0646 ",
+          "\u5b5c\u7136",
+          "53",
+          "32",
+          1
+        ],
+        [
+          "Anethum graveolens",
+          "Apiaceae",
+          "Nort Africa; West Asia",
+          "\u0634\u0628\u062a",
+          "\u8494\u863f",
+          "30",
+          "28",
+          1
+        ],
+        [
+          "Foeniculum vulgare",
+          "Apiaceae",
+          "Med",
+          "\u0634\u0645\u0631",
+          "\u8334\u9999",
+          "42",
+          "29",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "anise",
+        "asafoetida",
+        "caraway",
+        "coriander",
+        "cumin",
+        "dill",
+        "fennel"
+      ],
+      "lat": [
+        "39",
+        "35",
+        "45",
+        "35",
+        "32",
+        "28",
+        "29"
+      ],
+      "legendgroup": "Apiaceae",
+      "lon": [
+        "35",
+        "55",
+        "69",
+        "39",
+        "53",
+        "30",
+        "42"
+      ],
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.8,
+        "size": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Apiaceae",
+      "showlegend": true,
+      "text": [
+        "anise",
+        "asafoetida",
+        "caraway",
+        "coriander",
+        "cumin",
+        "dill",
+        "fennel"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Elettaria cardamomum",
+          "Zingiberaceae",
+          "India",
+          "\u0647\u0627\u0644",
+          "\u8c46\u853b",
+          "75",
+          "16",
+          1
+        ],
+        [
+          "Zingiber officinale",
+          "Zingiberaceae",
+          "South East Asia; India (secondary)",
+          "\u0632\u0646\u062c\u0628\u064a\u0644",
+          "\u8591",
+          "95",
+          "24",
+          1
+        ],
+        [
+          "Curcuma longa",
+          "Zingiberaceae",
+          "India",
+          "\u0643\u0631\u0643\u0645",
+          "\u8591\u9ec3",
+          "79",
+          "12",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "cardamom",
+        "ginger",
+        "turmeric"
+      ],
+      "lat": [
+        "16",
+        "24",
+        "12"
+      ],
+      "legendgroup": "Zingiberaceae",
+      "lon": [
+        "75",
+        "95",
+        "79"
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "opacity": 0.8,
+        "size": [
+          1,
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Zingiberaceae",
+      "showlegend": true,
+      "text": [
+        "cardamom",
+        "ginger",
+        "turmeric"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Cinnamomum cassia",
+          "Lauraceae",
+          "Southeast China",
+          "\u0633\u0644\u064a\u062e\u0629",
+          "\u8089\u6842",
+          "111",
+          "22",
+          1
+        ],
+        [
+          "Cinnamomum verum",
+          "Lauraceae",
+          "Sri Lanka; SW. India",
+          "\u0642\u0631\u0641\u0629",
+          "\u932b\u862d\u8089\u6842",
+          "81",
+          "7",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "cassia",
+        "cinnamon"
+      ],
+      "lat": [
+        "22",
+        "7"
+      ],
+      "legendgroup": "Lauraceae",
+      "lon": [
+        "111",
+        "81"
+      ],
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.8,
+        "size": [
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Lauraceae",
+      "showlegend": true,
+      "text": [
+        "cassia",
+        "cinnamon"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Capsicum annuum",
+          "Solanaceae",
+          "Central America",
+          "\u0641\u0644\u0641\u0644 \u062d\u0627\u0631",
+          "\u8fa3\u6912",
+          "-85",
+          "12",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "chile"
+      ],
+      "lat": [
+        "12"
+      ],
+      "legendgroup": "Solanaceae",
+      "lon": [
+        "-85"
+      ],
+      "marker": {
+        "color": "#73af48",
+        "opacity": 0.8,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Solanaceae",
+      "showlegend": true,
+      "text": [
+        "chile"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Trigonella foenum-graecum",
+          "Fabaceae",
+          "S Eur; W As",
+          "\u062d\u0644\u0628\u0629",
+          "\u80e1\u8606\u5df4",
+          "67",
+          "33",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "fenugreek"
+      ],
+      "lat": [
+        "33"
+      ],
+      "legendgroup": "Fabaceae",
+      "lon": [
+        "67"
+      ],
+      "marker": {
+        "color": "#edad08",
+        "opacity": 0.8,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Fabaceae",
+      "showlegend": true,
+      "text": [
+        "fenugreek"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Piper longum",
+          "Piperaceae",
+          "E. Himalaya to S. China; Indo-China",
+          "\u062f\u0627\u0631\u0641\u0644\u0641\u0644",
+          "\u84fd\u64a5",
+          "80",
+          "23",
+          1
+        ],
+        [
+          "Piper nigrum",
+          "Piperaceae",
+          "Malabar coast (South India)",
+          "\u0641\u0644\u0641\u0644",
+          "\u80e1\u6912",
+          "76",
+          "14",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "long pepper",
+        "pepper"
+      ],
+      "lat": [
+        "23",
+        "14"
+      ],
+      "legendgroup": "Piperaceae",
+      "lon": [
+        "80",
+        "76"
+      ],
+      "marker": {
+        "color": "#e17c05",
+        "opacity": 0.8,
+        "size": [
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Piperaceae",
+      "showlegend": true,
+      "text": [
+        "long pepper",
+        "pepper"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Myristica fragrans",
+          "Myristicaceae",
+          "Moluccas (Indonesia)",
+          "\u0628\u0633\u0628\u0627\u0633\u0629",
+          "\u8089\u8c46\u853b\u76ae",
+          "130",
+          "-6",
+          1
+        ],
+        [
+          "Myristica fragrans",
+          "Myristicaceae",
+          "Moluccas (Indonesia)",
+          "\u062c\u0648\u0632 \u0627\u0644\u0637\u064a\u0628",
+          "\u8089\u8c46\u853b",
+          "129",
+          "-4",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "mace",
+        "nutmeg"
+      ],
+      "lat": [
+        "-6",
+        "-4"
+      ],
+      "legendgroup": "Myristicaceae",
+      "lon": [
+        "130",
+        "129"
+      ],
+      "marker": {
+        "color": "#cc503e",
+        "opacity": 0.8,
+        "size": [
+          1,
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Myristicaceae",
+      "showlegend": true,
+      "text": [
+        "mace",
+        "nutmeg"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Crocus sativus",
+          "Iridaceae",
+          "Greece",
+          "\u0632\u0639\u0641\u0631\u0627\u0646",
+          "\u85cf\u7d05\u82b1",
+          "22",
+          "39",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "saffron"
+      ],
+      "lat": [
+        "39"
+      ],
+      "legendgroup": "Iridaceae",
+      "lon": [
+        "22"
+      ],
+      "marker": {
+        "color": "#94346e",
+        "opacity": 0.8,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Iridaceae",
+      "showlegend": true,
+      "text": [
+        "saffron"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Zanthoxylum bungeanum",
+          "Rutaceae",
+          "China",
+          "\u0641\u0644\u0641\u0644 \u0633\u064a\u062a\u0634\u0648\u0627\u0646",
+          "\u82b1\u6912",
+          "105",
+          "35",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "Sichuan pepper"
+      ],
+      "lat": [
+        "35"
+      ],
+      "legendgroup": "Rutaceae",
+      "lon": [
+        "105"
+      ],
+      "marker": {
+        "color": "#6f4070",
+        "opacity": 0.8,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Rutaceae",
+      "showlegend": true,
+      "text": [
+        "Sichuan pepper"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Illicium verum",
+          "Schisandraceae",
+          "SE. China; Vietnam",
+          "\u064a\u0627\u0646\u0633\u0648\u0646 \u0646\u062c\u0645\u064a",
+          "\u516b\u89d2",
+          "106",
+          "18",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "star anise"
+      ],
+      "lat": [
+        "18"
+      ],
+      "legendgroup": "Schisandraceae",
+      "lon": [
+        "106"
+      ],
+      "marker": {
+        "color": "#808080",
+        "opacity": 0.8,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Schisandraceae",
+      "showlegend": true,
+      "text": [
+        "star anise"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Vanilla planifolia",
+          "Orchidaceae",
+          "Tropical America",
+          "\u0641\u0627\u0646\u064a\u0644\u064a\u0627",
+          "\u9999\u8349",
+          "-55",
+          "-10",
+          1
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertext": [
+        "vanilla"
+      ],
+      "lat": [
+        "-10"
+      ],
+      "legendgroup": "Orchidaceae",
+      "lon": [
+        "-55"
+      ],
+      "marker": {
+        "color": "#000000",
+        "opacity": 0.8,
+        "size": [
+          1
+        ],
+        "sizemode": "area",
+        "sizeref": 0.006944444444444444,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Orchidaceae",
+      "showlegend": true,
+      "text": [
+        "vanilla"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "textposition": "middle right"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "annotations": [
+          {
+            "font": {
+              "color": "lightgray",
+              "family": "font_family",
+              "size": 8
+            },
+            "name": "copyright",
+            "opacity": 0.9,
+            "showarrow": false,
+            "text": "\u00a9 G\u00e1bor Parti, 2022",
+            "x": 0.5,
+            "xref": "paper",
+            "y": 0,
+            "yref": "paper"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "domain": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "center": {},
+      "projection": {
+        "rotation": {
+          "lat": 20,
+          "lon": 80,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "lonaxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "lataxis": {
+        "showgrid": true,
+        "gridwidth": 0.5,
+        "dtick": 10,
+        "gridcolor": "#EDEDED"
+      },
+      "resolution": 110,
+      "scope": "world",
+      "bgcolor": "rgba(255,255,255,0)",
+      "showcoastlines": true,
+      "coastlinewidth": 1,
+      "coastlinecolor": "gainsboro",
+      "showcountries": false,
+      "countrywidth": 1,
+      "countrycolor": "gainsboro",
+      "showframe": true,
+      "framewidth": 1,
+      "framecolor": "gainsboro",
+      "showlakes": true,
+      "lakecolor": "white",
+      "showland": true,
+      "landcolor": "gainsboro",
+      "showocean": true,
+      "oceancolor": "white",
+      "showrivers": true,
+      "riverwidth": 1,
+      "rivercolor": "white",
+      "showsubunits": false,
+      "subunitwidth": 1,
+      "subunitcolor": "gainsboro"
+    },
+    "legend": {
+      "title": {
+        "text": "family",
+        "font": {
+          "color": "black",
+          "size": 16,
+          "family": "Serif"
+        }
+      },
+      "tracegroupgap": 0,
+      "itemsizing": "constant",
+      "font": {
+        "color": "black",
+        "size": 14,
+        "family": "Serif"
+      },
+      "x": 0,
+      "y": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "traceorder": "normal",
+      "orientation": "v"
+    },
+    "margin": {
+      "t": 0,
+      "r": 0,
+      "l": 0,
+      "b": 0
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "size": 20,
+        "family": "Serif"
+      },
+      "x": 0.5,
+      "y": 0.99,
+      "xanchor": "center",
+      "yanchor": "top",
+      "text": ""
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}
