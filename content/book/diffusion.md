@@ -14,4 +14,8 @@ plotly: true
 ---
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/diffusion_en.json" height="400px" >}}
+{{< plotly json="/plotly/diffusion_en.json" height="500px" >}}
+
+{{< plotly json="/plotly/diffusion_ar.json" height="500px" >}}
+
+{{< plotly json="/plotly/diffusion_zh.json" height="500px" >}}
