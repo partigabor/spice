@@ -29,7 +29,7 @@ The goal of this project is to gather the available knowledge on spices (and in 
 
 {{< load-plotly >}}
 
-{{< plotly json="plotly/distribution.json" height="400" >}}
+{{< plotly json="plotly/distribution.json" height="500" >}}
 
 <!-- 
 {{< columns >}}
