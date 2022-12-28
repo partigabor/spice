@@ -19,28 +19,28 @@ plotly: true
 
 This page contains visualizations showing the diffusion of spices on spatial and temporal trajectories when considering the etymologies of spice words.
 
-## Borrowings
+## Spatial Diffusion: Tracing Etymologies
 
-{{< plotly json="/plotly/borrowing_pie.json" height="300px" >}}
-
-# Spatial Diffusion: Tracing Etymologies
-
-## English
+### English
 
 {{< plotly json="/plotly/diffusion_en.json" height="600px" >}}
 
-## Arabic
+### Arabic
 
 {{< plotly json="/plotly/diffusion_ar.json" height="600px" >}}
 
-## Chinese
+### Chinese
 
 {{< plotly json="/plotly/diffusion_zh.json" height="600px" >}}
 
-# Temporal Diffusion: Dates of Attestation
+## Temporal Diffusion: Dates of Attestation
 
 {{< plotly json="/plotly/attestation_and_borrowing.json" height="600px" >}}
 
-## Compact
+### Compact
 
 {{< plotly json="/plotly/attestation_and_borrowing_compact.json" height="600px" >}}
+
+## Borrowings
+
+{{< plotly json="/plotly/borrowing_pie.json" height="300px" >}}

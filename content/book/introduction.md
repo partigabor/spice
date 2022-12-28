@@ -17,8 +17,8 @@ plotly: true
 
 # Introduction
 
-## The Distribution of Names in Various Languages
-{{< plotly json="/plotly/languages_pie.json" height="300px" width="300px" >}}
+<!-- ## The Distribution of Names in Various Languages
+{{< plotly json="/plotly/languages_pie.json" height="300px" width="300px" >}} -->
 
 <!-- {{< image src="images/kohler/allspice_kohler_min.png" alt="Illustration." >}} -->
 <!-- does not work -->

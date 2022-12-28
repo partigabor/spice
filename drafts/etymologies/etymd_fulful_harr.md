@@ -1,5 +1,5 @@
 ::: etymology
-[]{#ety:fulful harr label="ety:fulful harr"} Arabic فلفل حار *fulful
+[]{#ety:fulful harr label="ety:fulful harr"} **Arabic** فلفل حار *fulful
 ḥārr* 'chili pepper' \[hot pepper\][^1]
 :::
 

@@ -45,28 +45,28 @@ Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Ru
 ## Etymologies
 
 {{< hint etym >}}
-English *Sichuan pepper*
+**English** *Sichuan pepper*
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-English *fagara* < Medieval Latin *fagara* 'Sichuan pepper?; cubeb?', translingual word from scientific Latin; coined by European botanists reading Avicenna (cf. da Orta) < Arabic فاغرة *fāghira* < Persian *fākhira*
+**English** *fagara* < **Medieval Latin** *fagara* 'Sichuan pepper?; cubeb?', translingual word from scientific Latin; coined by European botanists reading Avicenna (cf. da Orta) < **Arabic** فاغرة *fāghira* < **Persian** *fākhira*
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic فلفل سيتشوان *fulful sītshuwān* 'Sichuan pepper'
+**Arabic** فلفل سيتشوان *fulful sītshuwān* 'Sichuan pepper'
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 花椒 *huā​jiāo* 'Sichuan pepper' [flower-pepper ]
+**Mandarin Chinese** 花椒 *huā​jiāo* 'Sichuan pepper' [flower-pepper ]
 
 
 

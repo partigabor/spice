@@ -45,21 +45,21 @@ Clove (*Syzygium aromaticum* (L.) Merr. \& L.M.Perry) is a culinary and medicina
 ## Etymologies
 
 {{< hint etym >}}
-English *clove*, ?ca. 1225 < Anglo-Norman *clow*, c.1200 < Old French *clou*, XII < Latin *clāvus* 'nail'
+**English** *clove*, ?ca. 1225 < **Anglo-Norman** *clow*, c.1200 < **Old French** *clou*, XII < **Latin** *clāvus* 'nail'
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic قرنفل *qaranful* 'clove', (also refers to carnation flower) < Dravidian *?*, perhaps from a language of South India, where cloves were initially traded from
+**Arabic** قرنفل *qaranful* 'clove', (also refers to carnation flower) < **Dravidian** *?*, perhaps from a language of South India, where cloves were initially traded from
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 丁香 *dīngxiāng* 'clove' [nail-spice ], using pictogram after the shape of the spice (earlier name is 雞舌香 *jīshéxiāng* [chicken-tongue-spice ] ), 1321
+**Mandarin Chinese** 丁香 *dīngxiāng* 'clove' [nail-spice ], using pictogram after the shape of the spice (earlier name is 雞舌香 *jīshéxiāng* [chicken-tongue-spice ] ), 1321
 
 
 

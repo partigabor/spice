@@ -45,21 +45,21 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 ## Etymologies
 
 {{< hint etym >}}
-English *long pepper* 'long pepper', eOE; cf. cognates Anglo-Norman as poivre lonc (13th cent.; Middle French, French poivre long) and also Middle Dutch lanc peper (Dutch lange peper), Middle Low German lanc pēper, lancpēper, Old High German langpfeffar (Middle High German langer pheffer, German langer Pfeffer), Old Swedish langa pipar (Swedish långpeppar) < Latin *piper longus* 'long pepper' [pepper-long ]
+**English** *long pepper* 'long pepper', eOE; cf. cognates Anglo-Norman as poivre lonc (13th cent.; Middle French, French poivre long) and also Middle Dutch lanc peper (Dutch lange peper), Middle Low German lanc pēper, lancpēper, Old High German langpfeffar (Middle High German langer pheffer, German langer Pfeffer), Old Swedish langa pipar (Swedish långpeppar) < **Latin** *piper longus* 'long pepper' [pepper-long ]
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic دارفلفل *dārfilfil* 'long pepper', compound of two Persian words < Persian دار پلپل *dār pilpil* 'long pepper', formed within Persian from *dār* 'wood' + *pilpil* 'pepper' (both words are Sanskrit loanwords) < ultimately from Sanskrit *dāru + pippali* 'long pepper'
+**Arabic** دارفلفل *dārfilfil* 'long pepper', compound of two Persian words < **Persian** دار پلپل *dār pilpil* 'long pepper', formed within Persian from *dār* 'wood' + *pilpil* 'pepper' (both words are Sanskrit loanwords) < ultimately from **Sanskrit** *dāru + pippali* 'long pepper'
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/piɪt̚ buɑt̚/ 'long pepper', a phonetic loan < Sanskrit पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'
+/piɪt̚ buɑt̚/ 'long pepper', a phonetic loan < **Sanskrit** पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'
 
 
 

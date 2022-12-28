@@ -45,21 +45,21 @@ Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^po
 ## Etymologies
 
 {{< hint etym >}}
-English *cumin*, Middle English cumin, comin was either from French (like Middle Dutch comijn, Dutch komijn), or altered from Old English cymen after French. (Old English *cymen*); cf. cognates Old High German chumin, cumin, also chumil (Middle High German kümel, German kümmel), Swedish kummin, Danish kummen. The word has also come down in the Romanic languages, Italian cumino, comino, Spanish comino, Portuguese cominho, Old French cumin, comin. < Latin *cumīnum* 'id.' < Ancient Greek κύμῑνον *kúmīnon* 'id.', The Greek κύμῑνον is supposed to have been a foreign word, cognate in origin with the Semitic names < Semitic * *kmn* 'id.'; cf. cognates Arabic *kammūn*; Hebrew *kammōn*; Akkadian *kamūnu*
+**English** *cumin*, Middle English cumin, comin was either from French (like Middle Dutch comijn, Dutch komijn), or altered from Old English cymen after French. (Old English *cymen*); cf. cognates Old High German chumin, cumin, also chumil (Middle High German kümel, German kümmel), Swedish kummin, Danish kummen. The word has also come down in the Romanic languages, Italian cumino, comino, Spanish comino, Portuguese cominho, Old French cumin, comin. < **Latin** *cumīnum* 'id.' < **Ancient Greek** κύμῑνον *kúmīnon* 'id.', The Greek κύμῑνον is supposed to have been a foreign word, cognate in origin with the Semitic names < **Semitic** * *kmn* 'id.'; cf. cognates Arabic *kammūn*; Hebrew *kammōn*; Akkadian *kamūnu*
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic كمون *kammūn* 'cumin' < Aramaic / *kammōnā* 'cumin'; cf. cognates Old Armenian *čʿaman* < Akkadian Ú.GAMUN *kamūnu* 'cumin'
+**Arabic** كمون *kammūn* 'cumin' < **Aramaic** / *kammōnā* 'cumin'; cf. cognates Old Armenian *čʿaman* < **Akkadian** Ú.GAMUN *kamūnu* 'cumin'
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 孜然 *zī​rán* 'cumin', modern loan from Uyghur (the historic term is 蒔蘿 from Middle Persian * *zīra* during Tang dynasty) < Uyghur زىرە *zirä* 'cumin' < Persian زیره *zīra* 'cumin', distantly related to Sanskrit *jīraka* (zire-ye siyāh [black cumin ] 'caraway'; zire-ye sabz [green cumin ] 'cumin'); cf. cognates Sogdian zyr'kk /zîrê/; Hindi-Urdu *zīrā* < Sanskrit जीर *jīra* 'cumin'; cf. Hindi जीरा *jīrā*; English *jeera*
+**Mandarin Chinese** 孜然 *zī​rán* 'cumin', modern loan from Uyghur (the historic term is 蒔蘿 from Middle Persian * *zīra* during Tang dynasty) < **Uyghur** زىرە *zirä* 'cumin' < **Persian** زیره *zīra* 'cumin', distantly related to Sanskrit *jīraka* (zire-ye siyāh [black cumin ] 'caraway'; zire-ye sabz [green cumin ] 'cumin'); cf. cognates Sogdian zyr'kk /zîrê/; Hindi-Urdu *zīrā* < **Sanskrit** जीर *jīra* 'cumin'; cf. Hindi जीरा *jīrā*; English *jeera*
 
 
 

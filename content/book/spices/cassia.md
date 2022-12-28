@@ -45,14 +45,14 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 ## Etymologies
 
 {{< hint etym >}}
-English *cassia*, ca. 1000 < Latin *casia* 'id.', c. < Ancient Greek κασία *kasía* 'id.', c. < Ancient Hebrew קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)
+**English** *cassia*, ca. 1000 < **Latin** *casia* 'id.', c. < **Ancient Greek** κασία *kasía* 'id.', c. < **Ancient Hebrew** קְצִיעָה *qəṣîʿâ* 'a bark resembling cinnamon, but less aromatic, so called from being stripped off', from *qṣaʿ* 'to cut off, strip off bark' (hapax legomenon in the Bible; Ps. 45:9)
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic سليخة *salīkha* 'cinnamon bark; cassia bark' [peeled off, stripped off ], from *salakha* 'to pull off, strip off; skin, flay'; Semitic root *s-l-kh*; cf. cognates *
+**Arabic** سليخة *salīkha* 'cinnamon bark; cassia bark' [peeled off, stripped off ], from *salakha* 'to pull off, strip off; skin, flay'; Semitic root *s-l-kh*; cf. cognates *
 
 
 

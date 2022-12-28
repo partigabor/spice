@@ -45,21 +45,21 @@ Fenugreek (*Trigonella foenum-graecum* L.) is a culinary spice and herb from the
 ## Etymologies
 
 {{< hint etym >}}
-English *fenugreek*, in old English from Latin, in Middle English and later from French < French *fenugrec* < Latin *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans
+**English** *fenugreek*, in old English from Latin, in Middle English and later from French < **French** *fenugrec* < **Latin** *faenugraecum* [Greek-hay ], named *faenum Graecum* 'Greek hay' by the Romans
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
+**Arabic** حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-Mandarin Chinese 胡蘆巴 *húlúbā* 'fenugreek' < Persian حلبة *ḥulba* 'fenugreek' < Arabic حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
+**Mandarin Chinese** 胡蘆巴 *húlúbā* 'fenugreek' < **Persian** حلبة *ḥulba* 'fenugreek' < **Arabic** حلبة *ḥulba* 'fenugreek', Semitic; cf. cognates Classical Syriac ; Hebrew *ḥilbā*
 
 
 

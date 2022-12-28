@@ -26,11 +26,13 @@ plotly: true
 ## Headwords
 {{< plotly json="/plotly/headword_bar.json" height="300px" >}}
 
+## Headword Types
 {{< plotly json="/plotly/headword_type_tripie.json" height="300px" >}}
 
 ## Modifiers
 {{< plotly json="/plotly/modifier_bar.json" height="300px" >}}
 
+## Modifier Types
 {{< plotly json="/plotly/modifier_type_tripie.json" height="300px" >}}
 
 ## Sensory Words
