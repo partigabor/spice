@@ -460,6 +460,17 @@ https://forkaweso.me/Fork-Awesome/icons/
 
 <i class="fa fa-2x fa-tex" aria-hidden="true"></i>
 
+
+### Academicons
+
+Academicons (Font Aswesome), use them with html inputs like this, direcly in a md file:
+
+```html
+<i class="ai ai-google-scholar ai-2x"></i>
+```
+
+<i class="ai ai-google-scholar ai-2x"></i>
+
 ## Gallery
 
 {{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
