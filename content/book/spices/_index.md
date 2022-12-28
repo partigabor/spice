@@ -4,7 +4,7 @@ weight: 20
 title: "The Spices"
 # bookHidden: true
 bookCollapseSection: true
-bookFlatSection: true
+# bookFlatSection: true
 bookToc: false
 resources: 
 - src: "gallery/*.jpg"
