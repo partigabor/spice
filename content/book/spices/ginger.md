@@ -59,7 +59,7 @@ Ginger (*Zingiber officinale* Roscoe) is a culinary and medicinal spice from the
 {{< /hint >}}
 
 {{< hint etym >}}
-/ *kaŋ/ 'ginger' < **Proto-Sino-Tibetan** * *kjaŋ* 'ginger'; cf. Burmese ချင်း *hkyang:*
+**Mandarin Chinese** 薑 *jiāng* 'ginger', -221 < **Old Chinese** 䕬 OC / *kaŋ/ 'ginger' < **Proto-Sino-Tibetan** * *kjaŋ* 'ginger'; cf. Burmese ချင်း *hkyang:*
 
 
 

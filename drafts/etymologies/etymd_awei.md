@@ -1,8 +1,7 @@
 ::: etymology
-[]{#ety:awei label="ety:awei"} **Mandarin Chinese** 阿魏 *āwèi*
-[MC]{acronym-label="MC" acronym-form="singular+short"} /ʔɑ ŋʉiH/
-'asafoetida' \< **Tokharian B** *ankwaṣ(ṭ)* 'asafoetida' \< **Sogdian**
-*\*angužat* 'asafoetida' \< **Proto-Iranian** *\*aṅgu-ǰatu-*
+[]{#ety:awei label="ety:awei"} **Mandarin Chinese** 阿魏 *āwèi* MC /ʔɑ
+ŋʉiH/ 'asafoetida' \< **Tokharian B** *ankwaṣ(ṭ)* 'asafoetida' \<
+**Sogdian** *\*angužat* 'asafoetida' \< **Proto-Iranian** *\*aṅgu-ǰatu-*
 'resin-gum'[^1]
 :::
 

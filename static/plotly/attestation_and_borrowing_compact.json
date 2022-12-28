@@ -148,6 +148,20 @@
           "1841",
           "Pimpinella anisum",
           1
+        ],
+        [
+          "cinnamon",
+          "Ceylon-flesh-cinnamon",
+          "1920",
+          "Cinnamomum verum",
+          1
+        ],
+        [
+          "allspice",
+          "many-spice-fruit",
+          "1953",
+          "Pimenta dioica",
+          1
         ]
       ],
       "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=no<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
@@ -172,13 +186,17 @@
         "l\u00e0ji\u0101o",
         "xi\u0101ngc\u01ceo",
         "r\u00f2ud\u00f2uk\u00f2ug\u0101np\u00ed",
-        "hu\u00edq\u00edn"
+        "hu\u00edq\u00edn",
+        "x\u012bl\u00e1nr\u00f2ugu\u00ec",
+        "du\u014dxi\u0101nggu\u01d2"
       ],
       "legendgroup": "Chinese, no",
       "marker": {
         "color": "#edad08",
         "opacity": 0.5,
         "size": [
+          1,
+          1,
           1,
           1,
           1,
@@ -234,10 +252,14 @@
         1785,
         1800,
         1819,
-        1841
+        1841,
+        1920,
+        1953
       ],
       "xaxis": "x",
       "y": [
+        "Chinese",
+        "Chinese",
         "Chinese",
         "Chinese",
         "Chinese",
@@ -300,7 +322,9 @@
         1785,
         1800,
         1819,
-        1841
+        1841,
+        1920,
+        1953
       ],
       "xaxis": "x2",
       "yaxis": "y2",
@@ -363,20 +387,6 @@
           "1900?",
           "Cuminum cyminum",
           1
-        ],
-        [
-          "cinnamon",
-          "Ceylon-flesh-cinnamon",
-          "1920",
-          "Cinnamomum verum",
-          1
-        ],
-        [
-          "allspice",
-          "many-spice-fruit",
-          "1953",
-          "Pimenta dioica",
-          1
         ]
       ],
       "hovertemplate": "<b>%{hovertext}</b><br><br>language=%{y}<br>borrowing=yes<br>id=%{customdata[0]}<br>date=%{customdata[2]}<br>species=%{customdata[3]}<extra></extra>",
@@ -388,17 +398,13 @@
         "sh\u00edlu\u00f3",
         "h\u00fal\u00fab\u0101",
         "g\u011bl\u01dazi",
-        "z\u012br\u00e1n",
-        "x\u012bl\u00e1nr\u00f2ugu\u00ec",
-        "du\u014dxi\u0101nggu\u01d2"
+        "z\u012br\u00e1n"
       ],
       "legendgroup": "Chinese, yes",
       "marker": {
         "color": "#edad08",
         "opacity": 0.5,
         "size": [
-          1,
-          1,
           1,
           1,
           1,
@@ -428,14 +434,10 @@
         1008,
         1408,
         1822,
-        1900,
-        1920,
-        1953
+        1900
       ],
       "xaxis": "x",
       "y": [
-        "Chinese",
-        "Chinese",
         "Chinese",
         "Chinese",
         "Chinese",
@@ -472,9 +474,7 @@
         1008,
         1408,
         1822,
-        1900,
-        1920,
-        1953
+        1900
       ],
       "xaxis": "x2",
       "yaxis": "y2",

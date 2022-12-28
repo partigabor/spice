@@ -73,7 +73,7 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingi
 {{< /hint >}}
 
 {{< hint etym >}}
-/tɑ kuət/ 'round cardamom' < **Pali** *takkola* 'Bdellium, a perfume made from the berry of the kakkola plant' < **Sanskrit** तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*; Chinese 嘎哥拉 *gágēlā*
+**Mandarin Chinese** *dòukòu* MC /dəuH həuH/ 'cardamom' [bean-cardamom ], compound of 豆 'bean(-like)' + 'many; profusion' (BCGM); or phono-semantic matching (confused with nutmeg at first), ca. 863 < **Middle Chinese** 多骨 *duōgǔ* MC /tɑ kuət/ 'round cardamom' < **Pali** *takkola* 'Bdellium, a perfume made from the berry of the kakkola plant' < **Sanskrit** तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*; Chinese 嘎哥拉 *gágēlā*
 
 
 

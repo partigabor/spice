@@ -59,7 +59,7 @@ Cassia (*Cinnamomum cassia* (L.) J.Presl.) is a culinary and medicinal spice fro
 {{< /hint >}}
 
 {{< hint etym >}}
-/kweiH/ 'cassia' [flesh-cinnamon ], *guì* is modified by *ròu* to distuinguish it from the osmanthus flower (桂花 *guìhuā*)
+**Mandarin Chinese** 肉桂 *ròuguì* MC /kweiH/ 'cassia' [flesh-cinnamon ], *guì* is modified by *ròu* to distuinguish it from the osmanthus flower (桂花 *guìhuā*)
 
 
 

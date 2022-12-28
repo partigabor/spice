@@ -73,14 +73,14 @@ Asafoetida (*Ferula foetida* (Bunge) Regel) is a culinary and medicinal spice fr
 {{< /hint >}}
 
 {{< hint etym >}}
-/ʔɑ ŋʉiH/ 'asafoetida' < **Tokharian B** *ankwaṣ(ṭ)* 'asafoetida' < **Sogdian** * *angužat* 'asafoetida' < **Proto-Iranian** * *aṅgu-ǰatu-* 'resin-gum'
+**Mandarin Chinese** 阿魏 *āwèi* MC /ʔɑ ŋʉiH/ 'asafoetida' < **Tokharian B** *ankwaṣ(ṭ)* 'asafoetida' < **Sogdian** * *angužat* 'asafoetida' < **Proto-Iranian** * *aṅgu-ǰatu-* 'resin-gum'
 
 
 
 {{< /hint >}}
 
 {{< hint etym >}}
-/hɨŋ ɡɨʌ/ 'asafoetida', phonetic transcription < **Sanskrit** हिङ्गु *hiṅgu* 'asafoetida' < **Proto-Iranian** * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
+**Mandarin Chinese** 興蕖/興渠/興瞿 *xīngqú* MC /hɨŋ ɡɨʌ/ 'asafoetida', phonetic transcription < **Sanskrit** हिङ्गु *hiṅgu* 'asafoetida' < **Proto-Iranian** * *aṅgu-ǰatu-* 'resin-gum'; cf. Tokharian B, Khotanese
 
 
 

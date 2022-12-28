@@ -59,7 +59,7 @@ Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Pipe
 {{< /hint >}}
 
 {{< hint etym >}}
-/piɪt̚ buɑt̚/ 'long pepper', a phonetic loan < **Sanskrit** पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'
+**Mandarin Chinese** 蓽拔 *bìbá* MC /piɪt̚ buɑt̚/ 'long pepper', a phonetic loan < **Sanskrit** पिप्पलि *pippali* 'long pepper *Piper longum* (plant and berry); a berry'
 
 
 
