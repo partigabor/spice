@@ -1,7 +1,7 @@
 ---
 title: Sichuan Pepper
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The numbing, red or green fruits of East Asian prickly ash trees, related to sansho..
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Sichuan Pepper
 
-![Illustration of Zanthoxylum_bungeanum](/images/kohler/Sichuan_pepper.png)
+![Illustration of Zanthoxylum bungeanum](/images/kohler/Sichuan_pepper.png)
 
 {{< center >}}
-Illustration of Zanthoxylum bungeanum Maxim. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Zanthoxylum bungeanum Maxim. from Matilda Smith (del.), John Nugent Fitch (lith.). (1918) Zanthoxylum planispinum (= Zanthoxylum armatum), Rutaceae. In Curtis's Botanical Magazine (Ed. Sir David Prain), London., vol. 144 [= ser. 4, vol. 14]: Tab. 8754.
 {{< /center >}}
 
 Sichuan Pepper (*Zanthoxylum bungeanum* Maxim.) is a culinary spice from the *Rutaceae* family,[^powo] originating in the region(s) of China.[^van_wyk_culinary_2014] It is used for its pericarp, primarily for meats; colic. Its aroma is described as woodsy, peppery, with a heat index of 3.[^ucla_medicinal_2002]

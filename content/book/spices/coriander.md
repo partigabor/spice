@@ -1,7 +1,7 @@
 ---
 title: Coriander
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The dried fruits of an annual herb, also used for its fresh leaves, also known as cilantro; Chinese parsley.
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Coriander
 
-![Illustration of Coriandrum_sativum](/images/kohler/coriander.png)
+![Illustration of Coriandrum sativum](/images/kohler/coriander.png)
 
 {{< center >}}
-Illustration of Coriandrum sativum L. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Coriandrum sativum L. from Köhler's Medizinal-Pflanzen (1887)
 {{< /center >}}
 
 Coriander (*Coriandrum sativum* L.) is a culinary spice and herb from the *Apiaceae* family,[^powo] originating in the region(s) of Mediterranean; W. Asia; India; SW As.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for curries; anti-microbial. Its aroma is described as warm, aromatic, sweet, with a heat index of 1.[^ucla_medicinal_2002]

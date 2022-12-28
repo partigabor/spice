@@ -1,7 +1,7 @@
 ---
 title: Long Pepper
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The spike-like cluster of fruits of Piper longum from India.
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary', 'medicinal']
 
 # Long Pepper
 
-![Illustration of Piper_longum](/images/kohler/long_pepper.png)
+![Illustration of Piper longum](/images/kohler/long_pepper.png)
 
 {{< center >}}
-Illustration of Piper longum L. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Piper longum L. from Bentley, R., & Trimen, H. (1880). Medicinal Plants: Being descriptions with original figures of the principal plants employed in medicine and an account of the characters, properties, and uses of their parts and products of medicinal value. J. & A. Churchill.
 {{< /center >}}
 
 Long Pepper (*Piper longum* L.) is a culinary and medicinal spice from the *Piperaceae* family,[^powo] originating in the region(s) of E. Himalaya to S. China; Indo-China.[^van_wyk_culinary_2014] It is used for its fruit, primarily for South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_medicinal_2002]

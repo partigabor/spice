@@ -100,8 +100,8 @@
       "color": "black",
       "size": 40
     },
-    "width": 600,
-    "height": 700,
+    "width": 300,
+    "height": 350,
     "annotations": [
       {
         "showarrow": false,

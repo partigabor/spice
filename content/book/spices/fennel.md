@@ -1,7 +1,7 @@
 ---
 title: Fennel
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The dried fruits of a perennial herb, also used as a vegetable .
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Fennel
 
-![Illustration of Foeniculum_vulgare](/images/kohler/fennel.png)
+![Illustration of Foeniculum vulgare](/images/kohler/fennel.png)
 
 {{< center >}}
-Illustration of Foeniculum vulgare Mill. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Foeniculum vulgare Mill. from Köhler's Medizinal-Pflanzen (1887)
 {{< /center >}}
 
 Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable from the *Apiaceae* family,[^powo] originating in the region(s) of Med.[^van_wyk_culinary_2014] It is used for its fruit and leaf, primarily for fish, breads, sausages; colic. Its aroma is described as licorice-like, warm, with a heat index of 1.[^ucla_medicinal_2002]

@@ -1,7 +1,7 @@
 ---
 title: Anise
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The seed-like fruits of a Mediterranean herb, also known as aniseed.
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Anise
 
-![Illustration of Pimpinella_anisum](/images/kohler/anise.png)
+![Illustration of Pimpinella anisum](/images/kohler/anise.png)
 
 {{< center >}}
-Illustration of Pimpinella anisum L. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Pimpinella anisum L. from Köhler's Medizinal-Pflanzen (1887)
 {{< /center >}}
 
 Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of E. Mediterranean; W. Asia.[^van_wyk_culinary_2014] It is used for its fruit and oil, primarily for pastries, candies, liquors. Its aroma is described as licorice-like, sweet, with a heat index of 1.[^ucla_medicinal_2002]

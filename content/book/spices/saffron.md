@@ -1,7 +1,7 @@
 ---
 title: Saffron
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The stigmas or styles of the saffron crocus flower.
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Saffron
 
-![Illustration of Crocus_sativus](/images/kohler/saffron.png)
+![Illustration of Crocus sativus](/images/kohler/saffron.png)
 
 {{< center >}}
-Illustration of Crocus sativus L. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Crocus sativus L. from Köhler's Medizinal-Pflanzen (1887)
 {{< /center >}}
 
 Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* family,[^powo] originating in the region(s) of Greece.[^van_wyk_culinary_2014] It is used for its stigma (style), primarily for bouillabaise, rice; fevers. Its aroma is described as pungent, bitter, with a heat index of 0.[^ucla_medicinal_2002]

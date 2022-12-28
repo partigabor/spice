@@ -1,7 +1,7 @@
 ---
 title: Cumin
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The dried seeds of a West Asian flowering plant.
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Cumin
 
-![Illustration of Cuminum_cyminum](/images/kohler/cumin.png)
+![Illustration of Cuminum cyminum](/images/kohler/cumin.png)
 
 {{< center >}}
-Illustration of Cuminum cyminum L. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Cuminum cyminum L. from Köhler's Medizinal-Pflanzen (1887)
 {{< /center >}}
 
 Cumin (*Cuminum cyminum* L.) is a culinary spice from the *Apiaceae* family,[^powo] originating in the region(s) of W. \& C. Asia; India .[^van_wyk_culinary_2014] It is used for its fruit, primarily for curries, breads; colic. Its aroma is described as peppery, aromatic, with a heat index of 4.[^ucla_medicinal_2002]

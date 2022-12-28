@@ -1,7 +1,7 @@
 ---
 title: Vanilla
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The aromatic seed pods of orchid species from America.
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Vanilla
 
-![Illustration of Vanilla_planifolia](/images/kohler/vanilla.png)
+![Illustration of Vanilla planifolia](/images/kohler/vanilla.png)
 
 {{< center >}}
-Illustration of Vanilla planifolia Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Vanilla planifolia Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887)
 {{< /center >}}
 
 Vanilla (*Vanilla planifolia* Jacks. ex Andrews) is a culinary spice from the *Orchidaceae* family,[^powo] originating in the region(s) of Tropical America.[^van_wyk_culinary_2014] It is used for its fruit, primarily for flavouring; baking; desserts; perfumery; aromatherapy. Its aroma is described as fragrant, sweet, delicious, with a heat index of 1.[^ucla_medicinal_2002]

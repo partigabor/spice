@@ -1,7 +1,7 @@
 ---
 title: Allspice
 author: Gábor Parti
-date: 2022-12-27
+date: 2022-12-28
 description: The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper.
 weight: 1
 # bookCollapseSection: true
@@ -17,10 +17,10 @@ tags: ['culinary']
 
 # Allspice
 
-![Illustration of Pimenta_dioica](/images/kohler/allspice.png)
+![Illustration of Pimenta dioica](/images/kohler/allspice.png)
 
 {{< center >}}
-Illustration of Pimenta dioica (L.) Merr. from Köhler's Medizinal-Pflanzen (1887).
+Illustration of Pimenta dioica (L.) Merr. from Köhler's Medizinal-Pflanzen (1887)
 {{< /center >}}
 
 Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* family,[^powo] originating in the region(s) of S. Mexico to C. America; Caribbean.[^van_wyk_culinary_2014] It is used for its unripe fruit and leaf, primarily for pickles, wines, desserts, liquors. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_medicinal_2002]
