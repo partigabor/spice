@@ -17,7 +17,7 @@
 <link rel="icon" href="/spice/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/spice/book.min.b7af37373304934bb4a58d5c42e328c33b2e5b87140dc4f4746a060f509151b4.css" integrity="sha256-t683NzMEk0u0pY1cQuMowzsuW4cUDcT0dGoGD1CRUbQ=" crossorigin="anonymous">
   <script defer src="/spice/flexsearch.min.js"></script>
-  <script defer src="/spice/en.search.min.2ca67a3f80df8016e5d08d636cae7e1ed4ca98cab94a6a1829a752db2f97b1f1.js" integrity="sha256-LKZ6P4DfgBbl0I1jbK5&#43;HtTKmMq5SmoYKadS2y&#43;XsfE=" crossorigin="anonymous"></script>
+  <script defer src="/spice/en.search.min.5531ee6f31cb1bf268ac66503626b1f25f98c4bf784a59ec358c7700ae3f9d52.js" integrity="sha256-VTHubzHLG/JorGZQNiax8l&#43;YxL94SlnsNYx3AK4/nVI=" crossorigin="anonymous"></script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5VF0FL7ED"></script>
 <script>
@@ -687,6 +687,21 @@ Plotly.d3.json("/plotly/modifier_type_tripie.json", function(err, fig) {
 <script>
 Plotly.d3.json("/plotly/sensory_tripie.json", function(err, fig) {
     Plotly.plot('\/plotly\/sensory_tripie.json', fig.data, fig.layout, {responsive: true});
+});
+</script>
+
+<hr>
+<h2 id="pepper-words-in-english-in-the-oed">
+  Pepper-words in English in the OED
+  <a class="anchor" href="#pepper-words-in-english-in-the-oed">#</a>
+</h2>
+
+
+<div id="/plotly/oed_pepper.json" class="plotly" style="height:400px"></div>
+
+<script>
+Plotly.d3.json("/plotly/oed_pepper.json", function(err, fig) {
+    Plotly.plot('\/plotly\/oed_pepper.json', fig.data, fig.layout, {responsive: true});
 });
 </script>
 

@@ -139,12 +139,10 @@
     {
       "hoverinfo": "text",
       "hovertext": [
-        "\u591a\u9999\u679c<br>du\u014dxi\u0101nggu\u01d2<br>Mandarin Chinese<br>Sino-Tibetan",
-        "<br>allspice<br>English<br>Indo-European"
+        "\u591a\u9999\u679c<br>du\u014dxi\u0101nggu\u01d2<br>Mandarin Chinese<br>Sino-Tibetan"
       ],
       "lat": [
-        40.0209,
-        52.0
+        40.0209
       ],
       "line": {
         "color": "#edad08",
@@ -152,8 +150,7 @@
         "width": 4
       },
       "lon": [
-        116.228,
-        0.0
+        116.228
       ],
       "marker": {
         "color": "#edad08",
@@ -169,8 +166,7 @@
       "name": "duoxiangguo",
       "opacity": 0.75,
       "text": [
-        "du\u014dxi\u0101nggu\u01d2",
-        "allspice"
+        "du\u014dxi\u0101nggu\u01d2"
       ],
       "textfont": {
         "color": "black",

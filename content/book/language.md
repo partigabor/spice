@@ -37,3 +37,9 @@ plotly: true
 
 ## Sensory Words
 {{< plotly json="/plotly/sensory_tripie.json" height="300px" >}}
+
+***
+
+## Pepper-words in English in the OED
+
+{{< plotly json="/plotly/oed_pepper.json" height="400px" >}}

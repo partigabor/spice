@@ -99,19 +99,19 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "French",
+      "legendgroup": "Old French",
       "marker": {
         "color": "#0f8554",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "French",
-      "offsetgroup": "French",
+      "name": "Old French",
+      "offsetgroup": "Old French",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "French"
+        "Old French"
       ],
       "textposition": "inside",
       "x": [
@@ -131,19 +131,19 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "Old French",
+      "legendgroup": "French",
       "marker": {
         "color": "#73af48",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Old French",
-      "offsetgroup": "Old French",
+      "name": "French",
+      "offsetgroup": "French",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "Old French"
+        "French"
       ],
       "textposition": "inside",
       "x": [
@@ -329,41 +329,9 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "English",
-      "marker": {
-        "color": "#808080",
-        "pattern": {
-          "shape": ""
-        }
-      },
-      "name": "English",
-      "offsetgroup": "English",
-      "orientation": "v",
-      "showlegend": true,
-      "text": [
-        "English"
-      ],
-      "textposition": "inside",
-      "x": [
-        "Chinese"
-      ],
-      "xaxis": "x",
-      "y": [
-        2
-      ],
-      "yaxis": "y",
-      "type": "bar",
-      "textfont": {
-        "size": 18
-      },
-      "textangle": 0
-    },
-    {
-      "alignmentgroup": "True",
-      "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
       "legendgroup": "Proto-Iranian",
       "marker": {
-        "color": "#000000",
+        "color": "#808080",
         "pattern": {
           "shape": ""
         }
@@ -395,7 +363,7 @@
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
       "legendgroup": "Arabic",
       "marker": {
-        "color": "#5f4690",
+        "color": "#000000",
         "pattern": {
           "shape": ""
         }
@@ -414,6 +382,38 @@
       "xaxis": "x",
       "y": [
         2
+      ],
+      "yaxis": "y",
+      "type": "bar",
+      "textfont": {
+        "size": 18
+      },
+      "textangle": 0
+    },
+    {
+      "alignmentgroup": "True",
+      "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
+      "legendgroup": "Tokharian B",
+      "marker": {
+        "color": "#5f4690",
+        "pattern": {
+          "shape": ""
+        }
+      },
+      "name": "Tokharian B",
+      "offsetgroup": "Tokharian B",
+      "orientation": "v",
+      "showlegend": true,
+      "text": [
+        "Tokharian B"
+      ],
+      "textposition": "inside",
+      "x": [
+        "Chinese"
+      ],
+      "xaxis": "x",
+      "y": [
+        1
       ],
       "yaxis": "y",
       "type": "bar",

@@ -3,50 +3,6 @@
     {
       "hoverinfo": "text",
       "hovertext": [
-        " \u591a\u9999\u679c<br>du\u014dxi\u0101nggu\u01d2<br>Mandarin Chinese<br>Sino-Tibetan",
-        "allspice<br>English<br>Indo-European"
-      ],
-      "lat": [
-        40.0209,
-        52.0
-      ],
-      "line": {
-        "color": "rgb(95, 70, 144)",
-        "dash": "solid",
-        "width": 4
-      },
-      "lon": [
-        116.228,
-        0.0
-      ],
-      "marker": {
-        "color": "rgb(95, 70, 144)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
-        "opacity": 0.75,
-        "size": 14,
-        "symbol": "circle"
-      },
-      "mode": "markers+lines",
-      "name": "duoxiangguo",
-      "opacity": 0.75,
-      "text": [
-        " \u591a\u9999\u679c<br>du\u014dxi\u0101nggu\u01d2<br>Mandarin Chinese<br>Sino-Tibetan",
-        "allspice<br>English<br>Indo-European"
-      ],
-      "textfont": {
-        "color": "black",
-        "family": "Serif",
-        "size": 14
-      },
-      "textposition": "middle right",
-      "type": "scattergeo"
-    },
-    {
-      "hoverinfo": "text",
-      "hovertext": [
         " \u963f\u9b4f<br>\u0101w\u00e8i<br>Mandarin Chinese<br>Sino-Tibetan",
         "ankwa\u1e63(\u1e6d)<br>Tokharian B<br>Indo-European",
         "*angu\u017eat<br>Sogdian<br>Indo-European",
@@ -59,7 +15,7 @@
         45.0
       ],
       "line": {
-        "color": "rgb(29, 105, 150)",
+        "color": "rgb(95, 70, 144)",
         "dash": "solid",
         "width": 4
       },
@@ -70,7 +26,7 @@
         65.0
       ],
       "marker": {
-        "color": "rgb(29, 105, 150)",
+        "color": "rgb(95, 70, 144)",
         "line": {
           "color": "white",
           "width": 1
@@ -109,7 +65,7 @@
         45.0
       ],
       "line": {
-        "color": "rgb(56, 166, 165)",
+        "color": "rgb(29, 105, 150)",
         "dash": "solid",
         "width": 4
       },
@@ -119,7 +75,7 @@
         65.0
       ],
       "marker": {
-        "color": "rgb(56, 166, 165)",
+        "color": "rgb(29, 105, 150)",
         "line": {
           "color": "white",
           "width": 1
@@ -165,7 +121,7 @@
         39.8155
       ],
       "line": {
-        "color": "rgb(15, 133, 84)",
+        "color": "rgb(56, 166, 165)",
         "dash": "solid",
         "width": 4
       },
@@ -179,7 +135,7 @@
         21.9129
       ],
       "marker": {
-        "color": "rgb(15, 133, 84)",
+        "color": "rgb(56, 166, 165)",
         "line": {
           "color": "white",
           "width": 1
@@ -221,7 +177,7 @@
         20.0
       ],
       "line": {
-        "color": "rgb(115, 175, 72)",
+        "color": "rgb(15, 133, 84)",
         "dash": "solid",
         "width": 4
       },
@@ -231,7 +187,7 @@
         77.0
       ],
       "marker": {
-        "color": "rgb(115, 175, 72)",
+        "color": "rgb(15, 133, 84)",
         "line": {
           "color": "white",
           "width": 1
@@ -267,7 +223,7 @@
         39.7
       ],
       "line": {
-        "color": "rgb(237, 173, 8)",
+        "color": "rgb(115, 175, 72)",
         "dash": "solid",
         "width": 4
       },
@@ -276,7 +232,7 @@
         66.98
       ],
       "marker": {
-        "color": "rgb(237, 173, 8)",
+        "color": "rgb(115, 175, 72)",
         "line": {
           "color": "white",
           "width": 1
@@ -315,7 +271,7 @@
         20.0
       ],
       "line": {
-        "color": "rgb(225, 124, 5)",
+        "color": "rgb(237, 173, 8)",
         "dash": "solid",
         "width": 4
       },
@@ -326,7 +282,7 @@
         77.0
       ],
       "marker": {
-        "color": "rgb(225, 124, 5)",
+        "color": "rgb(237, 173, 8)",
         "line": {
           "color": "white",
           "width": 1
@@ -365,7 +321,7 @@
         20.0
       ],
       "line": {
-        "color": "rgb(204, 80, 62)",
+        "color": "rgb(225, 124, 5)",
         "dash": "solid",
         "width": 4
       },
@@ -375,7 +331,7 @@
         77.0
       ],
       "marker": {
-        "color": "rgb(204, 80, 62)",
+        "color": "rgb(225, 124, 5)",
         "line": {
           "color": "white",
           "width": 1
@@ -413,7 +369,7 @@
         27.96
       ],
       "line": {
-        "color": "rgb(148, 52, 110)",
+        "color": "rgb(204, 80, 62)",
         "dash": "solid",
         "width": 4
       },
@@ -423,7 +379,7 @@
         43.85
       ],
       "marker": {
-        "color": "rgb(148, 52, 110)",
+        "color": "rgb(204, 80, 62)",
         "line": {
           "color": "white",
           "width": 1
@@ -461,7 +417,7 @@
         24.0
       ],
       "line": {
-        "color": "rgb(111, 64, 112)",
+        "color": "rgb(148, 52, 110)",
         "dash": "solid",
         "width": 4
       },
@@ -471,7 +427,7 @@
         100.0
       ],
       "marker": {
-        "color": "rgb(111, 64, 112)",
+        "color": "rgb(148, 52, 110)",
         "line": {
           "color": "white",
           "width": 1
@@ -507,7 +463,7 @@
         20.0
       ],
       "line": {
-        "color": "rgb(102, 102, 102)",
+        "color": "rgb(111, 64, 112)",
         "dash": "solid",
         "width": 4
       },
@@ -516,7 +472,7 @@
         77.0
       ],
       "marker": {
-        "color": "rgb(102, 102, 102)",
+        "color": "rgb(111, 64, 112)",
         "line": {
           "color": "white",
           "width": 1
