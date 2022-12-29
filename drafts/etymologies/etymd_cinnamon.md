@@ -6,8 +6,9 @@
 Greek** κιννάμωμον *kinnámōmon* 'cinnamon', later refashioned as
 *kínnamon* after Latin *cinnamum/cinnamon*, which partly influenced the
 current English form (of Semitic origin), c. ; cf. cognates Coptic
-*kinnamomon* \< **Semitic** *\*qnmwn* 'cinnamon'; cf. cognates Ancient
-Hebrew *qināmōn*; Judeo-Aramaic *qnmw* \< **unknown** *?*[^1]
+*kinnamomon* \< **Semitic** *\*qnmwn* 'cinnamon', (probably a loanword
+from a non-Semitic language); cf. cognates Ancient Hebrew *qināmōn*;
+Judeo-Aramaic *qnmw* \< 'cinnamon'[^1]
 :::
 
 [^1]: @oed [s.v. cinnamon]; @tlfi; @lewis_latin_1879;

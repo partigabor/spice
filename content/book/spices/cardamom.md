@@ -45,7 +45,7 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingi
 ## Etymologies
 
 {{< hint etym >}}
-**English** *cardamom* 'cardamom', (via post-classical Latin *cardimomum*, a. 1398), ?ca. 1425 < later also from **Old French** *cardemome* 'cardamom', ca. 1170; cf. modern French *cardamome* < **Latin** *cardamōmum* 'cardamom', c. < **Hellenistic Greek** καρδάμωμον *kardámōmon* 'cardamom', haplological *kárdam-* 'cress' + *ámōmon* 'an Indian spice plant', c. < **Ancient Greek** κάρδαμον *kárdamon* 'garden cress ', prehaps a loanword (many plant names with *-amon* are clear loanwords; the suffIx *-amon* is known from Pre-Greek), c. ; cf. cognates classical Latin *cardamum* < **unknown** *?*
+**English** *cardamom* 'cardamom', (via post-classical Latin *cardimomum*, a. 1398), ?ca. 1425 < later also from **Old French** *cardemome* 'cardamom', ca. 1170; cf. modern French *cardamome* < **Latin** *cardamōmum* 'cardamom', c. < **Hellenistic Greek** καρδάμωμον *kardámōmon* 'cardamom', haplological *kárdam-* 'cress' + *ámōmon* 'an Indian spice plant', c. < **Ancient Greek** κάρδαμον *kárdamon* 'garden cress ', prehaps a loanword (many plant names with *-amon* are clear loanwords; the suffIx *-amon* is known from Pre-Greek; ultimately of uncertain origin), c. ; cf. cognates classical Latin *cardamum* <
 
 
 
@@ -73,7 +73,7 @@ Cardamom (*Elettaria cardamomum* (L.) Maton) is a culinary spice from the *Zingi
 {{< /hint >}}
 
 {{< hint etym >}}
-**Mandarin Chinese** *dòukòu* MC /dəuH həuH/ 'cardamom' [bean-cardamom ], compound of 豆 'bean(-like)' + 'many; profusion' (BCGM); or phono-semantic matching (confused with nutmeg at first), ca. 863 < **Middle Chinese** 多骨 *duōgǔ* MC /tɑ kuət/ 'round cardamom' < **Pali** *takkola* 'Bdellium, a perfume made from the berry of the kakkola plant' < **Sanskrit** तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*; Chinese 嘎哥拉 *gágēlā*
+**Mandarin Chinese** *dòukòu* MC /dəuH həuH/ 'cardamom' [bean-cardamom ], compound of 豆 'bean(-like)' + 'many; profusion' (BCGM); or phono-semantic matching (also written using ; it was confused with nutmeg at first), ca. 863 < **Middle Chinese** 多骨 *duōgǔ* MC /tɑ kuət/ 'round cardamom' < **Pali** *takkola* 'Bdellium, a perfume made from the berry of the kakkola plant' < **Sanskrit** तक्कोल, कक्कोल *takkola, kakkola* 'plant with aromatic berry; the perfume made from it'; cf. Pali *takkola*; Tibetan *kakola*; Chinese 嘎哥拉 *gágēlā*
 
 
 

@@ -13,40 +13,52 @@
           "2.7777777777777777"
         ],
         [
-          "Crocus sativus",
-          "Greece",
-          "Greece",
-          "1",
-          "Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya",
-          "8",
-          "8"
+          "Anethum graveolens",
+          "Nort Africa; West Asia",
+          "Algeria, Chad, Cyprus, Gulf States, Iran, Lebanon-Syria, Libya, Morocco, Oman, Saudi Arabia, Tunisia",
+          "11",
+          "Afghanistan, Alabama, Albania, Alberta, Altay, Andaman Is., Angola, Argentina Northeast, Arizona, Arkansas, Assam, Austria, Azores, Bahamas, Baleares, Baltic States, Bangladesh, Belarus, Belgium, Brazil South, Brazil Southeast, British Columbia, Bulgaria, California, Cameroon, Canary Is., Cape Verde, Cayman Is., Central European Rus, China North-Central, China South-Central, China Southeast, Connecticut, Costa Rica, Cuba, Czechoslovakia, Delaware, Denmark, Dominican Republic, East Aegean Is., East European Russia, East Himalaya, Ecuador, Eritrea, Ethiopia, Finland, France, Ghana, Great Britain, Greece, Guatemala, Haiti, Hawaii, Hungary, Illinois, India, Indiana, Iowa, Iraq, Italy, Jamaica, Kansas, Kazakhstan, Kentucky, Kenya, Kriti, Krym, Laos, Leeward Is., Louisiana, Madeira, Maine, Manitoba, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mongolia, Montana, Mozambique, Nebraska, Nepal, Netherlands, New Jersey, New York, Nicobar Is., Niger, Nigeria, North Carolina, North Dakota, Northwest European R, Norway, Ohio, Oklahoma, Ontario, Oregon, Pakistan, Palestine, Pennsylvania, Peru, Portugal, Primorye, Puerto Rico, Qu\u00e9bec, Rhode I., Romania, Saskatchewan, Sicilia, Somalia, South Dakota, South European Russi, Spain, Sudan, Sweden, Switzerland, Tadzhikistan, Tanzania, Texas, Thailand, Transcaucasus, Trinidad-Tobago, Turkey, Turkey-in-Europe, Ukraine, Uzbekistan, Vietnam, Virginia, Wake I., Washington, West Virginia, Windward Is., Wisconsin, Yugoslavia",
+          "134",
+          "12.181818181818182"
+        ],
+        [
+          "Pimpinella anisum",
+          "E. Mediterranean; W. Asia",
+          "Cyprus, Lebanon-Syria, Palestine, Turkey",
+          "4",
+          "Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia",
+          "42",
+          "10.5"
         ]
       ],
-      "hovertemplate": "<b>%{hovertext}</b><br><br>macroarea=Med<br>id=%{x}<br>total regions=%{y}<br>species=%{customdata[0]}<br>region of origin=%{customdata[1]}<br>no. of native regions=%{customdata[3]}<br>no. of introduced regions=%{customdata[5]}<br>spreadability=%{customdata[6]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>macroarea=Med.; W. Asia<br>id=%{x}<br>total regions=%{y}<br>species=%{customdata[0]}<br>region of origin=%{customdata[1]}<br>no. of native regions=%{customdata[3]}<br>no. of introduced regions=%{customdata[5]}<br>spreadability=%{customdata[6]}<extra></extra>",
       "hovertext": [
         "fennel",
-        "saffron"
+        "dill",
+        "anise"
       ],
-      "legendgroup": "Med",
+      "legendgroup": "Med.; W. Asia",
       "marker": {
         "color": "#5f4690",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Med",
-      "offsetgroup": "Med",
+      "name": "Med.; W. Asia",
+      "offsetgroup": "Med.; W. Asia",
       "orientation": "v",
       "showlegend": true,
       "textposition": "auto",
       "x": [
         "fennel",
-        "saffron"
+        "dill",
+        "anise"
       ],
       "xaxis": "x",
       "y": [
         170,
-        9
+        145,
+        46
       ],
       "yaxis": "y",
       "type": "bar"
@@ -274,45 +286,6 @@
       "alignmentgroup": "True",
       "customdata": [
         [
-          "Anethum graveolens",
-          "Nort Africa; West Asia",
-          "Algeria, Chad, Cyprus, Gulf States, Iran, Lebanon-Syria, Libya, Morocco, Oman, Saudi Arabia, Tunisia",
-          "11",
-          "Afghanistan, Alabama, Albania, Alberta, Altay, Andaman Is., Angola, Argentina Northeast, Arizona, Arkansas, Assam, Austria, Azores, Bahamas, Baleares, Baltic States, Bangladesh, Belarus, Belgium, Brazil South, Brazil Southeast, British Columbia, Bulgaria, California, Cameroon, Canary Is., Cape Verde, Cayman Is., Central European Rus, China North-Central, China South-Central, China Southeast, Connecticut, Costa Rica, Cuba, Czechoslovakia, Delaware, Denmark, Dominican Republic, East Aegean Is., East European Russia, East Himalaya, Ecuador, Eritrea, Ethiopia, Finland, France, Ghana, Great Britain, Greece, Guatemala, Haiti, Hawaii, Hungary, Illinois, India, Indiana, Iowa, Iraq, Italy, Jamaica, Kansas, Kazakhstan, Kentucky, Kenya, Kriti, Krym, Laos, Leeward Is., Louisiana, Madeira, Maine, Manitoba, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mongolia, Montana, Mozambique, Nebraska, Nepal, Netherlands, New Jersey, New York, Nicobar Is., Niger, Nigeria, North Carolina, North Dakota, Northwest European R, Norway, Ohio, Oklahoma, Ontario, Oregon, Pakistan, Palestine, Pennsylvania, Peru, Portugal, Primorye, Puerto Rico, Qu\u00e9bec, Rhode I., Romania, Saskatchewan, Sicilia, Somalia, South Dakota, South European Russi, Spain, Sudan, Sweden, Switzerland, Tadzhikistan, Tanzania, Texas, Thailand, Transcaucasus, Trinidad-Tobago, Turkey, Turkey-in-Europe, Ukraine, Uzbekistan, Vietnam, Virginia, Wake I., Washington, West Virginia, Windward Is., Wisconsin, Yugoslavia",
-          "134",
-          "12.181818181818182"
-        ]
-      ],
-      "hovertemplate": "<b>%{hovertext}</b><br><br>macroarea=Med.; W. Asia<br>id=%{x}<br>total regions=%{y}<br>species=%{customdata[0]}<br>region of origin=%{customdata[1]}<br>no. of native regions=%{customdata[3]}<br>no. of introduced regions=%{customdata[5]}<br>spreadability=%{customdata[6]}<extra></extra>",
-      "hovertext": [
-        "dill"
-      ],
-      "legendgroup": "Med.; W. Asia",
-      "marker": {
-        "color": "#73af48",
-        "pattern": {
-          "shape": ""
-        }
-      },
-      "name": "Med.; W. Asia",
-      "offsetgroup": "Med.; W. Asia",
-      "orientation": "v",
-      "showlegend": true,
-      "textposition": "auto",
-      "x": [
-        "dill"
-      ],
-      "xaxis": "x",
-      "y": [
-        145
-      ],
-      "yaxis": "y",
-      "type": "bar"
-    },
-    {
-      "alignmentgroup": "True",
-      "customdata": [
-        [
           "Capsicum annuum",
           "Central America",
           "Guatemala, Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest",
@@ -348,7 +321,7 @@
       ],
       "legendgroup": "Americas",
       "marker": {
-        "color": "#e17c05",
+        "color": "#73af48",
         "pattern": {
           "shape": ""
         }
@@ -391,7 +364,7 @@
       ],
       "legendgroup": "Eurasia",
       "marker": {
-        "color": "#94346e",
+        "color": "#e17c05",
         "pattern": {
           "shape": ""
         }
@@ -415,37 +388,37 @@
       "alignmentgroup": "True",
       "customdata": [
         [
-          "Pimpinella anisum",
-          "E. Mediterranean; W. Asia",
-          "Cyprus, Lebanon-Syria, Palestine, Turkey",
-          "4",
-          "Argentina Northeast, Argentina Northwest, Austria, Bangladesh, Belarus, Brazil South, Bulgaria, Czechoslovakia, Denmark, East Aegean Is., France, Germany, Greece, Guatemala, Hungary, India, Iraq, Italy, Kazakhstan, Kriti, Laos, Leeward Is., Massachusetts, Michigan, Morocco, Norway, Oman, Poland, Portugal, Romania, South European Russi, Spain, Sweden, Tadzhikistan, Trinidad-Tobago, Tunisia, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Xinjiang, Yugoslavia",
-          "42",
-          "10.5"
+          "Crocus sativus",
+          "Greece",
+          "Greece",
+          "1",
+          "Czechoslovakia, Iran, Italy, Morocco, Pakistan, Spain, Turkey, West Himalaya",
+          "8",
+          "8"
         ]
       ],
-      "hovertemplate": "<b>%{hovertext}</b><br><br>macroarea=E. Med.<br>id=%{x}<br>total regions=%{y}<br>species=%{customdata[0]}<br>region of origin=%{customdata[1]}<br>no. of native regions=%{customdata[3]}<br>no. of introduced regions=%{customdata[5]}<br>spreadability=%{customdata[6]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>macroarea=Mediterranean<br>id=%{x}<br>total regions=%{y}<br>species=%{customdata[0]}<br>region of origin=%{customdata[1]}<br>no. of native regions=%{customdata[3]}<br>no. of introduced regions=%{customdata[5]}<br>spreadability=%{customdata[6]}<extra></extra>",
       "hovertext": [
-        "anise"
+        "saffron"
       ],
-      "legendgroup": "E. Med.",
+      "legendgroup": "Mediterranean",
       "marker": {
-        "color": "#5f4690",
+        "color": "#94346e",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "E. Med.",
-      "offsetgroup": "E. Med.",
+      "name": "Mediterranean",
+      "offsetgroup": "Mediterranean",
       "orientation": "v",
       "showlegend": true,
       "textposition": "auto",
       "x": [
-        "anise"
+        "saffron"
       ],
       "xaxis": "x",
       "y": [
-        46
+        9
       ],
       "yaxis": "y",
       "type": "bar"

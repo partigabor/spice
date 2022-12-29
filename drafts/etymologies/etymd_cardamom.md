@@ -7,8 +7,8 @@ modern French *cardamome* \< **Latin** *cardamōmum* 'cardamom', c. \<
 *kárdam-* 'cress' + *ámōmon* 'an Indian spice plant', c. \< **Ancient
 Greek** κάρδαμον *kárdamon* 'garden cress ', prehaps a loanword (many
 plant names with *-amon* are clear loanwords; the suffIx *-amon* is
-known from Pre-Greek), c. ; cf. cognates classical Latin *cardamum* \<
-**unknown** *?*[^1]
+known from Pre-Greek; ultimately of uncertain origin), c. ; cf. cognates
+classical Latin *cardamum* \<[^1]
 :::
 
 [^1]: @oed [s.v. cardamom]; @tlfi [s.v. cardamome]; @lewis_latin_1879

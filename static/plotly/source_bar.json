@@ -35,27 +35,30 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "unknown",
+      "legendgroup": "Ancient Greek",
       "marker": {
         "color": "#1d6996",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "unknown",
-      "offsetgroup": "unknown",
+      "name": "Ancient Greek",
+      "offsetgroup": "Ancient Greek",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "unknown"
+        "Ancient Greek",
+        "Ancient Greek"
       ],
       "textposition": "inside",
       "x": [
-        "English"
+        "English",
+        "Chinese"
       ],
       "xaxis": "x",
       "y": [
-        4
+        3,
+        1
       ],
       "yaxis": "y",
       "type": "bar",
@@ -105,30 +108,27 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "Ancient Greek",
+      "legendgroup": "Semitic",
       "marker": {
         "color": "#0f8554",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Ancient Greek",
-      "offsetgroup": "Ancient Greek",
+      "name": "Semitic",
+      "offsetgroup": "Semitic",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "Ancient Greek",
-        "Ancient Greek"
+        "Semitic"
       ],
       "textposition": "inside",
       "x": [
-        "English",
-        "Chinese"
+        "English"
       ],
       "xaxis": "x",
       "y": [
-        2,
-        1
+        2
       ],
       "yaxis": "y",
       "type": "bar",
@@ -140,19 +140,19 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "Semitic",
+      "legendgroup": "Arabic",
       "marker": {
         "color": "#73af48",
         "pattern": {
           "shape": ""
         }
       },
-      "name": "Semitic",
-      "offsetgroup": "Semitic",
+      "name": "Arabic",
+      "offsetgroup": "Arabic",
       "orientation": "v",
       "showlegend": true,
       "text": [
-        "Semitic"
+        "Arabic"
       ],
       "textposition": "inside",
       "x": [

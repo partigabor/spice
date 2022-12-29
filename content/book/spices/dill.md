@@ -45,7 +45,7 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 ## Etymologies
 
 {{< hint etym >}}
-**English** *dill*, ulterior derivation unknown, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* < **unknown** *?*
+**English** *dill*, ulterior derivation unknown, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* 
 
 
 

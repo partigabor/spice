@@ -36,7 +36,7 @@ Anise (*Pimpinella anisum* L.) is a culinary spice from the *Apiaceae* family,[^
 |   species name   |               *Pimpinella anisum* L.              |
 |      family      |                      Apiaceae                     |
 |     part used    |                     fruit; oil                    |
-|     macroarea    |                      E. Med.                      |
+|     macroarea    |                   Med.; W. Asia                   |
 | region of origin |             E. Mediterranean; W. Asia             |
 |    cultivation   |     Turkey; Egypt; Spain; Russia; Italy; etc.     |
 |       color      |                    light brown                    |

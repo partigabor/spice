@@ -36,7 +36,7 @@ Saffron (*Crocus sativus* L.) is a culinary spice and dye from the *Iridaceae* f
 |   species name   |                *Crocus sativus* L.                |
 |      family      |                     Iridaceae                     |
 |     part used    |                   stigma (style)                  |
-|     macroarea    |                        Med                        |
+|     macroarea    |                   Mediterranean                   |
 | region of origin |                       Greece                      |
 |    cultivation   |             Iran; Spain; Kashmir; etc.            |
 |       color      |              deep red; dyes in orange             |

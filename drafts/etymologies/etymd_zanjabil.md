@@ -6,9 +6,9 @@
 *śṛṅgavera* 'ginger' \< **Dravidian** *\*cinki-wēr* 'ginger', South
 dravidian nominal compound from the etyma of Tamil and Malayalam *iñci*
 (both with regular loss of an initial sibilant) + *vēr* (Proto-Dravidian
-*wēr*); the base of *\*cinki* is a loanword \< **unknown** *?* 'ginger',
-unidentified Southeast Asian language; cf. cognates Khasi *sying*
-/sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* \<
+*wēr*); the base of *\*cinki* is a loanword \< **unknown language** *?*
+'ginger', unidentified Southeast Asian language; cf. cognates Khasi
+*sying* /sʔiŋ/, Thai *khing*, Vietnamese *gừng*, Chinese *jiāng* \<
 **Proto-Sino-Tibetan** *\*kjaŋ* 'ginger'[^1]
 :::
 

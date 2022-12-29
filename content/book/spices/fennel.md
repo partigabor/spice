@@ -36,7 +36,7 @@ Fennel (*Foeniculum vulgare* Mill.) is a culinary spice and herb and vegetable f
 |   species name   |             *Foeniculum vulgare* Mill.             |
 |      family      |                      Apiaceae                      |
 |     part used    |                     fruit; leaf                    |
-|     macroarea    |                         Med                        |
+|     macroarea    |                    Med.; W. Asia                   |
 | region of origin |                         Med                        |
 |    cultivation   |Argentina; Bulgaria; Germany; Greece; India; Lebanon|
 |       color      |             light green to light brown             |
