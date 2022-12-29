@@ -1,7 +1,7 @@
 ---
 title: Vanilla
 author: Gábor Parti
-date: 2022-12-28
+date: 2022-12-29
 description: The aromatic seed pods of orchid species from America.
 weight: 1
 # bookCollapseSection: true

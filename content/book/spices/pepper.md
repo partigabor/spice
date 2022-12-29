@@ -1,7 +1,7 @@
 ---
 title: Pepper
 author: Gábor Parti
-date: 2022-12-28
+date: 2022-12-29
 description: The dried fruits of an Indian vine, also known as black pepper.
 weight: 1
 # bookCollapseSection: true

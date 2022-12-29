@@ -1,7 +1,7 @@
 ---
 title: Nutmeg
 author: Gábor Parti
-date: 2022-12-28
+date: 2022-12-29
 description: The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace..
 weight: 1
 # bookCollapseSection: true
