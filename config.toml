@@ -54,8 +54,8 @@ enableEmoji = true
   contentDir = 'content'
   weight = 1
   [languages.en.params]
-      fontheading = "Brill"
-      fontbody = "Brill"
+      fontheading = "Raleway"
+      fontbody = "Raleway"
 
 [languages.hu]
   languageName = "Hungarian 🇭🇺"
