@@ -99,8 +99,8 @@ enableEmoji = true
 #   weight = 20
 
 [params]
-  fontheading = "Raleway"
-  fontbody = "Raleway"
+  fontheading = "Brill"
+  fontbody = "Brill"
 
 
   # (Optional, default light) Sets color theme: light, dark or auto.
