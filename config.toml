@@ -53,9 +53,9 @@ enableEmoji = true
   languageName = "English 🇬🇧"
   contentDir = 'content'
   weight = 1
-  [languages.en.params]
-      fontheading = "Raleway"
-      fontbody = "Raleway"
+  # [languages.en.params]
+  #     fontheading = "Raleway"
+  #     fontbody = "Raleway"
 
 [languages.hu]
   languageName = "Hungarian 🇭🇺"
@@ -99,8 +99,8 @@ enableEmoji = true
 #   weight = 20
 
 [params]
-  fontheading = "Brill"
-  fontbody = "Brill"
+  fontheading = "Raleway"
+  fontbody = "Raleway"
 
 
   # (Optional, default light) Sets color theme: light, dark or auto.
