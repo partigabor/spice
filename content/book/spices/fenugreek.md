@@ -1,7 +1,7 @@
 ---
 title: Fenugreek
 author: Gábor Parti
-date: 2022-12-29
+date: 2023-01-03
 description: The seeds of a West Asian herb.
 weight: 1
 # bookCollapseSection: true

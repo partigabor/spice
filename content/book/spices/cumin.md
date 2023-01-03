@@ -1,7 +1,7 @@
 ---
 title: Cumin
 author: Gábor Parti
-date: 2022-12-29
+date: 2023-01-03
 description: The dried seeds of a West Asian flowering plant.
 weight: 1
 # bookCollapseSection: true

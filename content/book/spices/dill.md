@@ -1,7 +1,7 @@
 ---
 title: Dill
 author: Gábor Parti
-date: 2022-12-29
+date: 2023-01-03
 description: The seeds and leaves of a Mediterranean herb used to flavour food in European cuisine.
 weight: 1
 # bookCollapseSection: true
@@ -45,7 +45,7 @@ Dill (*Anethum graveolens* L.) is a culinary spice and herb from the *Apiaceae* 
 ## Etymologies
 
 {{< hint etym >}}
-**English** *dill*, ulterior derivation unknown, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* 
+**English** *dill*, Germanic word of uncertain origin, a. 700; cf. cognates Old Low German *dilli*, Dutch *dille*, Old High German *tilli*, Middle High German *tille*, German *dill, dille*, Danish *dild*, Swedish *dill* 
 
 
 
