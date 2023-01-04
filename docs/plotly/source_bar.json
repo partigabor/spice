@@ -334,7 +334,7 @@
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
       "legendgroup": "English",
       "marker": {
-        "color": "#808080",
+        "color": "#666666",
         "pattern": {
           "shape": ""
         }

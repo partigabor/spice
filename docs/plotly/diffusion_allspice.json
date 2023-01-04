@@ -22,13 +22,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 18,
         "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "allspice",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "allspice"
       ],
@@ -74,13 +74,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 18,
         "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "pimento",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "pimento",
         "pimenta",
@@ -118,13 +118,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 18,
         "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "fulful ifranji",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "fulful ifranj\u012b"
       ],
@@ -158,13 +158,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 18,
         "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "duoxiangguo",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "du\u014dxi\u0101nggu\u01d2"
       ],
@@ -213,13 +213,13 @@
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "lataxis": {
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "resolution": 110,
       "scope": "world",

@@ -736,7 +736,7 @@
         "106"
       ],
       "marker": {
-        "color": "#808080",
+        "color": "#666666",
         "opacity": 0.8,
         "size": [
           1
@@ -864,13 +864,13 @@
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "lataxis": {
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "resolution": 110,
       "scope": "world",

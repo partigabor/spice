@@ -31,13 +31,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "awei",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u963f\u9b4f<br>\u0101w\u00e8i<br>Mandarin Chinese<br>Sino-Tibetan",
         "ankwa\u1e63(\u1e6d)<br>Tokharian B<br>Indo-European",
@@ -80,13 +80,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "xingqu",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u8208\u8556/\u8208\u6e20/\u8208\u77bf<br>x\u012bngq\u00fa<br>Mandarin Chinese<br>Sino-Tibetan",
         " \u0939\u093f\u0919\u094d\u0917\u0941<br>hi\u1e45gu<br>Sanskrit<br>Indo-European",
@@ -140,13 +140,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "geluzi",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u845b\u7e37\u5b50<br>g\u011b\u200bl\u01da\u200bzi<br>Mandarin Chinese<br>Sino-Tibetan",
         " \u845b\u7e37\u5b50<br>karyuushi<br>Japanese<br>Japanese",
@@ -192,13 +192,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "doukou",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u8c46\u853b<br>d\u00f2uk\u00f2u<br>Mandarin Chinese<br>Sino-Tibetan",
         "? <br>takkola<br>Pali<br>Indo-European",
@@ -237,13 +237,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "husui",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u80e1\u837d<br>h\u00fasu\u012b<br>Mandarin Chinese<br>Sino-Tibetan",
         "*koswi, *ko\u0161wi, *go\u0161wi<br>Iranian<br>Indo-European"
@@ -287,13 +287,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "ziran",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u5b5c\u7136<br>z\u012b\u200br\u00e1n<br>Mandarin Chinese<br>Sino-Tibetan",
         " \u0632\u0649\u0631\u06d5<br>zir\u00e4<br>Uyghur<br>Altaic",
@@ -336,13 +336,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "shiluo",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u8494\u863f<br>sh\u00edlu\u00f3<br>Mandarin Chinese<br>Sino-Tibetan",
         "z\u012bra<br>Persian<br>Indo-European",
@@ -384,13 +384,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "huluba",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u80e1\u8606\u5df4<br>h\u00fal\u00fab\u0101<br>Mandarin Chinese<br>Sino-Tibetan",
         "? \u062d\u0644\u0628\u0629<br>\u1e25ulba<br>Persian<br>Indo-European",
@@ -432,13 +432,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "jiang",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u8591<br>ji\u0101ng<br>Mandarin Chinese<br>Sino-Tibetan",
         " \u456c<br><br>Old Chinese<br>Sino-Tibetan",
@@ -477,13 +477,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "biba",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         " \u84fd\u62d4<br>b\u00ecb\u00e1<br>Mandarin Chinese<br>Sino-Tibetan",
         " \u092a\u093f\u092a\u094d\u092a\u0932\u093f <br>pippali<br>Sanskrit<br>Indo-European"
@@ -533,13 +533,13 @@
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "lataxis": {
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "resolution": 110,
       "scope": "world",

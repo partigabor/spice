@@ -34,13 +34,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "pimento",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "pimento<br>English<br>Indo-European",
         "pimenta<br>Portuguese<br>Indo-European",
@@ -90,13 +90,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "anise",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "anise<br>English<br>Indo-European",
         "anis<br>French<br>Indo-European",
@@ -140,13 +140,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "asafoetida",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "asafoetida<br>English<br>Indo-European",
         "asafoetida<br>Medieval Latin<br>Indo-European",
@@ -191,13 +191,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "hing",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "hing<br>English<br>Indo-European",
         " \u0939\u0940\u0902\u0917<br>h\u012bng<br>Hindi<br>Indo-European",
@@ -246,13 +246,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "caraway",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "caraway<br>English<br>Indo-European",
         "carui<br>Medieval Latin<br>Indo-European",
@@ -299,13 +299,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "cardamom",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "cardamom<br>English<br>Indo-European",
         "cardemome<br>Old French<br>Indo-European",
@@ -351,13 +351,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "amomum",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "amomum<br>English<br>Indo-European",
         "amomum<br>Latin<br>Indo-European",
@@ -403,13 +403,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "cassia",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "cassia<br>English<br>Indo-European",
         "casia<br>Latin<br>Indo-European",
@@ -458,13 +458,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "cinnamon",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "cinnamon<br>English<br>Indo-European",
         "cinnamome<br>French<br>Indo-European",
@@ -508,13 +508,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "chile",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "chilli<br>English<br>Indo-European",
         "chile<br>Spanish<br>Indo-European",
@@ -574,13 +574,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "paprika",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "paprika<br>English<br>Indo-European",
         "paprika<br>Hungarian<br>Uralic",
@@ -631,13 +631,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "clove",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "clove<br>English<br>Indo-European",
         "clow<br>Anglo-Norman<br>Indo-European",
@@ -683,13 +683,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "coriander",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "coriander<br>English<br>Indo-European",
         "coriandre<br>Old French<br>Indo-European",
@@ -735,13 +735,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "cumin",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "cumin<br>English<br>Indo-European",
         "cum\u012bnum<br>Latin<br>Indo-European",
@@ -781,13 +781,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "fennel",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "fennel<br>English<br>Indo-European",
         "faeniculum<br>Latin<br>Indo-European"
@@ -828,13 +828,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "fenugreek",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "fenugreek<br>English<br>Indo-European",
         "fenugrec<br>French<br>Indo-European",
@@ -891,13 +891,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "ginger",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "ginger<br>English<br>Indo-European",
         "gingivere, gingibre <br>Old French<br>Indo-European",
@@ -941,13 +941,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "long pepper",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "long pepper<br>English<br>Indo-European",
         "piper longus<br>Latin<br>Indo-European"
@@ -994,13 +994,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "mace",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "mace<br>English<br>Indo-European",
         "macis<br>Old French<br>Indo-European",
@@ -1056,13 +1056,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "nutmeg",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "nutmeg<br>English<br>Indo-European",
         "*nois mugue<br>Anglo-Norman<br>Indo-European",
@@ -1117,13 +1117,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "pepper",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "pepper<br>English<br>Indo-European",
         "? <br>*pipor<br>West Germanic<br>Indo-European",
@@ -1171,13 +1171,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "saffron",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "saffron<br>English<br>Indo-European",
         "safran<br>French<br>Indo-European",
@@ -1223,13 +1223,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "fagara",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "fagara<br>English<br>Indo-European",
         "fagara<br>Medieval Latin<br>Indo-European",
@@ -1272,13 +1272,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "badian",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "badian<br>English<br>Indo-European",
         "badiane<br>French<br>Indo-European",
@@ -1323,13 +1323,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "turmeric",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "turmeric<br>English<br>Indo-European",
         "? <br>terre m\u00e9rite<br>French<br>Indo-European",
@@ -1372,13 +1372,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": 14,
         "symbol": "circle"
       },
       "mode": "markers+lines",
       "name": "vanilla",
-      "opacity": 0.75,
+      "opacity": 0.7,
       "text": [
         "vanilla <br>English<br>Indo-European",
         "vainilla<br>Spanish<br>Indo-European",
@@ -1429,13 +1429,13 @@
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "lataxis": {
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "resolution": 110,
       "scope": "world",
