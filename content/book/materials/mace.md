@@ -1,7 +1,7 @@
 ---
 title: Mace
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The aril (seed-covering) of the nutmeg, related to nutmeg..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Mace
 
-![Illustration of Myristica fragrans](/images/kohler/mace.png)
+![Illustration of Myristica fragrans](/spice/images/kohler/mace.png)
 
 {{< center >}}
 Illustration of Myristica fragrans Houtt. from Köhler's Medizinal-Pflanzen (1887)

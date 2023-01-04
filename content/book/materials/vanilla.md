@@ -1,7 +1,7 @@
 ---
 title: Vanilla
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The aromatic seed pods of orchid species from America.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Vanilla
 
-![Illustration of Vanilla planifolia](/images/kohler/vanilla.png)
+![Illustration of Vanilla planifolia](/spice/images/kohler/vanilla.png)
 
 {{< center >}}
 Illustration of Vanilla planifolia Jacks. ex Andrews from Köhler's Medizinal-Pflanzen (1887)

@@ -1,7 +1,7 @@
 ---
 title: Coriander
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The dried fruits of an annual herb, also used for its fresh leaves, also known as cilantro; Chinese parsley.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Coriander
 
-![Illustration of Coriandrum sativum](/images/kohler/coriander.png)
+![Illustration of Coriandrum sativum](/spice/images/kohler/coriander.png)
 
 {{< center >}}
 Illustration of Coriandrum sativum L. from Köhler's Medizinal-Pflanzen (1887)

@@ -1,7 +1,7 @@
 ---
 title: Cassia
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The inner bark of several Southeast Asian species, related to cinnamon..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Cassia
 
-![Illustration of Cinnamomum cassia](/images/kohler/cassia.png)
+![Illustration of Cinnamomum cassia](/spice/images/kohler/cassia.png)
 
 {{< center >}}
 Illustration of Cinnamomum cassia (L.) J.Presl. from Köhler's Medizinal-Pflanzen (1887)

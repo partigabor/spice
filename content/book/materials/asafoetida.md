@@ -1,7 +1,7 @@
 ---
 title: Asafoetida
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The dried gum-resin of several species of Ferula plants, also known as hing; devil's dung.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Asafoetida
 
-![Illustration of Ferula foetida](/images/kohler/asafoetida.png)
+![Illustration of Ferula foetida](/spice/images/kohler/asafoetida.png)
 
 {{< center >}}
 Illustration of Ferula foetida (Bunge) Regel from Köhler's Medizinal-Pflanzen (1887)

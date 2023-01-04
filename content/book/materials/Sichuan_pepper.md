@@ -1,7 +1,7 @@
 ---
 title: Sichuan Pepper
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The numbing, red or green fruits of East Asian prickly ash trees, related to sansho..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Sichuan Pepper
 
-![Illustration of Zanthoxylum bungeanum](/images/kohler/Sichuan_pepper.png)
+![Illustration of Zanthoxylum bungeanum](/spice/images/kohler/Sichuan_pepper.png)
 
 {{< center >}}
 Illustration of Zanthoxylum bungeanum Maxim. from Matilda Smith (del.), John Nugent Fitch (lith.). (1918) Zanthoxylum planispinum (= Zanthoxylum armatum), Rutaceae. In Curtis's Botanical Magazine (Ed. Sir David Prain), London., vol. 144 [= ser. 4, vol. 14]: Tab. 8754.

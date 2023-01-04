@@ -1,7 +1,7 @@
 ---
 title: Fennel
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The dried fruits of a perennial herb, also used as a vegetable .
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Fennel
 
-![Illustration of Foeniculum vulgare](/images/kohler/fennel.png)
+![Illustration of Foeniculum vulgare](/spice/images/kohler/fennel.png)
 
 {{< center >}}
 Illustration of Foeniculum vulgare Mill. from Köhler's Medizinal-Pflanzen (1887)

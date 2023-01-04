@@ -1,7 +1,7 @@
 ---
 title: Chile
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The fruits of several species from Central and South America , related to paprika., also known as chilli; chili pepper.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Chile
 
-![Illustration of Capsicum annuum](/images/kohler/chile.png)
+![Illustration of Capsicum annuum](/spice/images/kohler/chile.png)
 
 {{< center >}}
 Illustration of Capsicum annuum L. from Köhler's Medizinal-Pflanzen (1887)

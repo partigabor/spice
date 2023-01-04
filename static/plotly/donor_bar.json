@@ -331,7 +331,7 @@
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
       "legendgroup": "Proto-Iranian",
       "marker": {
-        "color": "#808080",
+        "color": "#666666",
         "pattern": {
           "shape": ""
         }

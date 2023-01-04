@@ -1,7 +1,7 @@
 ---
 title: Caraway
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The seed-like fruits of a Eurasian herb.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Caraway
 
-![Illustration of Carum carvi](/images/kohler/caraway.png)
+![Illustration of Carum carvi](/spice/images/kohler/caraway.png)
 
 {{< center >}}
 Illustration of Carum carvi L. from Köhler's Medizinal-Pflanzen (1887)

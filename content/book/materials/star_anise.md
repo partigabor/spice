@@ -1,7 +1,7 @@
 ---
 title: Star Anise
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The star shaped pericarps of a tree from Vietnam and South China.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Star Anise
 
-![Illustration of Illicium verum](/images/kohler/star_anise.png)
+![Illustration of Illicium verum](/spice/images/kohler/star_anise.png)
 
 {{< center >}}
 Illustration of Illicium verum Hook.f. from Köhler's Medizinal-Pflanzen (1887)

@@ -1,7 +1,7 @@
 ---
 title: Anise
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The seed-like fruits of a Mediterranean herb, also known as aniseed.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Anise
 
-![Illustration of Pimpinella anisum](/images/kohler/anise.png)
+![Illustration of Pimpinella anisum](/spice/images/kohler/anise.png)
 
 {{< center >}}
 Illustration of Pimpinella anisum L. from Köhler's Medizinal-Pflanzen (1887)

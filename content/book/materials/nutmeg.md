@@ -1,7 +1,7 @@
 ---
 title: Nutmeg
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, related to mace..
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Nutmeg
 
-![Illustration of Myristica fragrans](/images/kohler/nutmeg.png)
+![Illustration of Myristica fragrans](/spice/images/kohler/nutmeg.png)
 
 {{< center >}}
 Illustration of Myristica fragrans Houtt. from Köhler's Medizinal-Pflanzen (1887)

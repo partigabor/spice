@@ -1,7 +1,7 @@
 ---
 title: Ginger
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The rhizomes of the ginger plant, fresh or dried.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Ginger
 
-![Illustration of Zingiber officinale](/images/kohler/ginger.png)
+![Illustration of Zingiber officinale](/spice/images/kohler/ginger.png)
 
 {{< center >}}
 Illustration of Zingiber officinale Roscoe from Köhler's Medizinal-Pflanzen (1887)

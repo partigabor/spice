@@ -1,7 +1,7 @@
 ---
 title: Pepper
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The dried fruits of an Indian vine, also known as black pepper.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Pepper
 
-![Illustration of Piper nigrum](/images/kohler/pepper.png)
+![Illustration of Piper nigrum](/spice/images/kohler/pepper.png)
 
 {{< center >}}
 Illustration of Piper nigrum L. from Köhler's Medizinal-Pflanzen (1887)

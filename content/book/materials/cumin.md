@@ -1,7 +1,7 @@
 ---
 title: Cumin
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The dried seeds of a West Asian flowering plant.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Cumin
 
-![Illustration of Cuminum cyminum](/images/kohler/cumin.png)
+![Illustration of Cuminum cyminum](/spice/images/kohler/cumin.png)
 
 {{< center >}}
 Illustration of Cuminum cyminum L. from Köhler's Medizinal-Pflanzen (1887)

@@ -1,7 +1,7 @@
 ---
 title: Saffron
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The stigmas or styles of the saffron crocus flower.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Saffron
 
-![Illustration of Crocus sativus](/images/kohler/saffron.png)
+![Illustration of Crocus sativus](/spice/images/kohler/saffron.png)
 
 {{< center >}}
 Illustration of Crocus sativus L. from Köhler's Medizinal-Pflanzen (1887)

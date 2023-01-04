@@ -1,7 +1,7 @@
 ---
 title: Fenugreek
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The seeds of a West Asian herb.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Fenugreek
 
-![Illustration of Trigonella foenum-graecum](/images/kohler/fenugreek.png)
+![Illustration of Trigonella foenum-graecum](/spice/images/kohler/fenugreek.png)
 
 {{< center >}}
 Illustration of Trigonella foenum-graecum L. from Köhler's Medizinal-Pflanzen (1887)

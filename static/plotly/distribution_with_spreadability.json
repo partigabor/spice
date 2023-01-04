@@ -40,7 +40,7 @@
         "color": "#5f4690",
         "opacity": 0.8,
         "size": [
-          2.8461538461538463,
+          2.85,
           11.0
         ],
         "sizemode": "area",
@@ -167,12 +167,12 @@
         "opacity": 0.8,
         "size": [
           12.5,
-          2.125,
-          2.8507462686567164,
+          2.12,
+          2.85,
           17.0,
-          10.666666666666666,
-          14.181818181818182,
-          4.777777777777778
+          10.67,
+          14.18,
+          4.779999999999999
         ],
         "sizemode": "area",
         "sizeref": 0.06111111111111111,
@@ -376,7 +376,7 @@
         "color": "#73af48",
         "opacity": 0.8,
         "size": [
-          19.142857142857142
+          19.14
         ],
         "sizemode": "area",
         "sizeref": 0.06111111111111111,
@@ -713,7 +713,7 @@
         "106"
       ],
       "marker": {
-        "color": "#808080",
+        "color": "#666666",
         "opacity": 0.8,
         "size": [
           3.0
@@ -768,7 +768,7 @@
         "color": "#000000",
         "opacity": 0.8,
         "size": [
-          4.642857142857142
+          4.640000000000001
         ],
         "sizemode": "area",
         "sizeref": 0.06111111111111111,
@@ -840,13 +840,13 @@
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "lataxis": {
         "showgrid": true,
         "gridwidth": 0.5,
         "dtick": 10,
-        "gridcolor": "#EDEDED"
+        "gridcolor": "#ededed"
       },
       "resolution": 110,
       "scope": "world",

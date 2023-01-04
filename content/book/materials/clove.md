@@ -1,7 +1,7 @@
 ---
 title: Clove
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The dried flower-buds of a tropical tree from the Moluccas, Indonesia.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Clove
 
-![Illustration of Syzygium aromaticum](/images/kohler/clove.png)
+![Illustration of Syzygium aromaticum](/spice/images/kohler/clove.png)
 
 {{< center >}}
 Illustration of Syzygium aromaticum (L.) Merr. \& L.M.Perry from Köhler's Medizinal-Pflanzen (1887)

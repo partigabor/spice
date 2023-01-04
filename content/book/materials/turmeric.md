@@ -1,7 +1,7 @@
 ---
 title: Turmeric
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The bright yellow powder yielded from the rhizomes of Curcuma longa.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal', 'ritualistic']
 
 # Turmeric
 
-![Illustration of Curcuma longa](/images/kohler/turmeric.png)
+![Illustration of Curcuma longa](/spice/images/kohler/turmeric.png)
 
 {{< center >}}
 Illustration of Curcuma longa L. from Köhler's Medizinal-Pflanzen (1887)

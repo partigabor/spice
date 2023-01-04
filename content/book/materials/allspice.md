@@ -1,7 +1,7 @@
 ---
 title: Allspice
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper.
 weight: 1
 # bookCollapseSection: true

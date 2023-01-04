@@ -1,7 +1,7 @@
 ---
 title: Dill
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The seeds and leaves of a Mediterranean herb used to flavour food in European cuisine.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Dill
 
-![Illustration of Anethum graveolens](/images/kohler/dill.png)
+![Illustration of Anethum graveolens](/spice/images/kohler/dill.png)
 
 {{< center >}}
 Illustration of Anethum graveolens L. from Köhler's Medizinal-Pflanzen (1887)

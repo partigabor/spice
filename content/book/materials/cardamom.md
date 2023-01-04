@@ -1,7 +1,7 @@
 ---
 title: Cardamom
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The bright-green seed pods of an Indian plant.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Cardamom
 
-![Illustration of Elettaria cardamomum](/images/kohler/cardamom.png)
+![Illustration of Elettaria cardamomum](/spice/images/kohler/cardamom.png)
 
 {{< center >}}
 Illustration of Elettaria cardamomum (L.) Maton from Köhler's Medizinal-Pflanzen (1887)

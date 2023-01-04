@@ -1,7 +1,7 @@
 ---
 title: Long Pepper
 author: Gábor Parti
-date: 2023-01-03
+date: 2023-01-04
 description: The spike-like cluster of fruits of Piper longum from India.
 weight: 1
 # bookCollapseSection: true
@@ -17,7 +17,7 @@ tags: ['culinary', 'medicinal']
 
 # Long Pepper
 
-![Illustration of Piper longum](/images/kohler/long_pepper.png)
+![Illustration of Piper longum](/spice/images/kohler/long_pepper.png)
 
 {{< center >}}
 Illustration of Piper longum L. from Bentley, R., & Trimen, H. (1880). Medicinal Plants: Being descriptions with original figures of the principal plants employed in medicine and an account of the characters, properties, and uses of their parts and products of medicinal value. J. & A. Churchill.
