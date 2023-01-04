@@ -31,6 +31,8 @@ The goal of this project is to gather the available knowledge on spices (and in 
 
 {{< plotly json="/spice/plotly/distribution_map.json" height="600" >}}
 
+Explore the full map [here](/spice/plotly/distribution_map.html)!
+
 <!-- 
 {{< columns >}}
 
