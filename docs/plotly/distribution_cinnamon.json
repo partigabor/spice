@@ -422,7 +422,7 @@
       ],
       "marker": {
         "color": "#5f4690",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -839,7 +839,7 @@
       ],
       "marker": {
         "color": "#1d6996",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -975,7 +975,7 @@
       ],
       "marker": {
         "color": "#38a6a5",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -1112,7 +1112,7 @@
       ],
       "marker": {
         "color": "#0f8554",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -1575,7 +1575,7 @@
       ],
       "marker": {
         "color": "#73af48",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -1729,7 +1729,7 @@
       ],
       "marker": {
         "color": "#edad08",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -2119,7 +2119,7 @@
       ],
       "marker": {
         "color": "#666666",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -2204,6 +2204,18 @@
         ]
       },
       "center": {},
+      "lataxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "lonaxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
       "projection": {
         "rotation": {
           "lat": 15,
@@ -2213,89 +2225,77 @@
         "type": "orthographic",
         "scale": 1
       },
-      "lonaxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "lataxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "resolution": 110,
-      "scope": "world",
       "bgcolor": "rgba(255,255,255,0)",
-      "showcoastlines": true,
-      "coastlinewidth": 1,
       "coastlinecolor": "gainsboro",
-      "showcountries": false,
-      "countrywidth": 1,
+      "coastlinewidth": 1,
       "countrycolor": "gainsboro",
-      "showframe": true,
-      "framewidth": 1,
+      "countrywidth": 1,
       "framecolor": "gainsboro",
-      "showlakes": true,
+      "framewidth": 1,
       "lakecolor": "white",
-      "showland": true,
       "landcolor": "gainsboro",
-      "showocean": true,
       "oceancolor": "white",
-      "showrivers": true,
-      "riverwidth": 1,
+      "resolution": 110,
       "rivercolor": "white",
+      "riverwidth": 1,
+      "scope": "world",
+      "showcoastlines": true,
+      "showcountries": false,
+      "showframe": true,
+      "showlakes": true,
+      "showland": true,
+      "showocean": true,
+      "showrivers": true,
       "showsubunits": false,
-      "subunitwidth": 1,
-      "subunitcolor": "gainsboro"
+      "subunitcolor": "gainsboro",
+      "subunitwidth": 1
     },
     "legend": {
       "title": {
         "text": "group",
         "font": {
           "color": "black",
-          "size": 16,
-          "family": "Serif"
+          "family": "Serif",
+          "size": 16
         }
       },
       "tracegroupgap": 0,
       "font": {
         "color": "black",
-        "size": 14,
-        "family": "Serif"
+        "family": "Serif",
+        "size": 14
       },
-      "x": 0,
-      "y": 0,
-      "xanchor": "left",
-      "yanchor": "bottom",
       "bgcolor": "rgba(255,255,255,0.5)",
+      "orientation": "v",
       "traceorder": "normal",
-      "orientation": "v"
+      "x": 0,
+      "xanchor": "left",
+      "y": 0,
+      "yanchor": "bottom"
     },
     "margin": {
       "t": 0,
-      "r": 0,
+      "b": 0,
       "l": 0,
-      "b": 0
-    },
-    "title": {
-      "font": {
-        "color": "black",
-        "size": 20,
-        "family": "Serif"
-      },
-      "x": 0.5,
-      "y": 0.99,
-      "xanchor": "center",
-      "yanchor": "top",
-      "text": "Distribution of words for cinnamon in a few languages"
+      "r": 0
     },
     "hoverlabel": {
       "font": {
         "size": 14,
         "family": "Serif"
       }
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 20
+      },
+      "text": "Distribution of words for cinnamon in a few languages",
+      "x": 0.5,
+      "xanchor": "center",
+      "y": 0.99,
+      "yanchor": "top"
     },
     "paper_bgcolor": "rgba(255,255,255,0)",
     "plot_bgcolor": "rgba(255,255,255,0)",

@@ -29,7 +29,7 @@ The following markdown file showcases all the features one can achieve within ma
 
 {{< load-plotly >}}
 
-{{< plotly json="/plotly/distribution.json" height="200" >}}
+{{< plotly json="/spice/plotly/distribution_map.json" height="200" >}}
 
 <!-- works if I put files on main website -->
 

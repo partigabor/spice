@@ -17,7 +17,7 @@
         41.9026
       ],
       "line": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#5f4690",
         "dash": "solid",
         "width": 4
       },
@@ -29,7 +29,7 @@
         12.4502
       ],
       "marker": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#5f4690",
         "line": {
           "color": "white",
           "width": 1
@@ -73,7 +73,7 @@
         28.381735
       ],
       "line": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#1d6996",
         "dash": "solid",
         "width": 4
       },
@@ -85,7 +85,7 @@
         30.834959
       ],
       "marker": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#1d6996",
         "line": {
           "color": "white",
           "width": 1
@@ -125,7 +125,7 @@
         32.0
       ],
       "line": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#38a6a5",
         "dash": "solid",
         "width": 4
       },
@@ -135,7 +135,7 @@
         54.0
       ],
       "marker": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#38a6a5",
         "line": {
           "color": "white",
           "width": 1
@@ -175,7 +175,7 @@
         45.0
       ],
       "line": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#0f8554",
         "dash": "solid",
         "width": 4
       },
@@ -186,7 +186,7 @@
         65.0
       ],
       "marker": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#0f8554",
         "line": {
           "color": "white",
           "width": 1
@@ -229,7 +229,7 @@
         39.8155
       ],
       "line": {
-        "color": "rgb(115, 175, 72)",
+        "color": "#73af48",
         "dash": "solid",
         "width": 4
       },
@@ -241,7 +241,7 @@
         21.9129
       ],
       "marker": {
-        "color": "rgb(115, 175, 72)",
+        "color": "#73af48",
         "line": {
           "color": "white",
           "width": 1
@@ -283,7 +283,7 @@
         39.8155
       ],
       "line": {
-        "color": "rgb(237, 173, 8)",
+        "color": "#edad08",
         "dash": "solid",
         "width": 4
       },
@@ -294,7 +294,7 @@
         21.9129
       ],
       "marker": {
-        "color": "rgb(237, 173, 8)",
+        "color": "#edad08",
         "line": {
           "color": "white",
           "width": 1
@@ -335,7 +335,7 @@
         29.0
       ],
       "line": {
-        "color": "rgb(225, 124, 5)",
+        "color": "#e17c05",
         "dash": "solid",
         "width": 4
       },
@@ -346,7 +346,7 @@
         40.0
       ],
       "marker": {
-        "color": "rgb(225, 124, 5)",
+        "color": "#e17c05",
         "line": {
           "color": "white",
           "width": 1
@@ -387,7 +387,7 @@
         31.7761
       ],
       "line": {
-        "color": "rgb(204, 80, 62)",
+        "color": "#cc503e",
         "dash": "solid",
         "width": 4
       },
@@ -398,7 +398,7 @@
         35.1725
       ],
       "marker": {
-        "color": "rgb(204, 80, 62)",
+        "color": "#cc503e",
         "line": {
           "color": "white",
           "width": 1
@@ -441,7 +441,7 @@
         29.0
       ],
       "line": {
-        "color": "rgb(148, 52, 110)",
+        "color": "#94346e",
         "dash": "solid",
         "width": 4
       },
@@ -453,7 +453,7 @@
         40.0
       ],
       "marker": {
-        "color": "rgb(148, 52, 110)",
+        "color": "#94346e",
         "line": {
           "color": "white",
           "width": 1
@@ -493,7 +493,7 @@
         19.72
       ],
       "line": {
-        "color": "rgb(111, 64, 112)",
+        "color": "#6f4070",
         "dash": "solid",
         "width": 4
       },
@@ -503,7 +503,7 @@
         -96.97
       ],
       "marker": {
-        "color": "rgb(111, 64, 112)",
+        "color": "#6f4070",
         "line": {
           "color": "white",
           "width": 1
@@ -553,7 +553,7 @@
         20.0
       ],
       "line": {
-        "color": "rgb(102, 102, 102)",
+        "color": "#666666",
         "dash": "solid",
         "width": 4
       },
@@ -569,7 +569,7 @@
         77.0
       ],
       "marker": {
-        "color": "rgb(102, 102, 102)",
+        "color": "#666666",
         "line": {
           "color": "white",
           "width": 1
@@ -615,7 +615,7 @@
         41.9026
       ],
       "line": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#000000",
         "dash": "solid",
         "width": 4
       },
@@ -626,7 +626,7 @@
         12.4502
       ],
       "marker": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#000000",
         "line": {
           "color": "white",
           "width": 1
@@ -667,7 +667,7 @@
         39.8155
       ],
       "line": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#5f4690",
         "dash": "solid",
         "width": 4
       },
@@ -678,7 +678,7 @@
         21.9129
       ],
       "marker": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#5f4690",
         "line": {
           "color": "white",
           "width": 1
@@ -719,7 +719,7 @@
         29.0
       ],
       "line": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#1d6996",
         "dash": "solid",
         "width": 4
       },
@@ -730,7 +730,7 @@
         40.0
       ],
       "marker": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#1d6996",
         "line": {
           "color": "white",
           "width": 1
@@ -767,7 +767,7 @@
         41.9026
       ],
       "line": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#38a6a5",
         "dash": "solid",
         "width": 4
       },
@@ -776,7 +776,7 @@
         12.4502
       ],
       "marker": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#38a6a5",
         "line": {
           "color": "white",
           "width": 1
@@ -813,7 +813,7 @@
         41.9026
       ],
       "line": {
-        "color": "rgb(115, 175, 72)",
+        "color": "#0f8554",
         "dash": "solid",
         "width": 4
       },
@@ -823,7 +823,7 @@
         12.4502
       ],
       "marker": {
-        "color": "rgb(115, 175, 72)",
+        "color": "#0f8554",
         "line": {
           "color": "white",
           "width": 1
@@ -871,7 +871,7 @@
         24.0
       ],
       "line": {
-        "color": "rgb(237, 173, 8)",
+        "color": "#73af48",
         "dash": "solid",
         "width": 4
       },
@@ -886,7 +886,7 @@
         100.0
       ],
       "marker": {
-        "color": "rgb(237, 173, 8)",
+        "color": "#73af48",
         "line": {
           "color": "white",
           "width": 1
@@ -927,7 +927,7 @@
         41.9026
       ],
       "line": {
-        "color": "rgb(225, 124, 5)",
+        "color": "#edad08",
         "dash": "solid",
         "width": 4
       },
@@ -936,7 +936,7 @@
         12.4502
       ],
       "marker": {
-        "color": "rgb(225, 124, 5)",
+        "color": "#edad08",
         "line": {
           "color": "white",
           "width": 1
@@ -977,7 +977,7 @@
         39.8155
       ],
       "line": {
-        "color": "rgb(204, 80, 62)",
+        "color": "#e17c05",
         "dash": "solid",
         "width": 4
       },
@@ -989,7 +989,7 @@
         21.9129
       ],
       "marker": {
-        "color": "rgb(204, 80, 62)",
+        "color": "#e17c05",
         "line": {
           "color": "white",
           "width": 1
@@ -1037,7 +1037,7 @@
         20.0
       ],
       "line": {
-        "color": "rgb(148, 52, 110)",
+        "color": "#cc503e",
         "dash": "solid",
         "width": 4
       },
@@ -1051,7 +1051,7 @@
         77.0
       ],
       "marker": {
-        "color": "rgb(148, 52, 110)",
+        "color": "#cc503e",
         "line": {
           "color": "white",
           "width": 1
@@ -1099,7 +1099,7 @@
         20.0
       ],
       "line": {
-        "color": "rgb(111, 64, 112)",
+        "color": "#94346e",
         "dash": "solid",
         "width": 4
       },
@@ -1112,7 +1112,7 @@
         77.0
       ],
       "marker": {
-        "color": "rgb(111, 64, 112)",
+        "color": "#94346e",
         "line": {
           "color": "white",
           "width": 1
@@ -1155,7 +1155,7 @@
         27.96
       ],
       "line": {
-        "color": "rgb(102, 102, 102)",
+        "color": "#6f4070",
         "dash": "solid",
         "width": 4
       },
@@ -1166,7 +1166,7 @@
         43.85
       ],
       "marker": {
-        "color": "rgb(102, 102, 102)",
+        "color": "#6f4070",
         "line": {
           "color": "white",
           "width": 1
@@ -1207,7 +1207,7 @@
         32.0
       ],
       "line": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#666666",
         "dash": "solid",
         "width": 4
       },
@@ -1218,7 +1218,7 @@
         54.0
       ],
       "marker": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#666666",
         "line": {
           "color": "white",
           "width": 1
@@ -1257,7 +1257,7 @@
         32.0
       ],
       "line": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#000000",
         "dash": "solid",
         "width": 4
       },
@@ -1267,7 +1267,7 @@
         54.0
       ],
       "marker": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#000000",
         "line": {
           "color": "white",
           "width": 1
@@ -1307,7 +1307,7 @@
         27.96
       ],
       "line": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#5f4690",
         "dash": "solid",
         "width": 4
       },
@@ -1318,7 +1318,7 @@
         43.85
       ],
       "marker": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#5f4690",
         "line": {
           "color": "white",
           "width": 1
@@ -1357,7 +1357,7 @@
         41.9026
       ],
       "line": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#1d6996",
         "dash": "solid",
         "width": 4
       },
@@ -1367,7 +1367,7 @@
         12.4502
       ],
       "marker": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#1d6996",
         "line": {
           "color": "white",
           "width": 1
@@ -1416,6 +1416,18 @@
       }
     },
     "geo": {
+      "lataxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "lonaxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
       "projection": {
         "rotation": {
           "lat": 15,
@@ -1425,87 +1437,75 @@
         "type": "orthographic",
         "scale": 1
       },
-      "lonaxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "lataxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "resolution": 110,
-      "scope": "world",
       "bgcolor": "rgba(255,255,255,0)",
-      "showcoastlines": true,
-      "coastlinewidth": 1,
       "coastlinecolor": "gainsboro",
-      "showcountries": false,
-      "countrywidth": 1,
+      "coastlinewidth": 1,
       "countrycolor": "gainsboro",
-      "showframe": true,
-      "framewidth": 1,
+      "countrywidth": 1,
       "framecolor": "gainsboro",
-      "showlakes": true,
+      "framewidth": 1,
       "lakecolor": "white",
-      "showland": true,
       "landcolor": "gainsboro",
-      "showocean": true,
       "oceancolor": "white",
-      "showrivers": true,
-      "riverwidth": 1,
+      "resolution": 110,
       "rivercolor": "white",
+      "riverwidth": 1,
+      "scope": "world",
+      "showcoastlines": true,
+      "showcountries": false,
+      "showframe": true,
+      "showlakes": true,
+      "showland": true,
+      "showocean": true,
+      "showrivers": true,
       "showsubunits": false,
-      "subunitwidth": 1,
-      "subunitcolor": "gainsboro"
-    },
-    "legend": {
-      "font": {
-        "color": "black",
-        "size": 14,
-        "family": "Serif"
-      },
-      "title": {
-        "font": {
-          "color": "black",
-          "size": 16,
-          "family": "Serif"
-        }
-      },
-      "x": 0,
-      "y": 0,
-      "xanchor": "left",
-      "yanchor": "bottom",
-      "bgcolor": "rgba(255,255,255,0.5)",
-      "traceorder": "normal",
-      "orientation": "v"
-    },
-    "title": {
-      "font": {
-        "color": "black",
-        "size": 20,
-        "family": "Serif"
-      },
-      "x": 0.5,
-      "y": 0.99,
-      "xanchor": "center",
-      "yanchor": "top",
-      "text": "Etymological stages of a few spice names in English"
-    },
-    "margin": {
-      "r": 0,
-      "t": 0,
-      "l": 0,
-      "b": 0
+      "subunitcolor": "gainsboro",
+      "subunitwidth": 1
     },
     "hoverlabel": {
       "font": {
         "size": 14,
         "family": "Serif"
       }
+    },
+    "legend": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "title": {
+        "font": {
+          "color": "black",
+          "family": "Serif",
+          "size": 16
+        }
+      },
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "orientation": "v",
+      "traceorder": "normal",
+      "x": 0,
+      "xanchor": "left",
+      "y": 0,
+      "yanchor": "bottom"
+    },
+    "margin": {
+      "b": 0,
+      "l": 0,
+      "r": 0,
+      "t": 0
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 20
+      },
+      "text": "Etymological stages of a few spice names in English",
+      "x": 0.5,
+      "xanchor": "center",
+      "y": 0.99,
+      "yanchor": "top"
     },
     "paper_bgcolor": "rgba(255,255,255,0)",
     "plot_bgcolor": "rgba(255,255,255,0)",

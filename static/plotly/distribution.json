@@ -3,28 +3,36 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/allspice",
           "Pimenta dioica",
           "Myrtaceae",
           "S. Mexico to C. America; Caribbean",
           "\u0641\u0644\u0641\u0644 \u0625\u0641\u0631\u0646\u062c\u064a",
+          "fulful ifranj\u012b",
           "\u591a\u9999\u679c",
+          "du\u014dxi\u0101nggu\u01d2",
+          "0.8461538461538461",
           "-77",
           "18",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/clove",
           "Syzygium aromaticum",
           "Myrtaceae",
           "Moluccas (Indonesia)",
           "\u0642\u0631\u0646\u0641\u0644",
+          "qaranful",
           "\u4e01\u9999",
+          "d\u012bngxi\u0101ng",
+          "9",
           "127",
           "0",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "allspice",
         "clove"
@@ -40,13 +48,13 @@
       ],
       "marker": {
         "color": "#5f4690",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1,
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -71,78 +79,106 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/anise",
           "Pimpinella anisum",
           "Apiaceae",
           "E. Mediterranean; W. Asia",
           "\u0623\u0646\u064a\u0633\u0648\u0646",
+          "an\u012bs\u016bn",
           "\u8334\u82b9",
+          "hu\u00edq\u00edn",
+          "10.5",
           "35",
           "39",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/asafoetida",
           "Ferula foetida",
           "Apiaceae",
           "Iran; W. and C. Asia",
           "\u062d\u0644\u062a\u06cc\u062a",
+          "\u1e25ilt\u012bt",
           "\u963f\u9b4f",
+          "\u0101w\u00e8i",
+          "0.125",
           "55",
           "35",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/caraway",
           "Carum carvi",
           "Apiaceae",
           "Mediterranean; Eurasia",
           "\u0643\u0631\u0627\u0648\u064a\u0627",
+          "kar\u0101wiy\u0101",
           "\u845b\u7e37\u5b50",
+          "g\u011b\u200bl\u01da\u200bzi",
+          "0.8507462686567164",
           "69",
           "45",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/coriander",
           "Coriandrum sativum",
           "Apiaceae",
           "Mediterranean; W. Asia; India; SW As",
           "\u0643\u0632\u0628\u0631\u0629",
+          "kuzbara",
           "\u82ab\u837d",
+          "y\u00e1n\u200bsui",
+          "15",
           "39",
           "35",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/cumin",
           "Cuminum cyminum",
           "Apiaceae",
           "W. \\& C. Asia; India ",
           "\u0643\u0645\u0648\u0646 ",
+          "kamm\u016bn",
           "\u5b5c\u7136",
+          "z\u012b\u200br\u00e1n",
+          "8.666666666666666",
           "53",
           "32",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/dill",
           "Anethum graveolens",
           "Apiaceae",
           "Nort Africa; West Asia",
           "\u0634\u0628\u062a",
+          "shibitt",
           "\u8494\u863f",
+          "sh\u00edlu\u00f3",
+          "12.181818181818182",
           "30",
           "28",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/fennel",
           "Foeniculum vulgare",
           "Apiaceae",
           "Med",
           "\u0634\u0645\u0631",
+          "shamar",
           "\u8334\u9999",
+          "hu\u00edxi\u0101ng",
+          "2.7777777777777777",
           "42",
           "29",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "anise",
         "asafoetida",
@@ -173,7 +209,7 @@
       ],
       "marker": {
         "color": "#1d6996",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1,
           1,
@@ -184,7 +220,7 @@
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -214,38 +250,50 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/cardamom",
           "Elettaria cardamomum",
           "Zingiberaceae",
           "India",
           "\u0647\u0627\u0644",
+          "h\u0101l",
           "\u8c46\u853b",
+          "d\u00f2uk\u00f2u",
+          "3.5",
           "75",
           "16",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/ginger",
           "Zingiber officinale",
           "Zingiberaceae",
           "South East Asia; India (secondary)",
           "\u0632\u0646\u062c\u0628\u064a\u0644",
+          "zanjab\u012bl",
           "\u8591",
+          "ji\u0101ng",
+          "8.75",
           "95",
           "24",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/turmeric",
           "Curcuma longa",
           "Zingiberaceae",
           "India",
           "\u0643\u0631\u0643\u0645",
+          "kurkum",
           "\u8591\u9ec3",
+          "ji\u0101nghu\u00e1ng",
+          "53",
           "79",
           "12",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "cardamom",
         "ginger",
@@ -264,14 +312,14 @@
       ],
       "marker": {
         "color": "#38a6a5",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1,
           1,
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -297,28 +345,36 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/cassia",
           "Cinnamomum cassia",
           "Lauraceae",
           "Southeast China",
           "\u0633\u0644\u064a\u062e\u0629",
+          "sal\u012bkha",
           "\u8089\u6842",
+          "r\u00f2ugu\u00ec",
+          "15",
           "111",
           "22",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/cinnamon",
           "Cinnamomum verum",
           "Lauraceae",
           "Sri Lanka; SW. India",
           "\u0642\u0631\u0641\u0629",
+          "qirfa",
           "\u932b\u862d\u8089\u6842",
+          "x\u012bl\u00e1nr\u00f2ugu\u00ec",
+          "26",
           "81",
           "7",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "cassia",
         "cinnamon"
@@ -334,13 +390,13 @@
       ],
       "marker": {
         "color": "#0f8554",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1,
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -365,18 +421,22 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/chile",
           "Capsicum annuum",
           "Solanaceae",
           "Central America",
           "\u0641\u0644\u0641\u0644 \u062d\u0627\u0631",
+          "fulful h\u0101rr",
           "\u8fa3\u6912",
+          "l\u00e0ji\u0101o",
+          "17.142857142857142",
           "-85",
           "12",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "chile"
       ],
@@ -389,12 +449,12 @@
       ],
       "marker": {
         "color": "#73af48",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -418,18 +478,22 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/fenugreek",
           "Trigonella foenum-graecum",
           "Fabaceae",
           "S Eur; W As",
           "\u062d\u0644\u0628\u0629",
+          "\u1e25ulba",
           "\u80e1\u8606\u5df4",
+          "h\u00fal\u00fab\u0101",
+          "17",
           "67",
           "33",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "fenugreek"
       ],
@@ -442,12 +506,12 @@
       ],
       "marker": {
         "color": "#edad08",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -471,28 +535,36 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/long_pepper",
           "Piper longum",
           "Piperaceae",
           "E. Himalaya to S. China; Indo-China",
           "\u062f\u0627\u0631\u0641\u0644\u0641\u0644",
+          "d\u0101rfilfil",
           "\u84fd\u64a5",
+          "b\u00ecb\u014d",
+          "0.7",
           "80",
           "23",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/pepper",
           "Piper nigrum",
           "Piperaceae",
           "Malabar coast (South India)",
           "\u0641\u0644\u0641\u0644",
+          "filfil, fulful",
           "\u80e1\u6912",
+          "h\u00faji\u0101o",
+          "37",
           "76",
           "14",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "long pepper",
         "pepper"
@@ -508,13 +580,13 @@
       ],
       "marker": {
         "color": "#e17c05",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1,
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -539,28 +611,36 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/mace",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
           "\u0628\u0633\u0628\u0627\u0633\u0629",
+          "basb\u0101sa",
           "\u8089\u8c46\u853b\u76ae",
+          "r\u00f2ud\u00f2uk\u00f2up\u00ed",
+          "14",
           "130",
           "-6",
           1
         ],
         [
+          "https://partigabor.github.io/spice/book/materials/nutmeg",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
           "\u062c\u0648\u0632 \u0627\u0644\u0637\u064a\u0628",
+          "jawz al-\u1e6d\u012bb",
           "\u8089\u8c46\u853b",
+          "r\u00f2ud\u00f2uk\u00f2u",
+          "14",
           "129",
           "-4",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "mace",
         "nutmeg"
@@ -576,13 +656,13 @@
       ],
       "marker": {
         "color": "#cc503e",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1,
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -607,18 +687,22 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/saffron",
           "Crocus sativus",
           "Iridaceae",
           "Greece",
           "\u0632\u0639\u0641\u0631\u0627\u0646",
+          "za\u02bffar\u0101n",
           "\u85cf\u7d05\u82b1",
+          "z\u00e0ngh\u00f3nghu\u0101",
+          "8",
           "22",
           "39",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "saffron"
       ],
@@ -631,12 +715,12 @@
       ],
       "marker": {
         "color": "#94346e",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -660,18 +744,22 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/Sichuan_pepper",
           "Zanthoxylum bungeanum",
           "Rutaceae",
           "China",
           "\u0641\u0644\u0641\u0644 \u0633\u064a\u062a\u0634\u0648\u0627\u0646",
+          "fulful s\u012btshuw\u0101n",
           "\u82b1\u6912",
+          "hu\u0101\u200bji\u0101o",
+          "0.1",
           "105",
           "35",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "Sichuan pepper"
       ],
@@ -684,12 +772,12 @@
       ],
       "marker": {
         "color": "#6f4070",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -713,18 +801,22 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/star_anise",
           "Illicium verum",
           "Schisandraceae",
           "SE. China; Vietnam",
           "\u064a\u0627\u0646\u0633\u0648\u0646 \u0646\u062c\u0645\u064a",
+          "y\u0101ns\u016bn najm\u012b",
           "\u516b\u89d2",
+          "b\u0101ji\u01ceo",
+          "1",
           "106",
           "18",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "star anise"
       ],
@@ -737,12 +829,12 @@
       ],
       "marker": {
         "color": "#666666",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -766,18 +858,22 @@
     {
       "customdata": [
         [
+          "https://partigabor.github.io/spice/book/materials/vanilla",
           "Vanilla planifolia",
           "Orchidaceae",
           "Tropical America",
           "\u0641\u0627\u0646\u064a\u0644\u064a\u0627",
+          "f\u0101n\u012bliy\u0101",
           "\u9999\u8349",
+          "xi\u0101ngc\u01ceo",
+          "2.642857142857143",
           "-55",
           "-10",
           1
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>id=%{text}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Arabic=%{customdata[3]}<br>Chinese=%{customdata[4]}<extra></extra>",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
       "hovertext": [
         "vanilla"
       ],
@@ -790,12 +886,12 @@
       ],
       "marker": {
         "color": "#000000",
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": [
           1
         ],
         "sizemode": "area",
-        "sizeref": 0.006944444444444444,
+        "sizeref": 0.00510204081632653,
         "symbol": "circle",
         "line": {
           "color": "white",
@@ -851,6 +947,18 @@
         ]
       },
       "center": {},
+      "lataxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "lonaxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
       "projection": {
         "rotation": {
           "lat": 20,
@@ -860,84 +968,60 @@
         "type": "orthographic",
         "scale": 1
       },
-      "lonaxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "lataxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "resolution": 110,
-      "scope": "world",
       "bgcolor": "rgba(255,255,255,0)",
-      "showcoastlines": true,
-      "coastlinewidth": 1,
       "coastlinecolor": "gainsboro",
-      "showcountries": false,
-      "countrywidth": 1,
+      "coastlinewidth": 1,
       "countrycolor": "gainsboro",
-      "showframe": true,
-      "framewidth": 1,
+      "countrywidth": 1,
       "framecolor": "gainsboro",
-      "showlakes": true,
+      "framewidth": 1,
       "lakecolor": "white",
-      "showland": true,
       "landcolor": "gainsboro",
-      "showocean": true,
       "oceancolor": "white",
-      "showrivers": true,
-      "riverwidth": 1,
+      "resolution": 110,
       "rivercolor": "white",
+      "riverwidth": 1,
+      "scope": "world",
+      "showcoastlines": true,
+      "showcountries": false,
+      "showframe": true,
+      "showlakes": true,
+      "showland": true,
+      "showocean": true,
+      "showrivers": true,
       "showsubunits": false,
-      "subunitwidth": 1,
-      "subunitcolor": "gainsboro"
+      "subunitcolor": "gainsboro",
+      "subunitwidth": 1
     },
     "legend": {
       "title": {
         "text": "family",
         "font": {
           "color": "black",
-          "size": 16,
-          "family": "Serif"
+          "family": "Serif",
+          "size": 16
         }
       },
       "tracegroupgap": 0,
       "itemsizing": "constant",
       "font": {
         "color": "black",
-        "size": 14,
-        "family": "Serif"
+        "family": "Serif",
+        "size": 14
       },
-      "x": 0,
-      "y": 0,
-      "xanchor": "left",
-      "yanchor": "bottom",
       "bgcolor": "rgba(255,255,255,0.5)",
+      "orientation": "v",
       "traceorder": "normal",
-      "orientation": "v"
+      "x": 0,
+      "xanchor": "left",
+      "y": 0,
+      "yanchor": "bottom"
     },
     "margin": {
       "t": 0,
-      "r": 0,
+      "b": 0,
       "l": 0,
-      "b": 0
-    },
-    "title": {
-      "font": {
-        "color": "black",
-        "size": 20,
-        "family": "Serif"
-      },
-      "x": 0.5,
-      "y": 0.99,
-      "xanchor": "center",
-      "yanchor": "top",
-      "text": ""
+      "r": 0
     },
     "hoverlabel": {
       "font": {
@@ -945,9 +1029,23 @@
         "family": "Serif"
       }
     },
+    "title": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 20
+      },
+      "text": "",
+      "x": 0.5,
+      "xanchor": "center",
+      "y": 0.99,
+      "yanchor": "top"
+    },
     "paper_bgcolor": "rgba(255,255,255,0)",
     "plot_bgcolor": "rgba(255,255,255,0)",
     "showlegend": true,
+    "width": 600,
+    "height": 600,
     "images": [
       {
         "sizex": 0.15,

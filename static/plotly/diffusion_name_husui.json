@@ -25,13 +25,13 @@
           "color": "white",
           "width": 1
         },
-        "opacity": 0.8,
+        "opacity": 0.7,
         "size": 20,
-        "symbol": "diamond"
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "husui",
-      "opacity": 0.8,
+      "opacity": 0.7,
       "text": [
         "h\u00fasu\u012b",
         "*koswi, *ko\u0161wi, *go\u0161wi"
@@ -68,6 +68,18 @@
       }
     },
     "geo": {
+      "lataxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "lonaxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
       "projection": {
         "rotation": {
           "lat": 30,
@@ -77,87 +89,75 @@
         "type": "orthographic",
         "scale": 1
       },
-      "lonaxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "lataxis": {
-        "showgrid": true,
-        "gridwidth": 0.5,
-        "dtick": 10,
-        "gridcolor": "#ededed"
-      },
-      "resolution": 110,
-      "scope": "world",
       "bgcolor": "rgba(255,255,255,0)",
-      "showcoastlines": true,
-      "coastlinewidth": 1,
       "coastlinecolor": "gainsboro",
-      "showcountries": false,
-      "countrywidth": 1,
+      "coastlinewidth": 1,
       "countrycolor": "gainsboro",
-      "showframe": true,
-      "framewidth": 1,
+      "countrywidth": 1,
       "framecolor": "gainsboro",
-      "showlakes": true,
+      "framewidth": 1,
       "lakecolor": "white",
-      "showland": true,
       "landcolor": "gainsboro",
-      "showocean": true,
       "oceancolor": "white",
-      "showrivers": true,
-      "riverwidth": 1,
+      "resolution": 110,
       "rivercolor": "white",
+      "riverwidth": 1,
+      "scope": "world",
+      "showcoastlines": true,
+      "showcountries": false,
+      "showframe": true,
+      "showlakes": true,
+      "showland": true,
+      "showocean": true,
+      "showrivers": true,
       "showsubunits": false,
-      "subunitwidth": 1,
-      "subunitcolor": "gainsboro"
-    },
-    "legend": {
-      "font": {
-        "color": "black",
-        "size": 14,
-        "family": "Serif"
-      },
-      "title": {
-        "font": {
-          "color": "black",
-          "size": 16,
-          "family": "Serif"
-        }
-      },
-      "x": 0,
-      "y": 0,
-      "xanchor": "left",
-      "yanchor": "bottom",
-      "bgcolor": "rgba(255,255,255,0.5)",
-      "traceorder": "normal",
-      "orientation": "v"
-    },
-    "title": {
-      "font": {
-        "color": "black",
-        "size": 20,
-        "family": "Serif"
-      },
-      "x": 0.5,
-      "y": 0.99,
-      "xanchor": "center",
-      "yanchor": "top",
-      "text": "Etymological stages of husui"
-    },
-    "margin": {
-      "r": 0,
-      "t": 0,
-      "l": 0,
-      "b": 0
+      "subunitcolor": "gainsboro",
+      "subunitwidth": 1
     },
     "hoverlabel": {
       "font": {
         "size": 14,
         "family": "Serif"
       }
+    },
+    "legend": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "title": {
+        "font": {
+          "color": "black",
+          "family": "Serif",
+          "size": 16
+        }
+      },
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "orientation": "v",
+      "traceorder": "normal",
+      "x": 0,
+      "xanchor": "left",
+      "y": 0,
+      "yanchor": "bottom"
+    },
+    "margin": {
+      "b": 0,
+      "l": 0,
+      "r": 0,
+      "t": 0
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 20
+      },
+      "text": "Etymological stages of husui",
+      "x": 0.5,
+      "xanchor": "center",
+      "y": 0.99,
+      "yanchor": "top"
     },
     "paper_bgcolor": "rgba(255,255,255,0)",
     "plot_bgcolor": "rgba(255,255,255,0)",

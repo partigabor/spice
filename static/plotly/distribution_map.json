@@ -32,7 +32,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "allspice",
         "clove"
@@ -47,19 +47,19 @@
         "127"
       ],
       "marker": {
-        "color": "#5f4690",
+        "color": "rgb(95, 70, 144)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           2.85,
           11.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Myrtaceae",
@@ -68,13 +68,13 @@
         "allspice",
         "clove"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -178,7 +178,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "anise",
         "asafoetida",
@@ -208,7 +208,11 @@
         "42"
       ],
       "marker": {
-        "color": "#1d6996",
+        "color": "rgb(29, 105, 150)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           12.5,
@@ -220,12 +224,8 @@
           4.779999999999999
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Apiaceae",
@@ -239,13 +239,13 @@
         "dill",
         "fennel"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -293,7 +293,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "cardamom",
         "ginger",
@@ -311,7 +311,11 @@
         "79"
       ],
       "marker": {
-        "color": "#38a6a5",
+        "color": "rgb(56, 166, 165)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           5.5,
@@ -319,12 +323,8 @@
           55.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Zingiberaceae",
@@ -334,13 +334,13 @@
         "ginger",
         "turmeric"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -374,7 +374,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "cassia",
         "cinnamon"
@@ -389,19 +389,19 @@
         "81"
       ],
       "marker": {
-        "color": "#0f8554",
+        "color": "rgb(15, 133, 84)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           17.0,
           28.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Lauraceae",
@@ -410,13 +410,13 @@
         "cassia",
         "cinnamon"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -436,7 +436,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "chile"
       ],
@@ -448,18 +448,18 @@
         "-85"
       ],
       "marker": {
-        "color": "#73af48",
+        "color": "rgb(115, 175, 72)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           19.14
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Solanaceae",
@@ -467,13 +467,13 @@
       "text": [
         "chile"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -493,7 +493,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "fenugreek"
       ],
@@ -505,18 +505,18 @@
         "67"
       ],
       "marker": {
-        "color": "#edad08",
+        "color": "rgb(237, 173, 8)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           19.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Fabaceae",
@@ -524,13 +524,13 @@
       "text": [
         "fenugreek"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -564,7 +564,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "long pepper",
         "pepper"
@@ -579,19 +579,19 @@
         "76"
       ],
       "marker": {
-        "color": "#e17c05",
+        "color": "rgb(225, 124, 5)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           2.7,
           39.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Piperaceae",
@@ -600,13 +600,13 @@
         "long pepper",
         "pepper"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -640,7 +640,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "mace",
         "nutmeg"
@@ -655,19 +655,19 @@
         "129"
       ],
       "marker": {
-        "color": "#cc503e",
+        "color": "rgb(204, 80, 62)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           16.0,
           16.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Myristicaceae",
@@ -676,13 +676,13 @@
         "mace",
         "nutmeg"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -702,7 +702,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "saffron"
       ],
@@ -714,18 +714,18 @@
         "22"
       ],
       "marker": {
-        "color": "#94346e",
+        "color": "rgb(148, 52, 110)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           10.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Iridaceae",
@@ -733,13 +733,13 @@
       "text": [
         "saffron"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -759,7 +759,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "Sichuan pepper"
       ],
@@ -771,18 +771,18 @@
         "105"
       ],
       "marker": {
-        "color": "#6f4070",
+        "color": "rgb(111, 64, 112)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           2.1
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Rutaceae",
@@ -790,13 +790,13 @@
       "text": [
         "Sichuan pepper"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -816,7 +816,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "star anise"
       ],
@@ -828,18 +828,18 @@
         "106"
       ],
       "marker": {
-        "color": "#666666",
+        "color": "rgb(102, 102, 102)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           3.0
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Schisandraceae",
@@ -847,13 +847,13 @@
       "text": [
         "star anise"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     },
     {
       "customdata": [
@@ -873,7 +873,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "vanilla"
       ],
@@ -885,18 +885,18 @@
         "-55"
       ],
       "marker": {
-        "color": "#000000",
+        "color": "rgb(95, 70, 144)",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
         "opacity": 0.7,
         "size": [
           4.640000000000001
         ],
         "sizemode": "area",
-        "sizeref": 0.0537109375,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
+        "sizeref": 0.1375,
+        "symbol": "circle"
       },
       "mode": "markers+text",
       "name": "Orchidaceae",
@@ -904,38 +904,22 @@
       "text": [
         "vanilla"
       ],
-      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right"
+      "textposition": "middle right",
+      "type": "scattergeo"
     }
   ],
   "layout": {
-    "template": {
-      "layout": {
-        "annotations": [
-          {
-            "font": {
-              "color": "lightgray",
-              "family": "font_family",
-              "size": 8
-            },
-            "name": "copyright",
-            "opacity": 0.9,
-            "showarrow": false,
-            "text": "\u00a9 G\u00e1bor Parti, 2022",
-            "x": 0.5,
-            "xref": "paper",
-            "y": 0,
-            "yref": "paper"
-          }
-        ]
-      }
-    },
     "geo": {
+      "bgcolor": "rgba(255,255,255,0)",
+      "coastlinecolor": "gainsboro",
+      "coastlinewidth": 1,
+      "countrycolor": "gainsboro",
+      "countrywidth": 1,
       "domain": {
         "x": [
           0.0,
@@ -946,38 +930,15 @@
           1.0
         ]
       },
-      "center": {},
-      "lataxis": {
-        "dtick": 10,
-        "gridcolor": "#ededed",
-        "gridwidth": 0.5,
-        "showgrid": true
-      },
-      "lonaxis": {
-        "dtick": 10,
-        "gridcolor": "#ededed",
-        "gridwidth": 0.5,
-        "showgrid": true
-      },
-      "projection": {
-        "rotation": {
-          "lat": 20,
-          "lon": 80,
-          "roll": 0
-        },
-        "type": "orthographic",
-        "scale": 1
-      },
-      "bgcolor": "rgba(255,255,255,0)",
-      "coastlinecolor": "gainsboro",
-      "coastlinewidth": 1,
-      "countrycolor": "gainsboro",
-      "countrywidth": 1,
       "framecolor": "gainsboro",
       "framewidth": 1,
       "lakecolor": "white",
       "landcolor": "gainsboro",
       "oceancolor": "white",
+      "projection": {
+        "scale": 1,
+        "type": "natural earth"
+      },
       "resolution": 110,
       "rivercolor": "white",
       "riverwidth": 1,
@@ -993,24 +954,30 @@
       "subunitcolor": "gainsboro",
       "subunitwidth": 1
     },
+    "hoverlabel": {
+      "font": {
+        "family": "Serif",
+        "size": 14
+      }
+    },
     "legend": {
-      "title": {
-        "text": "family",
-        "font": {
-          "color": "black",
-          "family": "Serif",
-          "size": 16
-        }
-      },
-      "tracegroupgap": 0,
-      "itemsizing": "constant",
+      "bgcolor": "rgba(255,255,255,0.5)",
       "font": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "bgcolor": "rgba(255,255,255,0.5)",
+      "itemsizing": "constant",
       "orientation": "v",
+      "title": {
+        "font": {
+          "color": "black",
+          "family": "Serif",
+          "size": 16
+        },
+        "text": "family"
+      },
+      "tracegroupgap": 0,
       "traceorder": "normal",
       "x": 0,
       "xanchor": "left",
@@ -1018,44 +985,43 @@
       "yanchor": "bottom"
     },
     "margin": {
-      "t": 0,
       "b": 0,
       "l": 0,
-      "r": 0
+      "r": 0,
+      "t": 0
     },
-    "hoverlabel": {
-      "font": {
-        "size": 14,
-        "family": "Serif"
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "template": {
+      "layout": {
+        "colorway": [
+          "#5f4690",
+          "#1d6996",
+          "#38a6a5",
+          "#0f8554",
+          "#73af48",
+          "#edad08",
+          "#e17c05",
+          "#cc503e",
+          "#94346e",
+          "#6f4070",
+          "#666666",
+          "#000000"
+        ]
       }
     },
     "title": {
       "font": {
         "color": "black",
         "family": "Serif",
-        "size": 20
+        "size": 18
       },
       "text": "",
       "x": 0.5,
       "xanchor": "center",
       "y": 0.99,
       "yanchor": "top"
-    },
-    "paper_bgcolor": "rgba(255,255,255,0)",
-    "plot_bgcolor": "rgba(255,255,255,0)",
-    "showlegend": true,
-    "width": 600,
-    "height": 600,
-    "images": [
-      {
-        "sizex": 0.15,
-        "sizey": 0.15,
-        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
-        "x": 1,
-        "xanchor": "right",
-        "y": 0,
-        "yanchor": "bottom"
-      }
-    ]
+    }
   }
 }
