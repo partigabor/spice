@@ -1,7 +1,7 @@
 ---
 title: Long Pepper
 author: Gábor Parti
-date: 2023-01-04
+date: 2023-01-05
 description: The spike-like cluster of fruits of Piper longum from India.
 weight: 1
 # bookCollapseSection: true

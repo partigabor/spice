@@ -1,7 +1,7 @@
 ---
 title: Cassia
 author: Gábor Parti
-date: 2023-01-04
+date: 2023-01-05
 description: The inner bark of several Southeast Asian species, related to cinnamon..
 weight: 1
 # bookCollapseSection: true

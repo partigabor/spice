@@ -17,7 +17,7 @@
         41.9026
       ],
       "line": {
-        "color": "#5f4690",
+        "color": "rgb(95, 70, 144)",
         "dash": "solid",
         "width": 4
       },
@@ -29,7 +29,7 @@
         12.4502
       ],
       "marker": {
-        "color": "#5f4690",
+        "color": "rgb(95, 70, 144)",
         "line": {
           "color": "white",
           "width": 1
@@ -73,7 +73,7 @@
         28.381735
       ],
       "line": {
-        "color": "#1d6996",
+        "color": "rgb(29, 105, 150)",
         "dash": "solid",
         "width": 4
       },
@@ -85,7 +85,7 @@
         30.834959
       ],
       "marker": {
-        "color": "#1d6996",
+        "color": "rgb(29, 105, 150)",
         "line": {
           "color": "white",
           "width": 1
@@ -125,7 +125,7 @@
         32.0
       ],
       "line": {
-        "color": "#38a6a5",
+        "color": "rgb(56, 166, 165)",
         "dash": "solid",
         "width": 4
       },
@@ -135,7 +135,7 @@
         54.0
       ],
       "marker": {
-        "color": "#38a6a5",
+        "color": "rgb(56, 166, 165)",
         "line": {
           "color": "white",
           "width": 1
@@ -175,7 +175,7 @@
         45.0
       ],
       "line": {
-        "color": "#0f8554",
+        "color": "rgb(15, 133, 84)",
         "dash": "solid",
         "width": 4
       },
@@ -186,7 +186,7 @@
         65.0
       ],
       "marker": {
-        "color": "#0f8554",
+        "color": "rgb(15, 133, 84)",
         "line": {
           "color": "white",
           "width": 1
@@ -229,7 +229,7 @@
         39.8155
       ],
       "line": {
-        "color": "#73af48",
+        "color": "rgb(115, 175, 72)",
         "dash": "solid",
         "width": 4
       },
@@ -241,7 +241,7 @@
         21.9129
       ],
       "marker": {
-        "color": "#73af48",
+        "color": "rgb(115, 175, 72)",
         "line": {
           "color": "white",
           "width": 1
@@ -283,7 +283,7 @@
         39.8155
       ],
       "line": {
-        "color": "#edad08",
+        "color": "rgb(237, 173, 8)",
         "dash": "solid",
         "width": 4
       },
@@ -294,7 +294,7 @@
         21.9129
       ],
       "marker": {
-        "color": "#edad08",
+        "color": "rgb(237, 173, 8)",
         "line": {
           "color": "white",
           "width": 1
@@ -335,7 +335,7 @@
         29.0
       ],
       "line": {
-        "color": "#e17c05",
+        "color": "rgb(225, 124, 5)",
         "dash": "solid",
         "width": 4
       },
@@ -346,7 +346,7 @@
         40.0
       ],
       "marker": {
-        "color": "#e17c05",
+        "color": "rgb(225, 124, 5)",
         "line": {
           "color": "white",
           "width": 1
@@ -387,7 +387,7 @@
         31.7761
       ],
       "line": {
-        "color": "#cc503e",
+        "color": "rgb(204, 80, 62)",
         "dash": "solid",
         "width": 4
       },
@@ -398,7 +398,7 @@
         35.1725
       ],
       "marker": {
-        "color": "#cc503e",
+        "color": "rgb(204, 80, 62)",
         "line": {
           "color": "white",
           "width": 1
@@ -441,7 +441,7 @@
         29.0
       ],
       "line": {
-        "color": "#94346e",
+        "color": "rgb(148, 52, 110)",
         "dash": "solid",
         "width": 4
       },
@@ -453,7 +453,7 @@
         40.0
       ],
       "marker": {
-        "color": "#94346e",
+        "color": "rgb(148, 52, 110)",
         "line": {
           "color": "white",
           "width": 1
@@ -493,7 +493,7 @@
         19.72
       ],
       "line": {
-        "color": "#6f4070",
+        "color": "rgb(111, 64, 112)",
         "dash": "solid",
         "width": 4
       },
@@ -503,7 +503,7 @@
         -96.97
       ],
       "marker": {
-        "color": "#6f4070",
+        "color": "rgb(111, 64, 112)",
         "line": {
           "color": "white",
           "width": 1
@@ -553,7 +553,7 @@
         20.0
       ],
       "line": {
-        "color": "#666666",
+        "color": "rgb(102, 102, 102)",
         "dash": "solid",
         "width": 4
       },
@@ -569,7 +569,7 @@
         77.0
       ],
       "marker": {
-        "color": "#666666",
+        "color": "rgb(102, 102, 102)",
         "line": {
           "color": "white",
           "width": 1
@@ -615,7 +615,7 @@
         41.9026
       ],
       "line": {
-        "color": "#000000",
+        "color": "rgb(95, 70, 144)",
         "dash": "solid",
         "width": 4
       },
@@ -626,7 +626,7 @@
         12.4502
       ],
       "marker": {
-        "color": "#000000",
+        "color": "rgb(95, 70, 144)",
         "line": {
           "color": "white",
           "width": 1
@@ -667,7 +667,7 @@
         39.8155
       ],
       "line": {
-        "color": "#5f4690",
+        "color": "rgb(29, 105, 150)",
         "dash": "solid",
         "width": 4
       },
@@ -678,7 +678,7 @@
         21.9129
       ],
       "marker": {
-        "color": "#5f4690",
+        "color": "rgb(29, 105, 150)",
         "line": {
           "color": "white",
           "width": 1
@@ -719,7 +719,7 @@
         29.0
       ],
       "line": {
-        "color": "#1d6996",
+        "color": "rgb(56, 166, 165)",
         "dash": "solid",
         "width": 4
       },
@@ -730,7 +730,7 @@
         40.0
       ],
       "marker": {
-        "color": "#1d6996",
+        "color": "rgb(56, 166, 165)",
         "line": {
           "color": "white",
           "width": 1
@@ -767,7 +767,7 @@
         41.9026
       ],
       "line": {
-        "color": "#38a6a5",
+        "color": "rgb(15, 133, 84)",
         "dash": "solid",
         "width": 4
       },
@@ -776,7 +776,7 @@
         12.4502
       ],
       "marker": {
-        "color": "#38a6a5",
+        "color": "rgb(15, 133, 84)",
         "line": {
           "color": "white",
           "width": 1
@@ -813,7 +813,7 @@
         41.9026
       ],
       "line": {
-        "color": "#0f8554",
+        "color": "rgb(115, 175, 72)",
         "dash": "solid",
         "width": 4
       },
@@ -823,7 +823,7 @@
         12.4502
       ],
       "marker": {
-        "color": "#0f8554",
+        "color": "rgb(115, 175, 72)",
         "line": {
           "color": "white",
           "width": 1
@@ -871,7 +871,7 @@
         24.0
       ],
       "line": {
-        "color": "#73af48",
+        "color": "rgb(237, 173, 8)",
         "dash": "solid",
         "width": 4
       },
@@ -886,7 +886,7 @@
         100.0
       ],
       "marker": {
-        "color": "#73af48",
+        "color": "rgb(237, 173, 8)",
         "line": {
           "color": "white",
           "width": 1
@@ -927,7 +927,7 @@
         41.9026
       ],
       "line": {
-        "color": "#edad08",
+        "color": "rgb(225, 124, 5)",
         "dash": "solid",
         "width": 4
       },
@@ -936,7 +936,7 @@
         12.4502
       ],
       "marker": {
-        "color": "#edad08",
+        "color": "rgb(225, 124, 5)",
         "line": {
           "color": "white",
           "width": 1
@@ -977,7 +977,7 @@
         39.8155
       ],
       "line": {
-        "color": "#e17c05",
+        "color": "rgb(204, 80, 62)",
         "dash": "solid",
         "width": 4
       },
@@ -989,7 +989,7 @@
         21.9129
       ],
       "marker": {
-        "color": "#e17c05",
+        "color": "rgb(204, 80, 62)",
         "line": {
           "color": "white",
           "width": 1
@@ -1037,7 +1037,7 @@
         20.0
       ],
       "line": {
-        "color": "#cc503e",
+        "color": "rgb(148, 52, 110)",
         "dash": "solid",
         "width": 4
       },
@@ -1051,7 +1051,7 @@
         77.0
       ],
       "marker": {
-        "color": "#cc503e",
+        "color": "rgb(148, 52, 110)",
         "line": {
           "color": "white",
           "width": 1
@@ -1099,7 +1099,7 @@
         20.0
       ],
       "line": {
-        "color": "#94346e",
+        "color": "rgb(111, 64, 112)",
         "dash": "solid",
         "width": 4
       },
@@ -1112,7 +1112,7 @@
         77.0
       ],
       "marker": {
-        "color": "#94346e",
+        "color": "rgb(111, 64, 112)",
         "line": {
           "color": "white",
           "width": 1
@@ -1155,7 +1155,7 @@
         27.96
       ],
       "line": {
-        "color": "#6f4070",
+        "color": "rgb(102, 102, 102)",
         "dash": "solid",
         "width": 4
       },
@@ -1166,7 +1166,7 @@
         43.85
       ],
       "marker": {
-        "color": "#6f4070",
+        "color": "rgb(102, 102, 102)",
         "line": {
           "color": "white",
           "width": 1
@@ -1207,7 +1207,7 @@
         32.0
       ],
       "line": {
-        "color": "#666666",
+        "color": "rgb(95, 70, 144)",
         "dash": "solid",
         "width": 4
       },
@@ -1218,7 +1218,7 @@
         54.0
       ],
       "marker": {
-        "color": "#666666",
+        "color": "rgb(95, 70, 144)",
         "line": {
           "color": "white",
           "width": 1
@@ -1257,7 +1257,7 @@
         32.0
       ],
       "line": {
-        "color": "#000000",
+        "color": "rgb(29, 105, 150)",
         "dash": "solid",
         "width": 4
       },
@@ -1267,7 +1267,7 @@
         54.0
       ],
       "marker": {
-        "color": "#000000",
+        "color": "rgb(29, 105, 150)",
         "line": {
           "color": "white",
           "width": 1
@@ -1307,7 +1307,7 @@
         27.96
       ],
       "line": {
-        "color": "#5f4690",
+        "color": "rgb(56, 166, 165)",
         "dash": "solid",
         "width": 4
       },
@@ -1318,7 +1318,7 @@
         43.85
       ],
       "marker": {
-        "color": "#5f4690",
+        "color": "rgb(56, 166, 165)",
         "line": {
           "color": "white",
           "width": 1
@@ -1357,7 +1357,7 @@
         41.9026
       ],
       "line": {
-        "color": "#1d6996",
+        "color": "rgb(15, 133, 84)",
         "dash": "solid",
         "width": 4
       },
@@ -1367,7 +1367,7 @@
         12.4502
       ],
       "marker": {
-        "color": "#1d6996",
+        "color": "rgb(15, 133, 84)",
         "line": {
           "color": "white",
           "width": 1

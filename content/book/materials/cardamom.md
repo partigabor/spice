@@ -1,7 +1,7 @@
 ---
 title: Cardamom
 author: Gábor Parti
-date: 2023-01-04
+date: 2023-01-05
 description: The bright-green seed pods of an Indian plant.
 weight: 1
 # bookCollapseSection: true

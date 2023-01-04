@@ -1,7 +1,7 @@
 ---
 title: Turmeric
 author: Gábor Parti
-date: 2023-01-04
+date: 2023-01-05
 description: The bright yellow powder yielded from the rhizomes of Curcuma longa.
 weight: 1
 # bookCollapseSection: true
