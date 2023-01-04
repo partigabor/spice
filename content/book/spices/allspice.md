@@ -17,7 +17,7 @@ tags: ['culinary']
 
 # Allspice
 
-![Illustration of Pimenta dioica](/images/kohler/allspice.png)
+![Illustration of Pimenta dioica](/spice/images/kohler/allspice.png)
 
 {{< center >}}
 Illustration of Pimenta dioica (L.) Merr. from Köhler's Medizinal-Pflanzen (1887)
