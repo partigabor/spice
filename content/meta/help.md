@@ -512,8 +512,6 @@ Centered text
 {{% /center %}}
 
 
-
-
 ***
 
 > “What I like to drink most is wine that belongs to others.”<br>
