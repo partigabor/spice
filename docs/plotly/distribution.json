@@ -32,7 +32,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "allspice",
         "clove"
@@ -178,7 +178,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "anise",
         "asafoetida",
@@ -293,7 +293,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "cardamom",
         "ginger",
@@ -374,7 +374,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "cassia",
         "cinnamon"
@@ -436,7 +436,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "chile"
       ],
@@ -493,7 +493,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "fenugreek"
       ],
@@ -564,7 +564,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "long pepper",
         "pepper"
@@ -640,7 +640,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "mace",
         "nutmeg"
@@ -702,7 +702,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "saffron"
       ],
@@ -759,7 +759,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "Sichuan pepper"
       ],
@@ -816,7 +816,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "star anise"
       ],
@@ -873,7 +873,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[2]}<br>id=%{text}<br>species=%{customdata[1]}<br>region of origin=%{customdata[3]}<br>Arabic=%{customdata[4]}<br>Ar transliteration=%{customdata[5]}<br>Chinese=%{customdata[6]}<br>pinyin=%{customdata[7]}<br>spreadability=%{customdata[8]:.2f}<extra></extra>",
+      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
       "hovertext": [
         "vanilla"
       ],
