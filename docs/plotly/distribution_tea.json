@@ -1020,22 +1020,19 @@
   "layout": {
     "template": {
       "layout": {
-        "annotations": [
-          {
-            "font": {
-              "color": "lightgray",
-              "family": "font_family",
-              "size": 8
-            },
-            "name": "copyright",
-            "opacity": 0.9,
-            "showarrow": false,
-            "text": "\u00a9 G\u00e1bor Parti, 2022",
-            "x": 0.5,
-            "xref": "paper",
-            "y": 0,
-            "yref": "paper"
-          }
+        "colorway": [
+          "#5f4690",
+          "#1d6996",
+          "#38a6a5",
+          "#0f8554",
+          "#73af48",
+          "#edad08",
+          "#e17c05",
+          "#cc503e",
+          "#94346e",
+          "#6f4070",
+          "#666666",
+          "#000000"
         ]
       }
     },
@@ -1147,18 +1144,22 @@
     "paper_bgcolor": "rgba(255,255,255,0)",
     "plot_bgcolor": "rgba(255,255,255,0)",
     "showlegend": true,
-    "images": [
-      {
-        "sizex": 0.15,
-        "sizey": 0.15,
-        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
-        "x": 1,
-        "xanchor": "right",
-        "y": 0,
-        "yanchor": "bottom"
-      }
-    ],
     "annotations": [
+      {
+        "font": {
+          "color": "lightgray",
+          "family": "font_family",
+          "size": 8
+        },
+        "name": "copyright",
+        "opacity": 0.9,
+        "showarrow": false,
+        "text": "\u00a9 G\u00e1bor Parti, 2022",
+        "x": 0.5,
+        "xref": "paper",
+        "y": 0,
+        "yref": "paper"
+      },
       {
         "align": "left",
         "font": {
@@ -1172,6 +1173,17 @@
         "xanchor": "left",
         "y": 0.99,
         "yanchor": "top"
+      }
+    ],
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
       }
     ]
   }

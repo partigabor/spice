@@ -1270,6 +1270,10 @@
       "size": 20
     },
     "width": 800,
-    "height": 400
+    "height": 400,
+    "uniformtext": {
+      "minsize": 8,
+      "mode": "hide"
+    }
   }
 }
