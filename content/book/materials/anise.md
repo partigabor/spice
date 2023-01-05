@@ -1,7 +1,7 @@
 ---
 title: Anise
 author: Gábor Parti
-date: 2023-01-01
+date: 2023-01-05
 description: The seed-like fruits of a Mediterranean herb, also known as aniseed.
 weight: 1
 # bookCollapseSection: true
