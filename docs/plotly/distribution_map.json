@@ -48,10 +48,6 @@
       ],
       "marker": {
         "color": "rgb(95, 70, 144)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           2.85,
@@ -59,7 +55,11 @@
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Myrtaceae",
@@ -68,13 +68,13 @@
         "allspice",
         "clove"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -209,10 +209,6 @@
       ],
       "marker": {
         "color": "rgb(29, 105, 150)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           12.5,
@@ -225,7 +221,11 @@
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Apiaceae",
@@ -239,13 +239,13 @@
         "dill",
         "fennel"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -312,10 +312,6 @@
       ],
       "marker": {
         "color": "rgb(56, 166, 165)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           5.5,
@@ -324,7 +320,11 @@
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Zingiberaceae",
@@ -334,13 +334,13 @@
         "ginger",
         "turmeric"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -390,10 +390,6 @@
       ],
       "marker": {
         "color": "rgb(15, 133, 84)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           17.0,
@@ -401,7 +397,11 @@
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Lauraceae",
@@ -410,13 +410,13 @@
         "cassia",
         "cinnamon"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -449,17 +449,17 @@
       ],
       "marker": {
         "color": "rgb(115, 175, 72)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           19.14
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Solanaceae",
@@ -467,13 +467,13 @@
       "text": [
         "chile"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -506,17 +506,17 @@
       ],
       "marker": {
         "color": "rgb(237, 173, 8)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           19.0
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Fabaceae",
@@ -524,13 +524,13 @@
       "text": [
         "fenugreek"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -580,10 +580,6 @@
       ],
       "marker": {
         "color": "rgb(225, 124, 5)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           2.7,
@@ -591,7 +587,11 @@
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Piperaceae",
@@ -600,13 +600,13 @@
         "long pepper",
         "pepper"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -656,10 +656,6 @@
       ],
       "marker": {
         "color": "rgb(204, 80, 62)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           16.0,
@@ -667,7 +663,11 @@
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Myristicaceae",
@@ -676,13 +676,13 @@
         "mace",
         "nutmeg"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -715,17 +715,17 @@
       ],
       "marker": {
         "color": "rgb(148, 52, 110)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           10.0
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Iridaceae",
@@ -733,13 +733,13 @@
       "text": [
         "saffron"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -772,17 +772,17 @@
       ],
       "marker": {
         "color": "rgb(111, 64, 112)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           2.1
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Rutaceae",
@@ -790,13 +790,13 @@
       "text": [
         "Sichuan pepper"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -829,17 +829,17 @@
       ],
       "marker": {
         "color": "rgb(102, 102, 102)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           3.0
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Schisandraceae",
@@ -847,13 +847,13 @@
       "text": [
         "star anise"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     },
     {
       "customdata": [
@@ -886,17 +886,17 @@
       ],
       "marker": {
         "color": "rgb(95, 70, 144)",
-        "line": {
-          "color": "white",
-          "width": 1
-        },
         "opacity": 0.7,
         "size": [
           4.640000000000001
         ],
         "sizemode": "area",
         "sizeref": 0.1375,
-        "symbol": "circle"
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
       },
       "mode": "markers+text",
       "name": "Orchidaceae",
@@ -904,95 +904,16 @@
       "text": [
         "vanilla"
       ],
+      "type": "scattergeo",
       "textfont": {
         "color": "black",
         "family": "Serif",
         "size": 14
       },
-      "textposition": "middle right",
-      "type": "scattergeo"
+      "textposition": "middle right"
     }
   ],
   "layout": {
-    "geo": {
-      "bgcolor": "rgba(255,255,255,0)",
-      "coastlinecolor": "gainsboro",
-      "coastlinewidth": 1,
-      "countrycolor": "gainsboro",
-      "countrywidth": 1,
-      "domain": {
-        "x": [
-          0.0,
-          1.0
-        ],
-        "y": [
-          0.0,
-          1.0
-        ]
-      },
-      "framecolor": "gainsboro",
-      "framewidth": 1,
-      "lakecolor": "white",
-      "landcolor": "gainsboro",
-      "oceancolor": "white",
-      "projection": {
-        "scale": 1,
-        "type": "natural earth"
-      },
-      "resolution": 110,
-      "rivercolor": "white",
-      "riverwidth": 1,
-      "scope": "world",
-      "showcoastlines": true,
-      "showcountries": false,
-      "showframe": true,
-      "showlakes": true,
-      "showland": true,
-      "showocean": true,
-      "showrivers": true,
-      "showsubunits": false,
-      "subunitcolor": "gainsboro",
-      "subunitwidth": 1
-    },
-    "hoverlabel": {
-      "font": {
-        "family": "Serif",
-        "size": 14
-      }
-    },
-    "legend": {
-      "bgcolor": "rgba(255,255,255,0.5)",
-      "font": {
-        "color": "black",
-        "family": "Serif",
-        "size": 14
-      },
-      "itemsizing": "constant",
-      "orientation": "v",
-      "title": {
-        "font": {
-          "color": "black",
-          "family": "Serif",
-          "size": 16
-        },
-        "text": "family"
-      },
-      "tracegroupgap": 0,
-      "traceorder": "normal",
-      "x": 0,
-      "xanchor": "left",
-      "y": 0,
-      "yanchor": "bottom"
-    },
-    "margin": {
-      "b": 0,
-      "l": 0,
-      "r": 0,
-      "t": 0
-    },
-    "paper_bgcolor": "rgba(255,255,255,0)",
-    "plot_bgcolor": "rgba(255,255,255,0)",
-    "showlegend": true,
     "template": {
       "layout": {
         "colorway": [
@@ -1011,6 +932,83 @@
         ]
       }
     },
+    "geo": {
+      "domain": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "center": {},
+      "projection": {
+        "type": "natural earth",
+        "scale": 1
+      },
+      "bgcolor": "rgba(255,255,255,0)",
+      "coastlinecolor": "gainsboro",
+      "coastlinewidth": 1,
+      "countrycolor": "gainsboro",
+      "countrywidth": 1,
+      "framecolor": "gainsboro",
+      "framewidth": 1,
+      "lakecolor": "white",
+      "landcolor": "gainsboro",
+      "oceancolor": "white",
+      "resolution": 110,
+      "rivercolor": "white",
+      "riverwidth": 1,
+      "scope": "world",
+      "showcoastlines": true,
+      "showcountries": false,
+      "showframe": true,
+      "showlakes": true,
+      "showland": true,
+      "showocean": true,
+      "showrivers": true,
+      "showsubunits": false,
+      "subunitcolor": "gainsboro",
+      "subunitwidth": 1
+    },
+    "legend": {
+      "title": {
+        "text": "family",
+        "font": {
+          "color": "black",
+          "family": "Serif",
+          "size": 16
+        }
+      },
+      "tracegroupgap": 0,
+      "itemsizing": "constant",
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "orientation": "v",
+      "traceorder": "normal",
+      "x": 0,
+      "xanchor": "left",
+      "y": 0,
+      "yanchor": "bottom"
+    },
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
     "title": {
       "font": {
         "color": "black",
@@ -1022,6 +1020,9 @@
       "xanchor": "center",
       "y": 0.99,
       "yanchor": "top"
-    }
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true
   }
 }
