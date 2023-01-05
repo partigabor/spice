@@ -3,7 +3,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/allspice",
+          "https://partigabor.github.io/spice/book/materials/allspice",
           "Pimenta dioica",
           "Myrtaceae",
           "S. Mexico to C. America; Caribbean",
@@ -17,7 +17,7 @@
           2.85
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/clove",
+          "https://partigabor.github.io/spice/book/materials/clove",
           "Syzygium aromaticum",
           "Myrtaceae",
           "Moluccas (Indonesia)",
@@ -79,7 +79,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/anise",
+          "https://partigabor.github.io/spice/book/materials/anise",
           "Pimpinella anisum",
           "Apiaceae",
           "E. Mediterranean; W. Asia",
@@ -93,7 +93,7 @@
           12.5
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/asafoetida",
+          "https://partigabor.github.io/spice/book/materials/asafoetida",
           "Ferula foetida",
           "Apiaceae",
           "Iran; W. and C. Asia",
@@ -107,7 +107,7 @@
           2.12
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/caraway",
+          "https://partigabor.github.io/spice/book/materials/caraway",
           "Carum carvi",
           "Apiaceae",
           "Mediterranean; Eurasia",
@@ -121,7 +121,7 @@
           2.85
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/coriander",
+          "https://partigabor.github.io/spice/book/materials/coriander",
           "Coriandrum sativum",
           "Apiaceae",
           "Mediterranean; W. Asia; India; SW As",
@@ -135,7 +135,7 @@
           17.0
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/cumin",
+          "https://partigabor.github.io/spice/book/materials/cumin",
           "Cuminum cyminum",
           "Apiaceae",
           "W. \\& C. Asia; India ",
@@ -149,7 +149,7 @@
           10.67
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/dill",
+          "https://partigabor.github.io/spice/book/materials/dill",
           "Anethum graveolens",
           "Apiaceae",
           "Nort Africa; West Asia",
@@ -163,7 +163,7 @@
           14.18
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/fennel",
+          "https://partigabor.github.io/spice/book/materials/fennel",
           "Foeniculum vulgare",
           "Apiaceae",
           "Med",
@@ -250,7 +250,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/cardamom",
+          "https://partigabor.github.io/spice/book/materials/cardamom",
           "Elettaria cardamomum",
           "Zingiberaceae",
           "India",
@@ -264,7 +264,7 @@
           5.5
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/ginger",
+          "https://partigabor.github.io/spice/book/materials/ginger",
           "Zingiber officinale",
           "Zingiberaceae",
           "South East Asia; India (secondary)",
@@ -278,7 +278,7 @@
           10.75
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/turmeric",
+          "https://partigabor.github.io/spice/book/materials/turmeric",
           "Curcuma longa",
           "Zingiberaceae",
           "India",
@@ -345,7 +345,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/cassia",
+          "https://partigabor.github.io/spice/book/materials/cassia",
           "Cinnamomum cassia",
           "Lauraceae",
           "Southeast China",
@@ -359,7 +359,7 @@
           17.0
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/cinnamon",
+          "https://partigabor.github.io/spice/book/materials/cinnamon",
           "Cinnamomum verum",
           "Lauraceae",
           "Sri Lanka; SW. India",
@@ -421,7 +421,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/chile",
+          "https://partigabor.github.io/spice/book/materials/chile",
           "Capsicum annuum",
           "Solanaceae",
           "Central America",
@@ -478,7 +478,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/fenugreek",
+          "https://partigabor.github.io/spice/book/materials/fenugreek",
           "Trigonella foenum-graecum",
           "Fabaceae",
           "S Eur; W As",
@@ -535,7 +535,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/long_pepper",
+          "https://partigabor.github.io/spice/book/materials/long_pepper",
           "Piper longum",
           "Piperaceae",
           "E. Himalaya to S. China; Indo-China",
@@ -549,7 +549,7 @@
           2.7
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/pepper",
+          "https://partigabor.github.io/spice/book/materials/pepper",
           "Piper nigrum",
           "Piperaceae",
           "Malabar coast (South India)",
@@ -611,7 +611,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/mace",
+          "https://partigabor.github.io/spice/book/materials/mace",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
@@ -625,7 +625,7 @@
           16.0
         ],
         [
-          "https://partigabor.github.io/spice/book/spices/nutmeg",
+          "https://partigabor.github.io/spice/book/materials/nutmeg",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
@@ -687,7 +687,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/saffron",
+          "https://partigabor.github.io/spice/book/materials/saffron",
           "Crocus sativus",
           "Iridaceae",
           "Greece",
@@ -744,7 +744,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/Sichuan_pepper",
+          "https://partigabor.github.io/spice/book/materials/Sichuan_pepper",
           "Zanthoxylum bungeanum",
           "Rutaceae",
           "China",
@@ -801,7 +801,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/star_anise",
+          "https://partigabor.github.io/spice/book/materials/star_anise",
           "Illicium verum",
           "Schisandraceae",
           "SE. China; Vietnam",
@@ -858,7 +858,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/spices/vanilla",
+          "https://partigabor.github.io/spice/book/materials/vanilla",
           "Vanilla planifolia",
           "Orchidaceae",
           "Tropical America",
