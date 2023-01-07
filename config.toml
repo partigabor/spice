@@ -57,11 +57,11 @@ enableEmoji = true
   #     fontheading = "Raleway"
   #     fontbody = "Raleway"
 
-[languages.hu]
-  languageName = "Hungarian 🇭🇺"
-  contentDir = 'content.hu'
-  weight = 2
-  title = 'Fűszer és fűszernév adatbázis'
+# [languages.hu]
+#   languageName = "Hungarian 🇭🇺"
+#   contentDir = 'content.hu'
+#   weight = 2
+#   title = 'Fűszer és fűszernév adatbázis'
 
 # [languages.ar]
 #   languageName = "Arabic 🇵🇸"
