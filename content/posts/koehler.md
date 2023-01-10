@@ -20,6 +20,6 @@ Köhler, H. A. (1887–1898). *Köhler’s Medizinal-Pflanzen in naturgetreuen A
 {{< /hint >}}
 
 {{< load-photoswipe >}}
-{{< gallery dir="/spice/images/kohler/original/" hover-effect="slideup" />}}
+{{< gallery dir="spice/images/kohler/original/" hover-effect="slideup" />}}
 
 [^1]: https://www.biodiversitylibrary.org/bibliography/623
