@@ -22,6 +22,7 @@ bookHidden: true
 {{< load-photoswipe >}}
 {{< gallery dir="/images/covers/" hover-effect="slideup" />}}
 
+[^abraham_two_1988]
 [^amar_arabian_2017]
 [^bergreen_marco_2007]
 [^dalby_dangerous_2000]
@@ -40,3 +41,4 @@ bookHidden: true
 [^krondl_taste_2007]: Krondl, M. (2007). The Taste of Conquest: The Rise and Fall of the Three Great Cities of Spice. Ballantine Books. https://www.worldcat.org/title/147988350
 [^mair_true_2009]: Mair, V. H., & Hoh, E. (2009). The True History of Tea. Thames & Hudson. https://www.worldcat.org/title/true-history-of-tea/oclc/227016706
 [^amar_arabian_2017]: Amar, Z., & Lev, E. (2017). Arabian drugs in early medieval Mediterranean medicine. Edinburgh University Press. https://edinburghuniversitypress.com/book-arabian-drugs-in-early-medieval-mediterranean-medicine.html
+[^abraham_two_1988]: Abraham, M. (1988). Two Medieval Merchant Guilds of South India. Manohar. https://www.worldcat.org/title/19325089
