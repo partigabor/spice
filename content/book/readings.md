@@ -31,7 +31,6 @@ bookHidden: true
 [^krondl_taste_2007]
 [^mair_true_2009]
 
-
 <!-- ### Articles -->
 
 [^bergreen_marco_2007]: Bergreen, L. (2007). Marco Polo: From Venice to Xanadu (1st ed). Alfred A. Knopf. https://www.worldcat.org/title/191923003
