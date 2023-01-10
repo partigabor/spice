@@ -22,6 +22,7 @@ bookHidden: true
 {{< load-photoswipe >}}
 {{< gallery dir="/images/covers/" hover-effect="slideup" />}}
 
+[^amar_arabian_2017]
 [^bergreen_marco_2007]
 [^dalby_dangerous_2000]
 [^frankopan_silk_2012]
@@ -38,3 +39,4 @@ bookHidden: true
 [^hansen_silk_2012]: Hansen, V. (2012). The Silk Road: A New History. Oxford University Press. https://global.oup.com/ushe/product/the-silk-road-9780190208929?cc=hk&lang=en&
 [^krondl_taste_2007]: Krondl, M. (2007). The Taste of Conquest: The Rise and Fall of the Three Great Cities of Spice. Ballantine Books. https://www.worldcat.org/title/147988350
 [^mair_true_2009]: Mair, V. H., & Hoh, E. (2009). The True History of Tea. Thames & Hudson. https://www.worldcat.org/title/true-history-of-tea/oclc/227016706
+[^amar_arabian_2017]: Amar, Z., & Lev, E. (2017). Arabian drugs in early medieval Mediterranean medicine. Edinburgh University Press. https://edinburghuniversitypress.com/book-arabian-drugs-in-early-medieval-mediterranean-medicine.html
