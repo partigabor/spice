@@ -5,15 +5,17 @@
         "prototype similarity",
         "prototype",
         "plant part",
-        "function"
+        "function",
+        "descriptive"
       ],
       "name": "English",
       "sort": false,
       "values": [
-        68,
+        67,
         38,
         3,
-        2
+        2,
+        1
       ],
       "type": "pie",
       "domain": {

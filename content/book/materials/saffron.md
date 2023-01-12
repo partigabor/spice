@@ -1,7 +1,7 @@
 ---
 title: Saffron
 author: Gábor Parti
-date: 2023-01-05
+date: 2023-01-11
 description: The stigmas or styles of the saffron crocus flower.
 weight: 1
 # bookCollapseSection: true

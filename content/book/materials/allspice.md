@@ -1,8 +1,8 @@
 ---
 title: Allspice
 author: Gábor Parti
-date: 2023-01-05
-description: The dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper.
+date: 2023-01-11
+description: dried unripe berries of a Caribbean tree, also known as pimento; Jamaica pepper.
 weight: 1
 # bookCollapseSection: true
 # bookComments: true
@@ -66,7 +66,7 @@ Allspice (*Pimenta dioica* (L.) Merr.) is a culinary spice from the *Myrtaceae* 
 {{< /hint >}}
 
 {{< hint etym >}}
-**Mandarin Chinese** 多香果 *duōxiāngguǒ* 'allspice' [many-spice-fruit ], semantic translation, 1900?
+**Mandarin Chinese** 多香果 *duōxiāngguǒ* 'allspice' [many-spice-fruit ], maybe a semantic translation
 
 
 

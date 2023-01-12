@@ -152,15 +152,18 @@
       "orientation": "v",
       "showlegend": true,
       "text": [
+        "Arabic",
         "Arabic"
       ],
       "textposition": "inside",
       "x": [
-        "English"
+        "English",
+        "Chinese"
       ],
       "xaxis": "x",
       "y": [
-        2
+        2,
+        1
       ],
       "yaxis": "y",
       "type": "bar",
@@ -332,41 +335,9 @@
     {
       "alignmentgroup": "True",
       "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
-      "legendgroup": "English",
-      "marker": {
-        "color": "#666666",
-        "pattern": {
-          "shape": ""
-        }
-      },
-      "name": "English",
-      "offsetgroup": "English",
-      "orientation": "v",
-      "showlegend": true,
-      "text": [
-        "English"
-      ],
-      "textposition": "inside",
-      "x": [
-        "Chinese"
-      ],
-      "xaxis": "x",
-      "y": [
-        1
-      ],
-      "yaxis": "y",
-      "type": "bar",
-      "textfont": {
-        "size": 18
-      },
-      "textangle": 0
-    },
-    {
-      "alignmentgroup": "True",
-      "hovertemplate": "language=%{text}<br>lang=%{x}<br>total=%{y}<extra></extra>",
       "legendgroup": "Iranian",
       "marker": {
-        "color": "#000000",
+        "color": "#666666",
         "pattern": {
           "shape": ""
         }
