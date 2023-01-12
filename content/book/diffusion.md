@@ -23,24 +23,24 @@ This page contains visualizations showing the diffusion of spices on spatial and
 
 ### English
 
-{{< plotly json="/plotly/diffusion_en.json" height="600px" >}}
+{{< plotly json="/spice/plotly/diffusion_en.json" height="600px" >}}
 
 ### Arabic
 
-{{< plotly json="/plotly/diffusion_ar.json" height="600px" >}}
+{{< plotly json="/spice/plotly/diffusion_ar.json" height="600px" >}}
 
 ### Chinese
 
-{{< plotly json="/plotly/diffusion_zh.json" height="600px" >}}
+{{< plotly json="/spice/plotly/diffusion_zh.json" height="600px" >}}
 
 ## Temporal Diffusion: Dates of Attestation
 
-{{< plotly json="/plotly/attestation_and_borrowing.json" height="600px" >}}
+{{< plotly json="/spice/plotly/attestation_and_borrowing.json" height="600px" >}}
 
 ### Compact
 
-{{< plotly json="/plotly/attestation_and_borrowing_compact.json" height="600px" >}}
+{{< plotly json="/spice/plotly/attestation_and_borrowing_compact.json" height="600px" >}}
 
 ## Borrowings
 
-{{< plotly json="/plotly/borrowing_pie.json" height="300px" >}}
+{{< plotly json="/spice/plotly/borrowing_pie.json" height="300px" >}}
