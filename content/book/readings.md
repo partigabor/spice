@@ -33,6 +33,7 @@ bookHidden: true
 [^hansen_silk_2012]
 [^krondl_taste_2007]
 [^mair_true_2009]
+[^nabhan_cumin_2014]
 
 <!-- ### Articles -->
 
@@ -46,3 +47,4 @@ bookHidden: true
 [^amar_arabian_2017]: Amar, Z., & Lev, E. (2017). Arabian drugs in early medieval Mediterranean medicine. Edinburgh University Press. https://edinburghuniversitypress.com/book-arabian-drugs-in-early-medieval-mediterranean-medicine.html
 [^abraham_two_1988]: Abraham, M. (1988). Two Medieval Merchant Guilds of South India. Manohar. https://www.worldcat.org/title/19325089
 [^dott_chile_2020]: Dott, B. R. (2020). The Chile Pepper in China: A Cultural Biography. Columbia University Press. http://cup.columbia.edu/book/the-chile-pepper-in-china/9780231195324
+[^nabhan_cumin_2014]: Nabhan, G. P. (2014). Cumin, Camels, and Caravans: A Spice Odyssey. University of California Press. https://www.ucpress.edu/book/9780520379244/cumin-camels-and-caravans

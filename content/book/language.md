@@ -44,4 +44,4 @@ plotly: true
 
 The "productivity" of the word *pepper* in English, i.e., words derived from *pepper* across different grammatical categories. Data is from the OED main and subentries that contain the word pepper.
 
-{{< plotly json="/spice/plotly/oed_pepper.json" height="400px" >}}
+{{< plotly json="/spice/plotly/oed_pepper.json" height="600px" >}}
