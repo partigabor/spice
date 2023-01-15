@@ -19,6 +19,12 @@ bookHidden: true
 
 ### Books
 
+Marco Polo: From Venice to Xanadu
+
+"For Venetians, the world was startlingly modern in another way: it was “flat,” that is to say, globally connected across boundaries and borders, both natural and artificial. They saw the world as a network of endlessly changing trade routes and opportunities extending over land and sea. By ship or caravan, Venetian merchants traveled to the four corners of the world in search of valuable spices, gems, and fabrics. Through their enterprise, minerals, salt, wax, drugs, camphor, gum arabic, myrrh, sandalwood, cinnamon, nutmeg, grapes, figs, pomegranates, fabrics (especially silk), hides, weapons, ivory, wool, ostrich and parrot feathers, pearls, iron, copper, gold dust, gold bars, silver bars, and Asian slaves all poured into Venice via complex trade routes from Africa, the Middle East, and Western Europe." (p. 15)
+
+***
+
 {{< load-photoswipe >}}
 {{< gallery dir="/images/covers/" hover-effect="slideup" />}}
 
@@ -37,8 +43,7 @@ bookHidden: true
 
 <!-- ### Articles -->
 
-
-[^bergreen_marco_2007]: Bergreen, L. (2007). Marco Polo: From Venice to Xanadu (1st ed). Alfred A. Knopf. https://www.worldcat.org/title/191923003
+[^bergreen_marco_2007]: Bergreen, L. (2007). Marco Polo: From Venice to Xanadu. Alfred A. Knopf. https://www.worldcat.org/title/191923003
 [^dalby_dangerous_2000]: Dalby, A. (2000). Dangerous Tastes: The Story of Spices. University of California Press. https://www.worldcat.org/title/44979585
 [^frankopan_silk_2012]: Frankopan, P. (2012). The Silk Roads: A new history of the world. Bloomsbury. https://www.worldcat.org/title/1200801737
 [^hansen_silk_2012]: Hansen, V. (2012). The Silk Road: A New History. Oxford University Press. https://global.oup.com/ushe/product/the-silk-road-9780190208929?cc=hk&lang=en&
