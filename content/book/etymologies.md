@@ -11,12 +11,19 @@ bookHidden: true
 
 <!-- Use CNTRL + ALT + Z to cite from Zotero (Zotero has to run) -->
 
+admiral
+
 arsenal
 
 ciao
 
+doge
+
 gondola
 
+kumis?
+
+gerega/paiza - the golden passport of kublai khan to niccolo and maffeo polo https://en.wikipedia.org/wiki/Paiza
 
 {{< columns >}}
 
