@@ -35,6 +35,7 @@ Youyang Zazu 酉陽雜俎[Miscellaneous Morsels from Youyang] by Duan Chengsi, 9
 Qimin Yaoshu?
 
 Marco Polo
+Ibn Battuta
 
 ## Secondary Literature
 
