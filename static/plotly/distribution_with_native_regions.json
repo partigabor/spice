@@ -3,6 +3,171 @@
     {
       "customdata": [
         [
+          "Aquilaria malaccensis Lam.",
+          "Thymelaeaceae",
+          "SE As",
+          "\u0639\u0648\u062f",
+          "\u6c89\u9999",
+          "102",
+          "2",
+          14,
+          "agarwood",
+          "540"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "agarwood"
+      ],
+      "lat": [
+        "2"
+      ],
+      "legendgroup": "Thymelaeaceae",
+      "lon": [
+        "102"
+      ],
+      "marker": {
+        "color": "#5f4690",
+        "opacity": 0.75,
+        "size": [
+          14
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Thymelaeaceae",
+      "showlegend": true,
+      "text": [
+        "agarwood"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Aloe vera",
+          "Asphodelaceae",
+          "Afr",
+          null,
+          "\u8606\u8588",
+          "56",
+          "21",
+          5,
+          "aloe",
+          "973"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "aloe"
+      ],
+      "lat": [
+        "21"
+      ],
+      "legendgroup": "Asphodelaceae",
+      "lon": [
+        "56"
+      ],
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.75,
+        "size": [
+          5
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Asphodelaceae",
+      "showlegend": true,
+      "text": [
+        "aloe"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Areca catechu",
+          "Palmae",
+          "Tr As",
+          "\u0641\u0648\u0641\u0644",
+          "\u6ab3\u6994",
+          "122",
+          "13",
+          5,
+          "areca nut",
+          "1300"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "areca nut"
+      ],
+      "lat": [
+        "13"
+      ],
+      "legendgroup": "Palmae",
+      "lon": [
+        "122"
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "opacity": 0.75,
+        "size": [
+          5
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Palmae",
+      "showlegend": true,
+      "text": [
+        "areca nut"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
           "Ferula foetida",
           "Apiaceae",
           "Iran; W. and C. Asia",
@@ -58,7 +223,7 @@
         "42"
       ],
       "marker": {
-        "color": "#5f4690",
+        "color": "#0f8554",
         "opacity": 0.75,
         "size": [
           12,
@@ -92,127 +257,132 @@
     {
       "customdata": [
         [
-          "Cinnamomum cassia",
-          "Lauraceae",
-          "Southeast China",
-          "\u0633\u0644\u064a\u062e\u0629",
-          "\u8089\u6842",
-          "111",
-          "22",
-          5,
-          "cassia",
-          "?"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "cassia"
-      ],
-      "lat": [
-        "22"
-      ],
-      "legendgroup": "Lauraceae",
-      "lon": [
-        "111"
-      ],
-      "marker": {
-        "color": "#1d6996",
-        "opacity": 0.75,
-        "size": [
-          5
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Lauraceae",
-      "showlegend": true,
-      "text": [
-        "cassia"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Syzygium aromaticum",
-          "Myrtaceae",
-          "Moluccas (Indonesia)",
-          "\u0642\u0631\u0646\u0641\u0644",
-          "\u4e01\u9999",
-          "127",
-          "0",
-          5,
-          "clove",
-          "973"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "clove"
-      ],
-      "lat": [
-        "0"
-      ],
-      "legendgroup": "Myrtaceae",
-      "lon": [
-        "127"
-      ],
-      "marker": {
-        "color": "#38a6a5",
-        "opacity": 0.75,
-        "size": [
-          5
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Myrtaceae",
-      "showlegend": true,
-      "text": [
-        "clove"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Trigonella foenum-graecum",
-          "Fabaceae",
-          "S Eur; W As",
-          "\u062d\u0644\u0628\u0629",
-          "\u80e1\u8606\u5df4",
-          "67",
-          "33",
-          8,
-          "fenugreek",
+          "Ocimum basilicum",
+          "Lamiaceae",
+          "Trop As",
+          null,
+          "\u7f85\u52d2",
+          "99",
+          "19",
+          33,
+          "basil",
           "1061"
         ],
+        [
+          "Salvia rosmarinus",
+          "Lamiaceae",
+          "S & N Eur; Med",
+          null,
+          "\u8ff7\u8fed\u9999",
+          "14",
+          "38",
+          23,
+          "rosemary",
+          "739"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "basil",
+        "rosemary"
+      ],
+      "lat": [
+        "19",
+        "38"
+      ],
+      "legendgroup": "Lamiaceae",
+      "lon": [
+        "99",
+        "14"
+      ],
+      "marker": {
+        "color": "#73af48",
+        "opacity": 0.75,
+        "size": [
+          33,
+          23
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Lamiaceae",
+      "showlegend": true,
+      "text": [
+        "basil",
+        "rosemary"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Dryobalanops aromatica",
+          "Dipterocarpaceae",
+          null,
+          null,
+          "Bing-pian (Long-nao-xiang)",
+          "115",
+          "1",
+          7,
+          "Borneo camphor",
+          "659"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "Borneo camphor"
+      ],
+      "lat": [
+        "1"
+      ],
+      "legendgroup": "Dipterocarpaceae",
+      "lon": [
+        "115"
+      ],
+      "marker": {
+        "color": "#edad08",
+        "opacity": 0.75,
+        "size": [
+          7
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Dipterocarpaceae",
+      "showlegend": true,
+      "text": [
+        "Borneo camphor"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
         [
           "Alhagi pseudalhagi",
           "Fabaceae",
@@ -236,6 +406,18 @@
           14,
           "catechu",
           "1596"
+        ],
+        [
+          "Trigonella foenum-graecum",
+          "Fabaceae",
+          "S Eur; W As",
+          "\u062d\u0644\u0628\u0629",
+          "\u80e1\u8606\u5df4",
+          "67",
+          "33",
+          8,
+          "fenugreek",
+          "1061"
         ],
         [
           "Dalbergia sissoo",
@@ -289,18 +471,18 @@
       "geo": "geo",
       "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
       "hovertext": [
-        "fenugreek",
         "camelthorn",
         "catechu",
+        "fenugreek",
         "rosewood",
         "sappanwood",
         "senna",
         "tamarind"
       ],
       "lat": [
-        "33",
         "39",
         "24",
+        "33",
         "30",
         "22",
         "19",
@@ -308,21 +490,21 @@
       ],
       "legendgroup": "Fabaceae",
       "lon": [
-        "67",
         "60",
         "90",
+        "67",
         "69",
         "96",
         "14",
         "47"
       ],
       "marker": {
-        "color": "#0f8554",
+        "color": "#e17c05",
         "opacity": 0.75,
         "size": [
-          8,
           38,
           14,
+          8,
           14,
           14,
           5,
@@ -340,9 +522,9 @@
       "name": "Fabaceae",
       "showlegend": true,
       "text": [
-        "fenugreek",
         "camelthorn",
         "catechu",
+        "fenugreek",
         "rosewood",
         "sappanwood",
         "senna",
@@ -359,6 +541,18 @@
     {
       "customdata": [
         [
+          "Lanxangia tsao-ko",
+          "Zingiberaceae",
+          "Yunnan",
+          null,
+          "\u8349\u679c",
+          "102",
+          "25",
+          7,
+          "caoguo",
+          "?"
+        ],
+        [
           "Zingiber officinale",
           "Zingiberaceae",
           "South East Asia; India (secondary)",
@@ -371,27 +565,15 @@
           "?"
         ],
         [
-          "Curcuma longa",
+          "Wurfbainia compacta",
           "Zingiberaceae",
-          "India",
-          "\u0643\u0631\u0643\u0645",
-          "\u8591\u9ec3",
-          "79",
-          "12",
-          5,
-          "turmeric",
-          "?"
-        ],
-        [
-          "Lanxangia tsao-ko",
-          "Zingiberaceae",
-          "Yunnan",
+          "Sumatra to W. Jawa",
           null,
-          "\u8349\u679c",
-          "102",
-          "25",
-          7,
-          "caoguo",
+          "\u8c46\u853b",
+          "111",
+          "-8",
+          6,
+          "Java round cardamom",
           "?"
         ],
         [
@@ -407,6 +589,18 @@
           "973"
         ],
         [
+          "Curcuma longa",
+          "Zingiberaceae",
+          "India",
+          "\u0643\u0631\u0643\u0645",
+          "\u8591\u9ec3",
+          "79",
+          "12",
+          5,
+          "turmeric",
+          "?"
+        ],
+        [
           "Curcuma zedoaria",
           "Zingiberaceae",
           "Assam",
@@ -417,57 +611,45 @@
           7,
           "zedoary",
           "?"
-        ],
-        [
-          "Wurfbainia compacta",
-          "Zingiberaceae",
-          "Sumatra to W. Jawa",
-          null,
-          "\u8c46\u853b",
-          "111",
-          "-8",
-          6,
-          "Java round cardamom",
-          "?"
         ]
       ],
       "geo": "geo",
       "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
       "hovertext": [
-        "ginger",
-        "turmeric",
         "caoguo",
+        "ginger",
+        "Java round cardamom",
         "Siam cardamom",
-        "zedoary",
-        "Java round cardamom"
+        "turmeric",
+        "zedoary"
       ],
       "lat": [
-        "24",
-        "12",
         "25",
+        "24",
+        "-8",
         "13",
-        "26",
-        "-8"
+        "12",
+        "26"
       ],
       "legendgroup": "Zingiberaceae",
       "lon": [
-        "95",
-        "79",
         "102",
+        "95",
+        "111",
         "105",
-        "93",
-        "111"
+        "79",
+        "93"
       ],
       "marker": {
-        "color": "#73af48",
+        "color": "#cc503e",
         "opacity": 0.75,
         "size": [
+          7,
+          8,
+          6,
           8,
           5,
-          7,
-          8,
-          7,
-          6
+          7
         ],
         "sizemode": "area",
         "sizeref": 0.07333333333333333,
@@ -481,12 +663,575 @@
       "name": "Zingiberaceae",
       "showlegend": true,
       "text": [
-        "ginger",
-        "turmeric",
         "caoguo",
+        "ginger",
+        "Java round cardamom",
         "Siam cardamom",
-        "zedoary",
-        "Java round cardamom"
+        "turmeric",
+        "zedoary"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Cinnamomum cassia",
+          "Lauraceae",
+          null,
+          "\u0633\u0644\u064a\u062e\u0629",
+          "\u8089\u6842",
+          "111",
+          "22",
+          5,
+          "cassia",
+          "?"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "cassia"
+      ],
+      "lat": [
+        "22"
+      ],
+      "legendgroup": "Lauraceae",
+      "lon": [
+        "111"
+      ],
+      "marker": {
+        "color": "#94346e",
+        "opacity": 0.75,
+        "size": [
+          5
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Lauraceae",
+      "showlegend": true,
+      "text": [
+        "cassia"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Capsicum frutescens",
+          "Solanaceae",
+          "Central America; South America",
+          "\u0641\u0644\u0641\u0644 \u062d\u0627\u0631 ",
+          "\u8fa3\u6912",
+          "-60",
+          "-14",
+          6,
+          "chile",
+          "1621"
+        ],
+        [
+          "Nicotiana tabacum",
+          "Solanaceae",
+          "Tr Am",
+          null,
+          "\u7159\u8449",
+          "-64",
+          "-16",
+          5,
+          "tobacco",
+          "1624"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "chile",
+        "tobacco"
+      ],
+      "lat": [
+        "-14",
+        "-16"
+      ],
+      "legendgroup": "Solanaceae",
+      "lon": [
+        "-60",
+        "-64"
+      ],
+      "marker": {
+        "color": "#6f4070",
+        "opacity": 0.75,
+        "size": [
+          6,
+          5
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Solanaceae",
+      "showlegend": true,
+      "text": [
+        "chile",
+        "tobacco"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Syzygium aromaticum",
+          "Myrtaceae",
+          "Moluccas (Indonesia)",
+          "\u0642\u0631\u0646\u0641\u0644",
+          "\u4e01\u9999",
+          "127",
+          "0",
+          5,
+          "clove",
+          "973"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "clove"
+      ],
+      "lat": [
+        "0"
+      ],
+      "legendgroup": "Myrtaceae",
+      "lon": [
+        "127"
+      ],
+      "marker": {
+        "color": "#666666",
+        "opacity": 0.75,
+        "size": [
+          5
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Myrtaceae",
+      "showlegend": true,
+      "text": [
+        "clove"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Andrographis paniculata",
+          "Acanthaceae",
+          "Tr As",
+          null,
+          "\u7a7f\u5fc3\u83b2",
+          "85",
+          "26",
+          10,
+          "creat",
+          "?"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "creat"
+      ],
+      "lat": [
+        "26"
+      ],
+      "legendgroup": "Acanthaceae",
+      "lon": [
+        "85"
+      ],
+      "marker": {
+        "color": "#000000",
+        "opacity": 0.75,
+        "size": [
+          10
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Acanthaceae",
+      "showlegend": true,
+      "text": [
+        "creat"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Phoenix dactylifera",
+          "Arecaceae",
+          "Med",
+          null,
+          "\u6930\u68d7",
+          "44",
+          "33",
+          10,
+          "date",
+          "300"
+        ],
+        [
+          "Calamus draco",
+          "Arecaceae",
+          "Sumatra",
+          null,
+          "\u8840\u7aed",
+          "101",
+          "-1",
+          5,
+          "dragon's blood",
+          "659"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "date",
+        "dragon's blood"
+      ],
+      "lat": [
+        "33",
+        "-1"
+      ],
+      "legendgroup": "Arecaceae",
+      "lon": [
+        "44",
+        "101"
+      ],
+      "marker": {
+        "color": "#5f4690",
+        "opacity": 0.75,
+        "size": [
+          10,
+          5
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Arecaceae",
+      "showlegend": true,
+      "text": [
+        "date",
+        "dragon's blood"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Brassica rapa",
+          "Brassicaceae",
+          "Eur",
+          null,
+          "\u8553\u85b9",
+          "35",
+          "39",
+          25,
+          "field mustard",
+          "659"
+        ],
+        [
+          "Sinapis alba",
+          "Brassicaceae",
+          "Med; Eur",
+          null,
+          "\u767d\u82a5\u7c7d",
+          "45",
+          "44",
+          66,
+          "white mustard",
+          "540"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "field mustard",
+        "white mustard"
+      ],
+      "lat": [
+        "39",
+        "44"
+      ],
+      "legendgroup": "Brassicaceae",
+      "lon": [
+        "35",
+        "45"
+      ],
+      "marker": {
+        "color": "#1d6996",
+        "opacity": 0.75,
+        "size": [
+          25,
+          66
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Brassicaceae",
+      "showlegend": true,
+      "text": [
+        "field mustard",
+        "white mustard"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Ficus carica",
+          "Moraceae",
+          "Med",
+          null,
+          "\u7121\u82b1\u679c",
+          "51",
+          "36",
+          19,
+          "fig",
+          "1407"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "fig"
+      ],
+      "lat": [
+        "36"
+      ],
+      "legendgroup": "Moraceae",
+      "lon": [
+        "51"
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "opacity": 0.75,
+        "size": [
+          19
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Moraceae",
+      "showlegend": true,
+      "text": [
+        "fig"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Boswellia sacra",
+          "Burseraceae",
+          "E. Afr.; S. Ar.",
+          "\u0644\u0628\u0627\u0646",
+          "\u4e73\u9999",
+          "51",
+          "12",
+          7,
+          "frankincense",
+          "540"
+        ],
+        [
+          "Commiphora myrrha",
+          "Burseraceae",
+          "E. Africa; Arabia",
+          "\u0645\u0631",
+          "\u6c92\u85e5",
+          "42",
+          "12",
+          12,
+          "myrrh",
+          "973"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "frankincense",
+        "myrrh"
+      ],
+      "lat": [
+        "12",
+        "12"
+      ],
+      "legendgroup": "Burseraceae",
+      "lon": [
+        "51",
+        "42"
+      ],
+      "marker": {
+        "color": "#0f8554",
+        "opacity": 0.75,
+        "size": [
+          7,
+          12
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Burseraceae",
+      "showlegend": true,
+      "text": [
+        "frankincense",
+        "myrrh"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Lawsonia inermis",
+          "Lythraceae",
+          "Med",
+          null,
+          "\u6307\u7532\u82b1",
+          "49",
+          "16",
+          16,
+          "henna",
+          "300"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "henna"
+      ],
+      "lat": [
+        "16"
+      ],
+      "legendgroup": "Lythraceae",
+      "lon": [
+        "49"
+      ],
+      "marker": {
+        "color": "#73af48",
+        "opacity": 0.75,
+        "size": [
+          16
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Lythraceae",
+      "showlegend": true,
+      "text": [
+        "henna"
       ],
       "type": "scattergeo",
       "textfont": {
@@ -643,861 +1388,6 @@
     {
       "customdata": [
         [
-          "Crocus sativus",
-          "Iridaceae",
-          "Greece",
-          "\u0632\u0639\u0641\u0631\u0627\u0646",
-          "\u85cf\u7d05\u82b1",
-          "22",
-          "39",
-          5,
-          "saffron",
-          "1596"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "saffron"
-      ],
-      "lat": [
-        "39"
-      ],
-      "legendgroup": "Iridaceae",
-      "lon": [
-        "22"
-      ],
-      "marker": {
-        "color": "#cc503e",
-        "opacity": 0.75,
-        "size": [
-          5
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Iridaceae",
-      "showlegend": true,
-      "text": [
-        "saffron"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Illicium verum",
-          "Schisandraceae",
-          "SE. China; Vietnam",
-          "\u064a\u0627\u0646\u0633\u0648\u0646 \u0646\u062c\u0645\u064a",
-          "\u516b\u89d2",
-          "106",
-          "18",
-          6,
-          "star anise",
-          "?"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "star anise"
-      ],
-      "lat": [
-        "18"
-      ],
-      "legendgroup": "Schisandraceae",
-      "lon": [
-        "106"
-      ],
-      "marker": {
-        "color": "#94346e",
-        "opacity": 0.75,
-        "size": [
-          6
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Schisandraceae",
-      "showlegend": true,
-      "text": [
-        "star anise"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Aquilaria malaccensis Lam.",
-          "Thymelaeaceae",
-          "SE As",
-          "\u0639\u0648\u062f",
-          "\u6c89\u9999",
-          "102",
-          "2",
-          14,
-          "agarwood",
-          "540"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "agarwood"
-      ],
-      "lat": [
-        "2"
-      ],
-      "legendgroup": "Thymelaeaceae",
-      "lon": [
-        "102"
-      ],
-      "marker": {
-        "color": "#6f4070",
-        "opacity": 0.75,
-        "size": [
-          14
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Thymelaeaceae",
-      "showlegend": true,
-      "text": [
-        "agarwood"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Aloe vera",
-          "Asphodelaceae",
-          "Afr",
-          null,
-          "\u8606\u8588",
-          "56",
-          "21",
-          5,
-          "aloe",
-          "973"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "aloe"
-      ],
-      "lat": [
-        "21"
-      ],
-      "legendgroup": "Asphodelaceae",
-      "lon": [
-        "56"
-      ],
-      "marker": {
-        "color": "#666666",
-        "opacity": 0.75,
-        "size": [
-          5
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Asphodelaceae",
-      "showlegend": true,
-      "text": [
-        "aloe"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Areca catechu",
-          "Palmae",
-          "Tr As",
-          "\u0641\u0648\u0641\u0644",
-          "\u6ab3\u6994",
-          "122",
-          "13",
-          5,
-          "areca nut",
-          "1300"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "areca nut"
-      ],
-      "lat": [
-        "13"
-      ],
-      "legendgroup": "Palmae",
-      "lon": [
-        "122"
-      ],
-      "marker": {
-        "color": "#000000",
-        "opacity": 0.75,
-        "size": [
-          5
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Palmae",
-      "showlegend": true,
-      "text": [
-        "areca nut"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Ocimum basilicum",
-          "Lamiaceae",
-          "Trop As",
-          null,
-          "\u7f85\u52d2",
-          "99",
-          "19",
-          33,
-          "basil",
-          "1061"
-        ],
-        [
-          "Salvia rosmarinus",
-          "Lamiaceae",
-          "S & N Eur; Med",
-          null,
-          "\u8ff7\u8fed\u9999",
-          "14",
-          "38",
-          23,
-          "rosemary",
-          "739"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "basil",
-        "rosemary"
-      ],
-      "lat": [
-        "19",
-        "38"
-      ],
-      "legendgroup": "Lamiaceae",
-      "lon": [
-        "99",
-        "14"
-      ],
-      "marker": {
-        "color": "#5f4690",
-        "opacity": 0.75,
-        "size": [
-          33,
-          23
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Lamiaceae",
-      "showlegend": true,
-      "text": [
-        "basil",
-        "rosemary"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Dryobalanops aromatica",
-          "Dipterocarpaceae",
-          "Indonesia",
-          null,
-          "Bing-pian (Long-nao-xiang)",
-          "115",
-          "1",
-          7,
-          "Borneo camphor",
-          "659"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "Borneo camphor"
-      ],
-      "lat": [
-        "1"
-      ],
-      "legendgroup": "Dipterocarpaceae",
-      "lon": [
-        "115"
-      ],
-      "marker": {
-        "color": "#1d6996",
-        "opacity": 0.75,
-        "size": [
-          7
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Dipterocarpaceae",
-      "showlegend": true,
-      "text": [
-        "Borneo camphor"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Capsicum frutescens",
-          "Solanaceae",
-          "Central America; South America",
-          "\u0641\u0644\u0641\u0644 \u062d\u0627\u0631 ",
-          "\u8fa3\u6912",
-          "-60",
-          "-14",
-          6,
-          "chile",
-          "1621"
-        ],
-        [
-          "Nicotiana tabacum",
-          "Solanaceae",
-          "Tr Am",
-          null,
-          "\u7159\u8449",
-          "-64",
-          "-16",
-          5,
-          "tobacco",
-          "1624"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "chile",
-        "tobacco"
-      ],
-      "lat": [
-        "-14",
-        "-16"
-      ],
-      "legendgroup": "Solanaceae",
-      "lon": [
-        "-60",
-        "-64"
-      ],
-      "marker": {
-        "color": "#38a6a5",
-        "opacity": 0.75,
-        "size": [
-          6,
-          5
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Solanaceae",
-      "showlegend": true,
-      "text": [
-        "chile",
-        "tobacco"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Andrographis paniculata",
-          "Acanthaceae",
-          "Tr As",
-          null,
-          "\u7a7f\u5fc3\u83b2",
-          "85",
-          "26",
-          10,
-          "creat",
-          "?"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "creat"
-      ],
-      "lat": [
-        "26"
-      ],
-      "legendgroup": "Acanthaceae",
-      "lon": [
-        "85"
-      ],
-      "marker": {
-        "color": "#0f8554",
-        "opacity": 0.75,
-        "size": [
-          10
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Acanthaceae",
-      "showlegend": true,
-      "text": [
-        "creat"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Phoenix dactylifera",
-          "Arecaceae",
-          "Med",
-          null,
-          "\u6930\u68d7",
-          "44",
-          "33",
-          10,
-          "date",
-          "300"
-        ],
-        [
-          "Calamus draco",
-          "Arecaceae",
-          "Sumatra",
-          null,
-          "\u8840\u7aed",
-          "101",
-          "-1",
-          5,
-          "dragon's blood",
-          "659"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "date",
-        "dragon's blood"
-      ],
-      "lat": [
-        "33",
-        "-1"
-      ],
-      "legendgroup": "Arecaceae",
-      "lon": [
-        "44",
-        "101"
-      ],
-      "marker": {
-        "color": "#73af48",
-        "opacity": 0.75,
-        "size": [
-          10,
-          5
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Arecaceae",
-      "showlegend": true,
-      "text": [
-        "date",
-        "dragon's blood"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Brassica rapa",
-          "Brassicaceae",
-          "Eur",
-          null,
-          "\u8553\u85b9",
-          "35",
-          "39",
-          25,
-          "field mustard",
-          "659"
-        ],
-        [
-          "Sinapis alba",
-          "Brassicaceae",
-          "Med; Eur",
-          null,
-          "\u767d\u82a5\u7c7d",
-          "45",
-          "44",
-          66,
-          "white mustard",
-          "540"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "field mustard",
-        "white mustard"
-      ],
-      "lat": [
-        "39",
-        "44"
-      ],
-      "legendgroup": "Brassicaceae",
-      "lon": [
-        "35",
-        "45"
-      ],
-      "marker": {
-        "color": "#edad08",
-        "opacity": 0.75,
-        "size": [
-          25,
-          66
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Brassicaceae",
-      "showlegend": true,
-      "text": [
-        "field mustard",
-        "white mustard"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Ficus carica",
-          "Moraceae",
-          "Med",
-          null,
-          "\u7121\u82b1\u679c",
-          "51",
-          "36",
-          19,
-          "fig",
-          "1407"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "fig"
-      ],
-      "lat": [
-        "36"
-      ],
-      "legendgroup": "Moraceae",
-      "lon": [
-        "51"
-      ],
-      "marker": {
-        "color": "#e17c05",
-        "opacity": 0.75,
-        "size": [
-          19
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Moraceae",
-      "showlegend": true,
-      "text": [
-        "fig"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Boswellia sacra",
-          "Burseraceae",
-          "E. Afr.; S. Ar.",
-          "\u0644\u0628\u0627\u0646",
-          "\u4e73\u9999",
-          "51",
-          "12",
-          7,
-          "frankincense",
-          "540"
-        ],
-        [
-          "Commiphora myrrha",
-          "Burseraceae",
-          "E. Africa; Arabia",
-          "\u0645\u0631",
-          "\u6c92\u85e5",
-          "42",
-          "12",
-          12,
-          "myrrh",
-          "973"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "frankincense",
-        "myrrh"
-      ],
-      "lat": [
-        "12",
-        "12"
-      ],
-      "legendgroup": "Burseraceae",
-      "lon": [
-        "51",
-        "42"
-      ],
-      "marker": {
-        "color": "#cc503e",
-        "opacity": 0.75,
-        "size": [
-          7,
-          12
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Burseraceae",
-      "showlegend": true,
-      "text": [
-        "frankincense",
-        "myrrh"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
-          "Lawsonia inermis",
-          "Lythraceae",
-          "Med",
-          null,
-          "\u6307\u7532\u82b1",
-          "49",
-          "16",
-          16,
-          "henna",
-          "300"
-        ]
-      ],
-      "geo": "geo",
-      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
-      "hovertext": [
-        "henna"
-      ],
-      "lat": [
-        "16"
-      ],
-      "legendgroup": "Lythraceae",
-      "lon": [
-        "49"
-      ],
-      "marker": {
-        "color": "#94346e",
-        "opacity": 0.75,
-        "size": [
-          16
-        ],
-        "sizemode": "area",
-        "sizeref": 0.07333333333333333,
-        "symbol": "circle",
-        "line": {
-          "color": "white",
-          "width": 1
-        }
-      },
-      "mode": "markers+text",
-      "name": "Lythraceae",
-      "showlegend": true,
-      "text": [
-        "henna"
-      ],
-      "type": "scattergeo",
-      "textfont": {
-        "color": "black",
-        "family": "Raleway",
-        "size": 12
-      },
-      "textposition": "middle right"
-    },
-    {
-      "customdata": [
-        [
           "Terminalia chebula",
           "Combretaceae",
           "S SE As",
@@ -1523,7 +1413,7 @@
         "84"
       ],
       "marker": {
-        "color": "#6f4070",
+        "color": "#cc503e",
         "opacity": 0.75,
         "size": [
           17
@@ -1578,7 +1468,7 @@
         "9"
       ],
       "marker": {
-        "color": "#666666",
+        "color": "#94346e",
         "opacity": 0.75,
         "size": [
           18
@@ -1633,7 +1523,7 @@
         "-75"
       ],
       "marker": {
-        "color": "#000000",
+        "color": "#6f4070",
         "opacity": 0.75,
         "size": [
           11
@@ -1688,7 +1578,7 @@
         "46"
       ],
       "marker": {
-        "color": "#5f4690",
+        "color": "#666666",
         "opacity": 0.75,
         "size": [
           6
@@ -1706,6 +1596,61 @@
       "showlegend": true,
       "text": [
         "safflower"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Crocus sativus",
+          "Iridaceae",
+          "Greece",
+          "\u0632\u0639\u0641\u0631\u0627\u0646",
+          "\u85cf\u7d05\u82b1",
+          "22",
+          "39",
+          5,
+          "saffron",
+          "1596"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "saffron"
+      ],
+      "lat": [
+        "39"
+      ],
+      "legendgroup": "Iridaceae",
+      "lon": [
+        "22"
+      ],
+      "marker": {
+        "color": "#000000",
+        "opacity": 0.75,
+        "size": [
+          5
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Iridaceae",
+      "showlegend": true,
+      "text": [
+        "saffron"
       ],
       "type": "scattergeo",
       "textfont": {
@@ -1743,7 +1688,7 @@
         "126"
       ],
       "marker": {
-        "color": "#1d6996",
+        "color": "#5f4690",
         "opacity": 0.75,
         "size": [
           9
@@ -1798,7 +1743,7 @@
         "76"
       ],
       "marker": {
-        "color": "#38a6a5",
+        "color": "#1d6996",
         "opacity": 0.75,
         "size": [
           8
@@ -1816,6 +1761,61 @@
       "showlegend": true,
       "text": [
         "sesame"
+      ],
+      "type": "scattergeo",
+      "textfont": {
+        "color": "black",
+        "family": "Raleway",
+        "size": 12
+      },
+      "textposition": "middle right"
+    },
+    {
+      "customdata": [
+        [
+          "Illicium verum",
+          "Schisandraceae",
+          "SE. China; Vietnam",
+          "\u064a\u0627\u0646\u0633\u0648\u0646 \u0646\u062c\u0645\u064a",
+          "\u516b\u89d2",
+          "106",
+          "18",
+          6,
+          "star anise",
+          "?"
+        ]
+      ],
+      "geo": "geo",
+      "hovertemplate": "<b>%{hovertext}</b><br><br>family=%{customdata[1]}<br>species=%{customdata[0]}<br>region of origin=%{customdata[2]}<br>Chinese=%{customdata[4]}<br>year recorded in TCM=%{customdata[9]}<extra></extra>",
+      "hovertext": [
+        "star anise"
+      ],
+      "lat": [
+        "18"
+      ],
+      "legendgroup": "Schisandraceae",
+      "lon": [
+        "106"
+      ],
+      "marker": {
+        "color": "#38a6a5",
+        "opacity": 0.75,
+        "size": [
+          6
+        ],
+        "sizemode": "area",
+        "sizeref": 0.07333333333333333,
+        "symbol": "circle",
+        "line": {
+          "color": "white",
+          "width": 1
+        }
+      },
+      "mode": "markers+text",
+      "name": "Schisandraceae",
+      "showlegend": true,
+      "text": [
+        "star anise"
       ],
       "type": "scattergeo",
       "textfont": {

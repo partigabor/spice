@@ -1,7 +1,7 @@
 ---
 title: Mace
 author: Gábor Parti
-date: 2023-01-11
+date: 2023-01-27
 description: The aril (seed-covering) of the nutmeg, related to nutmeg..
 weight: 1
 # bookCollapseSection: true

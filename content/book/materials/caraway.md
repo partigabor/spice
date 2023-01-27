@@ -1,7 +1,7 @@
 ---
 title: Caraway
 author: Gábor Parti
-date: 2023-01-11
+date: 2023-01-27
 description: The seed-like fruits of an Eurasian herb.
 weight: 1
 # bookCollapseSection: true

@@ -1,7 +1,7 @@
 ---
 title: Cardamom
 author: Gábor Parti
-date: 2023-01-11
+date: 2023-01-27
 description: The bright-green seed pods of an Indian plant; fruit of Elettaria cardamomum.
 weight: 1
 # bookCollapseSection: true
