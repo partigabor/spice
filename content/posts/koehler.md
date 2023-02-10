@@ -11,7 +11,7 @@ plotly = "true"
 draft = "false"
 +++
 
-Botanical-anatomical illustrations are taken from Köhler's *Medicinal Plants*, published in three volumes between 1887 and 1898. These volumes are in the public domain, and can be accessed online in high definition scans.[^1]
+Botanical-anatomical illustrations are mostly from Köhler's *Medicinal Plants*, published in three volumes between 1887 and 1898. These volumes are in the public domain, and can be accessed online in high definition scans.[^1]
 
 <!--more-->
 
