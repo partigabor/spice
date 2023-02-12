@@ -12,3 +12,5 @@ bookToc: false
 # Privacy statement
 
 Traffic on this website is tracked by the creator using Google Analytics; out of curiosity of which spices people click on more, and from what countries visitors are from.
+
+<!-- https://gohugo.io/about/hugo-and-gdpr/ -->
