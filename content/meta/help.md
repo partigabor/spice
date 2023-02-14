@@ -131,14 +131,13 @@ Todo lists can be written by using the standard Markdown syntax:
 
 ## Figures 
 
-The only correct way to insert images from static/images, but for this you need the images in the base website static folder:
 ```
-![1](/images/diogenes.png)
+![1](/spice/images/diogenes.png)
 ```
 
-![Image](/images/diogenes.jpg)
+![Image](/spice/images/diogenes.jpg)
 
-However, using hugo shortcode, you won't have this problem, but it only works on the main page...
+
 
 ```
 {{\< image src="images/cardamom.png" alt="Cardamom." \>}}
