@@ -22,7 +22,7 @@ assetDir = "assets"
 
 # Fix urls so Hugo can find images on this website.
 # WARNING! Kills Search function if true
-# canonifyurls=true 
+# canonifyurls=true
 
 # # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # # all pages.
@@ -41,8 +41,6 @@ enableEmoji = true
 # (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
 # You can remove related files with config below
 # disableKinds = ['taxonomy', 'taxonomyTerm']
-
-
 
 # Multi-lingual mode config
 # There are different options to translate files
