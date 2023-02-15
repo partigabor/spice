@@ -137,8 +137,6 @@ Todo lists can be written by using the standard Markdown syntax:
 
 ![Image](/spice/images/diogenes.jpg)
 
-
-
 ```
 {{\< image src="images/cardamom.png" alt="Cardamom." \>}}
 ```
