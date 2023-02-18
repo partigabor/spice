@@ -4,7 +4,7 @@ weight: 80
 # bookCollapseSection: true
 # bookComments: true
 # bookFlatSection: true
-bookHidden: true
+# bookHidden: true
 # bookSearchExclude: true
 # bookToc: false
 ---
@@ -54,7 +54,7 @@ Marco Polo: From Venice to Xanadu
 [^amar_arabian_2017]
 [^bergreen_marco_2007]
 
-Dangerous Tastes[^dalby_dangerous_2000] - <i class="fa fa-1x fa-rebel"></i> 
+Dangerous Tastes[^dalby_dangerous_2000] - <i class="fa fa-1x fa-star"></i> 
 
 [^dott_chile_2020]
 [^frankopan_silk_2012]
