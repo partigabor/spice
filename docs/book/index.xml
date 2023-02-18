@@ -52,11 +52,11 @@ arsenalarsenal</description>
     </item>
     
     <item>
-      <title>Readings</title>
-      <link>https://partigabor.github.io/spice/book/readings/</link>
+      <title>Literature</title>
+      <link>https://partigabor.github.io/spice/book/literature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://partigabor.github.io/spice/book/readings/</guid>
+      <guid>https://partigabor.github.io/spice/book/literature/</guid>
       <description>Sources#Primary Literature#al-Qānūn fī l-Ṭibb القانون في الطب [The Canon of Medicine] by Ibn Sīnā, 1025. 19 Bencao Gangmu 本草綱目[Compendium of Materia Medica] by Li Shizhen, 1578 18 De Materia Medica [On Medical Materials] by Pedanius Dioscorides, 1st c. ad 7 Hou Hanshu 後漢書[Book of the Later Han] 5th c. ad 16 Kangxi Zidian 康熙字典[Kangxi Dictionary] 1716 92 Kitāb Al-ʿAyn كتاب العين [The Source] by al-Khalīl b.</description>
     </item>
     
@@ -67,6 +67,16 @@ arsenalarsenal</description>
       
       <guid>https://partigabor.github.io/spice/book/sources/</guid>
       <description>Sources#Primary Literature#Secondary Literature#Books#Articles#</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>https://partigabor.github.io/spice/book/readings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/book/readings/</guid>
+      <description>Very Short Introductions#Ancient Egypt 1
+Shaw, I. (2021). Ancient Egypt: A very short introduction (2nd ed.). Oxford University Press.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     
     <item>
