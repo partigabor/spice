@@ -4,7 +4,7 @@ weight: 80
 # bookCollapseSection: true
 # bookComments: true
 # bookFlatSection: true
-# bookHidden: true
+bookHidden: true
 # bookSearchExclude: true
 # bookToc: false
 ---
@@ -54,13 +54,15 @@ Marco Polo: From Venice to Xanadu
 [^amar_arabian_2017]
 [^bergreen_marco_2007]
 
-Dangerous Tastes[^dalby_dangerous_2000] <i class="fa-sharp fa-1x fa-star"></i> <i class="fa-sharp fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star-half"></i>
+Dangerous Tastes[^dalby_dangerous_2000] <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star-half"></i>
 
 [^dott_chile_2020]
 [^frankopan_silk_2012]
 [^hansen_silk_2012]
 [^kaplan_asias_2014]
-[^krondl_taste_2007]
+
+Asia's Cauldron[^krondl_taste_2007] <i class="fa fa-1x fa-star"></i> </i> <i class="fa fa-1x fa-star-half"></i>
+
 [^mair_true_2009]
 [^nabhan_cumin_2014]
 
