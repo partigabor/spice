@@ -74,9 +74,6 @@ Cumin, Camels, and Caravans: A Spice Odyssey[^nabhan_cumin_2014]
 
 <!-- ### Articles -->
 
-
-
-
 <!-- Call CTRL+ALT+Z while Zotero is open -->
 
 [^bergreen_marco_2007]: Bergreen, L. (2007). Marco Polo: From Venice to Xanadu. Alfred A. Knopf. https://www.worldcat.org/title/191923003

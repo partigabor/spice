@@ -437,7 +437,13 @@ stateDiagram-v2
     note left of State2 : This is the note to the left.
 {{< /mermaid >}}
 
+## Youtube
 
+```tpl
+{{< youtube jPhJbKBuNnA>}}
+```
+
+{{< youtube jPhJbKBuNnA>}}
 
 ## Icons
 
