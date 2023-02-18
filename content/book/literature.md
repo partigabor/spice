@@ -50,21 +50,27 @@ Marco Polo: From Venice to Xanadu
 {{< load-photoswipe >}}
 {{< gallery dir="/images/covers/" hover-effect="slideup" />}}
 
-[^abraham_two_1988]
-[^amar_arabian_2017]
-[^bergreen_marco_2007]
+Two Medieval Merchant Guilds of South India[^abraham_two_1988]
 
-Dangerous Tastes[^dalby_dangerous_2000] <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star-half"></i>
+Arabian Drugs in Early Medieval Mediterranean Medicine[^amar_arabian_2017]
 
-[^dott_chile_2020]
-[^frankopan_silk_2012]
-[^hansen_silk_2012]
-[^kaplan_asias_2014]
+Marco Polo: From Venice to Xanadu [^bergreen_marco_2007]
 
-Asia's Cauldron[^krondl_taste_2007] <i class="fa fa-1x fa-star"></i> </i> <i class="fa fa-1x fa-star-half"></i>
+Dangerous Tastes: The Story of Spices[^dalby_dangerous_2000] <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star-half"></i>
 
-[^mair_true_2009]
-[^nabhan_cumin_2014]
+The Chile Pepper in China: A Cultural Biography[^dott_chile_2020]
+
+The Silk Roads: A New History of the World[^frankopan_silk_2012]
+
+The Silk Road: A New History[^hansen_silk_2012]
+
+Asia’s Cauldron: The South China Sea and the End of a Stable Pacific[^kaplan_asias_2014]
+
+The Taste of Conquest: The Rise and Fall of the Three Great Cities of Spice[^krondl_taste_2007] <i class="fa fa-1x fa-star"></i> </i> <i class="fa fa-1x fa-star-half"></i>
+
+The True History of Tea[^mair_true_2009]
+
+Cumin, Camels, and Caravans: A Spice Odyssey[^nabhan_cumin_2014]
 
 <!-- ### Articles -->
 
@@ -75,11 +81,11 @@ Asia's Cauldron[^krondl_taste_2007] <i class="fa fa-1x fa-star"></i> </i> <i cla
 
 [^bergreen_marco_2007]: Bergreen, L. (2007). Marco Polo: From Venice to Xanadu. Alfred A. Knopf. https://www.worldcat.org/title/191923003
 [^dalby_dangerous_2000]: Dalby, A. (2000). Dangerous Tastes: The Story of Spices. University of California Press. https://www.worldcat.org/title/44979585
-[^frankopan_silk_2012]: Frankopan, P. (2012). The Silk Roads: A new history of the world. Bloomsbury. https://www.worldcat.org/title/1200801737
+[^frankopan_silk_2012]: Frankopan, P. (2012). The Silk Roads: A New History of the World. Bloomsbury. https://www.worldcat.org/title/1200801737
 [^hansen_silk_2012]: Hansen, V. (2012). The Silk Road: A New History. Oxford University Press. https://global.oup.com/ushe/product/the-silk-road-9780190208929?cc=hk&lang=en&
 [^krondl_taste_2007]: Krondl, M. (2007). The Taste of Conquest: The Rise and Fall of the Three Great Cities of Spice. Ballantine Books. https://www.worldcat.org/title/147988350
 [^mair_true_2009]: Mair, V. H., & Hoh, E. (2009). The True History of Tea. Thames & Hudson. https://www.worldcat.org/title/true-history-of-tea/oclc/227016706
-[^amar_arabian_2017]: Amar, Z., & Lev, E. (2017). Arabian drugs in early medieval Mediterranean medicine. Edinburgh University Press. https://edinburghuniversitypress.com/book-arabian-drugs-in-early-medieval-mediterranean-medicine.html
+[^amar_arabian_2017]: Amar, Z., & Lev, E. (2017). Arabian Drugs in Early Medieval Mediterranean Medicine. Edinburgh University Press. https://edinburghuniversitypress.com/book-arabian-drugs-in-early-medieval-mediterranean-medicine.html
 [^abraham_two_1988]: Abraham, M. (1988). Two Medieval Merchant Guilds of South India. Manohar. https://www.worldcat.org/title/19325089
 [^dott_chile_2020]: Dott, B. R. (2020). The Chile Pepper in China: A Cultural Biography. Columbia University Press. http://cup.columbia.edu/book/the-chile-pepper-in-china/9780231195324
 [^nabhan_cumin_2014]: Nabhan, G. P. (2014). Cumin, Camels, and Caravans: A Spice Odyssey. University of California Press. https://www.ucpress.edu/book/9780520379244/cumin-camels-and-caravans
