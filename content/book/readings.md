@@ -11,6 +11,15 @@ bookSearchExclude: true
 
 ## Very Short Introductions
 
-Ancient Egypt [^shaw_ancient_2021]
+Ancient Egypt[^shaw_ancient_2021]
+
+Abrahamic Religions, The[^cohen_abrahamic_2019]
+
+Islamic History
+
+
+
+
 
 [^shaw_ancient_2021]: Shaw, I. (2021). Ancient Egypt: A very short introduction (2nd ed.). Oxford University Press.
+[^cohen_abrahamic_2019]: Cohen, C. L. (2019). The Abrahamic Religions: A Very Short Introduction. Oxford University Press.
