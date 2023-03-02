@@ -9,4 +9,6 @@ weight: 90
 bookToc: false
 ---
 
-The full thesis will be available for download here, in early 2023.
+<!-- The full thesis will be available for download here, in early 2023. -->
+
+#### [THESIS](/spice/thesis.pdf "Open/download thesis.")
