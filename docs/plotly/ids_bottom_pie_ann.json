@@ -98,12 +98,6 @@
         ]
       }
     },
-    "margin": {
-      "r": 0,
-      "t": 0,
-      "l": 0,
-      "b": 0
-    },
     "font": {
       "family": "Serif",
       "color": "black",
@@ -121,7 +115,7 @@
       "orientation": "v"
     },
     "width": 800,
-    "height": 800,
+    "height": 1000,
     "showlegend": false
   }
 }
