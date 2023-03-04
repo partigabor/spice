@@ -55,15 +55,23 @@ You can browse the available spice pages under the menu [Spices](book/spices). -
 
 ## Acknowledgements
 
-The dissertation that serves as a basis for this database was prepared at the Department of [Chinese and Bilingual Studies](https://www.polyu.edu.hk/cbs/study/research-postgraduate-programme/phd-or-mphil-study) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). 
+The dissertation that serves as a basis for this database was prepared at the Department of [Chinese and Bilingual Studies](https://www.polyu.edu.hk/cbs/study/research-postgraduate-programme/phd-or-mphil-study) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of Prof. Huang Chu-Ren. 
+
+Download the thesis by clicking [here](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis.")!
 
 ***
 
 ## How to Cite
 
-As the thesis is under revision, and related papers are still in manuscript form, you can cite the website.
+<!-- ### In APA 7<sup>th</sup>: -->
 
-#### In APA 7<sup>th</sup>:
+#### The Thesis
+
+{{< hint cite >}}  
+Parti, G. (2023). *Mapping the Language of Spices A Corpus-Based, Philological Study on the Words of the Spice Domain* [Ph.D. thesis]. The Hong Kong Polytechnic University.
+{{< /hint >}}
+
+#### The Website:
 
 {{< hint cite >}}  
 Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.0 (Beta). Retrieved December 22, 2022, https://partigabor.github.io/spice/
