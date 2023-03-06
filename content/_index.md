@@ -17,6 +17,7 @@ plotly: true
 WEBSITE UNDER CONSTRUCTION
 {{% /center %}}
 
+
 <!-- {{< image src="images/black_pepper.png" alt="Illustration." >}} -->
 
 # Welcome to the *Spices & Spice Terminology Database* 1.0 (Beta)
