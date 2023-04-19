@@ -56,7 +56,7 @@ You can browse the available spice pages under the menu [Spices](book/spices). -
 
 The dissertation that serves as a basis for this database was prepared at the [Department of Chinese and Bilingual Studies](https://www.polyu.edu.hk/cbs/study/research-postgraduate-programme/phd-or-mphil-study) (soon to be renamed to Department of Linguistics and Language Sciences) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Chu-Ren Huang](https://www.humanities.hk/fellowsdirectory/huangchuren), and funded by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). 
 
-You can download the thesis by clicking [here.](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis.")
+**You can download the thesis by clicking [here.](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis.")**
 
 ***
 
