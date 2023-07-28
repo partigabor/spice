@@ -4,7 +4,7 @@ type: docs
 ---
 
 {{% center %}}
-— Weboldal szerkesztés alatt —
+Weboldal szerkesztés alatt
 {{% /center %}}
 
 # Fűszer és fűszernév adatbázis
