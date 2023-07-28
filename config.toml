@@ -179,7 +179,7 @@ enableEmoji = true
   websiteterms = "https://partigabor.github.io/spice/meta/terms"
   privacypolicy = "https://partigabor.github.io/spice/meta/privacy"
   contact = "https://partigabor.github.io/spice/meta/contact"
-  author = "Gábor Parti"
+  author = "Gabor Parti"
   copystart = "2020" 
 
   # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/

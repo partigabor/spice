@@ -1,6 +1,6 @@
 +++
 title = "Quotes"
-author = "Gábor Parti"
+author = "Gabor Parti"
 date = "2022-09-01"
 weight = 11
 description = "Quotes using spice as a metaphor or describe spices."

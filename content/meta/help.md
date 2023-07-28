@@ -1,6 +1,6 @@
 ---
 title: Markdown Syntax Guide and Hugo Shortcodes
-author: Gábor Parti
+author: Gabor Parti
 date: "2022-09-01"
 weight: 9
 description: "Description."

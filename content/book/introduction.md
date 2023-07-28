@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-author: Gábor Parti
+author: Gabor Parti
 date: 2022-12-01
 description: Introduction.
 weight: 10

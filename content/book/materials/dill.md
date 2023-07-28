@@ -1,6 +1,6 @@
 ---
 title: Dill
-author: Gábor Parti
+author: Gabor Parti
 date: 2023-01-27
 description: The seeds and leaves of a Mediterranean herb used to flavour food in European cuisine.
 weight: 1

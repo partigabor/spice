@@ -1,6 +1,6 @@
 ---
 title: "The Spices"
-author: Gábor Parti
+author: Gabor Parti
 date: 2023-01-01
 weight: 20
 bookCollapseSection: true

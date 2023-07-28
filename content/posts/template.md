@@ -1,6 +1,6 @@
 +++
 title = "Template"
-author = "Gábor Parti"
+author = "Gabor Parti"
 date = "2022-09-01"
 weight = 11
 description = "Description."

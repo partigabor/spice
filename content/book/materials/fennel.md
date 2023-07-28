@@ -1,6 +1,6 @@
 ---
 title: Fennel
-author: Gábor Parti
+author: Gabor Parti
 date: 2023-01-27
 description: The dried fruits of a perennial herb, also used as a vegetable .
 weight: 1

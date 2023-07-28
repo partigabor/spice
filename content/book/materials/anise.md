@@ -1,6 +1,6 @@
 ---
 title: Anise
-author: Gábor Parti
+author: Gabor Parti
 date: 2023-01-27
 description: The seed-like fruits of a Mediterranean herb, related to star anise., also known as aniseed.
 weight: 1

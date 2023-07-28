@@ -1,6 +1,6 @@
 +++
 title = "Search & Index"
-author = "Gábor Parti"
+author = "Gabor Parti"
 #date = "2022-09-01"
 weight = 1
 description = "How to search the website?"

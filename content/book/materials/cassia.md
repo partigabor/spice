@@ -1,6 +1,6 @@
 ---
 title: Cassia
-author: Gábor Parti
+author: Gabor Parti
 date: 2023-01-27
 description: The inner bark of a Southeast Asian tree.
 weight: 1

@@ -1,6 +1,6 @@
 ---
 title: "The Diffusion of Spices"
-author: Gábor Parti
+author: Gabor Parti
 date: 2022-12-01
 description: Diffusion.
 weight: 30

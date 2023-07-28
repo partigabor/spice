@@ -1,6 +1,6 @@
 +++
 title = "Köhler's Medicinal Plants"
-author = "Gábor Parti"
+author = "Gabor Parti"
 date = "2022-12-01"
 weight = 11
 description = "Gallery of Köhler's Medicinal Plants from 1887."

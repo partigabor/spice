@@ -1,6 +1,6 @@
 ---
 title: Fenugreek
-author: Gábor Parti
+author: Gabor Parti
 date: 2023-01-27
 description: The seeds of a West Asian herb.
 weight: 1
