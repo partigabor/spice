@@ -83,15 +83,13 @@ The dissertation that serves as a basis for this database was prepared at the [D
 
 ## Updates and versioning
 
-2023-07-29: **v. 1.1** - Removed "Beta" designation, finalized content.
+2023-07-29: **v1.1** - Removed "Beta" designation, finalized content.
 
-2022-09-29: **v. 1.0** - Created the website (Beta).
+2022-09-29: **v1.0** - Created the website (Beta).
 
 ***
 
 ## How to Cite
-
-<!-- ### In APA 7<sup>th</sup>: -->
 
 #### The Thesis
 
@@ -102,6 +100,6 @@ Parti, G. (2023). *Mapping the Language of Spices A Corpus-Based, Philological S
 #### The Website
 
 {{< hint cite >}}  
-Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.0. Retrieved July 27, 2023, https://partigabor.github.io/spice/
+Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.1. Retrieved July 27, 2023, https://partigabor.github.io/spice/
 {{< /hint >}}
 
