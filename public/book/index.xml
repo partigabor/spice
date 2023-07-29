@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Spices &amp; Spice Terminology Database 1.1</title>
+    <link>https://partigabor.github.io/spice/book/</link>
+    <description>Recent content in Books on Spices &amp; Spice Terminology Database 1.1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://partigabor.github.io/spice/book/introduction/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/book/introduction/</guid>
+      <description> Introduction#</description>
+    </item>
+    
+    <item>
+      <title>The Diffusion of Spices</title>
+      <link>https://partigabor.github.io/spice/book/diffusion/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/book/diffusion/</guid>
+      <description> The Diffusion of Spices#This page contains visualizations showing the diffusion of spices on spatial and temporal trajectories when considering the etymologies of spice words.
+Spatial Diffusion: Tracing Etymologies#English#Arabic#Chinese#Temporal Diffusion: Dates of Attestation#Compact#Borrowings#</description>
+    </item>
+    
+    <item>
+      <title>The Language of Spices</title>
+      <link>https://partigabor.github.io/spice/book/language/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/book/language/</guid>
+      <description>The Language of Spices#Analyzability of Words#The Structure of Spice Names#Headwords#Headword Types#Modifiers#Modifier Types#Sensory Words#Pepper-words in English in the OED#The &amp;ldquo;productivity&amp;rdquo; of the word pepper in English, i.e., words derived from pepper across different grammatical categories. Data is from the OED main and subentries that contain the word pepper.</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>https://partigabor.github.io/spice/book/readings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partigabor.github.io/spice/book/readings/</guid>
+      <description>Readings#Academic#Two Medieval Merchant Guilds of South India (Citation: Abraham,&amp;#32;1988 Abraham,&amp;#32;M.&amp;#32;(1988).&amp;#32;Two Medieval Merchant Guilds of South India.&amp;#32;Manohar.&amp;#32;Retrieved from&amp;#32;https://www.worldcat.org/title/19325089)Arabian Drugs in Early Medieval Mediterranean Medicine (Citation: Amar&amp;#32;&amp;amp;&amp;#32;Lev,&amp;#32;2017 Amar,&amp;#32;Z.&amp;#32;&amp;amp;&amp;#32;Lev,&amp;#32;E.&amp;#32;(2017).&amp;#32;Arabian drugs in early medieval Mediterranean medicine.&amp;#32;Edinburgh University Press.&amp;#32;Retrieved from&amp;#32;https://edinburghuniversitypress.com/book-arabian-drugs-in-early-medieval-mediterranean-medicine.html)Marco Polo: From Venice to Xanadu (Citation: Bergreen,&amp;#32;2007 Bergreen,&amp;#32;L.</description>
+    </item>
+    
+  </channel>
+</rss>
