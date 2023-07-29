@@ -28,8 +28,8 @@ Spices around the globe
 
 This interactive map shows the spices currently available on this website. Explore the full map [here](/spice/plotly/distribution_map.html)!
 
-         # Species                      English         Chinese        Transliteration        Arabic Transliteration
-         1 Pimenta dioica               allspice        多香果          duōxiāngguǒ      فلفل إفرنجي filfil ifranjī
+         # Species                      English         Chinese        Transliteration       Arabic Transliteration
+         1 Pimenta dioica               allspice        多香果          duōxiāngguǒ     فلفل إفرنجي filfil ifranjī
          2 Pimpinella anisum            anise           茴芹            huíqín                 ينسون yansūn
          3 Ferula assa-foetida et al.   asafoetida      阿魏            wèi                   حلتیت ḥiltīt
          4 Carum carvi                  caraway         葛縷子          gělǚzi                كراويا karāwiyā
@@ -83,9 +83,9 @@ The dissertation that serves as a basis for this database was prepared at the [D
 
 ## Updates and versioning
 
-2023-07-28: **v1.1** - Removed "Beta" designation, finalized content.
+2023-07-29: **v. 1.1** - Removed "Beta" designation, finalized content.
 
-2022-09-28: **v1.0** - (Beta) Created the website.
+2022-09-29: **v. 1.0** - Created the website (Beta).
 
 ***
 
