@@ -1,87 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Books on Spices &amp; Spice Terminology Database 1.1</title>
-    <link>https://partigabor.github.io/spice/book/</link>
-    <description>Recent content in Books on Spices &amp; Spice Terminology Database 1.1</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://partigabor.github.io/spice/book/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>https://partigabor.github.io/spice/book/introduction/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/introduction/</guid>
-      <description> Introduction#</description>
-    </item>
-    
-    <item>
-      <title>The Diffusion of Spices</title>
-      <link>https://partigabor.github.io/spice/book/diffusion/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/diffusion/</guid>
-      <description> The Diffusion of Spices#This page contains visualizations showing the diffusion of spices on spatial and temporal trajectories when considering the etymologies of spice words.
-Spatial Diffusion: Tracing Etymologies#English#Arabic#Chinese#Temporal Diffusion: Dates of Attestation#Compact#Borrowings#</description>
-    </item>
-    
-    <item>
-      <title>The Language of Spices</title>
-      <link>https://partigabor.github.io/spice/book/language/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/language/</guid>
-      <description>The Language of Spices#Analyzability of Words#The Structure of Spice Names#Headwords#Headword Types#Modifiers#Modifier Types#Sensory Words#Pepper-words in English in the OED#The &amp;ldquo;productivity&amp;rdquo; of the word pepper in English, i.e., words derived from pepper across different grammatical categories. Data is from the OED main and subentries that contain the word pepper.</description>
-    </item>
-    
-    <item>
-      <title>Interesting Etymologies</title>
-      <link>https://partigabor.github.io/spice/book/etymologies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/etymologies/</guid>
-      <description>admiral
-arsenal
-ciao
-doge
-gondola
-kumis?
-gerega/paiza - the golden passport of kublai khan to niccolo and maffeo polo https://en.wikipedia.org/wiki/Paiza
-arsenalarsenal</description>
-    </item>
-    
-    <item>
-      <title>Literature</title>
-      <link>https://partigabor.github.io/spice/book/literature/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/literature/</guid>
-      <description>Sources#Primary Literature#al-Qānūn fī l-Ṭibb القانون في الطب [The Canon of Medicine] by Ibn Sīnā, 1025. 19 Bencao Gangmu 本草綱目[Compendium of Materia Medica] by Li Shizhen, 1578 18 De Materia Medica [On Medical Materials] by Pedanius Dioscorides, 1st c. ad 7 Hou Hanshu 後漢書[Book of the Later Han] 5th c. ad 16 Kangxi Zidian 康熙字典[Kangxi Dictionary] 1716 92 Kitāb Al-ʿAyn كتاب العين [The Source] by al-Khalīl b.</description>
-    </item>
-    
-    <item>
-      <title>Sources</title>
-      <link>https://partigabor.github.io/spice/book/sources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/sources/</guid>
-      <description>Sources#Primary Literature#Secondary Literature#Books#Articles#</description>
-    </item>
-    
-    <item>
-      <title>Readings</title>
-      <link>https://partigabor.github.io/spice/book/readings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partigabor.github.io/spice/book/readings/</guid>
-      <description>Very Short Introductions#Ancient Egypt1
-Abrahamic Religions, The2
-Islamic History3
-Shaw, I. (2021). Ancient Egypt: A very short introduction (2nd ed.). Oxford University Press.&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-Cohen, C. L. (2019). The Abrahamic Religions: A Very Short Introduction. Oxford University Press.&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-Silverstein, A. J. (2010). Islamic history: A very short introduction. Oxford University Press.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-    </item>
-    
-  </channel>
-</rss>

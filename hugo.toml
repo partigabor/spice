@@ -7,7 +7,7 @@ baseURL = "https://partigabor.github.io/spice/"
 title = "Spices & Spice Terminology Database 1.1"
 languageCode = "en-us"
 defaultContentLanguage = 'en'
-theme = "hugo-book"
+theme = [ "hugo-book", "hugo-cite" ]
 
 # copyright = 'Copyright' #?
 
@@ -22,7 +22,7 @@ assetDir = "assets"
 
 # Fix urls so Hugo can find images on this website.
 # WARNING! Kills Search function if true
-# canonifyurls=true
+canonifyurls=false
 
 # # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # # all pages.
@@ -121,7 +121,7 @@ enableEmoji = true
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection = 'book'
+  BookSection = 'docs'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
