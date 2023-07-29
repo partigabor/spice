@@ -13,7 +13,7 @@ bookToc: false
 plotly: true
 ---
 
-# Welcome to the *Spices & Spice Terminology Database* 1.0
+# Welcome to the *Spices & Spice Terminology Database* 1.1
 
 This website contains information on spices and spice names. It aims to list, categorize, and introduce spices from a [philological](https://en.wikipedia.org/wiki/Philology) point of view, focusing on their origins, history, spread, cultural significance, and linguistic analysis. The website is accompanying a PhD dissertation titled [*Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis."). The goal of this project is to gather the available knowledge on spices (and in the future herbs, incense, perfumes, oils, and other aromatics as well), especially in terms of historical data. 
 
@@ -81,6 +81,11 @@ You can browse the available spice pages under the menu [Spices](book/spices). -
 
 The dissertation that serves as a basis for this database was prepared at the [Department of Chinese and Bilingual Studies](https://www.polyu.edu.hk/cbs/study/research-postgraduate-programme/phd-or-mphil-study) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Chu-Ren Huang](https://www.humanities.hk/fellowsdirectory/huangchuren), funded by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). 
 
+## Updates and versioning
+
+2023-07-28: **v1.1** - Removed "Beta" designation, finalized content.
+
+2022-09-28: **v1.0** - (Beta) Created the website.
 
 ***
 
