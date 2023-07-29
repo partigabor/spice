@@ -26,8 +26,8 @@ $hint-colors: (
   info: #1d6996,
   warning: #5f4690,
   danger: #cc503e,
-  etym: #3C8031,
-  cite: #3C8031,
+  etym: #3c8031,
+  cite: #3c8031,
 ) !default;
 
 // Themes
@@ -36,7 +36,7 @@ $hint-colors: (
   --gray-200: #e4e4e4; //table rules
   --gray-500: #d4d4d4; // no idea
 
-  --color-link: #3C8031; //#8f1329;
+  --color-link: #3c8031; //#8f1329;
   --color-visited-link: #306627; //#620d1c;
 
   --body-background: #ffffff;
@@ -47,8 +47,8 @@ $hint-colors: (
   --hint-color-info: #1d6996; //#6bf;
   --hint-color-warning: #5f4690; //#fd6;
   --hint-color-danger: #cc503e; //#f66;
-  --hint-color-etym: #3C8031;
-  --hint-color-cite: #3C8031;
+  --hint-color-etym: #3c8031;
+  --hint-color-cite: #3c8031;
 }
 
 @mixin theme-dark {
