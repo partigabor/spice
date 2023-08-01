@@ -190,14 +190,6 @@ enableEmoji = true
 [markup.tableOfContents]
   startLevel = 1
 
-[params.utterances]
-  repo = "" # https://utteranc.es/#heading-repository
-  issueTerm = "partigabor/partigabor.github.io" # https://utteranc.es/#heading-mapping
-  label = "" # https://utteranc.es/#heading-issue-label
-  theme = "photon-dark" # https://utteranc.es/#heading-theme
-
-
-
 ###############
 
 # https://web.archive.org/web/20170310005739/https://stoned.io/web-development/hugo/How-To-Dynamically-Use-Google-Fonts-In-A-Hugo-Website/
