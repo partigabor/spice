@@ -58,7 +58,7 @@ The set of 24 spices included in this website, with scientific names of the sour
 
 ## The Thesis
 
-[<i class="fa fa-1x fa-file"></i> Download the thesis here](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis.").
+#### [<i class="fa fa-1x fa-file"></i> Download the thesis here.](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis.")
 
 ## The Data
 
@@ -66,21 +66,17 @@ You can download the three datasets in `csv` (comma separated values) format, an
 
 {{< columns >}}
 
-> ### [<i class="fa fa-1x fa-leaf"></i>  Spices dataset](/spice/files/spices.csv "Open/download dataset.")
+> #### [<i class="fa fa-1x fa-leaf"></i>  Spices dataset](/spice/files/spices.csv "Open/download dataset.")
 
 <--->
 
-> ### [<i class="fa fa-1x fa-tags"></i> Names dataset](/spice/files/names.csv "Open/download dataset.")
+> #### [<i class="fa fa-1x fa-tags"></i> Names dataset](/spice/files/names.csv "Open/download dataset.")
 
 <--->
 
-> ### [<i class="fa fa-1x fa-sitemap"></i> Etymologies dataset](/spice/files/etymologies.csv "Open/download dataset.")
+> #### [<i class="fa fa-1x fa-sitemap"></i> Etymologies dataset](/spice/files/etymologies.csv "Open/download dataset.")
 
 {{< /columns >}}
-
-<!-- ## Overview
-
-You can browse the available spice pages under the menu [Spices](book/spices). -->
 
 ## Acknowledgements
 
