@@ -88,11 +88,11 @@ The dissertation that serves as a basis for this database was prepared at the [D
 
 ## Updates and versioning
 
-* 2023-08-09:&emsp;**v 1.2.**&emsp;Uploaded datasets.
+* 2023-08-09:&emsp;**v 1.2**&emsp;Uploaded datasets.
 
-* 2023-07-29:&emsp; **v 1.1.**&emsp;Removed "beta" designation, finalized content.
+* 2023-07-29:&emsp; **v 1.1**&emsp;Removed "beta" designation, finalized content.
 
-* 2022-09-29:&emsp;**v 1.0.**&emsp;Created the website (beta).
+* 2022-09-29:&emsp;**v 1.0**&emsp;Created the website (beta).
 
 ***
 
