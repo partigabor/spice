@@ -13,9 +13,9 @@ bookToc: false
 plotly: true
 ---
 
-# Welcome to the *Spices & Spice Terminology Database* 1.1
+# Welcome to the *Spices & Spice Terminology Database* 1.2
 
-This website contains information on spices and spice names. It aims to list, categorize, and introduce spices from a [philological](https://en.wikipedia.org/wiki/Philology) point of view, focusing on their origins, history, spread, cultural significance, and linguistic analysis. The website is accompanying a PhD dissertation titled [*Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis."). The goal of this project is to gather the available knowledge on spices (and in the future herbs, incense, perfumes, oils, and other aromatics as well), especially in terms of historical data. 
+This website contains information on spices and spice names. It aims to list, categorize, and introduce spices from a [philological](https://en.wikipedia.org/wiki/Philology) point of view, focusing on their origins, history, spread, cultural significance, and linguistic analysis. The website is accompanying a PhD dissertation titled [*Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*](https://theses.lib.polyu.edu.hk/handle/200/12389). The goal of this project is to gather the available knowledge on spices (and in the future herbs, incense, perfumes, oils, and other aromatics as well), especially in terms of historical data. 
 
 >*Our main hypothesis is that along their diffusion in early global trade, these materials have left a continuous lingusitic trail, which then serves as evidence for their journey even at time-depths where written or archeological evidence is not available.*
 
@@ -56,22 +56,27 @@ This interactive map shows the spices currently available on this website. Explo
 
 The set of 24 spices included in this thesis, with scientific names of the source plant, names in English, Chinese, Arabic, and their transliterations.
 
-<!-- {{% center %}}
-WEBSITE UNDER CONSTRUCTION
-{{% /center %}} -->
+## The Thesis
 
-<!-- 
+[<i class="fa fa-1x fa-file"></i> Download the thesis here](/spice/files/partigabor-phd-thesis-final-20230303.pdf "Open/download thesis.").
+
+## The Data
+
+You can download the three datasets in `csv` (comma separated values) format, and open them with any software capable of handling tables or spreadsheets.
+
 {{< columns >}}
 
-## The Spices
+> ### [<i class="fa fa-1x fa-leaf"></i>  Spices dataset](/spice/files/spices.csv "Open/download dataset.")
 
-A
+<--->
 
-## The Nomenclature
+> ### [<i class="fa fa-1x fa-tags"></i> Names dataset](/spice/files/names.csv "Open/download dataset.")
 
-B
+<--->
 
-{{< /columns >}} -->
+> ### [<i class="fa fa-1x fa-sitemap"></i> Etymologies dataset](/spice/files/etymologies.csv "Open/download dataset.")
+
+{{< /columns >}}
 
 <!-- ## Overview
 
@@ -83,7 +88,9 @@ The dissertation that serves as a basis for this database was prepared at the [D
 
 ## Updates and versioning
 
-2023-07-29: **v1.1** - Removed "Beta" designation, finalized content.
+2023-08-09: **v1.2** - Uploaded datasets.
+
+2023-07-19: **v1.1** - Removed "Beta" designation, finalized content.
 
 2022-09-29: **v1.0** - Created the website (Beta).
 
@@ -100,6 +107,6 @@ Parti, G. (2023). *Mapping the Language of Spices A Corpus-Based, Philological S
 #### The Website
 
 {{< hint cite >}}  
-Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.1. Retrieved July 27, 2023, https://partigabor.github.io/spice/
+Parti, G. (n.d.). *Home*. Spices & Spice Terminology Database 1.2. Retrieved July 24, 2023, https://partigabor.github.io/spice/
 {{< /hint >}}
 
