@@ -54,7 +54,7 @@ This interactive map shows the spices currently available on this website. Explo
         23 Curcuma longa                turmeric        薑黃            jiānghuáng              كركم kurkum
         24 Vanilla planifolia           vanilla         香草            xiāngcǎo             فانيليا fānīliyā
 
-The set of 24 spices included in this thesis, with scientific names of the source plant, names in English, Chinese, Arabic, and their transliterations.
+The set of 24 spices included in this website, with scientific names of the source plant, names in English, Chinese, Arabic, and their transliterations.
 
 ## The Thesis
 
@@ -88,11 +88,11 @@ The dissertation that serves as a basis for this database was prepared at the [D
 
 ## Updates and versioning
 
-2023-08-09: **v1.2** - Uploaded datasets.
+* 2023-08-09:&emsp;**v 1.2.**&emsp;Uploaded datasets.
 
-2023-07-19: **v1.1** - Removed "Beta" designation, finalized content.
+* 2023-07-29:&emsp; **v 1.1.**&emsp;Removed "beta" designation, finalized content.
 
-2022-09-29: **v1.0** - Created the website (Beta).
+* 2022-09-29:&emsp;**v 1.0.**&emsp;Created the website (beta).
 
 ***
 
