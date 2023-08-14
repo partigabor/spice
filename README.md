@@ -1,4 +1,4 @@
-# Spices & Spice Terminology Database 1.1
+# Spices & Spice Terminology Database 1.2
 
 https://partigabor.github.io/spice/
 
