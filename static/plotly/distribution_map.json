@@ -3,7 +3,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/allspice",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fallspice",
           "Pimenta dioica",
           "Myrtaceae",
           "S. Mexico to C. America; Caribbean",
@@ -17,7 +17,7 @@
           2.85
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/clove",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fclove",
           "Syzygium aromaticum",
           "Myrtaceae",
           "Moluccas (Indonesia)",
@@ -32,7 +32,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "allspice",
         "clove"
@@ -47,17 +47,17 @@
         "127"
       ],
       "marker": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#5f4690",
         "opacity": 0.7,
         "size": [
           2.85,
           11.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -79,7 +79,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/anise",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fanise",
           "Pimpinella anisum",
           "Apiaceae",
           null,
@@ -93,7 +93,7 @@
           12.5
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/asafoetida",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fasafoetida",
           "Ferula foetida",
           "Apiaceae",
           "Iran; W. and C. Asia",
@@ -107,7 +107,7 @@
           2.12
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/caraway",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fcaraway",
           "Carum carvi",
           "Apiaceae",
           "Mediterranean; Eurasia",
@@ -121,7 +121,7 @@
           2.85
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/coriander",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fcoriander",
           "Coriandrum sativum",
           "Apiaceae",
           "Mediterranean; W. Asia; India; SW As",
@@ -135,7 +135,7 @@
           17.0
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/cumin",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fcumin",
           "Cuminum cyminum",
           "Apiaceae",
           "W. \\& C. Asia; India ",
@@ -149,7 +149,7 @@
           10.67
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/dill",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fdill",
           "Anethum graveolens",
           "Apiaceae",
           "Nort Africa; West Asia",
@@ -163,7 +163,7 @@
           14.18
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/fennel",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002ffennel",
           "Foeniculum vulgare",
           "Apiaceae",
           "Med",
@@ -178,7 +178,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "anise",
         "asafoetida",
@@ -208,7 +208,7 @@
         "42"
       ],
       "marker": {
-        "color": "rgb(29, 105, 150)",
+        "color": "#1d6996",
         "opacity": 0.7,
         "size": [
           12.5,
@@ -220,10 +220,10 @@
           4.779999999999999
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -250,7 +250,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/cardamom",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fcardamom",
           "Elettaria cardamomum",
           "Zingiberaceae",
           "India",
@@ -264,7 +264,7 @@
           5.5
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/ginger",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fginger",
           "Zingiber officinale",
           "Zingiberaceae",
           "South East Asia; India (secondary)",
@@ -278,7 +278,7 @@
           10.75
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/turmeric",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fturmeric",
           "Curcuma longa",
           "Zingiberaceae",
           "India",
@@ -293,7 +293,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "cardamom",
         "ginger",
@@ -311,7 +311,7 @@
         "79"
       ],
       "marker": {
-        "color": "rgb(56, 166, 165)",
+        "color": "#38a6a5",
         "opacity": 0.7,
         "size": [
           5.5,
@@ -319,10 +319,10 @@
           55.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -345,7 +345,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/cassia",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fcassia",
           "Cinnamomum cassia",
           "Lauraceae",
           null,
@@ -359,7 +359,7 @@
           17.0
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/cinnamon",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fcinnamon",
           "Cinnamomum verum",
           "Lauraceae",
           "Sri Lanka; SW. India",
@@ -374,7 +374,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "cassia",
         "cinnamon"
@@ -389,17 +389,17 @@
         "81"
       ],
       "marker": {
-        "color": "rgb(15, 133, 84)",
+        "color": "#0f8554",
         "opacity": 0.7,
         "size": [
           17.0,
           28.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -421,7 +421,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/chile",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fchile",
           "Capsicum annuum",
           "Solanaceae",
           "Central America",
@@ -436,7 +436,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "chile"
       ],
@@ -448,16 +448,16 @@
         "-85"
       ],
       "marker": {
-        "color": "rgb(115, 175, 72)",
+        "color": "#73af48",
         "opacity": 0.7,
         "size": [
           19.14
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -478,7 +478,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/fenugreek",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002ffenugreek",
           "Trigonella foenum-graecum",
           "Fabaceae",
           "S Eur; W As",
@@ -493,7 +493,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "fenugreek"
       ],
@@ -505,16 +505,16 @@
         "67"
       ],
       "marker": {
-        "color": "rgb(237, 173, 8)",
+        "color": "#edae08",
         "opacity": 0.7,
         "size": [
           19.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -535,7 +535,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/long_pepper",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002flong_pepper",
           "Piper longum",
           "Piperaceae",
           "E. Himalaya to S. China; Indo-China",
@@ -549,7 +549,7 @@
           2.7
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/pepper",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fpepper",
           "Piper nigrum",
           "Piperaceae",
           "Malabar coast (South India)",
@@ -564,7 +564,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "long pepper",
         "pepper"
@@ -579,17 +579,17 @@
         "76"
       ],
       "marker": {
-        "color": "rgb(225, 124, 5)",
+        "color": "#e17909",
         "opacity": 0.7,
         "size": [
           2.7,
           39.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -611,7 +611,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/mace",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fmace",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
@@ -625,7 +625,7 @@
           16.0
         ],
         [
-          "https://partigabor.github.io/spice/book/materials/nutmeg",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fnutmeg",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
@@ -640,7 +640,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "mace",
         "nutmeg"
@@ -655,17 +655,17 @@
         "129"
       ],
       "marker": {
-        "color": "rgb(204, 80, 62)",
+        "color": "#cc503e",
         "opacity": 0.7,
         "size": [
           16.0,
           16.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -687,7 +687,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/saffron",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fsaffron",
           "Crocus sativus",
           "Iridaceae",
           "Greece",
@@ -702,7 +702,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "saffron"
       ],
@@ -714,16 +714,16 @@
         "22"
       ],
       "marker": {
-        "color": "rgb(148, 52, 110)",
+        "color": "#94346e",
         "opacity": 0.7,
         "size": [
           10.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -744,7 +744,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/Sichuan_pepper",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fSichuan_pepper",
           "Zanthoxylum bungeanum",
           "Rutaceae",
           "China",
@@ -759,7 +759,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "Sichuan pepper"
       ],
@@ -771,16 +771,16 @@
         "105"
       ],
       "marker": {
-        "color": "rgb(111, 64, 112)",
+        "color": "#6f4070",
         "opacity": 0.7,
         "size": [
           2.1
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -801,7 +801,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/star_anise",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fstar_anise",
           "Illicium verum",
           "Schisandraceae",
           "SE. China; Vietnam",
@@ -816,7 +816,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "star anise"
       ],
@@ -828,16 +828,16 @@
         "106"
       ],
       "marker": {
-        "color": "rgb(102, 102, 102)",
+        "color": "#a28aba",
         "opacity": 0.7,
         "size": [
           3.0
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -858,7 +858,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/materials/vanilla",
+          "https:\u002f\u002fpartigabor.github.io\u002fspice\u002fbook\u002fmaterials\u002fvanilla",
           "Vanilla planifolia",
           "Orchidaceae",
           "Tropical America",
@@ -873,7 +873,7 @@
         ]
       ],
       "geo": "geo",
-      "hovertemplate": "<b>%{text}</b><br><br>Species: <i>%{customdata[1]}</i><br>Family: <i>%{customdata[2]}</i><br>Region of origin: %{customdata[3]}<br>Arabic: %{customdata[4]} <i>%{customdata[5]}</i><br>Chinese: %{customdata[6]} <i>%{customdata[7]}</i><br>Spreadability: %{customdata[8]:.2f}<br><extra></extra>",
+      "hovertemplate": "\u003cb\u003e%{text}\u003c\u002fb\u003e\u003cbr\u003e\u003cbr\u003eSpecies: \u003ci\u003e%{customdata[1]}\u003c\u002fi\u003e\u003cbr\u003eFamily: \u003ci\u003e%{customdata[2]}\u003c\u002fi\u003e\u003cbr\u003eRegion of origin: %{customdata[3]}\u003cbr\u003eArabic: %{customdata[4]} \u003ci\u003e%{customdata[5]}\u003c\u002fi\u003e\u003cbr\u003eChinese: %{customdata[6]} \u003ci\u003e%{customdata[7]}\u003c\u002fi\u003e\u003cbr\u003eSpreadability: %{customdata[8]:.2f}\u003cbr\u003e\u003cextra\u003e\u003c\u002fextra\u003e",
       "hovertext": [
         "vanilla"
       ],
@@ -885,16 +885,16 @@
         "-55"
       ],
       "marker": {
-        "color": "rgb(95, 70, 144)",
+        "color": "#6baed6",
         "opacity": 0.7,
         "size": [
           4.640000000000001
         ],
         "sizemode": "area",
-        "sizeref": 0.1375,
+        "sizeref": 0.0537109375,
         "symbol": "circle",
         "line": {
-          "color": "white",
+          "color": "rgba(0,0,0,0)",
           "width": 1
         }
       },
@@ -915,21 +915,819 @@
   ],
   "layout": {
     "template": {
-      "layout": {
-        "colorway": [
-          "#5f4690",
-          "#1d6996",
-          "#38a6a5",
-          "#0f8554",
-          "#73af48",
-          "#edad08",
-          "#e17c05",
-          "#cc503e",
-          "#94346e",
-          "#6f4070",
-          "#666666",
-          "#000000"
+      "data": {
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "parcoords": [
+          {
+            "type": "parcoords",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
         ]
+      },
+      "layout": {
+        "autotypenumbers": "strict",
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "hovermode": "closest",
+        "hoverlabel": {
+          "align": "left"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
+        "polar": {
+          "bgcolor": "#E5ECF6",
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "ternary": {
+          "bgcolor": "#E5ECF6",
+          "aaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "caxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ]
+        },
+        "xaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "yaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "zaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "geo": {
+          "bgcolor": "white",
+          "landcolor": "#E5ECF6",
+          "subunitcolor": "white",
+          "showland": true,
+          "showlakes": true,
+          "lakecolor": "white"
+        },
+        "title": {
+          "x": 0.05
+        },
+        "mapbox": {
+          "style": "light"
+        }
       }
     },
     "geo": {
@@ -948,7 +1746,7 @@
         "type": "natural earth",
         "scale": 1
       },
-      "bgcolor": "rgba(255,255,255,0)",
+      "bgcolor": "rgba(0,0,0,0)",
       "coastlinecolor": "gainsboro",
       "coastlinewidth": 1,
       "countrycolor": "gainsboro",
@@ -979,7 +1777,7 @@
         "font": {
           "color": "black",
           "family": "Serif",
-          "size": 16
+          "size": 18
         }
       },
       "tracegroupgap": 0,
@@ -1013,16 +1811,59 @@
       "font": {
         "color": "black",
         "family": "Serif",
-        "size": 18
+        "size": 20
       },
       "text": "",
       "x": 0.5,
       "xanchor": "center",
-      "y": 0.99,
+      "y": 0.98,
       "yanchor": "top"
     },
-    "paper_bgcolor": "rgba(255,255,255,0)",
-    "plot_bgcolor": "rgba(255,255,255,0)",
-    "showlegend": true
+    "paper_bgcolor": "rgba(0,0,0,0)",
+    "plot_bgcolor": "rgba(0,0,0,0)",
+    "showlegend": true,
+    "annotations": [
+      {
+        "font": {
+          "color": "black",
+          "family": "Serif",
+          "size": 14
+        },
+        "name": "info",
+        "opacity": 0.9,
+        "showarrow": false,
+        "text": "Click on a material to navigate to its corresponding page!",
+        "x": 0.5,
+        "xref": "paper",
+        "y": 0.05,
+        "yref": "paper"
+      },
+      {
+        "font": {
+          "color": "lightgray",
+          "family": "Serif",
+          "size": 8
+        },
+        "name": "copyright",
+        "opacity": 0.9,
+        "showarrow": false,
+        "text": "\u00a9 G\u00e1bor Parti, 2023",
+        "x": 0.5,
+        "xref": "paper",
+        "y": 0,
+        "yref": "paper"
+      }
+    ],
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https:\u002f\u002fupload.wikimedia.org\u002fwikipedia\u002fen\u002fthumb\u002f9\u002f9e\u002fPolyU_Logo_with_wordmark.svg\u002f1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
   }
 }

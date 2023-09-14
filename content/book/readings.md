@@ -15,7 +15,7 @@ bibFile: data/bibliography.json # path relative to project root
 ## Academic
 
 <!-- <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star"></i> <i class="fa fa-1x fa-star-half"></i> -->
-
+<!-- 
 Two Medieval Merchant Guilds of South India {{< cite "abraham_two_1988" >}}
 
 Arabian Drugs in Early Medieval Mediterranean Medicine {{< cite "amar_arabian_2017" >}}
@@ -37,7 +37,7 @@ The Taste of Conquest: The Rise and Fall of the Three Great Cities of Spice {{< 
 The True History of Tea {{< cite "mair_true_2009" >}}
 
 Cumin, Camels, and Caravans: A Spice Odyssey {{< cite "nabhan_cumin_2014" >}}
-
+ -->
 
 
 ## Gallery
