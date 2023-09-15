@@ -33,6 +33,17 @@ The following markdown file showcases all the features one can achieve within ma
 
 <!-- works if I put files on main website -->
 
+## Gallery
+
+{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
+
+{{< load-photoswipe >}}
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery -->
+
+<!-- For later -->
+<!-- https://discourse.gohugo.io/t/solved-adding-image-to-every-post/14421 -->
+
 ## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
@@ -473,17 +484,6 @@ Academicons (Font Aswesome), use them with html inputs like this, direcly in a m
 ```
 
 <i class="ai ai-google-scholar ai-2x"></i>
-
-## Gallery
-
-{{< gallery dir="/images/cardamom/" hover-effect="slideup" />}}
-
-{{< load-photoswipe >}}
-
-<!-- https://github.com/liwenyip/hugo-easy-gallery -->
-
-<!-- For later -->
-<!-- https://discourse.gohugo.io/t/solved-adding-image-to-every-post/14421 -->
 
 
 
