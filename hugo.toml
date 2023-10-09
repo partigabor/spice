@@ -93,7 +93,7 @@ enableEmoji = true
 
 [[menu.after]]
   name = "GitHub"
-  url = "https://github.com/partigabor"
+  url = "https://github.com/partigabor/spice"
   weight = 20
 
 [params]
@@ -103,7 +103,7 @@ enableEmoji = true
   custom_css = ["css/custom_style.css"]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'light'
+  BookTheme = 'auto'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
