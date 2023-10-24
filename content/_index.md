@@ -20,7 +20,7 @@ This website contains information on spices and spice names. It aims to list, ca
 >*Our main hypothesis is that along their diffusion in early global trade, these materials have left a continuous lingusitic trail, which then serves as evidence for their journey even at time-depths where written or archeological evidence is not available.*
 
 {{% center %}}
-Spices around the globe
+Some spices around the globe
 {{% /center %}}
 
 {{< load-plotly >}}

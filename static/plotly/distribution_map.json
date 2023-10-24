@@ -1825,14 +1825,14 @@
     "annotations": [
       {
         "font": {
-          "color": "black",
+          "color": "lightgray",
           "family": "Serif",
           "size": 14
         },
         "name": "info",
         "opacity": 0.9,
         "showarrow": false,
-        "text": ".",
+        "text": "...",
         "x": 0.5,
         "xref": "paper",
         "y": 0.05,
