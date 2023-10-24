@@ -26,7 +26,7 @@ Spices around the globe
 {{< load-plotly >}}
 {{< plotly json="/spice/plotly/distribution_map.json" height="600" >}}
 
-This interactive map shows the spices currently available on this website. Explore the full map [here](/spice/plotly/distribution_map.html)!
+This interactive map shows the spices currently available on this website. **Explore the full map [here](/spice/plotly/distribution_map.html)**!
 
          # Species                      English         Chinese        Transliteration       Arabic Transliteration
          1 Pimenta dioica               allspice        多香果          duōxiāngguǒ     فلفل إفرنجي filfil ifranjī
