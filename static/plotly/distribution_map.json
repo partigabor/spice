@@ -1832,7 +1832,7 @@
         "name": "info",
         "opacity": 0.9,
         "showarrow": false,
-        "text": "Click on a material to navigate to its corresponding page!",
+        "text": ".",
         "x": 0.5,
         "xref": "paper",
         "y": 0.05,
